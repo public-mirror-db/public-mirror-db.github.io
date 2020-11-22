@@ -1211,7 +1211,6 @@
         "description": "Mirror site provided by University of Science and Technology of China",
         "country": "CN",
         "protocol": "http",
-        "full": false,
         "tag": [
             "partial"
         ]
@@ -1228,7 +1227,6 @@
         "description": "Mirror site provided by Beijing Inistitute of Technology",
         "country": "CN",
         "protocol": "http",
-        "full": false,
         "tag": [
             "partial"
         ]
