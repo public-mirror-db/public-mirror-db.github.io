@@ -4,6 +4,9 @@
         "name": "Tera-byte Dot Com Inc",
         "description": "",
         "country_code": "CA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
         "tags": [
             "official"
         ]
@@ -13,6 +16,9 @@
         "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
         "country_code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -22,6 +28,9 @@
         "name": "Georgia Tech",
         "description": "",
         "country_code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -31,6 +40,9 @@
         "name": "Rochester Institute of Technology",
         "description": "",
         "country_code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
         "tags": [
             "official"
         ]
@@ -40,6 +52,9 @@
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
         "country_code": "BR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -49,6 +64,9 @@
         "name": "Masaryk University Brno",
         "description": "",
         "country_code": "CZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -58,6 +76,9 @@
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
         "country_code": "CZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -67,6 +88,9 @@
         "name": "LeaseWeb (Anycast: Frankfurt)",
         "description": "",
         "country_code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -76,6 +100,9 @@
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
         "country_code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -85,6 +112,9 @@
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
         "country_code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
         "tags": [
             "official"
         ]
@@ -94,6 +124,9 @@
         "name": "1&1 Internet SE",
         "description": "",
         "country_code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -103,6 +136,9 @@
         "name": "Netcologne",
         "description": "",
         "country_code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -112,6 +148,9 @@
         "name": "RWTH Aachen University",
         "description": "",
         "country_code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -121,6 +160,9 @@
         "name": "Universiteit Twente",
         "description": "",
         "country_code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -130,6 +172,9 @@
         "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
         "country_code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -139,6 +184,9 @@
         "name": "Vectranet",
         "description": "",
         "country_code": "PL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -148,6 +196,9 @@
         "name": "Bytemark Hosting",
         "description": "",
         "country_code": "UK",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -157,6 +208,9 @@
         "name": "Internet Initiative Japan",
         "description": "",
         "country_code": "JP",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true,
         "tags": [
             "official"
         ]
@@ -166,15 +220,67 @@
         "name": "Neo Lab's",
         "description": "",
         "country_code": "KZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
         "tags": [
             "official"
         ]
     },
     {
+        "name": "Tuna",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo-portage",
+        "description": "",
+        "tags": []
+    },
+    {
+        "name": "163",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync://mirrors.163.com/gentoo-portage",
+        "description": "",
+        "tags": []
+    },
+    {
+        "name": "aliyun",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage",
+        "description": "",
+        "tags": []
+    },
+    {
+        "name": "BIT",
+        "description": "Mirror site provided by Beijing Inistitute of Technology",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync//mirror.bit.edu.cn/gentoo-portage",
+        "tags": []
+    },
+    {
+        "name": "yun-idc",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
+        "description": "",
+        "tags": []
+    },
+    {
+        "name": "LZU",
+        "description": "Mirror site provided by Lan Zhou University",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync://mirror.lzu.edu.cn/gentoo-portage",
+        "tags": []
+    },
+    {
         "name": "XMU",
         "description": "Mirror site provided by Xia Men University",
-        "country": "CN",
-        "url": "http://mirrors.neusoft.edu.cn/gentoo",
+        "country_code": "CN",
+        "protocol": "rsync",
+        "url": "rsync://mirrors.xmu.edu.cn/gentoo-portage",
         "tags": []
     }
 ]
