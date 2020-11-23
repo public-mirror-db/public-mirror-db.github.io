@@ -2,7 +2,6 @@
     {
         "url": "https://mirror.aarnet.edu.au/pub/archlinux/",
         "protocol": "https",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -12,7 +11,6 @@
     {
         "url": "rsync://mirror.aarnet.edu.au/archlinux/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -22,7 +20,6 @@
     {
         "url": "http://mir.archlinux.fr/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -32,7 +29,6 @@
     {
         "url": "http://ftp.tu-chemnitz.de/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -42,7 +38,6 @@
     {
         "url": "http://ftp.hosteurope.de/mirror/ftp.archlinux.org/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -52,7 +47,6 @@
     {
         "url": "rsync://ftp.hosteurope.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -62,7 +56,6 @@
     {
         "url": "http://mirrors.rit.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -72,7 +65,6 @@
     {
         "url": "https://mirrors.rit.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -82,7 +74,6 @@
     {
         "url": "rsync://mirrors.rit.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -92,7 +83,6 @@
     {
         "url": "http://ftp.energia.mta.hu/pub/mirrors/ftp.archlinux.org/",
         "protocol": "http",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -102,7 +92,6 @@
     {
         "url": "http://ftp.heanet.ie/mirrors/ftp.archlinux.org/",
         "protocol": "http",
-        "country": "Ireland",
         "country_code": "IE",
         "isos": true,
         "ipv4": true,
@@ -112,7 +101,6 @@
     {
         "url": "https://ftp.heanet.ie/mirrors/ftp.archlinux.org/",
         "protocol": "https",
-        "country": "Ireland",
         "country_code": "IE",
         "isos": true,
         "ipv4": true,
@@ -122,7 +110,6 @@
     {
         "url": "http://ftp.nluug.nl/os/Linux/distr/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -132,7 +119,6 @@
     {
         "url": "rsync://ftp.nluug.nl/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -142,7 +128,6 @@
     {
         "url": "http://ftp.gwdg.de/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -152,7 +137,6 @@
     {
         "url": "rsync://ftp.gwdg.de/pub/linux/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -162,7 +146,6 @@
     {
         "url": "http://mirror.puzzle.ch/archlinux/",
         "protocol": "http",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -172,7 +155,6 @@
     {
         "url": "https://mirror.puzzle.ch/archlinux/",
         "protocol": "https",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -182,7 +164,6 @@
     {
         "url": "rsync://mirror.puzzle.ch/archlinux/",
         "protocol": "rsync",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -192,7 +173,6 @@
     {
         "url": "http://ftp.linux.org.tr/archlinux/",
         "protocol": "http",
-        "country": "Turkey",
         "country_code": "TR",
         "isos": true,
         "ipv4": true,
@@ -202,7 +182,6 @@
     {
         "url": "http://www.gtlib.gatech.edu/pub/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -212,7 +191,6 @@
     {
         "url": "rsync://rsync.gtlib.gatech.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -222,7 +200,6 @@
     {
         "url": "http://ftp.uni-kl.de/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -232,7 +209,6 @@
     {
         "url": "rsync://ftp.uni-kl.de/pub/linux/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -242,7 +218,6 @@
     {
         "url": "http://ftp.uni-bayreuth.de/linux/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -252,7 +227,6 @@
     {
         "url": "http://archlinux.mirrors.uk2.net/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -262,7 +236,6 @@
     {
         "url": "rsync://mirrors.uk2.net/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -272,7 +245,6 @@
     {
         "url": "http://mirror.csclub.uwaterloo.ca/archlinux/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -282,7 +254,6 @@
     {
         "url": "https://mirror.csclub.uwaterloo.ca/archlinux/",
         "protocol": "https",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -292,7 +263,6 @@
     {
         "url": "rsync://mirror.csclub.uwaterloo.ca/archlinux/",
         "protocol": "rsync",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -302,7 +272,6 @@
     {
         "url": "http://mirror.umd.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -312,7 +281,6 @@
     {
         "url": "rsync://mirror.umd.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -322,7 +290,6 @@
     {
         "url": "http://ftp.iinet.net.au/pub/archlinux/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -332,7 +299,6 @@
     {
         "url": "rsync://ftp.iinet.net.au/archlinux/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -342,7 +308,6 @@
     {
         "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -352,7 +317,6 @@
     {
         "url": "rsync://ftp-stud.hs-esslingen.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -362,7 +326,6 @@
     {
         "url": "http://mirror.archlinux.no/",
         "protocol": "http",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -372,7 +335,6 @@
     {
         "url": "https://mirror.archlinux.no/",
         "protocol": "https",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -382,7 +344,6 @@
     {
         "url": "http://mirror.internode.on.net/pub/archlinux/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -392,7 +353,6 @@
     {
         "url": "rsync://mirror.internode.on.net/archlinux/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -402,7 +362,6 @@
     {
         "url": "http://mirror.isoc.org.il/pub/archlinux/",
         "protocol": "http",
-        "country": "Israel",
         "country_code": "IL",
         "isos": true,
         "ipv4": true,
@@ -412,7 +371,6 @@
     {
         "url": "http://ftp.osuosl.org/pub/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -422,7 +380,6 @@
     {
         "url": "rsync://ftp.osuosl.org/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -432,7 +389,6 @@
     {
         "url": "http://archlinux.c3sl.ufpr.br/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -442,7 +398,6 @@
     {
         "url": "rsync://archlinux.c3sl.ufpr.br/archlinux/",
         "protocol": "rsync",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -452,7 +407,6 @@
     {
         "url": "http://mirror.yandex.ru/archlinux/",
         "protocol": "http",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -462,7 +416,6 @@
     {
         "url": "https://mirror.yandex.ru/archlinux/",
         "protocol": "https",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -472,7 +425,6 @@
     {
         "url": "http://mirror.archlinux.cl/",
         "protocol": "http",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -482,7 +434,6 @@
     {
         "url": "http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -492,7 +443,6 @@
     {
         "url": "https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -502,7 +452,6 @@
     {
         "url": "rsync://rsync.spline.inf.fu-berlin.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -512,7 +461,6 @@
     {
         "url": "http://mirror.selfnet.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -522,7 +470,6 @@
     {
         "url": "https://mirror.selfnet.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -532,7 +479,6 @@
     {
         "url": "rsync://mirror.selfnet.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -542,7 +488,6 @@
     {
         "url": "http://mirrors.lug.mtu.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -552,7 +497,6 @@
     {
         "url": "https://mirrors.lug.mtu.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -562,7 +506,6 @@
     {
         "url": "rsync://mirrors.lug.mtu.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -572,7 +515,6 @@
     {
         "url": "http://ftp.rediris.es/mirror/archlinux/",
         "protocol": "http",
-        "country": "Spain",
         "country_code": "ES",
         "isos": true,
         "ipv4": true,
@@ -582,7 +524,6 @@
     {
         "url": "http://archlinux.nautile.nc/archlinux/",
         "protocol": "http",
-        "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
         "ipv4": true,
@@ -592,7 +533,6 @@
     {
         "url": "https://archlinux.nautile.nc/archlinux/",
         "protocol": "https",
-        "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
         "ipv4": true,
@@ -602,7 +542,6 @@
     {
         "url": "rsync://rsync.archlinux.nautile.nc/archlinux/",
         "protocol": "rsync",
-        "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
         "ipv4": false,
@@ -612,7 +551,6 @@
     {
         "url": "http://ftp.otenet.gr/linux/archlinux/",
         "protocol": "http",
-        "country": "Greece",
         "country_code": "GR",
         "isos": true,
         "ipv4": true,
@@ -622,7 +560,6 @@
     {
         "url": "http://mirror.cse.iitk.ac.in/archlinux/",
         "protocol": "http",
-        "country": "India",
         "country_code": "IN",
         "isos": true,
         "ipv4": true,
@@ -632,7 +569,6 @@
     {
         "url": "http://mirrors.xmission.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -642,7 +578,6 @@
     {
         "url": "http://ftp.cc.uoc.gr/mirrors/linux/archlinux/",
         "protocol": "http",
-        "country": "Greece",
         "country_code": "GR",
         "isos": true,
         "ipv4": true,
@@ -652,7 +587,6 @@
     {
         "url": "http://ftp.tku.edu.tw/Linux/ArchLinux/",
         "protocol": "http",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -662,7 +596,6 @@
     {
         "url": "rsync://ftp.tku.edu.tw/archlinux/",
         "protocol": "rsync",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -672,7 +605,6 @@
     {
         "url": "http://mirrors.kernel.org/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -682,7 +614,6 @@
     {
         "url": "https://mirrors.kernel.org/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -692,7 +623,6 @@
     {
         "url": "rsync://mirrors.kernel.org/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -702,7 +632,6 @@
     {
         "url": "http://mirrors.163.com/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -712,7 +641,6 @@
     {
         "url": "http://archlinux.mirror.kangaroot.net/",
         "protocol": "http",
-        "country": "Belgium",
         "country_code": "BE",
         "isos": true,
         "ipv4": true,
@@ -722,7 +650,6 @@
     {
         "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
         "protocol": "http",
-        "country": "Portugal",
         "country_code": "PT",
         "isos": true,
         "ipv4": true,
@@ -732,7 +659,6 @@
     {
         "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
         "protocol": "https",
-        "country": "Portugal",
         "country_code": "PT",
         "isos": true,
         "ipv4": true,
@@ -742,7 +668,6 @@
     {
         "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
         "protocol": "rsync",
-        "country": "Portugal",
         "country_code": "PT",
         "isos": true,
         "ipv4": true,
@@ -752,7 +677,6 @@
     {
         "url": "http://mirrors.dotsrc.org/archlinux/",
         "protocol": "http",
-        "country": "Denmark",
         "country_code": "DK",
         "isos": true,
         "ipv4": true,
@@ -762,7 +686,6 @@
     {
         "url": "https://mirrors.dotsrc.org/archlinux/",
         "protocol": "https",
-        "country": "Denmark",
         "country_code": "DK",
         "isos": true,
         "ipv4": true,
@@ -772,7 +695,6 @@
     {
         "url": "rsync://mirrors.dotsrc.org/archlinux/",
         "protocol": "rsync",
-        "country": "Denmark",
         "country_code": "DK",
         "isos": true,
         "ipv4": true,
@@ -782,7 +704,6 @@
     {
         "url": "http://mirror.its.dal.ca/archlinux/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -792,7 +713,6 @@
     {
         "url": "rsync://mirror.its.dal.ca/archlinux/",
         "protocol": "rsync",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -802,7 +722,6 @@
     {
         "url": "http://archlinux.mirrors.ovh.net/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -812,7 +731,6 @@
     {
         "url": "http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
         "protocol": "http",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -822,7 +740,6 @@
     {
         "url": "https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
         "protocol": "https",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -832,7 +749,6 @@
     {
         "url": "rsync://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
         "protocol": "rsync",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -842,7 +758,6 @@
     {
         "url": "http://ftp.halifax.rwth-aachen.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -852,7 +767,6 @@
     {
         "url": "https://ftp.halifax.rwth-aachen.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -862,7 +776,6 @@
     {
         "url": "rsync://ftp.halifax.rwth-aachen.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -872,7 +785,6 @@
     {
         "url": "http://artfiles.org/archlinux.org/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -882,7 +794,6 @@
     {
         "url": "http://mirror.datacenter.by/pub/archlinux/",
         "protocol": "http",
-        "country": "Belarus",
         "country_code": "BY",
         "isos": true,
         "ipv4": true,
@@ -892,7 +803,6 @@
     {
         "url": "rsync://mirror.datacenter.by/archlinux/",
         "protocol": "rsync",
-        "country": "Belarus",
         "country_code": "BY",
         "isos": true,
         "ipv4": true,
@@ -902,7 +812,6 @@
     {
         "url": "http://archlinux.uib.no/",
         "protocol": "http",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -912,7 +821,6 @@
     {
         "url": "http://mirrors.cat.pdx.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -922,7 +830,6 @@
     {
         "url": "rsync://mirrors.cat.pdx.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -932,7 +839,6 @@
     {
         "url": "http://mirror.vpsfree.cz/archlinux/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -942,7 +848,6 @@
     {
         "url": "http://mirrors.prometeus.net/archlinux/",
         "protocol": "http",
-        "country": "Italy",
         "country_code": "IT",
         "isos": true,
         "ipv4": true,
@@ -952,7 +857,6 @@
     {
         "url": "http://archlinux.cs.nctu.edu.tw/",
         "protocol": "http",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -962,7 +866,6 @@
     {
         "url": "rsync://archlinux.cs.nctu.edu.tw/archlinux/",
         "protocol": "rsync",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -972,7 +875,6 @@
     {
         "url": "http://shadow.ind.ntou.edu.tw/archlinux/",
         "protocol": "http",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -982,7 +884,6 @@
     {
         "url": "https://shadow.ind.ntou.edu.tw/archlinux/",
         "protocol": "https",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -992,7 +893,6 @@
     {
         "url": "http://ftp.byfly.by/pub/archlinux/",
         "protocol": "http",
-        "country": "Belarus",
         "country_code": "BY",
         "isos": true,
         "ipv4": true,
@@ -1002,7 +902,6 @@
     {
         "url": "rsync://ftp.byfly.by/archlinux/",
         "protocol": "rsync",
-        "country": "Belarus",
         "country_code": "BY",
         "isos": true,
         "ipv4": true,
@@ -1012,7 +911,6 @@
     {
         "url": "http://archlinux.mirror.root.lu/",
         "protocol": "http",
-        "country": "Luxembourg",
         "country_code": "LU",
         "isos": true,
         "ipv4": true,
@@ -1022,7 +920,6 @@
     {
         "url": "http://mirrors.rutgers.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1032,7 +929,6 @@
     {
         "url": "https://mirrors.rutgers.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1042,7 +938,6 @@
     {
         "url": "http://archlinux.polymorf.fr/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -1052,7 +947,6 @@
     {
         "url": "rsync://archlinux.polymorf.fr/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -1062,7 +956,6 @@
     {
         "url": "http://ftp.ntua.gr/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "Greece",
         "country_code": "GR",
         "isos": true,
         "ipv4": true,
@@ -1072,7 +965,6 @@
     {
         "url": "rsync://ftp.ntua.gr/archlinux/",
         "protocol": "rsync",
-        "country": "Greece",
         "country_code": "GR",
         "isos": true,
         "ipv4": true,
@@ -1082,7 +974,6 @@
     {
         "url": "http://mirrors.nix.org.ua/linux/archlinux/",
         "protocol": "http",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -1092,7 +983,6 @@
     {
         "url": "https://mirrors.nix.org.ua/linux/archlinux/",
         "protocol": "https",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -1102,7 +992,6 @@
     {
         "url": "rsync://mirrors.nix.org.ua/archlinux/",
         "protocol": "rsync",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -1112,7 +1001,6 @@
     {
         "url": "http://mirrors.ustc.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1122,7 +1010,6 @@
     {
         "url": "https://mirrors.ustc.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1132,7 +1019,6 @@
     {
         "url": "rsync://rsync.mirrors.ustc.edu.cn/archlinux/",
         "protocol": "rsync",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1142,7 +1028,6 @@
     {
         "url": "http://ftp.lysator.liu.se/pub/archlinux/",
         "protocol": "http",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -1152,7 +1037,6 @@
     {
         "url": "https://ftp.lysator.liu.se/pub/archlinux/",
         "protocol": "https",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -1162,7 +1046,6 @@
     {
         "url": "rsync://ftp.lysator.liu.se/pub/archlinux/",
         "protocol": "rsync",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -1172,7 +1055,6 @@
     {
         "url": "http://mirror.ams1.nl.leaseweb.net/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1182,7 +1064,6 @@
     {
         "url": "http://mirror.dal10.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1192,7 +1073,6 @@
     {
         "url": "http://mirror.fra10.de.leaseweb.net/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1202,7 +1082,6 @@
     {
         "url": "http://mirror.mia11.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1212,7 +1091,6 @@
     {
         "url": "http://mirror.sfo12.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1222,7 +1100,6 @@
     {
         "url": "http://mirror.wdc1.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1232,7 +1109,6 @@
     {
         "url": "https://mirror.ams1.nl.leaseweb.net/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1242,7 +1118,6 @@
     {
         "url": "https://mirror.dal10.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1252,7 +1127,6 @@
     {
         "url": "https://mirror.fra10.de.leaseweb.net/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1262,7 +1136,6 @@
     {
         "url": "https://mirror.mia11.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1272,7 +1145,6 @@
     {
         "url": "https://mirror.sfo12.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1282,7 +1154,6 @@
     {
         "url": "https://mirror.wdc1.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1292,7 +1163,6 @@
     {
         "url": "rsync://mirror.ams1.nl.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1302,7 +1172,6 @@
     {
         "url": "rsync://mirror.dal10.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1312,7 +1181,6 @@
     {
         "url": "rsync://mirror.fra10.de.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1322,7 +1190,6 @@
     {
         "url": "rsync://mirror.mia11.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1332,7 +1199,6 @@
     {
         "url": "rsync://mirror.sfo12.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1342,7 +1208,6 @@
     {
         "url": "rsync://mirror.wdc1.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1352,7 +1217,6 @@
     {
         "url": "http://mirrors.n-ix.net/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1362,7 +1226,6 @@
     {
         "url": "https://mirrors.n-ix.net/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1372,7 +1235,6 @@
     {
         "url": "http://mirror.dkm.cz/archlinux/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -1382,7 +1244,6 @@
     {
         "url": "https://mirror.dkm.cz/archlinux/",
         "protocol": "https",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -1392,7 +1253,6 @@
     {
         "url": "rsync://mirror.dkm.cz/archlinux/",
         "protocol": "rsync",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -1402,7 +1262,6 @@
     {
         "url": "http://mirrors.gigenet.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1412,7 +1271,6 @@
     {
         "url": "http://arch.softver.org.mk/archlinux/",
         "protocol": "http",
-        "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
         "ipv4": true,
@@ -1422,7 +1280,6 @@
     {
         "url": "http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/",
         "protocol": "http",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -1432,7 +1289,6 @@
     {
         "url": "rsync://ftp.tsukuba.wide.ad.jp/archlinux/",
         "protocol": "rsync",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -1442,7 +1298,6 @@
     {
         "url": "http://mirror.lnx.sk/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
         "ipv4": true,
@@ -1452,7 +1307,6 @@
     {
         "url": "https://mirror.lnx.sk/pub/linux/archlinux/",
         "protocol": "https",
-        "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
         "ipv4": true,
@@ -1462,7 +1316,6 @@
     {
         "url": "http://mirror.ps.kz/archlinux/",
         "protocol": "http",
-        "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
         "ipv4": true,
@@ -1472,7 +1325,6 @@
     {
         "url": "https://mirror.ps.kz/archlinux/",
         "protocol": "https",
-        "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
         "ipv4": true,
@@ -1482,7 +1334,6 @@
     {
         "url": "rsync://mirror.ps.kz/archlinux/",
         "protocol": "rsync",
-        "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
         "ipv4": true,
@@ -1492,7 +1343,6 @@
     {
         "url": "http://mirror.bytemark.co.uk/archlinux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -1502,7 +1352,6 @@
     {
         "url": "https://mirror.bytemark.co.uk/archlinux/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -1512,7 +1361,6 @@
     {
         "url": "rsync://mirror.bytemark.co.uk/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -1522,7 +1370,6 @@
     {
         "url": "http://mirrors.liquidweb.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1532,7 +1379,6 @@
     {
         "url": "rsync://mirrors.liquidweb.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1542,7 +1388,6 @@
     {
         "url": "http://archlinux.surlyjake.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1552,7 +1397,6 @@
     {
         "url": "https://archlinux.surlyjake.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1562,7 +1406,6 @@
     {
         "url": "http://mirror.pmf.kg.ac.rs/archlinux/",
         "protocol": "http",
-        "country": "Serbia",
         "country_code": "RS",
         "isos": true,
         "ipv4": true,
@@ -1572,7 +1415,6 @@
     {
         "url": "http://mirror.rol.ru/archlinux/",
         "protocol": "http",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -1582,7 +1424,6 @@
     {
         "url": "https://mirror.rol.ru/archlinux/",
         "protocol": "https",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -1592,7 +1433,6 @@
     {
         "url": "http://mirror.nus.edu.sg/archlinux/",
         "protocol": "http",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -1602,7 +1442,6 @@
     {
         "url": "http://mirror.i3d.net/pub/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1612,7 +1451,6 @@
     {
         "url": "https://mirror.i3d.net/pub/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1622,7 +1460,6 @@
     {
         "url": "rsync://mirror.i3d.net/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1632,7 +1469,6 @@
     {
         "url": "http://mirror.archlinux.ikoula.com/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -1642,7 +1478,6 @@
     {
         "url": "http://ftp.swin.edu.au/archlinux/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -1652,7 +1487,6 @@
     {
         "url": "rsync://ftp.swin.edu.au/archlinux/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -1662,7 +1496,6 @@
     {
         "url": "http://archlinux.mirror.rafal.ca/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -1672,7 +1505,6 @@
     {
         "url": "rsync://archlinux.mirror.rafal.ca/archlinux/",
         "protocol": "rsync",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -1682,7 +1514,6 @@
     {
         "url": "http://mirrors.tuna.tsinghua.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1692,7 +1523,6 @@
     {
         "url": "https://mirrors.tuna.tsinghua.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1702,7 +1532,6 @@
     {
         "url": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux/",
         "protocol": "rsync",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1712,7 +1541,6 @@
     {
         "url": "http://mirror.cc.columbia.edu/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1722,7 +1550,6 @@
     {
         "url": "rsync://mirror.cc.columbia.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1732,7 +1559,6 @@
     {
         "url": "http://mirrors.neusoft.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1742,7 +1568,6 @@
     {
         "url": "https://mirrors.neusoft.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1752,7 +1577,6 @@
     {
         "url": "rsync://mirrors.neusoft.edu.cn/archlinux/",
         "protocol": "rsync",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -1762,7 +1586,6 @@
     {
         "url": "https://www.mirrorservice.org/sites/ftp.archlinux.org/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -1772,7 +1595,6 @@
     {
         "url": "http://www.mirrorservice.org/sites/ftp.archlinux.org/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -1782,7 +1604,6 @@
     {
         "url": "rsync://rsync.mirrorservice.org/ftp.archlinux.org/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -1792,7 +1613,6 @@
     {
         "url": "https://osl.ugr.es/archlinux/",
         "protocol": "https",
-        "country": "Spain",
         "country_code": "ES",
         "isos": true,
         "ipv4": true,
@@ -1802,7 +1622,6 @@
     {
         "url": "http://mirror.metrocast.net/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1812,7 +1631,6 @@
     {
         "url": "http://ftp.snt.utwente.nl/pub/os/linux/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1822,7 +1640,6 @@
     {
         "url": "rsync://ftp.snt.utwente.nl/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -1832,7 +1649,6 @@
     {
         "url": "http://mirror.netcologne.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1842,7 +1658,6 @@
     {
         "url": "https://mirror.netcologne.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1852,7 +1667,6 @@
     {
         "url": "rsync://mirror.netcologne.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1862,7 +1676,6 @@
     {
         "url": "http://mirror.united-gameserver.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1872,7 +1685,6 @@
     {
         "url": "rsync://mirror.united-gameserver.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1882,7 +1694,6 @@
     {
         "url": "http://ftp.vectranet.pl/archlinux/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -1892,7 +1703,6 @@
     {
         "url": "rsync://ftp.vectranet.pl/archlinux/",
         "protocol": "rsync",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -1902,7 +1712,6 @@
     {
         "url": "http://linux.rz.rub.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -1912,7 +1721,6 @@
     {
         "url": "http://mirrors.aggregate.org/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1922,7 +1730,6 @@
     {
         "url": "rsync://mirrors.aggregate.org/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -1932,7 +1739,6 @@
     {
         "url": "https://archlinux.vi-di.fr/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -1942,7 +1748,6 @@
     {
         "url": "http://archlinux.de-labrusse.fr/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -1952,7 +1757,6 @@
     {
         "url": "rsync://archlinux.de-labrusse.fr/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -1962,7 +1766,6 @@
     {
         "url": "http://archlinux.mirrors.linux.ro/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -1972,7 +1775,6 @@
     {
         "url": "rsync://ftp.linux.ro/archlinux/",
         "protocol": "rsync",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -1982,7 +1784,6 @@
     {
         "url": "http://mirror.system.is/arch/",
         "protocol": "http",
-        "country": "Iceland",
         "country_code": "IS",
         "isos": true,
         "ipv4": true,
@@ -1992,7 +1793,6 @@
     {
         "url": "https://mirror.system.is/arch/",
         "protocol": "https",
-        "country": "Iceland",
         "country_code": "IS",
         "isos": true,
         "ipv4": true,
@@ -2002,7 +1802,6 @@
     {
         "url": "rsync://mirror.system.is/arch/",
         "protocol": "rsync",
-        "country": "Iceland",
         "country_code": "IS",
         "isos": true,
         "ipv4": true,
@@ -2012,7 +1811,6 @@
     {
         "url": "http://archlinux.cu.be/",
         "protocol": "http",
-        "country": "Belgium",
         "country_code": "BE",
         "isos": true,
         "ipv4": true,
@@ -2022,7 +1820,6 @@
     {
         "url": "http://dfw.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2032,7 +1829,6 @@
     {
         "url": "http://hkg.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -2042,7 +1838,6 @@
     {
         "url": "http://iad.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2052,7 +1847,6 @@
     {
         "url": "http://lon.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2062,7 +1856,6 @@
     {
         "url": "http://mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "",
         "country_code": "",
         "isos": true,
         "ipv4": true,
@@ -2072,7 +1865,6 @@
     {
         "url": "http://ord.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2082,7 +1874,6 @@
     {
         "url": "https://dfw.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2092,7 +1883,6 @@
     {
         "url": "https://hkg.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -2102,7 +1892,6 @@
     {
         "url": "https://iad.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2112,7 +1901,6 @@
     {
         "url": "https://lon.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2122,7 +1910,6 @@
     {
         "url": "https://mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "",
         "country_code": "",
         "isos": true,
         "ipv4": true,
@@ -2132,7 +1919,6 @@
     {
         "url": "https://ord.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2142,7 +1928,6 @@
     {
         "url": "https://syd.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -2152,7 +1937,6 @@
     {
         "url": "http://syd.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -2162,7 +1946,6 @@
     {
         "url": "rsync://dfw.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2172,7 +1955,6 @@
     {
         "url": "rsync://hkg.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -2182,7 +1964,6 @@
     {
         "url": "rsync://iad.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2192,7 +1973,6 @@
     {
         "url": "rsync://lon.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2202,7 +1982,6 @@
     {
         "url": "rsync://mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "",
         "country_code": "",
         "isos": true,
         "ipv4": true,
@@ -2212,7 +1991,6 @@
     {
         "url": "rsync://ord.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2222,7 +2000,6 @@
     {
         "url": "rsync://syd.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -2232,7 +2009,6 @@
     {
         "url": "http://suro.ubaya.ac.id/archlinux/",
         "protocol": "http",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -2242,7 +2018,6 @@
     {
         "url": "http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -2252,7 +2027,6 @@
     {
         "url": "rsync://rsync.piotrkosoft.net/archlinux/",
         "protocol": "rsync",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -2262,7 +2036,6 @@
     {
         "url": "http://mirror.vtti.vt.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2272,7 +2045,6 @@
     {
         "url": "http://arch.mirror.constant.com/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2282,7 +2054,6 @@
     {
         "url": "https://arch.mirror.constant.com/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2292,7 +2063,6 @@
     {
         "url": "rsync://arch.mirror.constant.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2302,7 +2072,6 @@
     {
         "url": "http://mirror.premi.st/archlinux/",
         "protocol": "http",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -2312,7 +2081,6 @@
     {
         "url": "https://mirror.premi.st/archlinux/",
         "protocol": "https",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -2322,7 +2090,6 @@
     {
         "url": "http://mirrors.manchester.m247.com/arch-linux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2332,7 +2099,6 @@
     {
         "url": "rsync://mirrors.manchester.m247.com/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2342,7 +2108,6 @@
     {
         "url": "http://arch.serverspace.co.uk/arch/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2352,7 +2117,6 @@
     {
         "url": "rsync://arch.serverspace.co.uk/Arch/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -2362,7 +2126,6 @@
     {
         "url": "https://download.nus.edu.sg/mirror/archlinux/",
         "protocol": "https",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -2372,7 +2135,6 @@
     {
         "url": "rsync://download.nus.edu.sg/archlinux/",
         "protocol": "rsync",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -2382,7 +2144,6 @@
     {
         "url": "http://arch.nimukaito.net/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2392,7 +2153,6 @@
     {
         "url": "https://arch.nimukaito.net/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2402,7 +2162,6 @@
     {
         "url": "rsync://arch.nimukaito.net/arch/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2412,7 +2171,6 @@
     {
         "url": "http://mirrors.acm.wpi.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2422,7 +2180,6 @@
     {
         "url": "http://mirror.neuf.no/archlinux/",
         "protocol": "http",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -2432,7 +2189,6 @@
     {
         "url": "https://mirror.neuf.no/archlinux/",
         "protocol": "https",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -2442,7 +2198,6 @@
     {
         "url": "rsync://mirror.neuf.no/archlinux/",
         "protocol": "rsync",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -2452,7 +2207,6 @@
     {
         "url": "https://mirror.gnomus.de/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2462,7 +2216,6 @@
     {
         "url": "http://ftp.fau.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2472,7 +2225,6 @@
     {
         "url": "https://ftp.fau.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2482,7 +2234,6 @@
     {
         "url": "rsync://ftp.fau.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2492,7 +2243,6 @@
     {
         "url": "http://mirror.lagoon.nc/pub/archlinux/",
         "protocol": "http",
-        "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
         "ipv4": true,
@@ -2502,7 +2252,6 @@
     {
         "url": "rsync://mirror.lagoon.nc/pub/archlinux/",
         "protocol": "rsync",
-        "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
         "ipv4": true,
@@ -2512,7 +2261,6 @@
     {
         "url": "http://mirrors.advancedhosters.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2522,7 +2270,6 @@
     {
         "url": "rsync://mirrors.advancedhosters.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2532,7 +2279,6 @@
     {
         "url": "http://gluttony.sin.cvut.cz/arch/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -2542,7 +2288,6 @@
     {
         "url": "https://gluttony.sin.cvut.cz/arch/",
         "protocol": "https",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -2552,7 +2297,6 @@
     {
         "url": "rsync://gluttony.sin.cvut.cz/arch/",
         "protocol": "rsync",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -2562,7 +2306,6 @@
     {
         "url": "http://archlinux.iskon.hr/",
         "protocol": "http",
-        "country": "Croatia",
         "country_code": "HR",
         "isos": true,
         "ipv4": true,
@@ -2572,7 +2315,6 @@
     {
         "url": "http://mirror.cedia.org.ec/archlinux/",
         "protocol": "http",
-        "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
         "ipv4": true,
@@ -2582,7 +2324,6 @@
     {
         "url": "rsync://mirror.cedia.org.ec/archlinux/",
         "protocol": "rsync",
-        "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
         "ipv4": true,
@@ -2592,7 +2333,6 @@
     {
         "url": "http://mirrors.nic.cz/archlinux/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -2602,7 +2342,6 @@
     {
         "url": "rsync://mirrors.nic.cz/archlinux/",
         "protocol": "rsync",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -2612,7 +2351,6 @@
     {
         "url": "http://mirror.one.com/archlinux/",
         "protocol": "http",
-        "country": "Denmark",
         "country_code": "DK",
         "isos": true,
         "ipv4": true,
@@ -2622,7 +2360,6 @@
     {
         "url": "https://mirror.one.com/archlinux/",
         "protocol": "https",
-        "country": "Denmark",
         "country_code": "DK",
         "isos": true,
         "ipv4": true,
@@ -2632,7 +2369,6 @@
     {
         "url": "rsync://mirror.one.com/archlinux/",
         "protocol": "rsync",
-        "country": "Denmark",
         "country_code": "DK",
         "isos": true,
         "ipv4": true,
@@ -2642,7 +2378,6 @@
     {
         "url": "http://mirror.es.its.nyu.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2652,7 +2387,6 @@
     {
         "url": "rsync://mirror.es.its.nyu.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2662,7 +2396,6 @@
     {
         "url": "http://mirror.23media.com/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -2672,7 +2405,6 @@
     {
         "url": "https://mirror.23media.com/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -2682,7 +2414,6 @@
     {
         "url": "rsync://mirror.23media.com/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -2692,7 +2423,6 @@
     {
         "url": "http://mirror.cs.pitt.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2702,7 +2432,6 @@
     {
         "url": "rsync://mirror.cs.pitt.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -2712,7 +2441,6 @@
     {
         "url": "http://tux.rainside.sk/archlinux/",
         "protocol": "http",
-        "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
         "ipv4": true,
@@ -2722,7 +2450,6 @@
     {
         "url": "rsync://tux.rainside.sk/archlinux/",
         "protocol": "rsync",
-        "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
         "ipv4": true,
@@ -2732,7 +2459,6 @@
     {
         "url": "http://mirror.t-home.mk/archlinux/",
         "protocol": "http",
-        "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
         "ipv4": true,
@@ -2742,7 +2468,6 @@
     {
         "url": "https://mirror.t-home.mk/archlinux/",
         "protocol": "https",
-        "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
         "ipv4": true,
@@ -2752,7 +2477,6 @@
     {
         "url": "rsync://mirror.t-home.mk/archlinux/",
         "protocol": "rsync",
-        "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
         "ipv4": true,
@@ -2762,7 +2486,6 @@
     {
         "url": "http://f.archlinuxvn.org/archlinux/",
         "protocol": "http",
-        "country": "Vietnam",
         "country_code": "VN",
         "isos": true,
         "ipv4": true,
@@ -2772,7 +2495,6 @@
     {
         "url": "http://ftp.yzu.edu.tw/Linux/archlinux/",
         "protocol": "http",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -2782,7 +2504,6 @@
     {
         "url": "https://ftp.yzu.edu.tw/Linux/archlinux/",
         "protocol": "https",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -2792,7 +2513,6 @@
     {
         "url": "rsync://ftp.yzu.edu.tw/Linux/archlinux/",
         "protocol": "rsync",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -2802,7 +2522,6 @@
     {
         "url": "http://mirror.metalgamer.eu/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2812,7 +2531,6 @@
     {
         "url": "https://mirror.metalgamer.eu/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2822,7 +2540,6 @@
     {
         "url": "http://mirrors.niyawe.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2832,7 +2549,6 @@
     {
         "url": "https://mirrors.niyawe.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2842,7 +2558,6 @@
     {
         "url": "rsync://rsync.mirrors.niyawe.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2852,7 +2567,6 @@
     {
         "url": "http://mirrors.atviras.lt/archlinux/",
         "protocol": "http",
-        "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
         "ipv4": true,
@@ -2862,7 +2576,6 @@
     {
         "url": "https://mirrors.atviras.lt/archlinux/",
         "protocol": "https",
-        "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
         "ipv4": true,
@@ -2872,7 +2585,6 @@
     {
         "url": "rsync://mirrors.atviras.lt/archlinux/",
         "protocol": "rsync",
-        "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
         "ipv4": true,
@@ -2882,7 +2594,6 @@
     {
         "url": "http://arch.yourlabs.org/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2892,7 +2603,6 @@
     {
         "url": "https://arch.yourlabs.org/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2902,7 +2612,6 @@
     {
         "url": "http://arch.midov.pl/arch/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -2912,7 +2621,6 @@
     {
         "url": "https://arch.midov.pl/arch/",
         "protocol": "https",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -2922,7 +2630,6 @@
     {
         "url": "http://mirror.lastmikoi.net/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2932,7 +2639,6 @@
     {
         "url": "rsync://mirror.lastmikoi.net/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -2942,7 +2648,6 @@
     {
         "url": "http://ftp.uni-hannover.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -2952,7 +2657,6 @@
     {
         "url": "http://mirrors.zju.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -2962,7 +2666,6 @@
     {
         "url": "http://mirror.poliwangi.ac.id/archlinux/",
         "protocol": "http",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -2972,7 +2675,6 @@
     {
         "url": "http://archlinux.koyanet.lv/archlinux/",
         "protocol": "http",
-        "country": "Latvia",
         "country_code": "LV",
         "isos": true,
         "ipv4": true,
@@ -2982,7 +2684,6 @@
     {
         "url": "rsync://archlinux.koyanet.lv/archlinux/",
         "protocol": "rsync",
-        "country": "Latvia",
         "country_code": "LV",
         "isos": true,
         "ipv4": true,
@@ -2992,7 +2693,6 @@
     {
         "url": "http://ftp.myrveln.se/pub/linux/archlinux/",
         "protocol": "http",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3002,7 +2702,6 @@
     {
         "url": "https://ftp.myrveln.se/pub/linux/archlinux/",
         "protocol": "https",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3012,7 +2711,6 @@
     {
         "url": "rsync://rsync.myrveln.se/pub/linux/archlinux/",
         "protocol": "rsync",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3022,7 +2720,6 @@
     {
         "url": "http://ftp.u-strasbg.fr/linux/distributions/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -3032,7 +2729,6 @@
     {
         "url": "http://archlinux.mailtunnel.eu/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -3042,7 +2738,6 @@
     {
         "url": "https://archlinux.mailtunnel.eu/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -3052,7 +2747,6 @@
     {
         "url": "rsync://archlinux.mailtunnel.eu/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -3062,7 +2756,6 @@
     {
         "url": "http://mirrors.cqu.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -3072,7 +2765,6 @@
     {
         "url": "https://mirrors.cqu.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -3082,7 +2774,6 @@
     {
         "url": "https://archlinux.beccacervello.it/archlinux/",
         "protocol": "https",
-        "country": "Italy",
         "country_code": "IT",
         "isos": true,
         "ipv4": true,
@@ -3092,7 +2783,6 @@
     {
         "url": "rsync://archlinux.beccacervello.it/archlinux/",
         "protocol": "rsync",
-        "country": "Italy",
         "country_code": "IT",
         "isos": true,
         "ipv4": true,
@@ -3102,7 +2792,6 @@
     {
         "url": "http://mirror.uta.edu.ec/archlinux/",
         "protocol": "http",
-        "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
         "ipv4": true,
@@ -3112,7 +2801,6 @@
     {
         "url": "rsync://mirror.uta.edu.ec/archlinux/",
         "protocol": "rsync",
-        "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
         "ipv4": true,
@@ -3122,7 +2810,6 @@
     {
         "url": "http://mirror.espoch.edu.ec/archlinux/",
         "protocol": "http",
-        "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
         "ipv4": true,
@@ -3132,7 +2819,6 @@
     {
         "url": "rsync://mirror.espoch.edu.ec/archlinux/",
         "protocol": "rsync",
-        "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
         "ipv4": true,
@@ -3142,7 +2828,6 @@
     {
         "url": "http://mirror.easyname.at/archlinux/",
         "protocol": "http",
-        "country": "Austria",
         "country_code": "AT",
         "isos": true,
         "ipv4": true,
@@ -3152,7 +2837,6 @@
     {
         "url": "rsync://mirror.easyname.at/archlinux/",
         "protocol": "rsync",
-        "country": "Austria",
         "country_code": "AT",
         "isos": true,
         "ipv4": true,
@@ -3162,7 +2846,6 @@
     {
         "url": "http://archlinux.mirror.digitalpacific.com.au/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -3172,7 +2855,6 @@
     {
         "url": "https://archlinux.mirror.digitalpacific.com.au/",
         "protocol": "https",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -3182,7 +2864,6 @@
     {
         "url": "rsync://mirror.digitalpacific.com.au/archlinux/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -3192,7 +2873,6 @@
     {
         "url": "http://mirrors.myaegean.gr/linux/archlinux/",
         "protocol": "http",
-        "country": "Greece",
         "country_code": "GR",
         "isos": true,
         "ipv4": true,
@@ -3202,7 +2882,6 @@
     {
         "url": "http://archlinux.honkgong.info/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3212,7 +2891,6 @@
     {
         "url": "rsync://archlinux.honkgong.info/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3222,7 +2900,6 @@
     {
         "url": "http://mirror.ibcp.fr/pub/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -3232,7 +2909,6 @@
     {
         "url": "http://mirror.f4st.host/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3242,7 +2918,6 @@
     {
         "url": "https://mirror.f4st.host/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3252,7 +2927,6 @@
     {
         "url": "rsync://mirror.f4st.host/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3262,7 +2936,6 @@
     {
         "url": "http://linorg.usp.br/archlinux/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -3272,7 +2945,6 @@
     {
         "url": "rsync://linorg.usp.br/archlinux/",
         "protocol": "rsync",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -3282,7 +2954,6 @@
     {
         "url": "http://mirrors.ocf.berkeley.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3292,7 +2963,6 @@
     {
         "url": "https://mirrors.ocf.berkeley.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3302,7 +2972,6 @@
     {
         "url": "rsync://mirrors.ocf.berkeley.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3312,7 +2981,6 @@
     {
         "url": "http://ftp.acc.umu.se/mirror/archlinux/",
         "protocol": "http",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3322,7 +2990,6 @@
     {
         "url": "https://ftp.acc.umu.se/mirror/archlinux/",
         "protocol": "https",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3332,7 +2999,6 @@
     {
         "url": "rsync://ftp.acc.umu.se/mirror/archlinux/",
         "protocol": "rsync",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3342,7 +3008,6 @@
     {
         "url": "http://archlinux.pop-es.rnp.br/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -3352,7 +3017,6 @@
     {
         "url": "rsync://archlinux.pop-es.rnp.br/archlinux/",
         "protocol": "rsync",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -3362,7 +3026,6 @@
     {
         "url": "http://mirror.dc02.hackingand.coffee/arch/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3372,7 +3035,6 @@
     {
         "url": "https://mirror.dc02.hackingand.coffee/arch/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3382,7 +3044,6 @@
     {
         "url": "rsync://mirror.dc02.hackingand.coffee/arch/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3392,7 +3053,6 @@
     {
         "url": "http://mirror.rise.ph/archlinux/",
         "protocol": "http",
-        "country": "Philippines",
         "country_code": "PH",
         "isos": true,
         "ipv4": true,
@@ -3402,7 +3062,6 @@
     {
         "url": "http://archlinux.dynamict.se/",
         "protocol": "http",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3412,7 +3071,6 @@
     {
         "url": "https://archlinux.dynamict.se/",
         "protocol": "https",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3422,7 +3080,6 @@
     {
         "url": "rsync://archlinux.dynamict.se/archlinux/",
         "protocol": "rsync",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -3432,7 +3089,6 @@
     {
         "url": "http://mirrors.netix.net/archlinux/",
         "protocol": "http",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": false,
         "ipv4": true,
@@ -3442,7 +3098,6 @@
     {
         "url": "rsync://mirrors.netix.net/archlinux/",
         "protocol": "rsync",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": false,
         "ipv4": true,
@@ -3452,7 +3107,6 @@
     {
         "url": "http://www.gutscheindrache.com/mirror/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3462,7 +3116,6 @@
     {
         "url": "http://mirrors.uni-plovdiv.net/archlinux/",
         "protocol": "http",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
         "ipv4": true,
@@ -3472,7 +3125,6 @@
     {
         "url": "https://mirrors.uni-plovdiv.net/archlinux/",
         "protocol": "https",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
         "ipv4": true,
@@ -3482,7 +3134,6 @@
     {
         "url": "rsync://mirrors.uni-plovdiv.net/archlinux/",
         "protocol": "rsync",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
         "ipv4": true,
@@ -3492,7 +3143,6 @@
     {
         "url": "http://mirror.digitalnova.at/archlinux/",
         "protocol": "http",
-        "country": "Austria",
         "country_code": "AT",
         "isos": true,
         "ipv4": true,
@@ -3502,7 +3152,6 @@
     {
         "url": "http://mirror.pseudoform.org/",
         "protocol": "http",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -3512,7 +3161,6 @@
     {
         "url": "https://mirror.pseudoform.org/",
         "protocol": "https",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -3522,7 +3170,6 @@
     {
         "url": "rsync://mirror.pseudoform.org/packages/",
         "protocol": "rsync",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -3532,7 +3179,6 @@
     {
         "url": "http://arch.mirrors.pair.com/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3542,7 +3188,6 @@
     {
         "url": "http://mirror.onet.pl/pub/mirrors/archlinux/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -3552,7 +3197,6 @@
     {
         "url": "rsync://mirror.onet.pl/pub/mirrors/archlinux/",
         "protocol": "rsync",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -3562,7 +3206,6 @@
     {
         "url": "http://mirror.lty.me/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3572,7 +3215,6 @@
     {
         "url": "https://mirror.lty.me/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3582,7 +3224,6 @@
     {
         "url": "rsync://mirror.lty.me/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3592,7 +3233,6 @@
     {
         "url": "http://arch.jensgutermuth.de/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3602,7 +3242,6 @@
     {
         "url": "https://arch.jensgutermuth.de/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3612,7 +3251,6 @@
     {
         "url": "http://pkg.adfinis-sygroup.ch/archlinux/",
         "protocol": "http",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -3622,7 +3260,6 @@
     {
         "url": "https://pkg.adfinis-sygroup.ch/archlinux/",
         "protocol": "https",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -3632,7 +3269,6 @@
     {
         "url": "rsync://pkg.adfinis-sygroup.ch/archlinux/",
         "protocol": "rsync",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -3642,7 +3278,6 @@
     {
         "url": "http://ftp.sh.cvut.cz/arch/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -3652,7 +3287,6 @@
     {
         "url": "https://ftp.sh.cvut.cz/arch/",
         "protocol": "https",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -3662,7 +3296,6 @@
     {
         "url": "rsync://ftp.sh.cvut.cz/arch/",
         "protocol": "rsync",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -3672,7 +3305,6 @@
     {
         "url": "https://arch-mirror.wtako.net/",
         "protocol": "https",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -3682,7 +3314,6 @@
     {
         "url": "http://br.mirror.archlinux-br.org/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -3692,7 +3323,6 @@
     {
         "url": "http://ca.us.mirror.archlinux-br.org/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3702,7 +3332,6 @@
     {
         "url": "http://il.us.mirror.archlinux-br.org/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3712,7 +3341,6 @@
     {
         "url": "http://za.mirror.archlinux-br.org/",
         "protocol": "http",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -3722,7 +3350,6 @@
     {
         "url": "http://muug.ca/mirror/archlinux/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -3732,7 +3359,6 @@
     {
         "url": "https://muug.ca/mirror/archlinux/",
         "protocol": "https",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -3742,7 +3368,6 @@
     {
         "url": "http://mirror.0x.sg/archlinux/",
         "protocol": "http",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -3752,7 +3377,6 @@
     {
         "url": "https://mirror.0x.sg/archlinux/",
         "protocol": "https",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -3762,7 +3386,6 @@
     {
         "url": "rsync://mirror.0x.sg/archlinux/",
         "protocol": "rsync",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -3772,7 +3395,6 @@
     {
         "url": "http://mirrors.m247.ro/archlinux/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -3782,7 +3404,6 @@
     {
         "url": "rsync://mirrors.m247.ro/archlinux/",
         "protocol": "rsync",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -3792,7 +3413,6 @@
     {
         "url": "https://mirror.wormhole.eu/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -3802,7 +3422,6 @@
     {
         "url": "http://mirror.kaminski.io/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3812,7 +3431,6 @@
     {
         "url": "https://mirror.kaminski.io/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -3822,7 +3440,6 @@
     {
         "url": "http://mirror.is.co.za/mirror/archlinux.org/",
         "protocol": "http",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -3832,7 +3449,6 @@
     {
         "url": "rsync://mirror.is.co.za/mirror/archlinux.org/",
         "protocol": "rsync",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -3842,7 +3458,6 @@
     {
         "url": "http://arch.mirror.far.fi/",
         "protocol": "http",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -3852,7 +3467,6 @@
     {
         "url": "rsync://arch.mirror.far.fi/archlinux/",
         "protocol": "rsync",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -3862,7 +3476,6 @@
     {
         "url": "http://mirror.lzu.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -3872,7 +3485,6 @@
     {
         "url": "http://mirror.ubrco.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3882,7 +3494,6 @@
     {
         "url": "https://mirror.ubrco.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3892,7 +3503,6 @@
     {
         "url": "rsync://mirror.ubrco.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -3902,7 +3512,6 @@
     {
         "url": "http://archlinux.ip-connect.vn.ua/",
         "protocol": "http",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -3912,7 +3521,6 @@
     {
         "url": "https://archlinux.ip-connect.vn.ua/",
         "protocol": "https",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -3922,7 +3530,6 @@
     {
         "url": "rsync://archlinux.ip-connect.vn.ua/archlinux/",
         "protocol": "rsync",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -3932,7 +3539,6 @@
     {
         "url": "http://mirror.sergal.org/archlinux/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -3942,7 +3548,6 @@
     {
         "url": "https://mirror.sergal.org/archlinux/",
         "protocol": "https",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -3952,7 +3557,6 @@
     {
         "url": "rsync://mirror.sergal.org/archlinux/",
         "protocol": "rsync",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -3962,7 +3566,6 @@
     {
         "url": "http://ftp.fi.muni.cz/pub/linux/arch/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -3972,7 +3575,6 @@
     {
         "url": "http://ftp.linux.cz/pub/linux/arch/",
         "protocol": "http",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -3982,7 +3584,6 @@
     {
         "url": "rsync://ftp.fi.muni.cz/pub/linux/arch/",
         "protocol": "rsync",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -3992,7 +3593,6 @@
     {
         "url": "rsync://ftp.linux.cz/pub/linux/arch/",
         "protocol": "rsync",
-        "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
         "ipv4": true,
@@ -4002,7 +3602,6 @@
     {
         "url": "http://archlinux.mirror.iphh.net/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4012,7 +3611,6 @@
     {
         "url": "rsync://archlinux.mirror.iphh.net/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4022,7 +3620,6 @@
     {
         "url": "http://mirrors.evowise.com/archlinux/",
         "protocol": "http",
-        "country": "",
         "country_code": "",
         "isos": true,
         "ipv4": true,
@@ -4032,7 +3629,6 @@
     {
         "url": "https://mirrors.xjtu.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -4042,7 +3638,6 @@
     {
         "url": "http://arlm.tyzoid.com/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4052,7 +3647,6 @@
     {
         "url": "https://arlm.tyzoid.com/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4062,7 +3656,6 @@
     {
         "url": "rsync://arlm.tyzoid.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4072,7 +3665,6 @@
     {
         "url": "http://mirror.cedille.club/archlinux/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -4082,7 +3674,6 @@
     {
         "url": "http://archlinux.thaller.ws/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4092,7 +3683,6 @@
     {
         "url": "https://archlinux.thaller.ws/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4102,7 +3692,6 @@
     {
         "url": "rsync://archlinux.thaller.ws/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4112,7 +3701,6 @@
     {
         "url": "http://archimonde.ts.si/archlinux/",
         "protocol": "http",
-        "country": "Slovenia",
         "country_code": "SI",
         "isos": true,
         "ipv4": true,
@@ -4122,7 +3710,6 @@
     {
         "url": "https://archimonde.ts.si/archlinux/",
         "protocol": "https",
-        "country": "Slovenia",
         "country_code": "SI",
         "isos": true,
         "ipv4": true,
@@ -4132,7 +3719,6 @@
     {
         "url": "rsync://archimonde.ts.si/archlinux/",
         "protocol": "rsync",
-        "country": "Slovenia",
         "country_code": "SI",
         "isos": true,
         "ipv4": true,
@@ -4142,7 +3728,6 @@
     {
         "url": "http://mirror.math.princeton.edu/pub/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4152,7 +3737,6 @@
     {
         "url": "rsync://mirror.math.princeton.edu/pub/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4162,7 +3746,6 @@
     {
         "url": "http://archlinux.mirror.ba/",
         "protocol": "http",
-        "country": "Bosnia and Herzegovina",
         "country_code": "BA",
         "isos": true,
         "ipv4": true,
@@ -4172,7 +3755,6 @@
     {
         "url": "rsync://archlinux.mirror.ba/archlinux/",
         "protocol": "rsync",
-        "country": "Bosnia and Herzegovina",
         "country_code": "BA",
         "isos": true,
         "ipv4": true,
@@ -4182,7 +3764,6 @@
     {
         "url": "https://www.ratenzahlung.de/mirror/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4192,7 +3773,6 @@
     {
         "url": "https://mirror.bethselamin.de/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -4202,7 +3782,6 @@
     {
         "url": "http://mirror.smith.geek.nz/archlinux/",
         "protocol": "http",
-        "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
         "ipv4": true,
@@ -4212,7 +3791,6 @@
     {
         "url": "https://mirror.smith.geek.nz/archlinux/",
         "protocol": "https",
-        "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
         "ipv4": true,
@@ -4222,7 +3800,6 @@
     {
         "url": "rsync://mirror.smith.geek.nz/archlinux/",
         "protocol": "rsync",
-        "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
         "ipv4": true,
@@ -4232,7 +3809,6 @@
     {
         "url": "http://archlinux.mirror.garr.it/archlinux/",
         "protocol": "http",
-        "country": "Italy",
         "country_code": "IT",
         "isos": true,
         "ipv4": true,
@@ -4242,7 +3818,6 @@
     {
         "url": "http://archlinux.mirror.wearetriple.com/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4252,7 +3827,6 @@
     {
         "url": "https://archlinux.mirror.wearetriple.com/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4262,7 +3836,6 @@
     {
         "url": "rsync://mirror.wearetriple.com/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4272,7 +3845,6 @@
     {
         "url": "http://mirror.kku.ac.th/archlinux/",
         "protocol": "http",
-        "country": "Thailand",
         "country_code": "TH",
         "isos": true,
         "ipv4": true,
@@ -4282,7 +3854,6 @@
     {
         "url": "https://mirror.kku.ac.th/archlinux/",
         "protocol": "https",
-        "country": "Thailand",
         "country_code": "TH",
         "isos": true,
         "ipv4": true,
@@ -4292,7 +3863,6 @@
     {
         "url": "rsync://mirror.kku.ac.th/archlinux/",
         "protocol": "rsync",
-        "country": "Thailand",
         "country_code": "TH",
         "isos": true,
         "ipv4": true,
@@ -4302,7 +3872,6 @@
     {
         "url": "http://archmirror.hbit.sztaki.hu/archlinux/",
         "protocol": "http",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": false,
         "ipv4": true,
@@ -4312,7 +3881,6 @@
     {
         "url": "https://mirror.osbeck.com/archlinux/",
         "protocol": "https",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -4322,7 +3890,6 @@
     {
         "url": "rsync://rsync.osbeck.com/archlinux/",
         "protocol": "rsync",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -4332,7 +3899,6 @@
     {
         "url": "http://mirrors.standaloneinstaller.com/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4342,7 +3908,6 @@
     {
         "url": "rsync://mirrors.standaloneinstaller.com/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4352,7 +3917,6 @@
     {
         "url": "http://mirrors.pidginhost.com/arch/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": false,
         "ipv4": true,
@@ -4362,7 +3926,6 @@
     {
         "url": "https://mirrors.pidginhost.com/arch/",
         "protocol": "https",
-        "country": "Romania",
         "country_code": "RO",
         "isos": false,
         "ipv4": true,
@@ -4372,7 +3935,6 @@
     {
         "url": "rsync://mirrors.pidginhost.com/Arch/",
         "protocol": "rsync",
-        "country": "Romania",
         "country_code": "RO",
         "isos": false,
         "ipv4": true,
@@ -4382,7 +3944,6 @@
     {
         "url": "http://mirror.host.ag/archlinux/",
         "protocol": "http",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
         "ipv4": true,
@@ -4392,7 +3953,6 @@
     {
         "url": "rsync://mirror.host.ag/archlinux/",
         "protocol": "rsync",
-        "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
         "ipv4": true,
@@ -4402,7 +3962,6 @@
     {
         "url": "http://mirror.cs.vt.edu/pub/ArchLinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4412,7 +3971,6 @@
     {
         "url": "rsync://mirror.cs.vt.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4422,7 +3980,6 @@
     {
         "url": "http://archlinux.mirror.colo-serv.net/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -4432,7 +3989,6 @@
     {
         "url": "http://glua.ua.pt/pub/archlinux/",
         "protocol": "http",
-        "country": "Portugal",
         "country_code": "PT",
         "isos": true,
         "ipv4": true,
@@ -4442,7 +3998,6 @@
     {
         "url": "https://glua.ua.pt/pub/archlinux/",
         "protocol": "https",
-        "country": "Portugal",
         "country_code": "PT",
         "isos": true,
         "ipv4": true,
@@ -4452,7 +4007,6 @@
     {
         "url": "rsync://glua.ua.pt/archlinux/",
         "protocol": "rsync",
-        "country": "Portugal",
         "country_code": "PT",
         "isos": true,
         "ipv4": true,
@@ -4462,7 +4016,6 @@
     {
         "url": "http://repo.iut.ac.ir/repo/archlinux/",
         "protocol": "http",
-        "country": "Iran",
         "country_code": "IR",
         "isos": true,
         "ipv4": true,
@@ -4472,7 +4025,6 @@
     {
         "url": "http://ftp.lanet.kr/pub/archlinux/",
         "protocol": "http",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -4482,7 +4034,6 @@
     {
         "url": "https://ftp.lanet.kr/pub/archlinux/",
         "protocol": "https",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -4492,7 +4043,6 @@
     {
         "url": "http://archlinux.mirrors.benatherton.com/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4502,7 +4052,6 @@
     {
         "url": "http://mirrors.sonic.net/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": false,
         "ipv4": true,
@@ -4512,7 +4061,6 @@
     {
         "url": "https://mirrors.sonic.net/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": false,
         "ipv4": true,
@@ -4522,7 +4070,6 @@
     {
         "url": "rsync://mirrors.sonic.net/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": false,
         "ipv4": true,
@@ -4532,7 +4079,6 @@
     {
         "url": "http://mirrors.celianvdb.fr/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4542,7 +4088,6 @@
     {
         "url": "https://mirrors.celianvdb.fr/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4552,7 +4097,6 @@
     {
         "url": "rsync://mirrors.celianvdb.fr/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4562,7 +4106,6 @@
     {
         "url": "http://arch.mirror.square-r00t.net/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4572,7 +4115,6 @@
     {
         "url": "https://arch.mirror.square-r00t.net/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4582,7 +4124,6 @@
     {
         "url": "rsync://arch.mirror.square-r00t.net/arch/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -4592,7 +4133,6 @@
     {
         "url": "https://ger.mirror.pkgbuild.com/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4602,7 +4142,6 @@
     {
         "url": "https://mirror.pkgbuild.com/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4612,7 +4151,6 @@
     {
         "url": "rsync://ger.mirror.pkgbuild.com/packages/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4622,7 +4160,6 @@
     {
         "url": "rsync://mirror.pkgbuild.com/packages/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4632,7 +4169,6 @@
     {
         "url": "http://mirror.xtom.com.hk/archlinux/",
         "protocol": "http",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -4642,7 +4178,6 @@
     {
         "url": "https://mirror.xtom.com.hk/archlinux/",
         "protocol": "https",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -4652,7 +4187,6 @@
     {
         "url": "rsync://mirror.xtom.com.hk/repo/archlinux/",
         "protocol": "rsync",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -4662,7 +4196,6 @@
     {
         "url": "http://mirror.truenetwork.ru/archlinux/",
         "protocol": "http",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -4672,7 +4205,6 @@
     {
         "url": "https://mirror.truenetwork.ru/archlinux/",
         "protocol": "https",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -4682,7 +4214,6 @@
     {
         "url": "rsync://mirror.truenetwork.ru/archlinux/",
         "protocol": "rsync",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -4692,7 +4223,6 @@
     {
         "url": "http://mirrors.nxthost.com/archlinux/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -4702,7 +4232,6 @@
     {
         "url": "https://mirrors.nxthost.com/archlinux/",
         "protocol": "https",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -4712,7 +4241,6 @@
     {
         "url": "rsync://mirrors.nxthost.com/archlinux/",
         "protocol": "rsync",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -4722,7 +4250,6 @@
     {
         "url": "http://mirror-hk.koddos.net/archlinux/",
         "protocol": "http",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -4732,7 +4259,6 @@
     {
         "url": "http://mirror.koddos.net/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4742,7 +4268,6 @@
     {
         "url": "https://mirror-hk.koddos.net/archlinux/",
         "protocol": "https",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -4752,7 +4277,6 @@
     {
         "url": "https://mirror.koddos.net/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4762,7 +4286,6 @@
     {
         "url": "rsync://mirror-hk.koddos.net/archlinux/",
         "protocol": "rsync",
-        "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
         "ipv4": true,
@@ -4772,7 +4295,6 @@
     {
         "url": "rsync://mirror.koddos.net/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4782,7 +4304,6 @@
     {
         "url": "http://ftp.wrz.de/pub/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4792,7 +4313,6 @@
     {
         "url": "https://ftp.wrz.de/pub/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4802,7 +4322,6 @@
     {
         "url": "rsync://ftp.wrz.de/pub/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -4812,7 +4331,6 @@
     {
         "url": "https://mirror.thekinrar.fr/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -4822,7 +4340,6 @@
     {
         "url": "http://mirror.ufam.edu.br/archlinux/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -4832,7 +4349,6 @@
     {
         "url": "http://archlinux.zepto.cloud/",
         "protocol": "http",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -4842,7 +4358,6 @@
     {
         "url": "http://arch.petarmaric.com/",
         "protocol": "http",
-        "country": "Serbia",
         "country_code": "RS",
         "isos": false,
         "ipv4": true,
@@ -4852,7 +4367,6 @@
     {
         "url": "http://mirror.neostrada.nl/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4862,7 +4376,6 @@
     {
         "url": "https://mirror.neostrada.nl/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4872,7 +4385,6 @@
     {
         "url": "rsync://mirror.neostrada.nl/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -4882,7 +4394,6 @@
     {
         "url": "http://mirror.xeonbd.com/archlinux/",
         "protocol": "http",
-        "country": "Bangladesh",
         "country_code": "BD",
         "isos": true,
         "ipv4": true,
@@ -4892,7 +4403,6 @@
     {
         "url": "http://mirrors.ukfast.co.uk/sites/archlinux.org/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -4902,7 +4412,6 @@
     {
         "url": "https://mirrors.ukfast.co.uk/sites/archlinux.org/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -4912,7 +4421,6 @@
     {
         "url": "rsync://mirrors.ukfast.co.uk/archlinux.org/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -4922,7 +4430,6 @@
     {
         "url": "https://mirror.ungleich.ch/mirror/packages/archlinux/",
         "protocol": "https",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
         "ipv4": true,
@@ -4932,7 +4439,6 @@
     {
         "url": "http://mirrors.nav.ro/archlinux/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -4942,7 +4448,6 @@
     {
         "url": "rsync://mirrors.nav.ro/archlinux/",
         "protocol": "rsync",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -4952,7 +4457,6 @@
     {
         "url": "https://archlinux.mivzakim.net/",
         "protocol": "https",
-        "country": "Israel",
         "country_code": "IL",
         "isos": true,
         "ipv4": true,
@@ -4962,7 +4466,6 @@
     {
         "url": "http://mirror2.totbb.net/archlinux/",
         "protocol": "http",
-        "country": "Thailand",
         "country_code": "TH",
         "isos": true,
         "ipv4": true,
@@ -4972,7 +4475,6 @@
     {
         "url": "https://mirror.srv.fail/archlinux/",
         "protocol": "https",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -4982,7 +4484,6 @@
     {
         "url": "http://mirror.reisenbauer.ee/archlinux/",
         "protocol": "http",
-        "country": "Austria",
         "country_code": "AT",
         "isos": true,
         "ipv4": true,
@@ -4992,7 +4493,6 @@
     {
         "url": "https://mirror.reisenbauer.ee/archlinux/",
         "protocol": "https",
-        "country": "Austria",
         "country_code": "AT",
         "isos": true,
         "ipv4": true,
@@ -5002,7 +4502,6 @@
     {
         "url": "rsync://mirror.reisenbauer.ee/archlinux/",
         "protocol": "rsync",
-        "country": "Austria",
         "country_code": "AT",
         "isos": true,
         "ipv4": true,
@@ -5012,7 +4511,6 @@
     {
         "url": "http://mirror.veriteknik.net.tr/archlinux/",
         "protocol": "http",
-        "country": "Turkey",
         "country_code": "TR",
         "isos": false,
         "ipv4": true,
@@ -5022,7 +4520,6 @@
     {
         "url": "rsync://mirror.veriteknik.net.tr/archlinux/",
         "protocol": "rsync",
-        "country": "Turkey",
         "country_code": "TR",
         "isos": false,
         "ipv4": true,
@@ -5032,7 +4529,6 @@
     {
         "url": "http://packages.oth-regensburg.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5042,7 +4538,6 @@
     {
         "url": "https://packages.oth-regensburg.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5052,7 +4547,6 @@
     {
         "url": "rsync://packages.oth-regensburg.de/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5062,7 +4556,6 @@
     {
         "url": "http://mirror.orbit-os.com/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5072,7 +4565,6 @@
     {
         "url": "https://mirror.orbit-os.com/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5082,7 +4574,6 @@
     {
         "url": "rsync://mirror.orbit-os.com/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5092,7 +4583,6 @@
     {
         "url": "http://distro.ibiblio.org/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5102,7 +4592,6 @@
     {
         "url": "rsync://distro.ibiblio.org/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5112,7 +4601,6 @@
     {
         "url": "http://mirror.stephen304.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5122,7 +4610,6 @@
     {
         "url": "https://mirror.stephen304.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5132,7 +4619,6 @@
     {
         "url": "https://mirrors.sjtug.sjtu.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -5142,7 +4628,6 @@
     {
         "url": "http://repo.miserver.it.umich.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5152,7 +4637,6 @@
     {
         "url": "http://mirrors.cat.net/archlinux/",
         "protocol": "http",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -5162,7 +4646,6 @@
     {
         "url": "https://mirrors.cat.net/archlinux/",
         "protocol": "https",
-        "country": "Japan",
         "country_code": "JP",
         "isos": true,
         "ipv4": true,
@@ -5172,7 +4655,6 @@
     {
         "url": "http://mirror.terrahost.no/linux/archlinux/",
         "protocol": "http",
-        "country": "Norway",
         "country_code": "NO",
         "isos": true,
         "ipv4": true,
@@ -5182,7 +4664,6 @@
     {
         "url": "http://mirror.ufscar.br/archlinux/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": true,
         "ipv4": true,
@@ -5192,7 +4673,6 @@
     {
         "url": "http://mirror.oldsql.cc/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -5202,7 +4682,6 @@
     {
         "url": "https://mirror.oldsql.cc/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -5212,7 +4691,6 @@
     {
         "url": "http://arch.mirrors.lavatech.top/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5222,7 +4700,6 @@
     {
         "url": "https://arch.mirrors.lavatech.top/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5232,7 +4709,6 @@
     {
         "url": "https://appuals.com/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -5242,7 +4718,6 @@
     {
         "url": "http://mirror.checkdomain.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5252,7 +4727,6 @@
     {
         "url": "https://mirror.checkdomain.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5262,7 +4736,6 @@
     {
         "url": "https://www.caco.ic.unicamp.br/archlinux/",
         "protocol": "https",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": false,
         "ipv4": true,
@@ -5272,7 +4745,6 @@
     {
         "url": "http://www.caco.ic.unicamp.br/archlinux/",
         "protocol": "http",
-        "country": "Brazil",
         "country_code": "BR",
         "isos": false,
         "ipv4": true,
@@ -5282,7 +4754,6 @@
     {
         "url": "http://mirrors.xtom.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5292,7 +4763,6 @@
     {
         "url": "https://mirrors.xtom.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5302,7 +4772,6 @@
     {
         "url": "https://dist-mirror.fem.tu-ilmenau.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5312,7 +4781,6 @@
     {
         "url": "http://mirror.fsmg.org.nz/archlinux/",
         "protocol": "http",
-        "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
         "ipv4": true,
@@ -5322,7 +4790,6 @@
     {
         "url": "https://mirror.fsmg.org.nz/archlinux/",
         "protocol": "https",
-        "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
         "ipv4": true,
@@ -5332,7 +4799,6 @@
     {
         "url": "rsync://mirror.fsmg.org.nz/archlinux/",
         "protocol": "rsync",
-        "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
         "ipv4": true,
@@ -5342,7 +4808,6 @@
     {
         "url": "http://archlinux.mirror.py/archlinux/",
         "protocol": "http",
-        "country": "Paraguay",
         "country_code": "PY",
         "isos": true,
         "ipv4": true,
@@ -5352,7 +4817,6 @@
     {
         "url": "http://mirrors.udenar.edu.co/archlinux/",
         "protocol": "http",
-        "country": "Colombia",
         "country_code": "CO",
         "isos": true,
         "ipv4": true,
@@ -5362,7 +4826,6 @@
     {
         "url": "rsync://mirrors.udenar.edu.co/archlinux/",
         "protocol": "rsync",
-        "country": "Colombia",
         "country_code": "CO",
         "isos": true,
         "ipv4": true,
@@ -5372,7 +4835,6 @@
     {
         "url": "http://mirror.siena.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5382,7 +4844,6 @@
     {
         "url": "rsync://mirror.siena.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5392,7 +4853,6 @@
     {
         "url": "http://archlinux.grena.ge/",
         "protocol": "http",
-        "country": "Georgia",
         "country_code": "GE",
         "isos": true,
         "ipv4": true,
@@ -5402,7 +4862,6 @@
     {
         "url": "https://archlinux.grena.ge/",
         "protocol": "https",
-        "country": "Georgia",
         "country_code": "GE",
         "isos": true,
         "ipv4": true,
@@ -5412,7 +4871,6 @@
     {
         "url": "http://archlinux.mirror.pcextreme.nl/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5422,7 +4880,6 @@
     {
         "url": "https://archlinux.mirror.pcextreme.nl/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5432,7 +4889,6 @@
     {
         "url": "rsync://mirror.pcextreme.nl/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5442,7 +4898,6 @@
     {
         "url": "http://mirror.onevip.mk/archlinux/",
         "protocol": "http",
-        "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
         "ipv4": true,
@@ -5452,7 +4907,6 @@
     {
         "url": "rsync://mirror.onevip.mk/archlinux/",
         "protocol": "rsync",
-        "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
         "ipv4": true,
@@ -5462,7 +4916,6 @@
     {
         "url": "http://mirror.cyberbits.eu/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -5472,7 +4925,6 @@
     {
         "url": "https://mirror.cyberbits.eu/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -5482,7 +4934,6 @@
     {
         "url": "rsync://rsync.cyberbits.eu/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -5492,7 +4943,6 @@
     {
         "url": "http://repo.ialab.dsu.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5502,7 +4952,6 @@
     {
         "url": "https://repo.ialab.dsu.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5512,7 +4961,6 @@
     {
         "url": "https://arch.unixpeople.org/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5522,7 +4970,6 @@
     {
         "url": "rsync://arch.unixpeople.org/arch/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5532,7 +4979,6 @@
     {
         "url": "http://mirror.tiguinet.net/arch/",
         "protocol": "http",
-        "country": "Belgium",
         "country_code": "BE",
         "isos": true,
         "ipv4": true,
@@ -5542,7 +4988,6 @@
     {
         "url": "http://archlinux.mirror.liquidtelecom.com/",
         "protocol": "http",
-        "country": "Kenya",
         "country_code": "KE",
         "isos": true,
         "ipv4": true,
@@ -5552,7 +4997,6 @@
     {
         "url": "https://archlinux.mirror.liquidtelecom.com/",
         "protocol": "https",
-        "country": "Kenya",
         "country_code": "KE",
         "isos": true,
         "ipv4": true,
@@ -5562,7 +5006,6 @@
     {
         "url": "rsync://archlinux.mirror.liquidtelecom.com/archlinux/",
         "protocol": "rsync",
-        "country": "Kenya",
         "country_code": "KE",
         "isos": true,
         "ipv4": true,
@@ -5572,7 +5015,6 @@
     {
         "url": "http://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "http",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5582,7 +5024,6 @@
     {
         "url": "http://quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "http",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5592,7 +5033,6 @@
     {
         "url": "https://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "https",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5602,7 +5042,6 @@
     {
         "url": "https://quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "https",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5612,7 +5051,6 @@
     {
         "url": "https://super.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "https",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5622,7 +5060,6 @@
     {
         "url": "http://super.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "http",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5632,7 +5069,6 @@
     {
         "url": "rsync://nova.quantum-mirror.hu/archlinux/",
         "protocol": "rsync",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5642,7 +5078,6 @@
     {
         "url": "rsync://quantum-mirror.hu/archlinux/",
         "protocol": "rsync",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5652,7 +5087,6 @@
     {
         "url": "rsync://super.quantum-mirror.hu/archlinux/",
         "protocol": "rsync",
-        "country": "Hungary",
         "country_code": "HU",
         "isos": true,
         "ipv4": true,
@@ -5662,7 +5096,6 @@
     {
         "url": "http://archlinux.uk.mirror.allworldit.com/archlinux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -5672,7 +5105,6 @@
     {
         "url": "http://archlinux.za.mirror.allworldit.com/archlinux/",
         "protocol": "http",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -5682,7 +5114,6 @@
     {
         "url": "https://archlinux.uk.mirror.allworldit.com/archlinux/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -5692,7 +5123,6 @@
     {
         "url": "https://archlinux.za.mirror.allworldit.com/archlinux/",
         "protocol": "https",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -5702,7 +5132,6 @@
     {
         "url": "rsync://archlinux.uk.mirror.allworldit.com/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -5712,7 +5141,6 @@
     {
         "url": "rsync://archlinux.za.mirror.allworldit.com/archlinux/",
         "protocol": "rsync",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -5722,7 +5150,6 @@
     {
         "url": "http://mirror.librelabucm.org/archlinux/",
         "protocol": "http",
-        "country": "Spain",
         "country_code": "ES",
         "isos": true,
         "ipv4": true,
@@ -5732,7 +5159,6 @@
     {
         "url": "https://mirror.librelabucm.org/archlinux/",
         "protocol": "https",
-        "country": "Spain",
         "country_code": "ES",
         "isos": true,
         "ipv4": true,
@@ -5742,7 +5168,6 @@
     {
         "url": "http://mirror-archlinux.webruimtehosting.nl/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5752,7 +5177,6 @@
     {
         "url": "https://mirror-archlinux.webruimtehosting.nl/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5762,7 +5186,6 @@
     {
         "url": "http://mirror.netweaver.uk/archlinux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -5772,7 +5195,6 @@
     {
         "url": "https://mirror.netweaver.uk/archlinux/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -5782,7 +5204,6 @@
     {
         "url": "http://mirror.wtnet.de/arch/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5792,7 +5213,6 @@
     {
         "url": "https://mirror.wtnet.de/arch/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -5802,7 +5222,6 @@
     {
         "url": "http://reflector.luehm.com/arch/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5812,7 +5231,6 @@
     {
         "url": "https://reflector.luehm.com/arch/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -5822,7 +5240,6 @@
     {
         "url": "http://mirror.mirohost.net/archlinux/",
         "protocol": "http",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -5832,7 +5249,6 @@
     {
         "url": "https://mirror.mirohost.net/archlinux/",
         "protocol": "https",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -5842,7 +5258,6 @@
     {
         "url": "rsync://mirror.mirohost.net/archlinux/",
         "protocol": "rsync",
-        "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
         "ipv4": true,
@@ -5852,7 +5267,6 @@
     {
         "url": "http://ftp.harukasan.org/archlinux/",
         "protocol": "http",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -5862,7 +5276,6 @@
     {
         "url": "https://ftp.harukasan.org/archlinux/",
         "protocol": "https",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -5872,7 +5285,6 @@
     {
         "url": "rsync://ftp.harukasan.org/archlinux/",
         "protocol": "rsync",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -5882,7 +5294,6 @@
     {
         "url": "http://mirror.ufro.cl/archlinux/",
         "protocol": "http",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -5892,7 +5303,6 @@
     {
         "url": "https://mirror.ufro.cl/archlinux/",
         "protocol": "https",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -5902,7 +5312,6 @@
     {
         "url": "http://mirror.aktkn.sg/archlinux/",
         "protocol": "http",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -5912,7 +5321,6 @@
     {
         "url": "https://mirror.aktkn.sg/archlinux/",
         "protocol": "https",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -5922,7 +5330,6 @@
     {
         "url": "rsync://mirror.aktkn.sg/archlinux/",
         "protocol": "rsync",
-        "country": "Singapore",
         "country_code": "SG",
         "isos": true,
         "ipv4": true,
@@ -5932,7 +5339,6 @@
     {
         "url": "http://arch.nixlab.pl/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -5942,7 +5348,6 @@
     {
         "url": "https://arch.nixlab.pl/",
         "protocol": "https",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -5952,7 +5357,6 @@
     {
         "url": "rsync://arch.nixlab.pl/archlinux/",
         "protocol": "rsync",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -5962,7 +5366,6 @@
     {
         "url": "http://mirrors.xtom.nl/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5972,7 +5375,6 @@
     {
         "url": "https://mirrors.xtom.nl/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -5982,7 +5384,6 @@
     {
         "url": "https://arch-mirror.cloud.louifox.house/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": false,
         "ipv4": true,
@@ -5992,7 +5393,6 @@
     {
         "url": "http://mirror.scd31.com/arch/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -6002,7 +5402,6 @@
     {
         "url": "https://mirror.scd31.com/arch/",
         "protocol": "https",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -6012,7 +5411,6 @@
     {
         "url": "http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -6022,7 +5420,6 @@
     {
         "url": "https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
         "protocol": "https",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -6032,7 +5429,6 @@
     {
         "url": "rsync://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
         "protocol": "rsync",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -6042,7 +5438,6 @@
     {
         "url": "http://mirror.nak-mci.ir/arch/",
         "protocol": "http",
-        "country": "Iran",
         "country_code": "IR",
         "isos": true,
         "ipv4": true,
@@ -6052,7 +5447,6 @@
     {
         "url": "http://mirror.mikrogravitation.org/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6062,7 +5456,6 @@
     {
         "url": "https://mirror.mikrogravitation.org/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6072,7 +5465,6 @@
     {
         "url": "http://mirror.chaoticum.net/arch/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6082,7 +5474,6 @@
     {
         "url": "https://mirror.chaoticum.net/arch/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6092,7 +5483,6 @@
     {
         "url": "rsync://mirror.chaoticum.net/arch/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6102,7 +5492,6 @@
     {
         "url": "http://iad.mirrors.misaka.one/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6112,7 +5501,6 @@
     {
         "url": "https://iad.mirrors.misaka.one/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6122,7 +5510,6 @@
     {
         "url": "rsync://iad.mirrors.misaka.one/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6132,7 +5519,6 @@
     {
         "url": "http://mirror.pit.teraswitch.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6142,7 +5528,6 @@
     {
         "url": "https://mirror.pit.teraswitch.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6152,7 +5537,6 @@
     {
         "url": "rsync://mirror.pit.teraswitch.com/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6162,7 +5546,6 @@
     {
         "url": "http://mirror.mijn.host/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": false,
         "ipv4": true,
@@ -6172,7 +5555,6 @@
     {
         "url": "https://mirror.mijn.host/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": false,
         "ipv4": true,
@@ -6182,7 +5564,6 @@
     {
         "url": "http://mirror.init7.net/archlinux/",
         "protocol": "http",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
         "ipv4": true,
@@ -6192,7 +5573,6 @@
     {
         "url": "https://mirror.init7.net/archlinux/",
         "protocol": "https",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
         "ipv4": true,
@@ -6202,7 +5582,6 @@
     {
         "url": "rsync://mirror.init7.net/archlinux/",
         "protocol": "rsync",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
         "ipv4": true,
@@ -6212,7 +5591,6 @@
     {
         "url": "http://archlinux.mirror.liteserver.nl/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6222,7 +5600,6 @@
     {
         "url": "https://archlinux.mirror.liteserver.nl/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6232,7 +5609,6 @@
     {
         "url": "rsync://mirror.liteserver.nl/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6242,7 +5618,6 @@
     {
         "url": "http://mirrors.ims.nksc.lt/archlinux/",
         "protocol": "http",
-        "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
         "ipv4": true,
@@ -6252,7 +5627,6 @@
     {
         "url": "https://mirrors.ims.nksc.lt/archlinux/",
         "protocol": "https",
-        "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
         "ipv4": true,
@@ -6262,7 +5636,6 @@
     {
         "url": "rsync://mirrors.ims.nksc.lt/archlinux/",
         "protocol": "rsync",
-        "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
         "ipv4": true,
@@ -6272,7 +5645,6 @@
     {
         "url": "http://mirror.labkom.id/archlinux/",
         "protocol": "http",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -6282,7 +5654,6 @@
     {
         "url": "rsync://mirror.labkom.id/archlinux/",
         "protocol": "rsync",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -6292,7 +5663,6 @@
     {
         "url": "https://mirrors.eric.ovh/arch/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6302,7 +5672,6 @@
     {
         "url": "http://archlinux.rezopole.net/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6312,7 +5681,6 @@
     {
         "url": "rsync://ftp.rezopole.net/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6322,7 +5690,6 @@
     {
         "url": "http://sharing.thelinuxsect.com/archlinux/",
         "protocol": "http",
-        "country": "Spain",
         "country_code": "ES",
         "isos": true,
         "ipv4": true,
@@ -6332,7 +5699,6 @@
     {
         "url": "http://mirror.arizona.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6342,7 +5708,6 @@
     {
         "url": "https://mirror.arizona.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6352,7 +5717,6 @@
     {
         "url": "rsync://mirror.arizona.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6362,7 +5726,6 @@
     {
         "url": "https://mirror.cloroformo.org/archlinux/",
         "protocol": "https",
-        "country": "Spain",
         "country_code": "ES",
         "isos": true,
         "ipv4": true,
@@ -6372,7 +5735,6 @@
     {
         "url": "http://mirror2.evolution-host.com/archlinux/",
         "protocol": "http",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -6382,7 +5744,6 @@
     {
         "url": "https://mirror2.evolution-host.com/archlinux/",
         "protocol": "https",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -6392,7 +5753,6 @@
     {
         "url": "rsync://mirror2.evolution-host.com/archlinux/",
         "protocol": "rsync",
-        "country": "Canada",
         "country_code": "CA",
         "isos": true,
         "ipv4": true,
@@ -6402,7 +5762,6 @@
     {
         "url": "http://ftpmirror.infania.net/mirror/archlinux/",
         "protocol": "http",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -6412,7 +5771,6 @@
     {
         "url": "rsync://ftpmirror.infania.net/archlinux/",
         "protocol": "rsync",
-        "country": "Sweden",
         "country_code": "SE",
         "isos": true,
         "ipv4": true,
@@ -6422,7 +5780,6 @@
     {
         "url": "http://mirror.redrock.team/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6432,7 +5789,6 @@
     {
         "url": "https://mirror.redrock.team/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6442,7 +5798,6 @@
     {
         "url": "http://archmirror1.octyl.net/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6452,7 +5807,6 @@
     {
         "url": "https://archmirror1.octyl.net/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6462,7 +5816,6 @@
     {
         "url": "http://mirror.telkomuniversity.ac.id/archlinux/",
         "protocol": "http",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -6472,7 +5825,6 @@
     {
         "url": "https://mirror.telkomuniversity.ac.id/archlinux/",
         "protocol": "https",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -6482,7 +5834,6 @@
     {
         "url": "http://mirror.serverion.com/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6492,7 +5843,6 @@
     {
         "url": "https://mirror.serverion.com/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6502,7 +5852,6 @@
     {
         "url": "rsync://mirror.serverion.com/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6512,7 +5861,6 @@
     {
         "url": "http://plug-mirror.rcac.purdue.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6522,7 +5870,6 @@
     {
         "url": "https://plug-mirror.rcac.purdue.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6532,7 +5879,6 @@
     {
         "url": "rsync://plug-mirror.rcac.purdue.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6542,7 +5888,6 @@
     {
         "url": "https://arch.rrig.gs/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6552,7 +5897,6 @@
     {
         "url": "rsync://arch.rrig.gs/arch/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6562,7 +5906,6 @@
     {
         "url": "http://mirror.efect.ro/archlinux/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -6572,7 +5915,6 @@
     {
         "url": "https://mirror.efect.ro/archlinux/",
         "protocol": "https",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -6582,7 +5924,6 @@
     {
         "url": "rsync://mirror.efect.ro/archlinux/",
         "protocol": "rsync",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -6592,7 +5933,6 @@
     {
         "url": "http://mirror.undisclose.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -6602,7 +5942,6 @@
     {
         "url": "https://mirror.undisclose.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -6612,7 +5951,6 @@
     {
         "url": "rsync://mirror.undisclose.de/files/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -6622,7 +5960,6 @@
     {
         "url": "http://mirrors.mit.edu/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6632,7 +5969,6 @@
     {
         "url": "https://mirrors.mit.edu/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6642,7 +5978,6 @@
     {
         "url": "rsync://mirrors.mit.edu/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6652,7 +5987,6 @@
     {
         "url": "http://arch.hu.fo/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6662,7 +5996,6 @@
     {
         "url": "https://arch.hu.fo/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6672,7 +6005,6 @@
     {
         "url": "rsync://arch.hu.fo/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6682,7 +6014,6 @@
     {
         "url": "http://mirrors.chroot.ro/archlinux/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -6692,7 +6023,6 @@
     {
         "url": "https://mirrors.chroot.ro/archlinux/",
         "protocol": "https",
-        "country": "Romania",
         "country_code": "RO",
         "isos": true,
         "ipv4": true,
@@ -6702,7 +6032,6 @@
     {
         "url": "http://mirrors.melbourne.co.uk/archlinux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -6712,7 +6041,6 @@
     {
         "url": "https://mirrors.melbourne.co.uk/archlinux/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -6722,7 +6050,6 @@
     {
         "url": "rsync://mirrors.melbourne.co.uk/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -6732,7 +6059,6 @@
     {
         "url": "http://mirror.tarellia.net/distr/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6742,7 +6068,6 @@
     {
         "url": "https://mirror.tarellia.net/distr/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6752,7 +6077,6 @@
     {
         "url": "rsync://mirror.tarellia.net/archlinux/",
         "protocol": "rsync",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -6762,7 +6086,6 @@
     {
         "url": "http://mirrors.piconets.webwerks.in/archlinux-mirror/",
         "protocol": "http",
-        "country": "India",
         "country_code": "IN",
         "isos": true,
         "ipv4": true,
@@ -6772,7 +6095,6 @@
     {
         "url": "https://mirrors.piconets.webwerks.in/archlinux-mirror/",
         "protocol": "https",
-        "country": "India",
         "country_code": "IN",
         "isos": true,
         "ipv4": true,
@@ -6782,7 +6104,6 @@
     {
         "url": "http://mirrors.urbanwave.co.za/archlinux/",
         "protocol": "http",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -6792,7 +6113,6 @@
     {
         "url": "https://mirrors.urbanwave.co.za/archlinux/",
         "protocol": "https",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -6802,7 +6122,6 @@
     {
         "url": "http://mirrors.dgut.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6812,7 +6131,6 @@
     {
         "url": "https://mirrors.dgut.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6822,7 +6140,6 @@
     {
         "url": "https://mirror.sysa.tech/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6832,7 +6149,6 @@
     {
         "url": "rsync://mirror.sysa.tech/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6842,7 +6158,6 @@
     {
         "url": "http://mirror.rasanegar.com/archlinux/",
         "protocol": "http",
-        "country": "Iran",
         "country_code": "IR",
         "isos": true,
         "ipv4": true,
@@ -6852,7 +6167,6 @@
     {
         "url": "https://mirror.rasanegar.com/archlinux/",
         "protocol": "https",
-        "country": "Iran",
         "country_code": "IR",
         "isos": true,
         "ipv4": true,
@@ -6862,7 +6176,6 @@
     {
         "url": "http://mirror.wuki.li/archlinux/",
         "protocol": "http",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -6872,7 +6185,6 @@
     {
         "url": "https://mirror.wuki.li/archlinux/",
         "protocol": "https",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -6882,7 +6194,6 @@
     {
         "url": "rsync://mirror.wuki.li/archlinux/",
         "protocol": "rsync",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -6892,7 +6203,6 @@
     {
         "url": "http://ftp.sudhip.com/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6902,7 +6212,6 @@
     {
         "url": "https://ftp.sudhip.com/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -6912,7 +6221,6 @@
     {
         "url": "http://mirrors.bfsu.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6922,7 +6230,6 @@
     {
         "url": "https://mirrors.bfsu.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6932,7 +6239,6 @@
     {
         "url": "rsync://mirrors.bfsu.edu.cn/archlinux/",
         "protocol": "rsync",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -6942,7 +6248,6 @@
     {
         "url": "http://mirroir.wptheme.fr/archlinux/",
         "protocol": "http",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6952,7 +6257,6 @@
     {
         "url": "https://mirroir.wptheme.fr/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6962,7 +6266,6 @@
     {
         "url": "rsync://mirroir.wptheme.fr/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -6972,7 +6275,6 @@
     {
         "url": "http://mirror.kumi.systems/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6982,7 +6284,6 @@
     {
         "url": "https://mirror.kumi.systems/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -6992,7 +6293,6 @@
     {
         "url": "rsync://mirror.kumi.systems/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7002,7 +6302,6 @@
     {
         "url": "http://mirror.fsrv.services/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -7012,7 +6311,6 @@
     {
         "url": "https://mirror.fsrv.services/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": false,
         "ipv4": true,
@@ -7022,7 +6320,6 @@
     {
         "url": "https://mirrors.slaanesh.org/archlinux/",
         "protocol": "https",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -7032,7 +6329,6 @@
     {
         "url": "rsync://mirrors.slaanesh.org/archlinux/",
         "protocol": "rsync",
-        "country": "France",
         "country_code": "FR",
         "isos": true,
         "ipv4": true,
@@ -7042,7 +6338,6 @@
     {
         "url": "http://mirror.hosthink.net/archlinux/",
         "protocol": "http",
-        "country": "Finland",
         "country_code": "FI",
         "isos": true,
         "ipv4": true,
@@ -7052,7 +6347,6 @@
     {
         "url": "http://mirrors.nju.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -7062,7 +6356,6 @@
     {
         "url": "https://mirrors.nju.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -7072,7 +6365,6 @@
     {
         "url": "rsync://mirrors.nju.edu.cn/archlinux/",
         "protocol": "rsync",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -7082,7 +6374,6 @@
     {
         "url": "http://mirror1.cl.netactuate.com/archlinux/",
         "protocol": "http",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -7092,7 +6383,6 @@
     {
         "url": "https://mirror1.cl.netactuate.com/archlinux/",
         "protocol": "https",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -7102,7 +6392,6 @@
     {
         "url": "rsync://mirror1.cl.netactuate.com/archlinux/",
         "protocol": "rsync",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -7112,7 +6401,6 @@
     {
         "url": "http://mirrors.gethosted.online/archlinux/",
         "protocol": "http",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -7122,7 +6410,6 @@
     {
         "url": "https://mirrors.gethosted.online/archlinux/",
         "protocol": "https",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -7132,7 +6419,6 @@
     {
         "url": "rsync://mirrors.gethosted.online/archlinux/",
         "protocol": "rsync",
-        "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
         "ipv4": true,
@@ -7142,7 +6428,6 @@
     {
         "url": "http://archlinux.ccns.ncku.edu.tw/archlinux/",
         "protocol": "http",
-        "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
         "ipv4": true,
@@ -7152,7 +6437,6 @@
     {
         "url": "http://phinau.de/arch/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7162,7 +6446,6 @@
     {
         "url": "https://phinau.de/arch/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7172,7 +6455,6 @@
     {
         "url": "rsync://phinau.de/arch/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7182,7 +6464,6 @@
     {
         "url": "http://mirror.anquan.cl/archlinux/",
         "protocol": "http",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -7192,7 +6473,6 @@
     {
         "url": "rsync://mirror.anquan.cl/archlinux/",
         "protocol": "rsync",
-        "country": "Chile",
         "country_code": "CL",
         "isos": true,
         "ipv4": true,
@@ -7202,7 +6482,6 @@
     {
         "url": "https://mirrors.daan.vodka/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -7212,7 +6491,6 @@
     {
         "url": "https://arch.jeweet.net/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": false,
         "ipv4": true,
@@ -7222,7 +6500,6 @@
     {
         "url": "http://mirror.satis-faction.de/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7232,7 +6509,6 @@
     {
         "url": "https://mirror.satis-faction.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7242,7 +6518,6 @@
     {
         "url": "http://mirror.sfinae.tech/pub/mirrors/archlinux/",
         "protocol": "http",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -7252,7 +6527,6 @@
     {
         "url": "https://mirror.sfinae.tech/pub/mirrors/archlinux/",
         "protocol": "https",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -7262,7 +6536,6 @@
     {
         "url": "rsync://mirror.sfinae.tech/archlinux/",
         "protocol": "rsync",
-        "country": "Poland",
         "country_code": "PL",
         "isos": true,
         "ipv4": true,
@@ -7272,7 +6545,6 @@
     {
         "url": "http://mirrors.powernet.com.ru/archlinux/",
         "protocol": "http",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -7282,7 +6554,6 @@
     {
         "url": "rsync://mirrors.powernet.com.ru/pub/archlinux/",
         "protocol": "rsync",
-        "country": "Russia",
         "country_code": "RU",
         "isos": true,
         "ipv4": true,
@@ -7292,7 +6563,6 @@
     {
         "url": "http://mirror.gi.co.id/archlinux/",
         "protocol": "http",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -7302,7 +6572,6 @@
     {
         "url": "https://mirror.gi.co.id/archlinux/",
         "protocol": "https",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -7312,7 +6581,6 @@
     {
         "url": "rsync://mirror.gi.co.id/archlinux/",
         "protocol": "rsync",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -7322,7 +6590,6 @@
     {
         "url": "http://mirror.papua.go.id/archlinux/",
         "protocol": "http",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -7332,7 +6599,6 @@
     {
         "url": "https://mirror.papua.go.id/archlinux/",
         "protocol": "https",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -7342,7 +6608,6 @@
     {
         "url": "rsync://mirror.papua.go.id/archlinux/",
         "protocol": "rsync",
-        "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
         "ipv4": true,
@@ -7352,7 +6617,6 @@
     {
         "url": "http://mirror.lyrahosting.com/archlinux/",
         "protocol": "http",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -7362,7 +6626,6 @@
     {
         "url": "https://mirror.lyrahosting.com/archlinux/",
         "protocol": "https",
-        "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
         "ipv4": true,
@@ -7372,7 +6635,6 @@
     {
         "url": "https://mirror.hodgepodge.dev/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -7382,7 +6644,6 @@
     {
         "url": "http://mirrors.hostico.ro/archlinux/",
         "protocol": "http",
-        "country": "Romania",
         "country_code": "RO",
         "isos": false,
         "ipv4": true,
@@ -7392,7 +6653,6 @@
     {
         "url": "https://mirrors.hostico.ro/archlinux/",
         "protocol": "https",
-        "country": "Romania",
         "country_code": "RO",
         "isos": false,
         "ipv4": true,
@@ -7402,7 +6662,6 @@
     {
         "url": "http://repo.inara.pk/archlinux/",
         "protocol": "http",
-        "country": "Pakistan",
         "country_code": "PK",
         "isos": true,
         "ipv4": true,
@@ -7412,7 +6671,6 @@
     {
         "url": "https://repo.inara.pk/archlinux/",
         "protocol": "https",
-        "country": "Pakistan",
         "country_code": "PK",
         "isos": true,
         "ipv4": true,
@@ -7422,7 +6680,6 @@
     {
         "url": "http://mirror.launtel.net.au/repo/arch/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -7432,7 +6689,6 @@
     {
         "url": "https://mirror.launtel.net.au/repo/arch/",
         "protocol": "https",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -7442,7 +6698,6 @@
     {
         "url": "rsync://mirror.launtel.net.au/arch/",
         "protocol": "rsync",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -7452,7 +6707,6 @@
     {
         "url": "https://mirror.dogado.de/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7462,7 +6716,6 @@
     {
         "url": "http://arch.opnmirror.co.za/",
         "protocol": "http",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -7472,7 +6725,6 @@
     {
         "url": "https://arch.opnmirror.co.za/",
         "protocol": "https",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -7482,7 +6734,6 @@
     {
         "url": "rsync://arch.opnmirror.co.za/archlinux/archlinux/",
         "protocol": "rsync",
-        "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
         "ipv4": true,
@@ -7492,7 +6743,6 @@
     {
         "url": "http://mirror.clientvps.com/archlinux/",
         "protocol": "http",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7502,7 +6752,6 @@
     {
         "url": "https://mirror.clientvps.com/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7512,7 +6761,6 @@
     {
         "url": "rsync://mirror.clientvps.com:/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7522,7 +6770,6 @@
     {
         "url": "https://zxcvfdsa.com/arch/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -7532,7 +6779,6 @@
     {
         "url": "http://mirror.ihost.md/archlinux/",
         "protocol": "http",
-        "country": "Moldova",
         "country_code": "MD",
         "isos": true,
         "ipv4": true,
@@ -7542,7 +6788,6 @@
     {
         "url": "https://mirror.ihost.md/archlinux/",
         "protocol": "https",
-        "country": "Moldova",
         "country_code": "MD",
         "isos": true,
         "ipv4": true,
@@ -7552,7 +6797,6 @@
     {
         "url": "rsync://mirror.ihost.md/archlinux/",
         "protocol": "rsync",
-        "country": "Moldova",
         "country_code": "MD",
         "isos": true,
         "ipv4": true,
@@ -7562,7 +6806,6 @@
     {
         "url": "https://mirror.autisten.club/archlinux/",
         "protocol": "https",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7572,7 +6815,6 @@
     {
         "url": "rsync://mirror.autisten.club/archlinux/",
         "protocol": "rsync",
-        "country": "Germany",
         "country_code": "DE",
         "isos": true,
         "ipv4": true,
@@ -7582,7 +6824,6 @@
     {
         "url": "http://mirror.ette.biz/archlinux/",
         "protocol": "http",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -7592,7 +6833,6 @@
     {
         "url": "https://mirror.ette.biz/archlinux/",
         "protocol": "https",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -7602,7 +6842,6 @@
     {
         "url": "rsync://mirror.ette.biz/archlinux/",
         "protocol": "rsync",
-        "country": "United States",
         "country_code": "US",
         "isos": true,
         "ipv4": true,
@@ -7612,7 +6851,6 @@
     {
         "url": "http://mirror.bizflycloud.vn/archlinux/",
         "protocol": "http",
-        "country": "Vietnam",
         "country_code": "VN",
         "isos": true,
         "ipv4": true,
@@ -7622,7 +6860,6 @@
     {
         "url": "https://theswissbay.ch/archlinux/",
         "protocol": "https",
-        "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
         "ipv4": true,
@@ -7632,7 +6869,6 @@
     {
         "url": "https://archmirror.it/",
         "protocol": "https",
-        "country": "Italy",
         "country_code": "IT",
         "isos": true,
         "ipv4": true,
@@ -7642,7 +6878,6 @@
     {
         "url": "http://mirror.anigil.com/archlinux/",
         "protocol": "http",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -7652,7 +6887,6 @@
     {
         "url": "https://mirror.anigil.com/archlinux/",
         "protocol": "https",
-        "country": "South Korea",
         "country_code": "KR",
         "isos": true,
         "ipv4": true,
@@ -7662,7 +6896,6 @@
     {
         "url": "http://mirrors.hit.edu.cn/archlinux/",
         "protocol": "http",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -7672,7 +6905,6 @@
     {
         "url": "https://mirrors.hit.edu.cn/archlinux/",
         "protocol": "https",
-        "country": "China",
         "country_code": "CN",
         "isos": true,
         "ipv4": true,
@@ -7682,7 +6914,6 @@
     {
         "url": "http://mirror.hoster.kz/archlinux/",
         "protocol": "http",
-        "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
         "ipv4": true,
@@ -7692,7 +6923,6 @@
     {
         "url": "https://mirror.hoster.kz/archlinux/",
         "protocol": "https",
-        "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
         "ipv4": true,
@@ -7702,7 +6932,6 @@
     {
         "url": "rsync://mirror.hoster.kz/archlinux/",
         "protocol": "rsync",
-        "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
         "ipv4": true,
@@ -7712,7 +6941,6 @@
     {
         "url": "http://arch.lucassymons.net/",
         "protocol": "http",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,
@@ -7722,7 +6950,6 @@
     {
         "url": "https://arch.lucassymons.net/",
         "protocol": "https",
-        "country": "Australia",
         "country_code": "AU",
         "isos": true,
         "ipv4": true,

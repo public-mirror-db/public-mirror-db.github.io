@@ -3,7 +3,7 @@
         "url": "rsync://mirrors.tera-byte.com/gentoo-portage",
         "name": "Tera-byte Dot Com Inc",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "tag": [
             "official"
         ]
@@ -12,7 +12,7 @@
         "url": "rsync://mirror.leaseweb.com/gentoo-portage",
         "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "tag": [
             "official"
         ]
@@ -21,7 +21,7 @@
         "url": "rsync://rsync.gtlib.gatech.edu/gentoo-portage",
         "name": "Georgia Tech",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "tag": [
             "official"
         ]
@@ -30,7 +30,7 @@
         "url": "rsync://mirrors.rit.edu/gentoo-portage",
         "name": "Rochester Institute of Technology",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "tag": [
             "official"
         ]
@@ -39,7 +39,7 @@
         "url": "rsync://gentoo.c3sl.ufpr.br/gentoo-portage",
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
-        "country": "BR",
+        "country_code": "BR",
         "tag": [
             "official"
         ]
@@ -48,7 +48,7 @@
         "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo-portage",
         "name": "Masaryk University Brno",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "tag": [
             "official"
         ]
@@ -57,7 +57,7 @@
         "url": "rsync://mirror.dkm.cz/gentoo-portage",
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "tag": [
             "official"
         ]
@@ -66,7 +66,7 @@
         "url": "rsync://mirror.leaseweb.com/gentoo-portage",
         "name": "LeaseWeb (Anycast: Frankfurt)",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "tag": [
             "official"
         ]
@@ -75,7 +75,7 @@
         "url": "rsync://ftp.fau.de/gentoo-portage",
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "tag": [
             "official"
         ]
@@ -84,7 +84,7 @@
         "url": "rsync://ftp-stud.hs-esslingen.de/gentoo-portage",
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "tag": [
             "official"
         ]
@@ -93,7 +93,7 @@
         "url": "rsync://mirror.eu.oneandone.net/gentoo-portage",
         "name": "1&1 Internet SE",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "tag": [
             "official"
         ]
@@ -102,7 +102,7 @@
         "url": "rsync://mirror.netcologne.de/gentoo-portage",
         "name": "Netcologne",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "tag": [
             "official"
         ]
@@ -111,7 +111,7 @@
         "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo-portage",
         "name": "RWTH Aachen University",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "tag": [
             "official"
         ]
@@ -120,7 +120,7 @@
         "url": "rsync://ftp.snt.utwente.nl/gentoo-portage",
         "name": "Universiteit Twente",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "tag": [
             "official"
         ]
@@ -129,7 +129,7 @@
         "url": "rsync://mirror.leaseweb.com/gentoo-portage",
         "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "tag": [
             "official"
         ]
@@ -138,7 +138,7 @@
         "url": "rsync://ftp.vectranet.pl/gentoo-portage",
         "name": "Vectranet",
         "description": "",
-        "country": "PL",
+        "country_code": "PL",
         "tag": [
             "official"
         ]
@@ -147,7 +147,7 @@
         "url": "rsync://mirror.bytemark.co.uk/gentoo-portage",
         "name": "Bytemark Hosting",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "tag": [
             "official"
         ]
@@ -156,7 +156,7 @@
         "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo-portage",
         "name": "Internet Initiative Japan",
         "description": "",
-        "country": "JP",
+        "country_code": "JP",
         "tag": [
             "official"
         ]
@@ -165,7 +165,7 @@
         "url": "rsync://mirror.ps.kz/gentoo-portage",
         "name": "Neo Lab's",
         "description": "",
-        "country": "KZ",
+        "country_code": "KZ",
         "tag": [
             "official"
         ]

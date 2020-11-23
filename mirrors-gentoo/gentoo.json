@@ -3,7 +3,7 @@
         "url": "ftp://mirrors.tera-byte.com/pub/gentoo",
         "name": "Tera-byte Dot Com Inc",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -13,7 +13,7 @@
         "url": "http://gentoo.mirrors.tera-byte.com/",
         "name": "Tera-byte Dot Com Inc",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "http",
         "tag": [
             "official"
@@ -23,7 +23,7 @@
         "url": "rsync://mirrors.tera-byte.com/gentoo",
         "name": "Tera-byte Dot Com Inc",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -33,7 +33,7 @@
         "url": "ftp://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
         "name": "University of Waterloo",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -43,7 +43,7 @@
         "url": "https://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
         "name": "University of Waterloo",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "http",
         "tag": [
             "official"
@@ -53,7 +53,7 @@
         "url": "http://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
         "name": "University of Waterloo",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "http",
         "tag": [
             "official"
@@ -63,7 +63,7 @@
         "url": "http://gentoo.gossamerhost.com",
         "name": "Gossamer Threads",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "http",
         "tag": [
             "official"
@@ -73,7 +73,7 @@
         "url": "rsync://gentoo.gossamerhost.com/gentoo-distfiles/",
         "name": "Gossamer Threads",
         "description": "",
-        "country": "CA",
+        "country_code": "CA",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -83,7 +83,7 @@
         "url": "https://gentoo.osuosl.org/",
         "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -93,7 +93,7 @@
         "url": "http://gentoo.osuosl.org/",
         "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -103,7 +103,7 @@
         "url": "https://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -113,7 +113,7 @@
         "url": "http://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -123,7 +123,7 @@
         "url": "rsync://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -133,7 +133,7 @@
         "url": "http://www.gtlib.gatech.edu/pub/gentoo",
         "name": "Georgia Tech",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -143,7 +143,7 @@
         "url": "rsync://rsync.gtlib.gatech.edu/gentoo",
         "name": "Georgia Tech",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -153,7 +153,7 @@
         "url": "http://gentoo.mirrors.tds.net/gentoo",
         "name": "TDS Internet Services",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -163,7 +163,7 @@
         "url": "http://gentoo.cs.utah.edu/",
         "name": "University of Utah",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -173,7 +173,7 @@
         "url": "http://gentoo.mirrors.easynews.com/linux/gentoo/",
         "name": "Easynews NNTP Hosting",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -183,7 +183,7 @@
         "url": "https://mirrors.rit.edu/gentoo/",
         "name": "Rochester Institute of Technology",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -193,7 +193,7 @@
         "url": "http://mirrors.rit.edu/gentoo/",
         "name": "Rochester Institute of Technology",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -203,7 +203,7 @@
         "url": "ftp://mirrors.rit.edu/gentoo/",
         "name": "Rochester Institute of Technology",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -213,7 +213,7 @@
         "url": "rsync://mirrors.rit.edu/gentoo/",
         "name": "Rochester Institute of Technology",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -223,7 +223,7 @@
         "url": "http://gentoo.mirrors.pair.com/",
         "name": "Pair Networks",
         "description": "",
-        "country": "US",
+        "country_code": "US",
         "protocol": "http",
         "tag": [
             "official"
@@ -233,7 +233,7 @@
         "url": "https://gentoo.c3sl.ufpr.br/",
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
-        "country": "BR",
+        "country_code": "BR",
         "protocol": "http",
         "tag": [
             "official"
@@ -243,7 +243,7 @@
         "url": "http://gentoo.c3sl.ufpr.br/",
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
-        "country": "BR",
+        "country_code": "BR",
         "protocol": "http",
         "tag": [
             "official"
@@ -253,7 +253,7 @@
         "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
-        "country": "BR",
+        "country_code": "BR",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -263,7 +263,7 @@
         "url": "http://ftp.fi.muni.cz/pub/linux/gentoo/",
         "name": "Masaryk University Brno",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "http",
         "tag": [
             "official"
@@ -273,7 +273,7 @@
         "url": "ftp://ftp.fi.muni.cz/pub/linux/gentoo/",
         "name": "Masaryk University Brno",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -283,7 +283,7 @@
         "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo/",
         "name": "Masaryk University Brno",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -293,7 +293,7 @@
         "url": "http://gentoo.mirror.web4u.cz/",
         "name": "Web4U Mirror",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "http",
         "tag": [
             "official"
@@ -303,7 +303,7 @@
         "url": "ftp://gentoo.mirror.web4u.cz/",
         "name": "Web4U Mirror",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -313,7 +313,7 @@
         "url": "http://mirror.dkm.cz/gentoo/",
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "http",
         "tag": [
             "official"
@@ -323,7 +323,7 @@
         "url": "https://mirror.dkm.cz/gentoo/",
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "http",
         "tag": [
             "official"
@@ -333,7 +333,7 @@
         "url": "ftp://mirror.dkm.cz/gentoo/",
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -343,7 +343,7 @@
         "url": "rsync://mirror.dkm.cz/gentoo/",
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
-        "country": "CZ",
+        "country_code": "CZ",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -353,7 +353,7 @@
         "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
         "name": "OVH",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "http",
         "tag": [
             "official"
@@ -363,7 +363,7 @@
         "url": "ftp://ftp.free.fr/mirrors/ftp.gentoo.org/",
         "name": "Free",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -373,7 +373,7 @@
         "url": "http://ftp.free.fr/mirrors/ftp.gentoo.org/",
         "name": "Free",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "http",
         "tag": [
             "official"
@@ -383,7 +383,7 @@
         "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
         "name": "soeasyto.com",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "http",
         "tag": [
             "official"
@@ -393,7 +393,7 @@
         "url": "http://mirrors.soeasyto.com/distfiles.gentoo.org/",
         "name": "soeasyto.com",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "http",
         "tag": [
             "official"
@@ -403,7 +403,7 @@
         "url": "ftp://mirrors.soeasyto.com/distfiles.gentoo.org/",
         "name": "soeasyto.com",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -413,7 +413,7 @@
         "url": "http://gentoo.modulix.net/gentoo/",
         "name": "modulix.net",
         "description": "",
-        "country": "FR",
+        "country_code": "FR",
         "protocol": "http",
         "tag": [
             "official"
@@ -423,7 +423,7 @@
         "url": "https://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: Frankfurt)",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -433,7 +433,7 @@
         "url": "http://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: Frankfurt)",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -443,7 +443,7 @@
         "url": "rsync://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: Frankfurt)",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -453,7 +453,7 @@
         "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
         "name": "Ruhr-Universit\u00e4t Bochum",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -463,7 +463,7 @@
         "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
         "name": "Ruhr-Universit\u00e4t Bochum",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -473,7 +473,7 @@
         "url": "https://ftp.fau.de/gentoo",
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -483,7 +483,7 @@
         "url": "http://ftp.fau.de/gentoo",
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -493,7 +493,7 @@
         "url": "ftp://ftp.fau.de/gentoo",
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -503,7 +503,7 @@
         "url": "rsync://ftp.fau.de/gentoo",
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -513,7 +513,7 @@
         "url": "ftp://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
         "name": "Dresden University of Technology/AG DSN",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -523,7 +523,7 @@
         "url": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -533,7 +533,7 @@
         "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -543,7 +543,7 @@
         "url": "rsync://ftp-stud.hs-esslingen.de/gentoo/",
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -553,7 +553,7 @@
         "url": "https://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
         "name": "1&1 Internet SE",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -563,7 +563,7 @@
         "url": "http://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
         "name": "1&1 Internet SE",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -573,7 +573,7 @@
         "url": "rsync://mirror.eu.oneandone.net/gentoo/",
         "name": "1&1 Internet SE",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -583,7 +583,7 @@
         "url": "ftp://mirror.netcologne.de/gentoo/",
         "name": "Netcologne",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -593,7 +593,7 @@
         "url": "https://mirror.netcologne.de/gentoo/",
         "name": "Netcologne",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -603,7 +603,7 @@
         "url": "http://mirror.netcologne.de/gentoo/",
         "name": "Netcologne",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -613,7 +613,7 @@
         "url": "rsync://mirror.netcologne.de/gentoo/",
         "name": "Netcologne",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -623,7 +623,7 @@
         "url": "https://ftp.halifax.rwth-aachen.de/gentoo/",
         "name": "RWTH Aachen University",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -633,7 +633,7 @@
         "url": "http://ftp.halifax.rwth-aachen.de/gentoo/",
         "name": "RWTH Aachen University",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "http",
         "tag": [
             "official"
@@ -643,7 +643,7 @@
         "url": "ftp://ftp.halifax.rwth-aachen.de/gentoo/",
         "name": "RWTH Aachen University",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -653,7 +653,7 @@
         "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo/",
         "name": "RWTH Aachen University",
         "description": "",
-        "country": "DE",
+        "country_code": "DE",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -663,7 +663,7 @@
         "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
         "name": "National Technical University of Athens",
         "description": "",
-        "country": "GR",
+        "country_code": "GR",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -673,7 +673,7 @@
         "url": "http://ftp.ntua.gr/pub/linux/gentoo/",
         "name": "National Technical University of Athens",
         "description": "",
-        "country": "GR",
+        "country_code": "GR",
         "protocol": "http",
         "tag": [
             "official"
@@ -683,7 +683,7 @@
         "url": "https://ftp.snt.utwente.nl/pub/os/linux/gentoo",
         "name": "Universiteit Twente",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "http",
         "tag": [
             "official"
@@ -693,7 +693,7 @@
         "url": "http://ftp.snt.utwente.nl/pub/os/linux/gentoo",
         "name": "Universiteit Twente",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "http",
         "tag": [
             "official"
@@ -703,7 +703,7 @@
         "url": "ftp://ftp.snt.utwente.nl/pub/os/linux/gentoo",
         "name": "Universiteit Twente",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -713,7 +713,7 @@
         "url": "rsync://ftp.snt.utwente.nl/gentoo",
         "name": "Universiteit Twente",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -723,7 +723,7 @@
         "url": "https://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "http",
         "tag": [
             "official"
@@ -733,7 +733,7 @@
         "url": "http://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "http",
         "tag": [
             "official"
@@ -743,7 +743,7 @@
         "url": "rsync://mirror.leaseweb.com/gentoo/",
         "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
-        "country": "NL",
+        "country_code": "NL",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -753,7 +753,7 @@
         "url": "rsync://ftp.vectranet.pl/gentoo/",
         "name": "Vectranet",
         "description": "",
-        "country": "PL",
+        "country_code": "PL",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -763,7 +763,7 @@
         "url": "http://ftp.vectranet.pl/gentoo/",
         "name": "Vectranet",
         "description": "",
-        "country": "PL",
+        "country_code": "PL",
         "protocol": "http",
         "tag": [
             "official"
@@ -773,7 +773,7 @@
         "url": "ftp://ftp.vectranet.pl/gentoo/",
         "name": "Vectranet",
         "description": "",
-        "country": "PL",
+        "country_code": "PL",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -783,7 +783,7 @@
         "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
         "name": "RNL - T\u00e9cnico Lisboa",
         "description": "",
-        "country": "PT",
+        "country_code": "PT",
         "protocol": "http",
         "tag": [
             "official"
@@ -793,7 +793,7 @@
         "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
         "name": "RNL - T\u00e9cnico Lisboa",
         "description": "",
-        "country": "PT",
+        "country_code": "PT",
         "protocol": "http",
         "tag": [
             "official"
@@ -803,7 +803,7 @@
         "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
         "name": "RNL - T\u00e9cnico Lisboa",
         "description": "",
-        "country": "PT",
+        "country_code": "PT",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -813,7 +813,7 @@
         "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
         "name": "RNL - T\u00e9cnico Lisboa",
         "description": "",
-        "country": "PT",
+        "country_code": "PT",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -823,7 +823,7 @@
         "url": "ftp://ftp.dei.uc.pt/pub/linux/gentoo/",
         "name": "University of Coimbra",
         "description": "",
-        "country": "PT",
+        "country_code": "PT",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -833,7 +833,7 @@
         "url": "http://ftp.dei.uc.pt/pub/linux/gentoo/",
         "name": "University of Coimbra",
         "description": "",
-        "country": "PT",
+        "country_code": "PT",
         "protocol": "http",
         "tag": [
             "official"
@@ -843,7 +843,7 @@
         "url": "http://mirrors.xservers.ro/gentoo/",
         "name": "xservers.ro Gazduire Web",
         "description": "",
-        "country": "RO",
+        "country_code": "RO",
         "protocol": "http",
         "tag": [
             "official"
@@ -853,7 +853,7 @@
         "url": "http://ftp.romnet.org/gentoo/",
         "name": "Romanian Organization Network",
         "description": "",
-        "country": "RO",
+        "country_code": "RO",
         "protocol": "http",
         "tag": [
             "official"
@@ -863,7 +863,7 @@
         "url": "ftp://mirror.mdfnet.se/gentoo",
         "name": "mdfnet.se",
         "description": "",
-        "country": "SE",
+        "country_code": "SE",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -873,7 +873,7 @@
         "url": "https://mirror.mdfnet.se/gentoo",
         "name": "mdfnet.se",
         "description": "",
-        "country": "SE",
+        "country_code": "SE",
         "protocol": "http",
         "tag": [
             "official"
@@ -883,7 +883,7 @@
         "url": "https://mirror.wheel.sk/gentoo",
         "name": "Wheel.sk",
         "description": "",
-        "country": "SK",
+        "country_code": "SK",
         "protocol": "http",
         "tag": [
             "official"
@@ -893,7 +893,7 @@
         "url": "http://mirror.wheel.sk/gentoo",
         "name": "Wheel.sk",
         "description": "",
-        "country": "SK",
+        "country_code": "SK",
         "protocol": "http",
         "tag": [
             "official"
@@ -903,7 +903,7 @@
         "url": "http://tux.rainside.sk/gentoo/",
         "name": "Rainside.sk",
         "description": "",
-        "country": "SK",
+        "country_code": "SK",
         "protocol": "http",
         "tag": [
             "official"
@@ -913,7 +913,7 @@
         "url": "ftp://tux.rainside.sk/gentoo/",
         "name": "Rainside.sk",
         "description": "",
-        "country": "SK",
+        "country_code": "SK",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -923,7 +923,7 @@
         "url": "https://ftp.linux.org.tr/gentoo/",
         "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
         "description": "",
-        "country": "TR",
+        "country_code": "TR",
         "protocol": "https",
         "tag": [
             "official"
@@ -933,7 +933,7 @@
         "url": "rsync://ftp.linux.org.tr/gentoo-distfiles/",
         "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
         "description": "",
-        "country": "TR",
+        "country_code": "TR",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -943,7 +943,7 @@
         "url": "ftp://mirror.bytemark.co.uk/gentoo/",
         "name": "Bytemark Hosting",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -953,7 +953,7 @@
         "url": "https://mirror.bytemark.co.uk/gentoo/",
         "name": "Bytemark Hosting",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "http",
         "tag": [
             "official"
@@ -963,7 +963,7 @@
         "url": "http://mirror.bytemark.co.uk/gentoo/",
         "name": "Bytemark Hosting",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "http",
         "tag": [
             "official"
@@ -973,7 +973,7 @@
         "url": "rsync://mirror.bytemark.co.uk/gentoo/",
         "name": "Bytemark Hosting",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -983,7 +983,7 @@
         "url": "ftp://mirrors.gethosted.online/gentoo",
         "name": "Get Hosted online",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -993,7 +993,7 @@
         "url": "https://mirrors.gethosted.online/gentoo",
         "name": "Get Hosted online",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "http",
         "tag": [
             "official"
@@ -1003,7 +1003,7 @@
         "url": "http://mirrors.gethosted.online/gentoo",
         "name": "Get Hosted online",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "http",
         "tag": [
             "official"
@@ -1013,7 +1013,7 @@
         "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
         "name": "The UK Mirror Service",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "http",
         "tag": [
             "official"
@@ -1023,7 +1023,7 @@
         "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org/",
         "name": "The UK Mirror Service",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "http",
         "tag": [
             "official"
@@ -1033,7 +1033,7 @@
         "url": "ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/",
         "name": "The UK Mirror Service",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1043,7 +1043,7 @@
         "url": "rsync://rsync.mirrorservice.org/distfiles.gentoo.org/",
         "name": "The UK Mirror Service",
         "description": "",
-        "country": "UK",
+        "country_code": "UK",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -1053,7 +1053,7 @@
         "url": "ftp://ftp.swin.edu.au/gentoo",
         "name": "Swinburne University of Technology",
         "description": "",
-        "country": "AU",
+        "country_code": "AU",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1063,7 +1063,7 @@
         "url": "http://ftp.swin.edu.au/gentoo",
         "name": "Swinburne University of Technology",
         "description": "",
-        "country": "AU",
+        "country_code": "AU",
         "protocol": "http",
         "tag": [
             "official"
@@ -1073,7 +1073,7 @@
         "url": "https://mirrors.163.com/gentoo/",
         "name": "Netease.com, Inc.",
         "description": "",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "tag": [
             "official"
@@ -1083,7 +1083,7 @@
         "url": "http://mirrors.163.com/gentoo/",
         "name": "Netease.com, Inc.",
         "description": "",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "tag": [
             "official"
@@ -1093,7 +1093,7 @@
         "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
         "name": "Tsinghua University",
         "description": "",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "tag": [
             "official"
@@ -1103,7 +1103,7 @@
         "url": "http://gentoo.aditsu.net:8000/",
         "name": "aditsu.net",
         "description": "",
-        "country": "HK",
+        "country_code": "HK",
         "protocol": "http",
         "tag": [
             "official"
@@ -1113,7 +1113,7 @@
         "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
         "name": "Internet Initiative Japan",
         "description": "",
-        "country": "JP",
+        "country_code": "JP",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -1123,7 +1123,7 @@
         "url": "http://ftp.iij.ad.jp/pub/linux/gentoo/",
         "name": "Internet Initiative Japan",
         "description": "",
-        "country": "JP",
+        "country_code": "JP",
         "protocol": "http",
         "tag": [
             "official"
@@ -1133,7 +1133,7 @@
         "url": "ftp://ftp.iij.ad.jp/pub/linux/gentoo/",
         "name": "Internet Initiative Japan",
         "description": "",
-        "country": "JP",
+        "country_code": "JP",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1143,7 +1143,7 @@
         "url": "ftp://mirror.rise.ph/gentoo",
         "name": "RISE",
         "description": "",
-        "country": "PH",
+        "country_code": "PH",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1153,7 +1153,7 @@
         "url": "http://mirror.rise.ph/gentoo",
         "name": "RISE",
         "description": "",
-        "country": "PH",
+        "country_code": "PH",
         "protocol": "http",
         "tag": [
             "official"
@@ -1163,7 +1163,7 @@
         "url": "http://ftp.kaist.ac.kr/pub/gentoo/",
         "name": "KAIST",
         "description": "",
-        "country": "KR",
+        "country_code": "KR",
         "protocol": "http",
         "tag": [
             "official"
@@ -1173,7 +1173,7 @@
         "url": "ftp://ftp.kaist.ac.kr/gentoo/",
         "name": "KAIST",
         "description": "",
-        "country": "KR",
+        "country_code": "KR",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1183,7 +1183,7 @@
         "url": "http://ftp.lanet.kr/pub/gentoo/",
         "name": "lanet.kr",
         "description": "",
-        "country": "KR",
+        "country_code": "KR",
         "protocol": "http",
         "tag": [
             "official"
@@ -1193,7 +1193,7 @@
         "url": "https://ftp.lanet.kr/pub/gentoo/",
         "name": "lanet.kr",
         "description": "",
-        "country": "KR",
+        "country_code": "KR",
         "protocol": "http",
         "tag": [
             "official"
@@ -1203,7 +1203,7 @@
         "url": "ftp://ftp.lanet.kr/pub/gentoo/",
         "name": "lanet.kr",
         "description": "",
-        "country": "KR",
+        "country_code": "KR",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1213,7 +1213,7 @@
         "url": "http://ftp.daum.net/gentoo/",
         "name": "Daum Communications Corp",
         "description": "",
-        "country": "KR",
+        "country_code": "KR",
         "protocol": "http",
         "tag": [
             "official"
@@ -1223,7 +1223,7 @@
         "url": "https://mirror.yandex.ru/gentoo-distfiles/",
         "name": "Yandex.ru",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "http",
         "tag": [
             "official"
@@ -1233,7 +1233,7 @@
         "url": "http://mirror.yandex.ru/gentoo-distfiles/",
         "name": "Yandex.ru",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "http",
         "tag": [
             "official"
@@ -1243,7 +1243,7 @@
         "url": "ftp://mirror.yandex.ru/gentoo-distfiles/",
         "name": "Yandex.ru",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1253,7 +1253,7 @@
         "url": "https://gentoo-mirror.alexxy.name/",
         "name": "Alexxy.name",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "http",
         "tag": [
             "official"
@@ -1263,7 +1263,7 @@
         "url": "http://gentoo-mirror.alexxy.name/",
         "name": "Alexxy.name",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "http",
         "tag": [
             "official"
@@ -1273,7 +1273,7 @@
         "url": "http://gentoo.bloodhost.ru/",
         "name": "Bloodhost.ru",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "http",
         "tag": [
             "official"
@@ -1283,7 +1283,7 @@
         "url": "ftp://gentoo.bloodhost.ru/",
         "name": "Bloodhost.ru",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1293,7 +1293,7 @@
         "url": "rsync://gentoo.bloodhost.ru/gentoo-distfiles",
         "name": "Bloodhost.ru",
         "description": "",
-        "country": "RU",
+        "country_code": "RU",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -1303,7 +1303,7 @@
         "url": "http://ftp.twaren.net/Linux/Gentoo/",
         "name": "National Center for High-Performance Computing",
         "description": "",
-        "country": "TW",
+        "country_code": "TW",
         "protocol": "http",
         "tag": [
             "official"
@@ -1313,7 +1313,7 @@
         "url": "ftp://ftp.twaren.net/Linux/Gentoo/",
         "name": "National Center for High-Performance Computing",
         "description": "",
-        "country": "TW",
+        "country_code": "TW",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1323,7 +1323,7 @@
         "url": "https://mirror.isoc.org.il/pub/gentoo/",
         "name": "Hamakor FOSS Society",
         "description": "",
-        "country": "IL",
+        "country_code": "IL",
         "protocol": "http",
         "tag": [
             "official"
@@ -1333,7 +1333,7 @@
         "url": "http://mirror.isoc.org.il/pub/gentoo/",
         "name": "Hamakor FOSS Society",
         "description": "",
-        "country": "IL",
+        "country_code": "IL",
         "protocol": "http",
         "tag": [
             "official"
@@ -1343,7 +1343,7 @@
         "url": "https://mirror.ps.kz/gentoo/pub",
         "name": "Neo Lab's",
         "description": "",
-        "country": "KZ",
+        "country_code": "KZ",
         "protocol": "http",
         "tag": [
             "official"
@@ -1353,7 +1353,7 @@
         "url": "http://mirror.ps.kz/gentoo/pub",
         "name": "Neo Lab's",
         "description": "",
-        "country": "KZ",
+        "country_code": "KZ",
         "protocol": "http",
         "tag": [
             "official"
@@ -1363,7 +1363,7 @@
         "url": "ftp://mirror.ps.kz/gentoo/pub",
         "name": "Neo Lab's",
         "description": "",
-        "country": "KZ",
+        "country_code": "KZ",
         "protocol": "ftp",
         "tag": [
             "official"
@@ -1373,7 +1373,7 @@
         "url": "rsync://mirror.ps.kz/gentoo",
         "name": "Neo Lab's",
         "description": "",
-        "country": "KZ",
+        "country_code": "KZ",
         "protocol": "rsync",
         "tag": [
             "official"
@@ -1381,7 +1381,7 @@
     },
     {
         "name": "Tuna",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
         "description": "",
@@ -1389,7 +1389,7 @@
     },
     {
         "name": "Tuna",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "rsync",
         "url": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo",
         "description": "",
@@ -1397,7 +1397,7 @@
     },
     {
         "name": "163",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.163.com/gentoo",
         "description": "",
@@ -1406,7 +1406,7 @@
     {
         "name": "ZJU",
         "description": "Mirror site provided by Zhe Jiang University",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.zju.edu.cn/gentoo",
         "tag": []
@@ -1414,7 +1414,7 @@
     {
         "name": "USTC",
         "description": "Mirror site provided by University of Science and Technology of China",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.ustc.edu.cn/gentoo",
         "tag": [
@@ -1424,7 +1424,7 @@
     {
         "name": "SJTU",
         "description": "Mirror site provided by Shanghai Jiao Tong University",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
         "tag": []
@@ -1432,7 +1432,7 @@
     {
         "name": "BIT",
         "description": "Mirror site provided by Beijing Inistitute of Technology",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirror.bit.edu.cn/gentoo",
         "tag": [
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "sohu",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.sohu.com/gentoo",
         "description": "",
@@ -1449,7 +1449,7 @@
     },
     {
         "name": "yun-idc",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "http://mirrors.yun-idc.com/gentoo",
         "description": "",
@@ -1458,7 +1458,7 @@
     {
         "name": "LZU",
         "description": "Mirror site provided by Lan Zhou University",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirror.lzu.edu.cn/gentoo",
         "tag": []
@@ -1466,14 +1466,14 @@
     {
         "name": "XMU",
         "description": "Mirror site provided by Xia Men University",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.xmu.edu.cn/gentoo",
         "tag": []
     },
     {
         "name": "neusoft",
-        "country": "CN",
+        "country_code": "CN",
         "protocol": "http",
         "url": "http://mirrors.neusoft.edu.cn/gentoo",
         "description": "",
