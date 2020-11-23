@@ -1,5 +1,6 @@
-{
-    "rsync://mirrors.tera-byte.com/gentoo-portage": {
+[
+    {
+        "url": "rsync://mirrors.tera-byte.com/gentoo-portage",
         "name": "Tera-byte Dot Com Inc",
         "description": "",
         "country": "CA",
@@ -7,15 +8,17 @@
             "official"
         ]
     },
-    "rsync://mirror.leaseweb.com/gentoo-portage": {
-        "name": "LeaseWeb (Anycast: Amsterdam)",
+    {
+        "url": "rsync://mirror.leaseweb.com/gentoo-portage",
+        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country": "NL",
+        "country": "US",
         "tag": [
             "official"
         ]
     },
-    "rsync://rsync.gtlib.gatech.edu/gentoo-portage": {
+    {
+        "url": "rsync://rsync.gtlib.gatech.edu/gentoo-portage",
         "name": "Georgia Tech",
         "description": "",
         "country": "US",
@@ -23,7 +26,8 @@
             "official"
         ]
     },
-    "rsync://mirrors.rit.edu/gentoo-portage": {
+    {
+        "url": "rsync://mirrors.rit.edu/gentoo-portage",
         "name": "Rochester Institute of Technology",
         "description": "",
         "country": "US",
@@ -31,7 +35,8 @@
             "official"
         ]
     },
-    "rsync://gentoo.c3sl.ufpr.br/gentoo-portage": {
+    {
+        "url": "rsync://gentoo.c3sl.ufpr.br/gentoo-portage",
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
         "country": "BR",
@@ -39,7 +44,8 @@
             "official"
         ]
     },
-    "rsync://ftp.fi.muni.cz/pub/linux/gentoo-portage": {
+    {
+        "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo-portage",
         "name": "Masaryk University Brno",
         "description": "",
         "country": "CZ",
@@ -47,7 +53,8 @@
             "official"
         ]
     },
-    "rsync://mirror.dkm.cz/gentoo-portage": {
+    {
+        "url": "rsync://mirror.dkm.cz/gentoo-portage",
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
         "country": "CZ",
@@ -55,7 +62,17 @@
             "official"
         ]
     },
-    "rsync://ftp.fau.de/gentoo-portage": {
+    {
+        "url": "rsync://mirror.leaseweb.com/gentoo-portage",
+        "name": "LeaseWeb (Anycast: Frankfurt)",
+        "description": "",
+        "country": "DE",
+        "tag": [
+            "official"
+        ]
+    },
+    {
+        "url": "rsync://ftp.fau.de/gentoo-portage",
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
         "country": "DE",
@@ -63,7 +80,8 @@
             "official"
         ]
     },
-    "rsync://ftp-stud.hs-esslingen.de/gentoo-portage": {
+    {
+        "url": "rsync://ftp-stud.hs-esslingen.de/gentoo-portage",
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
         "country": "DE",
@@ -71,7 +89,8 @@
             "official"
         ]
     },
-    "rsync://mirror.eu.oneandone.net/gentoo-portage": {
+    {
+        "url": "rsync://mirror.eu.oneandone.net/gentoo-portage",
         "name": "1&1 Internet SE",
         "description": "",
         "country": "DE",
@@ -79,7 +98,8 @@
             "official"
         ]
     },
-    "rsync://mirror.netcologne.de/gentoo-portage": {
+    {
+        "url": "rsync://mirror.netcologne.de/gentoo-portage",
         "name": "Netcologne",
         "description": "",
         "country": "DE",
@@ -87,7 +107,8 @@
             "official"
         ]
     },
-    "rsync://ftp.halifax.rwth-aachen.de/gentoo-portage": {
+    {
+        "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo-portage",
         "name": "RWTH Aachen University",
         "description": "",
         "country": "DE",
@@ -95,7 +116,8 @@
             "official"
         ]
     },
-    "rsync://ftp.snt.utwente.nl/gentoo-portage": {
+    {
+        "url": "rsync://ftp.snt.utwente.nl/gentoo-portage",
         "name": "Universiteit Twente",
         "description": "",
         "country": "NL",
@@ -103,7 +125,17 @@
             "official"
         ]
     },
-    "rsync://ftp.vectranet.pl/gentoo-portage": {
+    {
+        "url": "rsync://mirror.leaseweb.com/gentoo-portage",
+        "name": "LeaseWeb (Anycast: Amsterdam)",
+        "description": "",
+        "country": "NL",
+        "tag": [
+            "official"
+        ]
+    },
+    {
+        "url": "rsync://ftp.vectranet.pl/gentoo-portage",
         "name": "Vectranet",
         "description": "",
         "country": "PL",
@@ -111,7 +143,8 @@
             "official"
         ]
     },
-    "rsync://mirror.bytemark.co.uk/gentoo-portage": {
+    {
+        "url": "rsync://mirror.bytemark.co.uk/gentoo-portage",
         "name": "Bytemark Hosting",
         "description": "",
         "country": "UK",
@@ -119,7 +152,8 @@
             "official"
         ]
     },
-    "rsync://ftp.iij.ad.jp/pub/linux/gentoo-portage": {
+    {
+        "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo-portage",
         "name": "Internet Initiative Japan",
         "description": "",
         "country": "JP",
@@ -127,7 +161,8 @@
             "official"
         ]
     },
-    "rsync://mirror.ps.kz/gentoo-portage": {
+    {
+        "url": "rsync://mirror.ps.kz/gentoo-portage",
         "name": "Neo Lab's",
         "description": "",
         "country": "KZ",
@@ -135,46 +170,11 @@
             "official"
         ]
     },
-    "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo-portage": {
-        "name": "Tuna",
-        "country": "CN",
-        "description": "",
-        "tag": []
-    },
-    "rsync://mirrors.163.com/gentoo-portage": {
-        "name": "163",
-        "country": "CN",
-        "description": "",
-        "tag": []
-    },
-    "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage": {
-        "name": "aliyun",
-        "country": "CN",
-        "description": "",
-        "tag": []
-    },
-    "rsync//mirror.bit.edu.cn/gentoo-portage": {
-        "name": "BIT",
-        "description": "Mirror site provided by Beijing Inistitute of Technology",
-        "country": "CN",
-        "tag": []
-    },
-    "rsync://mirrors.yun-idc.com/gentoo-portage": {
-        "name": "yun-idc",
-        "country": "CN",
-        "description": "",
-        "tag": []
-    },
-    "rsync://mirror.lzu.edu.cn/gentoo-portage": {
-        "name": "LZU",
-        "description": "Mirror site provided by Lan Zhou University",
-        "country": "CN",
-        "tag": []
-    },
-    "rsync://mirrors.xmu.edu.cn/gentoo-portage": {
+    {
         "name": "XMU",
         "description": "Mirror site provided by Xia Men University",
         "country": "CN",
+        "url": "http://mirrors.neusoft.edu.cn/gentoo",
         "tag": []
     }
-}
+]
