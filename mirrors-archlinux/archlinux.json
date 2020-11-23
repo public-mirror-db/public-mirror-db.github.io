@@ -2,7 +2,6 @@
     {
         "url": "https://mirror.aarnet.edu.au/pub/archlinux/",
         "protocol": "https",
-        "score": 13.880692024857355,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -13,7 +12,6 @@
     {
         "url": "rsync://mirror.aarnet.edu.au/archlinux/",
         "protocol": "rsync",
-        "score": 17.537193659081215,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -24,7 +22,6 @@
     {
         "url": "http://mir.archlinux.fr/",
         "protocol": "http",
-        "score": 2.2173581974995726,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -35,7 +32,6 @@
     {
         "url": "http://ftp.tu-chemnitz.de/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 12.728490715660639,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -46,7 +42,6 @@
     {
         "url": "http://ftp.hosteurope.de/mirror/ftp.archlinux.org/",
         "protocol": "http",
-        "score": 3.1088140972317895,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -57,7 +52,6 @@
     {
         "url": "rsync://ftp.hosteurope.de/archlinux/",
         "protocol": "rsync",
-        "score": 3.404565214662415,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -68,7 +62,6 @@
     {
         "url": "http://mirrors.rit.edu/archlinux/",
         "protocol": "http",
-        "score": 0.7996559631373586,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -79,7 +72,6 @@
     {
         "url": "https://mirrors.rit.edu/archlinux/",
         "protocol": "https",
-        "score": 1.0313259619648625,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -90,7 +82,6 @@
     {
         "url": "rsync://mirrors.rit.edu/archlinux/",
         "protocol": "rsync",
-        "score": 1.9285369771585656,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -101,7 +92,6 @@
     {
         "url": "http://ftp.energia.mta.hu/pub/mirrors/ftp.archlinux.org/",
         "protocol": "http",
-        "score": 1.82695482559884,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -112,7 +102,6 @@
     {
         "url": "http://ftp.heanet.ie/mirrors/ftp.archlinux.org/",
         "protocol": "http",
-        "score": 44.37562901849762,
         "country": "Ireland",
         "country_code": "IE",
         "isos": true,
@@ -123,7 +112,6 @@
     {
         "url": "https://ftp.heanet.ie/mirrors/ftp.archlinux.org/",
         "protocol": "https",
-        "score": 50.90683950244156,
         "country": "Ireland",
         "country_code": "IE",
         "isos": true,
@@ -134,7 +122,6 @@
     {
         "url": "http://ftp.nluug.nl/os/Linux/distr/archlinux/",
         "protocol": "http",
-        "score": 0.3235552059548231,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -145,7 +132,6 @@
     {
         "url": "rsync://ftp.nluug.nl/archlinux/",
         "protocol": "rsync",
-        "score": 0.7221429423142459,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -156,7 +142,6 @@
     {
         "url": "http://ftp.gwdg.de/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 1.5323089406553794,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -167,7 +152,6 @@
     {
         "url": "rsync://ftp.gwdg.de/pub/linux/archlinux/",
         "protocol": "rsync",
-        "score": 1.775508294891419,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -178,7 +162,6 @@
     {
         "url": "http://mirror.puzzle.ch/archlinux/",
         "protocol": "http",
-        "score": 0.8052140253291016,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -189,7 +172,6 @@
     {
         "url": "https://mirror.puzzle.ch/archlinux/",
         "protocol": "https",
-        "score": 0.896671893511644,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -200,7 +182,6 @@
     {
         "url": "rsync://mirror.puzzle.ch/archlinux/",
         "protocol": "rsync",
-        "score": 1.5920513503448943,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -211,7 +192,6 @@
     {
         "url": "http://ftp.linux.org.tr/archlinux/",
         "protocol": "http",
-        "score": 3.78630843437785,
         "country": "Turkey",
         "country_code": "TR",
         "isos": true,
@@ -222,7 +202,6 @@
     {
         "url": "http://www.gtlib.gatech.edu/pub/archlinux/",
         "protocol": "http",
-        "score": 215.99041129782336,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -233,7 +212,6 @@
     {
         "url": "rsync://rsync.gtlib.gatech.edu/archlinux/",
         "protocol": "rsync",
-        "score": 218.04662685176476,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -244,7 +222,6 @@
     {
         "url": "http://ftp.uni-kl.de/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 12.78467767670837,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -255,7 +232,6 @@
     {
         "url": "rsync://ftp.uni-kl.de/pub/linux/archlinux/",
         "protocol": "rsync",
-        "score": 13.358796799784427,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -266,7 +242,6 @@
     {
         "url": "http://ftp.uni-bayreuth.de/linux/archlinux/",
         "protocol": "http",
-        "score": 12.702203924719422,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -277,7 +252,6 @@
     {
         "url": "http://archlinux.mirrors.uk2.net/",
         "protocol": "http",
-        "score": 0.5962310710128498,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -288,7 +262,6 @@
     {
         "url": "rsync://mirrors.uk2.net/archlinux/",
         "protocol": "rsync",
-        "score": 0.9285392770934369,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -299,7 +272,6 @@
     {
         "url": "http://mirror.csclub.uwaterloo.ca/archlinux/",
         "protocol": "http",
-        "score": 0.475778436045171,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -310,7 +282,6 @@
     {
         "url": "https://mirror.csclub.uwaterloo.ca/archlinux/",
         "protocol": "https",
-        "score": 0.6672896047433081,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -321,7 +292,6 @@
     {
         "url": "rsync://mirror.csclub.uwaterloo.ca/archlinux/",
         "protocol": "rsync",
-        "score": 1.5181263800549987,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -332,7 +302,6 @@
     {
         "url": "http://mirror.umd.edu/archlinux/",
         "protocol": "http",
-        "score": 3.9499377562322455,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -343,7 +312,6 @@
     {
         "url": "rsync://mirror.umd.edu/archlinux/",
         "protocol": "rsync",
-        "score": 4.86698240875952,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -354,7 +322,6 @@
     {
         "url": "http://ftp.iinet.net.au/pub/archlinux/",
         "protocol": "http",
-        "score": 1.5444025024552968,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -365,7 +332,6 @@
     {
         "url": "rsync://ftp.iinet.net.au/archlinux/",
         "protocol": "rsync",
-        "score": 6.819901632822407,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -376,7 +342,6 @@
     {
         "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/",
         "protocol": "http",
-        "score": 4.793947287047549,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -387,7 +352,6 @@
     {
         "url": "rsync://ftp-stud.hs-esslingen.de/archlinux/",
         "protocol": "rsync",
-        "score": 5.116411424105948,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -398,7 +362,6 @@
     {
         "url": "http://mirror.archlinux.no/",
         "protocol": "http",
-        "score": 0.6864653681773432,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -409,7 +372,6 @@
     {
         "url": "https://mirror.archlinux.no/",
         "protocol": "https",
-        "score": 0.6408231472769941,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -420,7 +382,6 @@
     {
         "url": "http://mirror.internode.on.net/pub/archlinux/",
         "protocol": "http",
-        "score": 1.3532889184530605,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -431,7 +392,6 @@
     {
         "url": "rsync://mirror.internode.on.net/archlinux/",
         "protocol": "rsync",
-        "score": 6.64910111443937,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -442,7 +402,6 @@
     {
         "url": "http://mirror.isoc.org.il/pub/archlinux/",
         "protocol": "http",
-        "score": 3.0194214434499838,
         "country": "Israel",
         "country_code": "IL",
         "isos": true,
@@ -453,7 +412,6 @@
     {
         "url": "http://ftp.osuosl.org/pub/archlinux/",
         "protocol": "http",
-        "score": 6.3439480322615625,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -464,7 +422,6 @@
     {
         "url": "rsync://ftp.osuosl.org/archlinux/",
         "protocol": "rsync",
-        "score": 7.942126489973543,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -475,7 +432,6 @@
     {
         "url": "http://archlinux.c3sl.ufpr.br/",
         "protocol": "http",
-        "score": 0.6698640125033988,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -486,7 +442,6 @@
     {
         "url": "rsync://archlinux.c3sl.ufpr.br/archlinux/",
         "protocol": "rsync",
-        "score": 3.4141894274862477,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -497,7 +452,6 @@
     {
         "url": "http://mirror.yandex.ru/archlinux/",
         "protocol": "http",
-        "score": 2.4506277189149905,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -508,7 +462,6 @@
     {
         "url": "https://mirror.yandex.ru/archlinux/",
         "protocol": "https",
-        "score": 2.4830597217408434,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -519,7 +472,6 @@
     {
         "url": "http://mirror.archlinux.cl/",
         "protocol": "http",
-        "score": 1.6997879539661611,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -530,7 +482,6 @@
     {
         "url": "http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
         "protocol": "http",
-        "score": 2.1010410076570247,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -541,7 +492,6 @@
     {
         "url": "https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/",
         "protocol": "https",
-        "score": 2.2985067701085202,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -552,7 +502,6 @@
     {
         "url": "rsync://rsync.spline.inf.fu-berlin.de/archlinux/",
         "protocol": "rsync",
-        "score": 3.5138567518519483,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -563,7 +512,6 @@
     {
         "url": "http://mirror.selfnet.de/archlinux/",
         "protocol": "http",
-        "score": 0.6605236831673033,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -574,7 +522,6 @@
     {
         "url": "https://mirror.selfnet.de/archlinux/",
         "protocol": "https",
-        "score": 0.6910063370244173,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -585,7 +532,6 @@
     {
         "url": "rsync://mirror.selfnet.de/archlinux/",
         "protocol": "rsync",
-        "score": 1.0236092171612625,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -596,7 +542,6 @@
     {
         "url": "http://mirrors.lug.mtu.edu/archlinux/",
         "protocol": "http",
-        "score": 0.43024830683957016,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -607,7 +552,6 @@
     {
         "url": "https://mirrors.lug.mtu.edu/archlinux/",
         "protocol": "https",
-        "score": 0.5613274324766423,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -618,7 +562,6 @@
     {
         "url": "rsync://mirrors.lug.mtu.edu/archlinux/",
         "protocol": "rsync",
-        "score": 1.7381720048146503,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -629,7 +572,6 @@
     {
         "url": "http://ftp.rediris.es/mirror/archlinux/",
         "protocol": "http",
-        "score": 398.30581498805026,
         "country": "Spain",
         "country_code": "ES",
         "isos": true,
@@ -640,7 +582,6 @@
     {
         "url": "http://archlinux.nautile.nc/archlinux/",
         "protocol": "http",
-        "score": 14.213694430437773,
         "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
@@ -651,7 +592,6 @@
     {
         "url": "https://archlinux.nautile.nc/archlinux/",
         "protocol": "https",
-        "score": 14.024164559580996,
         "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
@@ -662,7 +602,6 @@
     {
         "url": "rsync://rsync.archlinux.nautile.nc/archlinux/",
         "protocol": "rsync",
-        "score": 19.845572587403794,
         "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
@@ -673,7 +612,6 @@
     {
         "url": "http://ftp.otenet.gr/linux/archlinux/",
         "protocol": "http",
-        "score": 3.4574635671888645,
         "country": "Greece",
         "country_code": "GR",
         "isos": true,
@@ -684,7 +622,6 @@
     {
         "url": "http://mirror.cse.iitk.ac.in/archlinux/",
         "protocol": "http",
-        "score": 17.64966550918035,
         "country": "India",
         "country_code": "IN",
         "isos": true,
@@ -695,7 +632,6 @@
     {
         "url": "http://mirrors.xmission.com/archlinux/",
         "protocol": "http",
-        "score": 3.958165714806008,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -706,7 +642,6 @@
     {
         "url": "http://ftp.cc.uoc.gr/mirrors/linux/archlinux/",
         "protocol": "http",
-        "score": 3.5981427806591704,
         "country": "Greece",
         "country_code": "GR",
         "isos": true,
@@ -717,7 +652,6 @@
     {
         "url": "http://ftp.tku.edu.tw/Linux/ArchLinux/",
         "protocol": "http",
-        "score": 205.83487799654017,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -728,7 +662,6 @@
     {
         "url": "rsync://ftp.tku.edu.tw/archlinux/",
         "protocol": "rsync",
-        "score": 207.88024840955273,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -739,7 +672,6 @@
     {
         "url": "http://mirrors.kernel.org/archlinux/",
         "protocol": "http",
-        "score": 1.6925107789094282,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -750,7 +682,6 @@
     {
         "url": "https://mirrors.kernel.org/archlinux/",
         "protocol": "https",
-        "score": 2.0586275700043464,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -761,7 +692,6 @@
     {
         "url": "rsync://mirrors.kernel.org/archlinux/",
         "protocol": "rsync",
-        "score": 1.7864154045506757,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -772,7 +702,6 @@
     {
         "url": "http://mirrors.163.com/archlinux/",
         "protocol": "http",
-        "score": 10.590733547028826,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -783,7 +712,6 @@
     {
         "url": "http://archlinux.mirror.kangaroot.net/",
         "protocol": "http",
-        "score": 1.8340826385702482,
         "country": "Belgium",
         "country_code": "BE",
         "isos": true,
@@ -794,7 +722,6 @@
     {
         "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
         "protocol": "http",
-        "score": 0.7056986532010969,
         "country": "Portugal",
         "country_code": "PT",
         "isos": true,
@@ -805,7 +732,6 @@
     {
         "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
         "protocol": "https",
-        "score": 0.8341497855785085,
         "country": "Portugal",
         "country_code": "PT",
         "isos": true,
@@ -816,7 +742,6 @@
     {
         "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/",
         "protocol": "rsync",
-        "score": 1.5066278858077762,
         "country": "Portugal",
         "country_code": "PT",
         "isos": true,
@@ -827,7 +752,6 @@
     {
         "url": "http://mirrors.dotsrc.org/archlinux/",
         "protocol": "http",
-        "score": 0.6118591087590373,
         "country": "Denmark",
         "country_code": "DK",
         "isos": true,
@@ -838,7 +762,6 @@
     {
         "url": "https://mirrors.dotsrc.org/archlinux/",
         "protocol": "https",
-        "score": 0.666508463392418,
         "country": "Denmark",
         "country_code": "DK",
         "isos": true,
@@ -849,7 +772,6 @@
     {
         "url": "rsync://mirrors.dotsrc.org/archlinux/",
         "protocol": "rsync",
-        "score": 1.0997539268311347,
         "country": "Denmark",
         "country_code": "DK",
         "isos": true,
@@ -860,7 +782,6 @@
     {
         "url": "http://mirror.its.dal.ca/archlinux/",
         "protocol": "http",
-        "score": 6.736396868501174,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -871,7 +792,6 @@
     {
         "url": "rsync://mirror.its.dal.ca/archlinux/",
         "protocol": "rsync",
-        "score": 13.815370812586645,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -882,7 +802,6 @@
     {
         "url": "http://archlinux.mirrors.ovh.net/archlinux/",
         "protocol": "http",
-        "score": 23.199193274828612,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -893,7 +812,6 @@
     {
         "url": "http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
         "protocol": "http",
-        "score": 1.3148628386834789,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -904,7 +822,6 @@
     {
         "url": "https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
         "protocol": "https",
-        "score": 1.6633956658181757,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -915,7 +832,6 @@
     {
         "url": "rsync://ftp.jaist.ac.jp/pub/Linux/ArchLinux/",
         "protocol": "rsync",
-        "score": 3.931159236519875,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -926,7 +842,6 @@
     {
         "url": "http://ftp.halifax.rwth-aachen.de/archlinux/",
         "protocol": "http",
-        "score": 0.05644368758594245,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -937,7 +852,6 @@
     {
         "url": "https://ftp.halifax.rwth-aachen.de/archlinux/",
         "protocol": "https",
-        "score": 0.17735163838930215,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -948,7 +862,6 @@
     {
         "url": "rsync://ftp.halifax.rwth-aachen.de/archlinux/",
         "protocol": "rsync",
-        "score": 0.23088134905336774,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -959,7 +872,6 @@
     {
         "url": "http://artfiles.org/archlinux.org/",
         "protocol": "http",
-        "score": 14.209081580891366,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -970,7 +882,6 @@
     {
         "url": "http://mirror.datacenter.by/pub/archlinux/",
         "protocol": "http",
-        "score": 1.0199773760179967,
         "country": "Belarus",
         "country_code": "BY",
         "isos": true,
@@ -981,7 +892,6 @@
     {
         "url": "rsync://mirror.datacenter.by/archlinux/",
         "protocol": "rsync",
-        "score": 1.4558842916311043,
         "country": "Belarus",
         "country_code": "BY",
         "isos": true,
@@ -992,7 +902,6 @@
     {
         "url": "http://archlinux.uib.no/",
         "protocol": "http",
-        "score": 3.8173647664013,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -1003,7 +912,6 @@
     {
         "url": "http://mirrors.cat.pdx.edu/archlinux/",
         "protocol": "http",
-        "score": 1.5066441669519606,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1014,7 +922,6 @@
     {
         "url": "rsync://mirrors.cat.pdx.edu/archlinux/",
         "protocol": "rsync",
-        "score": 3.1338796768195563,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1025,7 +932,6 @@
     {
         "url": "http://mirror.vpsfree.cz/archlinux/",
         "protocol": "http",
-        "score": 0.5969899912271697,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -1036,7 +942,6 @@
     {
         "url": "http://mirrors.prometeus.net/archlinux/",
         "protocol": "http",
-        "score": 3.547834814494906,
         "country": "Italy",
         "country_code": "IT",
         "isos": true,
@@ -1047,7 +952,6 @@
     {
         "url": "http://archlinux.cs.nctu.edu.tw/",
         "protocol": "http",
-        "score": 2.664806907197316,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -1058,7 +962,6 @@
     {
         "url": "rsync://archlinux.cs.nctu.edu.tw/archlinux/",
         "protocol": "rsync",
-        "score": 5.048566451807913,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -1069,7 +972,6 @@
     {
         "url": "http://shadow.ind.ntou.edu.tw/archlinux/",
         "protocol": "http",
-        "score": 205.82402513960028,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -1080,7 +982,6 @@
     {
         "url": "https://shadow.ind.ntou.edu.tw/archlinux/",
         "protocol": "https",
-        "score": 205.9527762572418,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -1091,7 +992,6 @@
     {
         "url": "http://ftp.byfly.by/pub/archlinux/",
         "protocol": "http",
-        "score": 1.2942939920865295,
         "country": "Belarus",
         "country_code": "BY",
         "isos": true,
@@ -1102,7 +1002,6 @@
     {
         "url": "rsync://ftp.byfly.by/archlinux/",
         "protocol": "rsync",
-        "score": 1.788954366640624,
         "country": "Belarus",
         "country_code": "BY",
         "isos": true,
@@ -1113,7 +1012,6 @@
     {
         "url": "http://archlinux.mirror.root.lu/",
         "protocol": "http",
-        "score": 1.635912578912118,
         "country": "Luxembourg",
         "country_code": "LU",
         "isos": true,
@@ -1124,7 +1022,6 @@
     {
         "url": "http://mirrors.rutgers.edu/archlinux/",
         "protocol": "http",
-        "score": 3.8389492068989726,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1135,7 +1032,6 @@
     {
         "url": "https://mirrors.rutgers.edu/archlinux/",
         "protocol": "https",
-        "score": 4.1683885104492955,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1146,7 +1042,6 @@
     {
         "url": "http://archlinux.polymorf.fr/",
         "protocol": "http",
-        "score": 0.7252745793733038,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -1157,7 +1052,6 @@
     {
         "url": "rsync://archlinux.polymorf.fr/archlinux/",
         "protocol": "rsync",
-        "score": 0.8643558122524063,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -1168,7 +1062,6 @@
     {
         "url": "http://ftp.ntua.gr/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 3.2050839495824324,
         "country": "Greece",
         "country_code": "GR",
         "isos": true,
@@ -1179,7 +1072,6 @@
     {
         "url": "rsync://ftp.ntua.gr/archlinux/",
         "protocol": "rsync",
-        "score": 3.667514018464787,
         "country": "Greece",
         "country_code": "GR",
         "isos": true,
@@ -1190,7 +1082,6 @@
     {
         "url": "http://mirrors.nix.org.ua/linux/archlinux/",
         "protocol": "http",
-        "score": 5.624163400025168,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -1201,7 +1092,6 @@
     {
         "url": "https://mirrors.nix.org.ua/linux/archlinux/",
         "protocol": "https",
-        "score": 5.7053393033941395,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -1212,7 +1102,6 @@
     {
         "url": "rsync://mirrors.nix.org.ua/archlinux/",
         "protocol": "rsync",
-        "score": 6.724995826567103,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -1223,7 +1112,6 @@
     {
         "url": "http://mirrors.ustc.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 3.661646921286517,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1234,7 +1122,6 @@
     {
         "url": "https://mirrors.ustc.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 3.5793478734317574,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1245,7 +1132,6 @@
     {
         "url": "rsync://rsync.mirrors.ustc.edu.cn/archlinux/",
         "protocol": "rsync",
-        "score": 9.995967008910641,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1256,7 +1142,6 @@
     {
         "url": "http://ftp.lysator.liu.se/pub/archlinux/",
         "protocol": "http",
-        "score": 1.2797326955947899,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -1267,7 +1152,6 @@
     {
         "url": "https://ftp.lysator.liu.se/pub/archlinux/",
         "protocol": "https",
-        "score": 1.3256873140341474,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -1278,7 +1162,6 @@
     {
         "url": "rsync://ftp.lysator.liu.se/pub/archlinux/",
         "protocol": "rsync",
-        "score": 1.609036004868363,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -1289,7 +1172,6 @@
     {
         "url": "http://mirror.ams1.nl.leaseweb.net/archlinux/",
         "protocol": "http",
-        "score": 0.5621256507977644,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -1300,7 +1182,6 @@
     {
         "url": "http://mirror.dal10.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "score": 0.7556573938457101,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1311,7 +1192,6 @@
     {
         "url": "http://mirror.fra10.de.leaseweb.net/archlinux/",
         "protocol": "http",
-        "score": 0.5147640187159351,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -1322,7 +1202,6 @@
     {
         "url": "http://mirror.mia11.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "score": 0.736125435274751,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1333,7 +1212,6 @@
     {
         "url": "http://mirror.sfo12.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "score": 0.9077078163380016,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1344,7 +1222,6 @@
     {
         "url": "http://mirror.wdc1.us.leaseweb.net/archlinux/",
         "protocol": "http",
-        "score": 0.7114355254896512,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1355,7 +1232,6 @@
     {
         "url": "https://mirror.ams1.nl.leaseweb.net/archlinux/",
         "protocol": "https",
-        "score": 0.6172608550217206,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -1366,7 +1242,6 @@
     {
         "url": "https://mirror.dal10.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "score": 1.015127078649951,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1377,7 +1252,6 @@
     {
         "url": "https://mirror.fra10.de.leaseweb.net/archlinux/",
         "protocol": "https",
-        "score": 0.5481782471435171,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -1388,7 +1262,6 @@
     {
         "url": "https://mirror.mia11.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "score": 0.9801378457319816,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1399,7 +1272,6 @@
     {
         "url": "https://mirror.sfo12.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "score": 1.1546550810332445,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1410,7 +1282,6 @@
     {
         "url": "https://mirror.wdc1.us.leaseweb.net/archlinux/",
         "protocol": "https",
-        "score": 0.9401562211284702,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1421,7 +1292,6 @@
     {
         "url": "rsync://mirror.ams1.nl.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "score": 0.7915998828617193,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -1432,7 +1302,6 @@
     {
         "url": "rsync://mirror.dal10.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "score": 2.0530559863721853,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1443,7 +1312,6 @@
     {
         "url": "rsync://mirror.fra10.de.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "score": 0.632413454494473,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -1454,7 +1322,6 @@
     {
         "url": "rsync://mirror.mia11.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "score": 2.592854688792672,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1465,7 +1332,6 @@
     {
         "url": "rsync://mirror.sfo12.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "score": 2.3916212828135066,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1476,7 +1342,6 @@
     {
         "url": "rsync://mirror.wdc1.us.leaseweb.net/archlinux/",
         "protocol": "rsync",
-        "score": 1.931431871554568,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1487,7 +1352,6 @@
     {
         "url": "http://mirrors.n-ix.net/archlinux/",
         "protocol": "http",
-        "score": 0.5841877340126455,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -1498,7 +1362,6 @@
     {
         "url": "https://mirrors.n-ix.net/archlinux/",
         "protocol": "https",
-        "score": 0.6761893619873067,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -1509,7 +1372,6 @@
     {
         "url": "http://mirror.dkm.cz/archlinux/",
         "protocol": "http",
-        "score": 0.09166002364436998,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -1520,7 +1382,6 @@
     {
         "url": "https://mirror.dkm.cz/archlinux/",
         "protocol": "https",
-        "score": 0.11757570953945654,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -1531,7 +1392,6 @@
     {
         "url": "rsync://mirror.dkm.cz/archlinux/",
         "protocol": "rsync",
-        "score": 0.3262199007157296,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -1542,7 +1402,6 @@
     {
         "url": "http://mirrors.gigenet.com/archlinux/",
         "protocol": "http",
-        "score": 2.966949409446028,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1553,7 +1412,6 @@
     {
         "url": "http://arch.softver.org.mk/archlinux/",
         "protocol": "http",
-        "score": 1.7636595449987624,
         "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
@@ -1564,7 +1422,6 @@
     {
         "url": "http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/",
         "protocol": "http",
-        "score": 1.9844133444963135,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -1575,7 +1432,6 @@
     {
         "url": "rsync://ftp.tsukuba.wide.ad.jp/archlinux/",
         "protocol": "rsync",
-        "score": 5.238461720911839,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -1586,7 +1442,6 @@
     {
         "url": "http://mirror.lnx.sk/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 31.386258499764875,
         "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
@@ -1597,7 +1452,6 @@
     {
         "url": "https://mirror.lnx.sk/pub/linux/archlinux/",
         "protocol": "https",
-        "score": 31.482883976034515,
         "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
@@ -1608,7 +1462,6 @@
     {
         "url": "http://mirror.ps.kz/archlinux/",
         "protocol": "http",
-        "score": 2.274591567934191,
         "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
@@ -1619,7 +1472,6 @@
     {
         "url": "https://mirror.ps.kz/archlinux/",
         "protocol": "https",
-        "score": 2.5696286766213117,
         "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
@@ -1630,7 +1482,6 @@
     {
         "url": "rsync://mirror.ps.kz/archlinux/",
         "protocol": "rsync",
-        "score": 3.8591013740276687,
         "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
@@ -1641,7 +1492,6 @@
     {
         "url": "http://mirror.bytemark.co.uk/archlinux/",
         "protocol": "http",
-        "score": 2.02216512669686,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -1652,7 +1502,6 @@
     {
         "url": "https://mirror.bytemark.co.uk/archlinux/",
         "protocol": "https",
-        "score": 2.159380476780913,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -1663,7 +1512,6 @@
     {
         "url": "rsync://mirror.bytemark.co.uk/archlinux/",
         "protocol": "rsync",
-        "score": 2.5142382528290828,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -1674,7 +1522,6 @@
     {
         "url": "http://mirrors.liquidweb.com/archlinux/",
         "protocol": "http",
-        "score": 3.329632213406263,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1685,7 +1532,6 @@
     {
         "url": "rsync://mirrors.liquidweb.com/archlinux/",
         "protocol": "rsync",
-        "score": 4.717323574809256,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1696,7 +1542,6 @@
     {
         "url": "http://archlinux.surlyjake.com/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1707,7 +1552,6 @@
     {
         "url": "https://archlinux.surlyjake.com/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1718,7 +1562,6 @@
     {
         "url": "http://mirror.pmf.kg.ac.rs/archlinux/",
         "protocol": "http",
-        "score": 8.24047867761081,
         "country": "Serbia",
         "country_code": "RS",
         "isos": true,
@@ -1729,7 +1572,6 @@
     {
         "url": "http://mirror.rol.ru/archlinux/",
         "protocol": "http",
-        "score": 2.5648669213400503,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -1740,7 +1582,6 @@
     {
         "url": "https://mirror.rol.ru/archlinux/",
         "protocol": "https",
-        "score": 2.6486376814532107,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -1751,7 +1592,6 @@
     {
         "url": "http://mirror.nus.edu.sg/archlinux/",
         "protocol": "http",
-        "score": 6097.314384599601,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -1762,7 +1602,6 @@
     {
         "url": "http://mirror.i3d.net/pub/archlinux/",
         "protocol": "http",
-        "score": 18.085796967629285,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -1773,7 +1612,6 @@
     {
         "url": "https://mirror.i3d.net/pub/archlinux/",
         "protocol": "https",
-        "score": 18.209523057314104,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -1784,7 +1622,6 @@
     {
         "url": "rsync://mirror.i3d.net/archlinux/",
         "protocol": "rsync",
-        "score": null,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -1795,7 +1632,6 @@
     {
         "url": "http://mirror.archlinux.ikoula.com/archlinux/",
         "protocol": "http",
-        "score": 2.8261754701798814,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -1806,7 +1642,6 @@
     {
         "url": "http://ftp.swin.edu.au/archlinux/",
         "protocol": "http",
-        "score": 1.2071659187967496,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -1817,7 +1652,6 @@
     {
         "url": "rsync://ftp.swin.edu.au/archlinux/",
         "protocol": "rsync",
-        "score": 4.478624471757035,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -1828,7 +1662,6 @@
     {
         "url": "http://archlinux.mirror.rafal.ca/",
         "protocol": "http",
-        "score": 2.0728764857950566,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -1839,7 +1672,6 @@
     {
         "url": "rsync://archlinux.mirror.rafal.ca/archlinux/",
         "protocol": "rsync",
-        "score": 3.3305160806111513,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -1850,7 +1682,6 @@
     {
         "url": "http://mirrors.tuna.tsinghua.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 1.2575473126104868,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1861,7 +1692,6 @@
     {
         "url": "https://mirrors.tuna.tsinghua.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 2.555257854328014,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1872,7 +1702,6 @@
     {
         "url": "rsync://mirrors.tuna.tsinghua.edu.cn/archlinux/",
         "protocol": "rsync",
-        "score": 6.074328415688128,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1883,7 +1712,6 @@
     {
         "url": "http://mirror.cc.columbia.edu/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 1.5606227122164342,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1894,7 +1722,6 @@
     {
         "url": "rsync://mirror.cc.columbia.edu/archlinux/",
         "protocol": "rsync",
-        "score": 2.5360241908864856,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1905,7 +1732,6 @@
     {
         "url": "http://mirrors.neusoft.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 4.713931085334491,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1916,7 +1742,6 @@
     {
         "url": "https://mirrors.neusoft.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 7.61548552870349,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1927,7 +1752,6 @@
     {
         "url": "rsync://mirrors.neusoft.edu.cn/archlinux/",
         "protocol": "rsync",
-        "score": 30.61536958886461,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -1938,7 +1762,6 @@
     {
         "url": "https://www.mirrorservice.org/sites/ftp.archlinux.org/",
         "protocol": "https",
-        "score": 3.2798999090493446,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -1949,7 +1772,6 @@
     {
         "url": "http://www.mirrorservice.org/sites/ftp.archlinux.org/",
         "protocol": "http",
-        "score": 3.2252236156822915,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -1960,7 +1782,6 @@
     {
         "url": "rsync://rsync.mirrorservice.org/ftp.archlinux.org/",
         "protocol": "rsync",
-        "score": 3.7866795650306093,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -1971,7 +1792,6 @@
     {
         "url": "https://osl.ugr.es/archlinux/",
         "protocol": "https",
-        "score": 13.512421278591136,
         "country": "Spain",
         "country_code": "ES",
         "isos": true,
@@ -1982,7 +1802,6 @@
     {
         "url": "http://mirror.metrocast.net/archlinux/",
         "protocol": "http",
-        "score": 3.883235411939185,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -1993,7 +1812,6 @@
     {
         "url": "http://ftp.snt.utwente.nl/pub/os/linux/archlinux/",
         "protocol": "http",
-        "score": 0.8236410517922749,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -2004,7 +1822,6 @@
     {
         "url": "rsync://ftp.snt.utwente.nl/archlinux/",
         "protocol": "rsync",
-        "score": 1.353593161651488,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -2015,7 +1832,6 @@
     {
         "url": "http://mirror.netcologne.de/archlinux/",
         "protocol": "http",
-        "score": 1.1342976096416308,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2026,7 +1842,6 @@
     {
         "url": "https://mirror.netcologne.de/archlinux/",
         "protocol": "https",
-        "score": 1.1599548702812286,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2037,7 +1852,6 @@
     {
         "url": "rsync://mirror.netcologne.de/archlinux/",
         "protocol": "rsync",
-        "score": 1.3097643544066477,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2048,7 +1862,6 @@
     {
         "url": "http://mirror.united-gameserver.de/archlinux/",
         "protocol": "http",
-        "score": 0.7857314172601222,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2059,7 +1872,6 @@
     {
         "url": "rsync://mirror.united-gameserver.de/archlinux/",
         "protocol": "rsync",
-        "score": 1.0566305213333214,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2070,7 +1882,6 @@
     {
         "url": "http://ftp.vectranet.pl/archlinux/",
         "protocol": "http",
-        "score": 1.9109910919639281,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -2081,7 +1892,6 @@
     {
         "url": "rsync://ftp.vectranet.pl/archlinux/",
         "protocol": "rsync",
-        "score": 1.7875106037806174,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -2092,7 +1902,6 @@
     {
         "url": "http://linux.rz.rub.de/archlinux/",
         "protocol": "http",
-        "score": 4.438218332342077,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2103,7 +1912,6 @@
     {
         "url": "http://mirrors.aggregate.org/archlinux/",
         "protocol": "http",
-        "score": 1.669170775546924,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2114,7 +1922,6 @@
     {
         "url": "rsync://mirrors.aggregate.org/archlinux/",
         "protocol": "rsync",
-        "score": 3.0364577836921622,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2125,7 +1932,6 @@
     {
         "url": "https://archlinux.vi-di.fr/",
         "protocol": "https",
-        "score": null,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -2136,7 +1942,6 @@
     {
         "url": "http://archlinux.de-labrusse.fr/",
         "protocol": "http",
-        "score": 2.1520187150819456,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -2147,7 +1952,6 @@
     {
         "url": "rsync://archlinux.de-labrusse.fr/archlinux/",
         "protocol": "rsync",
-        "score": null,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -2158,7 +1962,6 @@
     {
         "url": "http://archlinux.mirrors.linux.ro/",
         "protocol": "http",
-        "score": 1.135750683712832,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -2169,7 +1972,6 @@
     {
         "url": "rsync://ftp.linux.ro/archlinux/",
         "protocol": "rsync",
-        "score": 1.8073879144237297,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -2180,7 +1982,6 @@
     {
         "url": "http://mirror.system.is/arch/",
         "protocol": "http",
-        "score": 1.6410821322743767,
         "country": "Iceland",
         "country_code": "IS",
         "isos": true,
@@ -2191,7 +1992,6 @@
     {
         "url": "https://mirror.system.is/arch/",
         "protocol": "https",
-        "score": 1.8153332484183915,
         "country": "Iceland",
         "country_code": "IS",
         "isos": true,
@@ -2202,7 +2002,6 @@
     {
         "url": "rsync://mirror.system.is/arch/",
         "protocol": "rsync",
-        "score": 12.801335229197566,
         "country": "Iceland",
         "country_code": "IS",
         "isos": true,
@@ -2213,7 +2012,6 @@
     {
         "url": "http://archlinux.cu.be/",
         "protocol": "http",
-        "score": 3.896995824284625,
         "country": "Belgium",
         "country_code": "BE",
         "isos": true,
@@ -2224,7 +2022,6 @@
     {
         "url": "http://dfw.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.4740952643789533,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2235,7 +2032,6 @@
     {
         "url": "http://hkg.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.636518812416872,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -2246,7 +2042,6 @@
     {
         "url": "http://iad.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.3772512582353038,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2257,7 +2052,6 @@
     {
         "url": "http://lon.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.3032621980256767,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2268,7 +2062,6 @@
     {
         "url": "http://mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.2554638378622127,
         "country": "",
         "country_code": "",
         "isos": true,
@@ -2279,7 +2072,6 @@
     {
         "url": "http://ord.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.587729901925974,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2290,7 +2082,6 @@
     {
         "url": "https://dfw.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 1.7070679307647902,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2301,7 +2092,6 @@
     {
         "url": "https://hkg.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 1.9864618652669865,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -2312,7 +2102,6 @@
     {
         "url": "https://iad.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 1.574212902152368,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2323,7 +2112,6 @@
     {
         "url": "https://lon.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 1.3153722622396908,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2334,7 +2122,6 @@
     {
         "url": "https://mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 1.342900885622515,
         "country": "",
         "country_code": "",
         "isos": true,
@@ -2345,7 +2132,6 @@
     {
         "url": "https://ord.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 3.437200184124845,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2356,7 +2142,6 @@
     {
         "url": "https://syd.mirror.rackspace.com/archlinux/",
         "protocol": "https",
-        "score": 2.417680250916233,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -2367,7 +2152,6 @@
     {
         "url": "http://syd.mirror.rackspace.com/archlinux/",
         "protocol": "http",
-        "score": 1.8657776982654788,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -2378,7 +2162,6 @@
     {
         "url": "rsync://dfw.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 2.856316175158608,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2389,7 +2172,6 @@
     {
         "url": "rsync://hkg.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 3.8136384701956327,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -2400,7 +2182,6 @@
     {
         "url": "rsync://iad.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 2.521555552880676,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2411,7 +2192,6 @@
     {
         "url": "rsync://lon.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 1.6690566302796945,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2422,7 +2202,6 @@
     {
         "url": "rsync://mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 1.5922277957794904,
         "country": "",
         "country_code": "",
         "isos": true,
@@ -2433,7 +2212,6 @@
     {
         "url": "rsync://ord.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 2.847480005576558,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2444,7 +2222,6 @@
     {
         "url": "rsync://syd.mirror.rackspace.com/archlinux/",
         "protocol": "rsync",
-        "score": 4.980238036834899,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -2455,7 +2232,6 @@
     {
         "url": "http://suro.ubaya.ac.id/archlinux/",
         "protocol": "http",
-        "score": 3.283095638354634,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -2466,7 +2242,6 @@
     {
         "url": "http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/",
         "protocol": "http",
-        "score": 1965.236847263319,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -2477,7 +2252,6 @@
     {
         "url": "rsync://rsync.piotrkosoft.net/archlinux/",
         "protocol": "rsync",
-        "score": 1965.7040914962836,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -2488,7 +2262,6 @@
     {
         "url": "http://mirror.vtti.vt.edu/archlinux/",
         "protocol": "http",
-        "score": 2.7205554330057615,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2499,7 +2272,6 @@
     {
         "url": "http://arch.mirror.constant.com/",
         "protocol": "http",
-        "score": 0.19664027581246823,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2510,7 +2282,6 @@
     {
         "url": "https://arch.mirror.constant.com/",
         "protocol": "https",
-        "score": 0.36922511163190214,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2521,7 +2292,6 @@
     {
         "url": "rsync://arch.mirror.constant.com/archlinux/",
         "protocol": "rsync",
-        "score": 0.9580901198998186,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2532,7 +2302,6 @@
     {
         "url": "http://mirror.premi.st/archlinux/",
         "protocol": "http",
-        "score": 1.6748738111396375,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -2543,7 +2312,6 @@
     {
         "url": "https://mirror.premi.st/archlinux/",
         "protocol": "https",
-        "score": 1.8762887068145284,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -2554,7 +2322,6 @@
     {
         "url": "http://mirrors.manchester.m247.com/arch-linux/",
         "protocol": "http",
-        "score": 0.685210806541943,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2565,7 +2332,6 @@
     {
         "url": "rsync://mirrors.manchester.m247.com/archlinux/",
         "protocol": "rsync",
-        "score": 3.06589857255058,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2576,7 +2342,6 @@
     {
         "url": "http://arch.serverspace.co.uk/arch/",
         "protocol": "http",
-        "score": null,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2587,7 +2352,6 @@
     {
         "url": "rsync://arch.serverspace.co.uk/Arch/",
         "protocol": "rsync",
-        "score": null,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -2598,7 +2362,6 @@
     {
         "url": "https://download.nus.edu.sg/mirror/archlinux/",
         "protocol": "https",
-        "score": 2.1210143802346804,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -2609,7 +2372,6 @@
     {
         "url": "rsync://download.nus.edu.sg/archlinux/",
         "protocol": "rsync",
-        "score": 3.234015265519468,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -2620,7 +2382,6 @@
     {
         "url": "http://arch.nimukaito.net/",
         "protocol": "http",
-        "score": 3.5695077390246737,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -2631,7 +2392,6 @@
     {
         "url": "https://arch.nimukaito.net/",
         "protocol": "https",
-        "score": 3.0988979443462927,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -2642,7 +2402,6 @@
     {
         "url": "rsync://arch.nimukaito.net/arch/",
         "protocol": "rsync",
-        "score": 1.9366469018136845,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -2653,7 +2412,6 @@
     {
         "url": "http://mirrors.acm.wpi.edu/archlinux/",
         "protocol": "http",
-        "score": 0.8466354240003247,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2664,7 +2422,6 @@
     {
         "url": "http://mirror.neuf.no/archlinux/",
         "protocol": "http",
-        "score": 0.30170428988651044,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -2675,7 +2432,6 @@
     {
         "url": "https://mirror.neuf.no/archlinux/",
         "protocol": "https",
-        "score": 0.3363579587057211,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -2686,7 +2442,6 @@
     {
         "url": "rsync://mirror.neuf.no/archlinux/",
         "protocol": "rsync",
-        "score": 0.5974556137181329,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -2697,7 +2452,6 @@
     {
         "url": "https://mirror.gnomus.de/",
         "protocol": "https",
-        "score": 0.6260270188880522,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2708,7 +2462,6 @@
     {
         "url": "http://ftp.fau.de/archlinux/",
         "protocol": "http",
-        "score": 0.5484508834265797,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2719,7 +2472,6 @@
     {
         "url": "https://ftp.fau.de/archlinux/",
         "protocol": "https",
-        "score": 0.5703641402560804,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2730,7 +2482,6 @@
     {
         "url": "rsync://ftp.fau.de/archlinux/",
         "protocol": "rsync",
-        "score": 0.7589328511313533,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -2741,7 +2492,6 @@
     {
         "url": "http://mirror.lagoon.nc/pub/archlinux/",
         "protocol": "http",
-        "score": 4.523411647482201,
         "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
@@ -2752,7 +2502,6 @@
     {
         "url": "rsync://mirror.lagoon.nc/pub/archlinux/",
         "protocol": "rsync",
-        "score": 7.268079015853458,
         "country": "New Caledonia",
         "country_code": "NC",
         "isos": true,
@@ -2763,7 +2512,6 @@
     {
         "url": "http://mirrors.advancedhosters.com/archlinux/",
         "protocol": "http",
-        "score": 2.1585379826499023,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2774,7 +2522,6 @@
     {
         "url": "rsync://mirrors.advancedhosters.com/archlinux/",
         "protocol": "rsync",
-        "score": 5.401376908481242,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2785,7 +2532,6 @@
     {
         "url": "http://gluttony.sin.cvut.cz/arch/",
         "protocol": "http",
-        "score": 0.5214125436113348,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -2796,7 +2542,6 @@
     {
         "url": "https://gluttony.sin.cvut.cz/arch/",
         "protocol": "https",
-        "score": 0.5425581684218843,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -2807,7 +2552,6 @@
     {
         "url": "rsync://gluttony.sin.cvut.cz/arch/",
         "protocol": "rsync",
-        "score": 0.9093616661145676,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -2818,7 +2562,6 @@
     {
         "url": "http://archlinux.iskon.hr/",
         "protocol": "http",
-        "score": 0.8272656957429121,
         "country": "Croatia",
         "country_code": "HR",
         "isos": true,
@@ -2829,7 +2572,6 @@
     {
         "url": "http://mirror.cedia.org.ec/archlinux/",
         "protocol": "http",
-        "score": 2.779430492317226,
         "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
@@ -2840,7 +2582,6 @@
     {
         "url": "rsync://mirror.cedia.org.ec/archlinux/",
         "protocol": "rsync",
-        "score": 6.053725395138644,
         "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
@@ -2851,7 +2592,6 @@
     {
         "url": "http://mirrors.nic.cz/archlinux/",
         "protocol": "http",
-        "score": 0.4295115278931319,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -2862,7 +2602,6 @@
     {
         "url": "rsync://mirrors.nic.cz/archlinux/",
         "protocol": "rsync",
-        "score": 0.7737367776863022,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -2873,7 +2612,6 @@
     {
         "url": "http://mirror.one.com/archlinux/",
         "protocol": "http",
-        "score": 0.880078127851975,
         "country": "Denmark",
         "country_code": "DK",
         "isos": true,
@@ -2884,7 +2622,6 @@
     {
         "url": "https://mirror.one.com/archlinux/",
         "protocol": "https",
-        "score": 0.9778770883616539,
         "country": "Denmark",
         "country_code": "DK",
         "isos": true,
@@ -2895,7 +2632,6 @@
     {
         "url": "rsync://mirror.one.com/archlinux/",
         "protocol": "rsync",
-        "score": 1.5974782159431156,
         "country": "Denmark",
         "country_code": "DK",
         "isos": true,
@@ -2906,7 +2642,6 @@
     {
         "url": "http://mirror.es.its.nyu.edu/archlinux/",
         "protocol": "http",
-        "score": 1.1840712574556154,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2917,7 +2652,6 @@
     {
         "url": "rsync://mirror.es.its.nyu.edu/archlinux/",
         "protocol": "rsync",
-        "score": 2.1381427102086237,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2928,7 +2662,6 @@
     {
         "url": "http://mirror.23media.com/archlinux/",
         "protocol": "http",
-        "score": 0.44770347873268995,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -2939,7 +2672,6 @@
     {
         "url": "https://mirror.23media.com/archlinux/",
         "protocol": "https",
-        "score": 0.4657842824639653,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -2950,7 +2682,6 @@
     {
         "url": "rsync://mirror.23media.com/archlinux/",
         "protocol": "rsync",
-        "score": 0.5977516668249894,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -2961,7 +2692,6 @@
     {
         "url": "http://mirror.cs.pitt.edu/archlinux/",
         "protocol": "http",
-        "score": 1.3511805586843064,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2972,7 +2702,6 @@
     {
         "url": "rsync://mirror.cs.pitt.edu/archlinux/",
         "protocol": "rsync",
-        "score": 2.767994959196587,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -2983,7 +2712,6 @@
     {
         "url": "http://tux.rainside.sk/archlinux/",
         "protocol": "http",
-        "score": 3.519353431994261,
         "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
@@ -2994,7 +2722,6 @@
     {
         "url": "rsync://tux.rainside.sk/archlinux/",
         "protocol": "rsync",
-        "score": 3.802513970733808,
         "country": "Slovakia",
         "country_code": "SK",
         "isos": true,
@@ -3005,7 +2732,6 @@
     {
         "url": "http://mirror.t-home.mk/archlinux/",
         "protocol": "http",
-        "score": 1.7040993315200261,
         "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
@@ -3016,7 +2742,6 @@
     {
         "url": "https://mirror.t-home.mk/archlinux/",
         "protocol": "https",
-        "score": 1.8166213309684143,
         "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
@@ -3027,7 +2752,6 @@
     {
         "url": "rsync://mirror.t-home.mk/archlinux/",
         "protocol": "rsync",
-        "score": 2.238002284811497,
         "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
@@ -3038,7 +2762,6 @@
     {
         "url": "http://f.archlinuxvn.org/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Vietnam",
         "country_code": "VN",
         "isos": true,
@@ -3049,7 +2772,6 @@
     {
         "url": "http://ftp.yzu.edu.tw/Linux/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -3060,7 +2782,6 @@
     {
         "url": "https://ftp.yzu.edu.tw/Linux/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -3071,7 +2792,6 @@
     {
         "url": "rsync://ftp.yzu.edu.tw/Linux/archlinux/",
         "protocol": "rsync",
-        "score": null,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -3082,7 +2802,6 @@
     {
         "url": "http://mirror.metalgamer.eu/archlinux/",
         "protocol": "http",
-        "score": 1.2377212369974906,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3093,7 +2812,6 @@
     {
         "url": "https://mirror.metalgamer.eu/archlinux/",
         "protocol": "https",
-        "score": 1.2538340885100707,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3104,7 +2822,6 @@
     {
         "url": "http://mirrors.niyawe.de/archlinux/",
         "protocol": "http",
-        "score": 0.1076371104514764,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3115,7 +2832,6 @@
     {
         "url": "https://mirrors.niyawe.de/archlinux/",
         "protocol": "https",
-        "score": 0.11609644318284729,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3126,7 +2842,6 @@
     {
         "url": "rsync://rsync.mirrors.niyawe.de/archlinux/",
         "protocol": "rsync",
-        "score": 0.19148516929445442,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3137,7 +2852,6 @@
     {
         "url": "http://mirrors.atviras.lt/archlinux/",
         "protocol": "http",
-        "score": 0.1139754489632999,
         "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
@@ -3148,7 +2862,6 @@
     {
         "url": "https://mirrors.atviras.lt/archlinux/",
         "protocol": "https",
-        "score": 0.1947650135770301,
         "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
@@ -3159,7 +2872,6 @@
     {
         "url": "rsync://mirrors.atviras.lt/archlinux/",
         "protocol": "rsync",
-        "score": 0.6776545882152168,
         "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
@@ -3170,7 +2882,6 @@
     {
         "url": "http://arch.yourlabs.org/",
         "protocol": "http",
-        "score": 1.420051930913469,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3181,7 +2892,6 @@
     {
         "url": "https://arch.yourlabs.org/",
         "protocol": "https",
-        "score": 1.363961730486584,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3192,7 +2902,6 @@
     {
         "url": "http://arch.midov.pl/arch/",
         "protocol": "http",
-        "score": 0.9869462303225842,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -3203,7 +2912,6 @@
     {
         "url": "https://arch.midov.pl/arch/",
         "protocol": "https",
-        "score": 0.7100828435871369,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -3214,7 +2922,6 @@
     {
         "url": "http://mirror.lastmikoi.net/archlinux/",
         "protocol": "http",
-        "score": 4.321608416256737,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3225,7 +2932,6 @@
     {
         "url": "rsync://mirror.lastmikoi.net/archlinux/",
         "protocol": "rsync",
-        "score": 4.901988759036064,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3236,7 +2942,6 @@
     {
         "url": "http://ftp.uni-hannover.de/archlinux/",
         "protocol": "http",
-        "score": 2.6937284635383523,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3247,7 +2952,6 @@
     {
         "url": "http://mirrors.zju.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 2.1534068103725734,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -3258,7 +2962,6 @@
     {
         "url": "http://mirror.poliwangi.ac.id/archlinux/",
         "protocol": "http",
-        "score": 349.9469077818211,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -3269,7 +2972,6 @@
     {
         "url": "http://archlinux.koyanet.lv/archlinux/",
         "protocol": "http",
-        "score": 1.862726706372528,
         "country": "Latvia",
         "country_code": "LV",
         "isos": true,
@@ -3280,7 +2982,6 @@
     {
         "url": "rsync://archlinux.koyanet.lv/archlinux/",
         "protocol": "rsync",
-        "score": 2.364535230337059,
         "country": "Latvia",
         "country_code": "LV",
         "isos": true,
@@ -3291,7 +2992,6 @@
     {
         "url": "http://ftp.myrveln.se/pub/linux/archlinux/",
         "protocol": "http",
-        "score": 0.1644066271816291,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3302,7 +3002,6 @@
     {
         "url": "https://ftp.myrveln.se/pub/linux/archlinux/",
         "protocol": "https",
-        "score": 0.28635566556492775,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3313,7 +3012,6 @@
     {
         "url": "rsync://rsync.myrveln.se/pub/linux/archlinux/",
         "protocol": "rsync",
-        "score": 5.267776956055625,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3324,7 +3022,6 @@
     {
         "url": "http://ftp.u-strasbg.fr/linux/distributions/archlinux/",
         "protocol": "http",
-        "score": 12.882296459584385,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3335,7 +3032,6 @@
     {
         "url": "http://archlinux.mailtunnel.eu/",
         "protocol": "http",
-        "score": 0.0827243699080586,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3346,7 +3042,6 @@
     {
         "url": "https://archlinux.mailtunnel.eu/",
         "protocol": "https",
-        "score": 0.07104975089524752,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3357,7 +3052,6 @@
     {
         "url": "rsync://archlinux.mailtunnel.eu/archlinux/",
         "protocol": "rsync",
-        "score": 0.5868754300788201,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3368,7 +3062,6 @@
     {
         "url": "http://mirrors.cqu.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 2.037333884108464,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -3379,7 +3072,6 @@
     {
         "url": "https://mirrors.cqu.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 2.7981331567470833,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -3390,7 +3082,6 @@
     {
         "url": "https://archlinux.beccacervello.it/archlinux/",
         "protocol": "https",
-        "score": 0.12740260397960304,
         "country": "Italy",
         "country_code": "IT",
         "isos": true,
@@ -3401,7 +3092,6 @@
     {
         "url": "rsync://archlinux.beccacervello.it/archlinux/",
         "protocol": "rsync",
-        "score": 0.38788381248465287,
         "country": "Italy",
         "country_code": "IT",
         "isos": true,
@@ -3412,7 +3102,6 @@
     {
         "url": "http://mirror.uta.edu.ec/archlinux/",
         "protocol": "http",
-        "score": 7.631923921287319,
         "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
@@ -3423,7 +3112,6 @@
     {
         "url": "rsync://mirror.uta.edu.ec/archlinux/",
         "protocol": "rsync",
-        "score": 10.122478407829913,
         "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
@@ -3434,7 +3122,6 @@
     {
         "url": "http://mirror.espoch.edu.ec/archlinux/",
         "protocol": "http",
-        "score": 11.992368240722659,
         "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
@@ -3445,7 +3132,6 @@
     {
         "url": "rsync://mirror.espoch.edu.ec/archlinux/",
         "protocol": "rsync",
-        "score": 15.746235513718375,
         "country": "Ecuador",
         "country_code": "EC",
         "isos": true,
@@ -3456,7 +3142,6 @@
     {
         "url": "http://mirror.easyname.at/archlinux/",
         "protocol": "http",
-        "score": 14.194007294244322,
         "country": "Austria",
         "country_code": "AT",
         "isos": true,
@@ -3467,7 +3152,6 @@
     {
         "url": "rsync://mirror.easyname.at/archlinux/",
         "protocol": "rsync",
-        "score": 14.484430948961844,
         "country": "Austria",
         "country_code": "AT",
         "isos": true,
@@ -3478,7 +3162,6 @@
     {
         "url": "http://archlinux.mirror.digitalpacific.com.au/",
         "protocol": "http",
-        "score": 1.375279181610567,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -3489,7 +3172,6 @@
     {
         "url": "https://archlinux.mirror.digitalpacific.com.au/",
         "protocol": "https",
-        "score": 1.588050140638268,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -3500,7 +3182,6 @@
     {
         "url": "rsync://mirror.digitalpacific.com.au/archlinux/",
         "protocol": "rsync",
-        "score": 3.875611066031546,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -3511,7 +3192,6 @@
     {
         "url": "http://mirrors.myaegean.gr/linux/archlinux/",
         "protocol": "http",
-        "score": 10.945988653177134,
         "country": "Greece",
         "country_code": "GR",
         "isos": true,
@@ -3522,7 +3202,6 @@
     {
         "url": "http://archlinux.honkgong.info/",
         "protocol": "http",
-        "score": 0.4090738334250077,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3533,7 +3212,6 @@
     {
         "url": "rsync://archlinux.honkgong.info/archlinux/",
         "protocol": "rsync",
-        "score": 0.4058653272901015,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3544,7 +3222,6 @@
     {
         "url": "http://mirror.ibcp.fr/pub/archlinux/",
         "protocol": "http",
-        "score": 2.8271539277025197,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -3555,7 +3232,6 @@
     {
         "url": "http://mirror.f4st.host/archlinux/",
         "protocol": "http",
-        "score": 0.01648731472683647,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3566,7 +3242,6 @@
     {
         "url": "https://mirror.f4st.host/archlinux/",
         "protocol": "https",
-        "score": 0.023381718587224674,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3577,7 +3252,6 @@
     {
         "url": "rsync://mirror.f4st.host/archlinux/",
         "protocol": "rsync",
-        "score": 0.08687890460960444,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3588,7 +3262,6 @@
     {
         "url": "http://linorg.usp.br/archlinux/",
         "protocol": "http",
-        "score": 175.51248713110326,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -3599,7 +3272,6 @@
     {
         "url": "rsync://linorg.usp.br/archlinux/",
         "protocol": "rsync",
-        "score": 166.43136376403703,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -3610,7 +3282,6 @@
     {
         "url": "http://mirrors.ocf.berkeley.edu/archlinux/",
         "protocol": "http",
-        "score": 1.0427294818193782,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3621,7 +3292,6 @@
     {
         "url": "https://mirrors.ocf.berkeley.edu/archlinux/",
         "protocol": "https",
-        "score": 1.1424952268132984,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3632,7 +3302,6 @@
     {
         "url": "rsync://mirrors.ocf.berkeley.edu/archlinux/",
         "protocol": "rsync",
-        "score": 3.759228298134151,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3643,7 +3312,6 @@
     {
         "url": "http://ftp.acc.umu.se/mirror/archlinux/",
         "protocol": "http",
-        "score": 0.7134285821733979,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3654,7 +3322,6 @@
     {
         "url": "https://ftp.acc.umu.se/mirror/archlinux/",
         "protocol": "https",
-        "score": 0.7685594187239357,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3665,7 +3332,6 @@
     {
         "url": "rsync://ftp.acc.umu.se/mirror/archlinux/",
         "protocol": "rsync",
-        "score": 1.7197473359056727,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3676,7 +3342,6 @@
     {
         "url": "http://archlinux.pop-es.rnp.br/",
         "protocol": "http",
-        "score": 1.9474299629973462,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -3687,7 +3352,6 @@
     {
         "url": "rsync://archlinux.pop-es.rnp.br/archlinux/",
         "protocol": "rsync",
-        "score": 4.771778736511179,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -3698,7 +3362,6 @@
     {
         "url": "http://mirror.dc02.hackingand.coffee/arch/",
         "protocol": "http",
-        "score": 0.32064867833429833,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3709,7 +3372,6 @@
     {
         "url": "https://mirror.dc02.hackingand.coffee/arch/",
         "protocol": "https",
-        "score": 0.5484249724716265,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3720,7 +3382,6 @@
     {
         "url": "rsync://mirror.dc02.hackingand.coffee/arch/",
         "protocol": "rsync",
-        "score": 1.0681196986120776,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3731,7 +3392,6 @@
     {
         "url": "http://mirror.rise.ph/archlinux/",
         "protocol": "http",
-        "score": 7112.010865200442,
         "country": "Philippines",
         "country_code": "PH",
         "isos": true,
@@ -3742,7 +3402,6 @@
     {
         "url": "http://archlinux.dynamict.se/",
         "protocol": "http",
-        "score": 0.19911497442835324,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3753,7 +3412,6 @@
     {
         "url": "https://archlinux.dynamict.se/",
         "protocol": "https",
-        "score": 0.23074264431175878,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3764,7 +3422,6 @@
     {
         "url": "rsync://archlinux.dynamict.se/archlinux/",
         "protocol": "rsync",
-        "score": 0.6783974320437178,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -3775,7 +3432,6 @@
     {
         "url": "http://mirrors.netix.net/archlinux/",
         "protocol": "http",
-        "score": 7.858159585901419,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": false,
@@ -3786,7 +3442,6 @@
     {
         "url": "rsync://mirrors.netix.net/archlinux/",
         "protocol": "rsync",
-        "score": 9.360699302550952,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": false,
@@ -3797,7 +3452,6 @@
     {
         "url": "http://www.gutscheindrache.com/mirror/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3808,7 +3462,6 @@
     {
         "url": "http://mirrors.uni-plovdiv.net/archlinux/",
         "protocol": "http",
-        "score": 0.17448056812323676,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
@@ -3819,7 +3472,6 @@
     {
         "url": "https://mirrors.uni-plovdiv.net/archlinux/",
         "protocol": "https",
-        "score": 0.2077461779408236,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
@@ -3830,7 +3482,6 @@
     {
         "url": "rsync://mirrors.uni-plovdiv.net/archlinux/",
         "protocol": "rsync",
-        "score": 0.8429801906030723,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
@@ -3841,7 +3492,6 @@
     {
         "url": "http://mirror.digitalnova.at/archlinux/",
         "protocol": "http",
-        "score": 3.879733587760307,
         "country": "Austria",
         "country_code": "AT",
         "isos": true,
@@ -3852,7 +3502,6 @@
     {
         "url": "http://mirror.pseudoform.org/",
         "protocol": "http",
-        "score": 0.2428840806467763,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -3863,7 +3512,6 @@
     {
         "url": "https://mirror.pseudoform.org/",
         "protocol": "https",
-        "score": 0.1757029803428074,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -3874,7 +3522,6 @@
     {
         "url": "rsync://mirror.pseudoform.org/packages/",
         "protocol": "rsync",
-        "score": 0.4563346025202787,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -3885,7 +3532,6 @@
     {
         "url": "http://arch.mirrors.pair.com/",
         "protocol": "http",
-        "score": null,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3896,7 +3542,6 @@
     {
         "url": "http://mirror.onet.pl/pub/mirrors/archlinux/",
         "protocol": "http",
-        "score": 2.828928982999281,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -3907,7 +3552,6 @@
     {
         "url": "rsync://mirror.onet.pl/pub/mirrors/archlinux/",
         "protocol": "rsync",
-        "score": 3.3117954440317883,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -3918,7 +3562,6 @@
     {
         "url": "http://mirror.lty.me/archlinux/",
         "protocol": "http",
-        "score": 1.125441492341297,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3929,7 +3572,6 @@
     {
         "url": "https://mirror.lty.me/archlinux/",
         "protocol": "https",
-        "score": 1.135488193453919,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3940,7 +3582,6 @@
     {
         "url": "rsync://mirror.lty.me/archlinux/",
         "protocol": "rsync",
-        "score": 2.4540822817883594,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -3951,7 +3592,6 @@
     {
         "url": "http://arch.jensgutermuth.de/",
         "protocol": "http",
-        "score": 2.1405536548524444,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3962,7 +3602,6 @@
     {
         "url": "https://arch.jensgutermuth.de/",
         "protocol": "https",
-        "score": 0.7121939806669684,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -3973,7 +3612,6 @@
     {
         "url": "http://pkg.adfinis-sygroup.ch/archlinux/",
         "protocol": "http",
-        "score": 0.7354989921995353,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -3984,7 +3622,6 @@
     {
         "url": "https://pkg.adfinis-sygroup.ch/archlinux/",
         "protocol": "https",
-        "score": 0.7981829144160764,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -3995,7 +3632,6 @@
     {
         "url": "rsync://pkg.adfinis-sygroup.ch/archlinux/",
         "protocol": "rsync",
-        "score": 1.1456015841002891,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -4006,7 +3642,6 @@
     {
         "url": "http://ftp.sh.cvut.cz/arch/",
         "protocol": "http",
-        "score": 0.04451272033784108,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4017,7 +3652,6 @@
     {
         "url": "https://ftp.sh.cvut.cz/arch/",
         "protocol": "https",
-        "score": 0.10226452177077425,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4028,7 +3662,6 @@
     {
         "url": "rsync://ftp.sh.cvut.cz/arch/",
         "protocol": "rsync",
-        "score": 0.296042127759151,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4039,7 +3672,6 @@
     {
         "url": "https://arch-mirror.wtako.net/",
         "protocol": "https",
-        "score": 2.475214259016836,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -4050,7 +3682,6 @@
     {
         "url": "http://br.mirror.archlinux-br.org/",
         "protocol": "http",
-        "score": 13.076112427188919,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -4061,7 +3692,6 @@
     {
         "url": "http://ca.us.mirror.archlinux-br.org/",
         "protocol": "http",
-        "score": 107.8284838755073,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4072,7 +3702,6 @@
     {
         "url": "http://il.us.mirror.archlinux-br.org/",
         "protocol": "http",
-        "score": 1.4816159182986959,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4083,7 +3712,6 @@
     {
         "url": "http://za.mirror.archlinux-br.org/",
         "protocol": "http",
-        "score": 1.6788034154240488,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -4094,7 +3722,6 @@
     {
         "url": "http://muug.ca/mirror/archlinux/",
         "protocol": "http",
-        "score": 2.1777556089045937,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4105,7 +3732,6 @@
     {
         "url": "https://muug.ca/mirror/archlinux/",
         "protocol": "https",
-        "score": 2.4486176044200074,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4116,7 +3742,6 @@
     {
         "url": "http://mirror.0x.sg/archlinux/",
         "protocol": "http",
-        "score": 205.51557282388765,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -4127,7 +3752,6 @@
     {
         "url": "https://mirror.0x.sg/archlinux/",
         "protocol": "https",
-        "score": 206.1292072383568,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -4138,7 +3762,6 @@
     {
         "url": "rsync://mirror.0x.sg/archlinux/",
         "protocol": "rsync",
-        "score": 207.15058505629338,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -4149,7 +3772,6 @@
     {
         "url": "http://mirrors.m247.ro/archlinux/",
         "protocol": "http",
-        "score": 1.6471768170384273,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -4160,7 +3782,6 @@
     {
         "url": "rsync://mirrors.m247.ro/archlinux/",
         "protocol": "rsync",
-        "score": 2.268039301500492,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -4171,7 +3792,6 @@
     {
         "url": "https://mirror.wormhole.eu/archlinux/",
         "protocol": "https",
-        "score": 2.767097397970983,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -4182,7 +3802,6 @@
     {
         "url": "http://mirror.kaminski.io/archlinux/",
         "protocol": "http",
-        "score": 0.9772814274439705,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4193,7 +3812,6 @@
     {
         "url": "https://mirror.kaminski.io/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4204,7 +3822,6 @@
     {
         "url": "http://mirror.is.co.za/mirror/archlinux.org/",
         "protocol": "http",
-        "score": 2.6119063990073768,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -4215,7 +3832,6 @@
     {
         "url": "rsync://mirror.is.co.za/mirror/archlinux.org/",
         "protocol": "rsync",
-        "score": 4.674135255361415,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -4226,7 +3842,6 @@
     {
         "url": "http://arch.mirror.far.fi/",
         "protocol": "http",
-        "score": 0.8699216092682294,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -4237,7 +3852,6 @@
     {
         "url": "rsync://arch.mirror.far.fi/archlinux/",
         "protocol": "rsync",
-        "score": 1.3800365825300749,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -4248,7 +3862,6 @@
     {
         "url": "http://mirror.lzu.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 5.6697427076871145,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -4259,7 +3872,6 @@
     {
         "url": "http://mirror.ubrco.de/archlinux/",
         "protocol": "http",
-        "score": 0.1417677389230529,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4270,7 +3882,6 @@
     {
         "url": "https://mirror.ubrco.de/archlinux/",
         "protocol": "https",
-        "score": 0.1542484590468122,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4281,7 +3892,6 @@
     {
         "url": "rsync://mirror.ubrco.de/archlinux/",
         "protocol": "rsync",
-        "score": 0.2503652131730471,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4292,7 +3902,6 @@
     {
         "url": "http://archlinux.ip-connect.vn.ua/",
         "protocol": "http",
-        "score": 1.3672653740655818,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -4303,7 +3912,6 @@
     {
         "url": "https://archlinux.ip-connect.vn.ua/",
         "protocol": "https",
-        "score": 1.5091607501265838,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -4314,7 +3922,6 @@
     {
         "url": "rsync://archlinux.ip-connect.vn.ua/archlinux/",
         "protocol": "rsync",
-        "score": 3.9229880191268562,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -4325,7 +3932,6 @@
     {
         "url": "http://mirror.sergal.org/archlinux/",
         "protocol": "http",
-        "score": 0.5220087593241389,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4336,7 +3942,6 @@
     {
         "url": "https://mirror.sergal.org/archlinux/",
         "protocol": "https",
-        "score": 0.9540279711681456,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4347,7 +3952,6 @@
     {
         "url": "rsync://mirror.sergal.org/archlinux/",
         "protocol": "rsync",
-        "score": 2.3111248087440113,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4358,7 +3962,6 @@
     {
         "url": "http://ftp.fi.muni.cz/pub/linux/arch/",
         "protocol": "http",
-        "score": 1.872205432544304,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4369,7 +3972,6 @@
     {
         "url": "http://ftp.linux.cz/pub/linux/arch/",
         "protocol": "http",
-        "score": 1.9757208447304093,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4380,7 +3982,6 @@
     {
         "url": "rsync://ftp.fi.muni.cz/pub/linux/arch/",
         "protocol": "rsync",
-        "score": 2.143565222111878,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4391,7 +3992,6 @@
     {
         "url": "rsync://ftp.linux.cz/pub/linux/arch/",
         "protocol": "rsync",
-        "score": 2.1542174157931453,
         "country": "Czechia",
         "country_code": "CZ",
         "isos": true,
@@ -4402,7 +4002,6 @@
     {
         "url": "http://archlinux.mirror.iphh.net/",
         "protocol": "http",
-        "score": 1.8838683761198654,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4413,7 +4012,6 @@
     {
         "url": "rsync://archlinux.mirror.iphh.net/archlinux/",
         "protocol": "rsync",
-        "score": 2.1042092806341226,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4424,7 +4022,6 @@
     {
         "url": "http://mirrors.evowise.com/archlinux/",
         "protocol": "http",
-        "score": 24.51002839622438,
         "country": "",
         "country_code": "",
         "isos": true,
@@ -4435,7 +4032,6 @@
     {
         "url": "https://mirrors.xjtu.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 10.901921002110166,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -4446,7 +4042,6 @@
     {
         "url": "http://arlm.tyzoid.com/",
         "protocol": "http",
-        "score": 0.28834914083388014,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4457,7 +4052,6 @@
     {
         "url": "https://arlm.tyzoid.com/",
         "protocol": "https",
-        "score": 0.533469669771666,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4468,7 +4062,6 @@
     {
         "url": "rsync://arlm.tyzoid.com/archlinux/",
         "protocol": "rsync",
-        "score": 4.556411608844004,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4479,7 +4072,6 @@
     {
         "url": "http://mirror.cedille.club/archlinux/",
         "protocol": "http",
-        "score": 50.188629081200645,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4490,7 +4082,6 @@
     {
         "url": "http://archlinux.thaller.ws/",
         "protocol": "http",
-        "score": 0.0919784874750018,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4501,7 +4092,6 @@
     {
         "url": "https://archlinux.thaller.ws/",
         "protocol": "https",
-        "score": 0.11590186566741698,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4512,7 +4102,6 @@
     {
         "url": "rsync://archlinux.thaller.ws/archlinux/",
         "protocol": "rsync",
-        "score": 0.12594436870427916,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4523,7 +4112,6 @@
     {
         "url": "http://archimonde.ts.si/archlinux/",
         "protocol": "http",
-        "score": 1.1105783681669552,
         "country": "Slovenia",
         "country_code": "SI",
         "isos": true,
@@ -4534,7 +4122,6 @@
     {
         "url": "https://archimonde.ts.si/archlinux/",
         "protocol": "https",
-        "score": 1.1918220147126828,
         "country": "Slovenia",
         "country_code": "SI",
         "isos": true,
@@ -4545,7 +4132,6 @@
     {
         "url": "rsync://archimonde.ts.si/archlinux/",
         "protocol": "rsync",
-        "score": 1.3947990386952345,
         "country": "Slovenia",
         "country_code": "SI",
         "isos": true,
@@ -4556,7 +4142,6 @@
     {
         "url": "http://mirror.math.princeton.edu/pub/archlinux/",
         "protocol": "http",
-        "score": 1.5242353927135903,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4567,7 +4152,6 @@
     {
         "url": "rsync://mirror.math.princeton.edu/pub/archlinux/",
         "protocol": "rsync",
-        "score": 2.3244216409767007,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4578,7 +4162,6 @@
     {
         "url": "http://archlinux.mirror.ba/",
         "protocol": "http",
-        "score": 1.2536236034283017,
         "country": "Bosnia and Herzegovina",
         "country_code": "BA",
         "isos": true,
@@ -4589,7 +4172,6 @@
     {
         "url": "rsync://archlinux.mirror.ba/archlinux/",
         "protocol": "rsync",
-        "score": 1.5155596257768655,
         "country": "Bosnia and Herzegovina",
         "country_code": "BA",
         "isos": true,
@@ -4600,7 +4182,6 @@
     {
         "url": "https://www.ratenzahlung.de/mirror/archlinux/",
         "protocol": "https",
-        "score": 9.057258487437963,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -4611,7 +4192,6 @@
     {
         "url": "https://mirror.bethselamin.de/",
         "protocol": "https",
-        "score": 0.1308654376884246,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -4622,7 +4202,6 @@
     {
         "url": "http://mirror.smith.geek.nz/archlinux/",
         "protocol": "http",
-        "score": 1.3383411122308817,
         "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
@@ -4633,7 +4212,6 @@
     {
         "url": "https://mirror.smith.geek.nz/archlinux/",
         "protocol": "https",
-        "score": 1.5973843476330263,
         "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
@@ -4644,7 +4222,6 @@
     {
         "url": "rsync://mirror.smith.geek.nz/archlinux/",
         "protocol": "rsync",
-        "score": 6.973718320809809,
         "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
@@ -4655,7 +4232,6 @@
     {
         "url": "http://archlinux.mirror.garr.it/archlinux/",
         "protocol": "http",
-        "score": 3.63861216749393,
         "country": "Italy",
         "country_code": "IT",
         "isos": true,
@@ -4666,7 +4242,6 @@
     {
         "url": "http://archlinux.mirror.wearetriple.com/",
         "protocol": "http",
-        "score": 1.699811435820784,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -4677,7 +4252,6 @@
     {
         "url": "https://archlinux.mirror.wearetriple.com/",
         "protocol": "https",
-        "score": 1.8169356195889106,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -4688,7 +4262,6 @@
     {
         "url": "rsync://mirror.wearetriple.com/archlinux/",
         "protocol": "rsync",
-        "score": 2.4258832759903393,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -4699,7 +4272,6 @@
     {
         "url": "http://mirror.kku.ac.th/archlinux/",
         "protocol": "http",
-        "score": 4.052960242203678,
         "country": "Thailand",
         "country_code": "TH",
         "isos": true,
@@ -4710,7 +4282,6 @@
     {
         "url": "https://mirror.kku.ac.th/archlinux/",
         "protocol": "https",
-        "score": 4.698236438685036,
         "country": "Thailand",
         "country_code": "TH",
         "isos": true,
@@ -4721,7 +4292,6 @@
     {
         "url": "rsync://mirror.kku.ac.th/archlinux/",
         "protocol": "rsync",
-        "score": 6.472931604101963,
         "country": "Thailand",
         "country_code": "TH",
         "isos": true,
@@ -4732,7 +4302,6 @@
     {
         "url": "http://archmirror.hbit.sztaki.hu/archlinux/",
         "protocol": "http",
-        "score": 1.3072679100851279,
         "country": "Hungary",
         "country_code": "HU",
         "isos": false,
@@ -4743,7 +4312,6 @@
     {
         "url": "https://mirror.osbeck.com/archlinux/",
         "protocol": "https",
-        "score": 0.22819487664716123,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -4754,7 +4322,6 @@
     {
         "url": "rsync://rsync.osbeck.com/archlinux/",
         "protocol": "rsync",
-        "score": 1.0595316922226092,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -4765,7 +4332,6 @@
     {
         "url": "http://mirrors.standaloneinstaller.com/archlinux/",
         "protocol": "http",
-        "score": 13.022769648083365,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -4776,7 +4342,6 @@
     {
         "url": "rsync://mirrors.standaloneinstaller.com/archlinux/",
         "protocol": "rsync",
-        "score": 13.087656841379161,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -4787,7 +4352,6 @@
     {
         "url": "http://mirrors.pidginhost.com/arch/",
         "protocol": "http",
-        "score": 2.2517515312653895,
         "country": "Romania",
         "country_code": "RO",
         "isos": false,
@@ -4798,7 +4362,6 @@
     {
         "url": "https://mirrors.pidginhost.com/arch/",
         "protocol": "https",
-        "score": 2.358023186789465,
         "country": "Romania",
         "country_code": "RO",
         "isos": false,
@@ -4809,7 +4372,6 @@
     {
         "url": "rsync://mirrors.pidginhost.com/Arch/",
         "protocol": "rsync",
-        "score": 2.758065467527983,
         "country": "Romania",
         "country_code": "RO",
         "isos": false,
@@ -4820,7 +4382,6 @@
     {
         "url": "http://mirror.host.ag/archlinux/",
         "protocol": "http",
-        "score": 3.241726014068514,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
@@ -4831,7 +4392,6 @@
     {
         "url": "rsync://mirror.host.ag/archlinux/",
         "protocol": "rsync",
-        "score": 3.875579878982856,
         "country": "Bulgaria",
         "country_code": "BG",
         "isos": true,
@@ -4842,7 +4402,6 @@
     {
         "url": "http://mirror.cs.vt.edu/pub/ArchLinux/",
         "protocol": "http",
-        "score": 8.310545034094616,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4853,7 +4412,6 @@
     {
         "url": "rsync://mirror.cs.vt.edu/archlinux/",
         "protocol": "rsync",
-        "score": 17.957843379654967,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -4864,7 +4422,6 @@
     {
         "url": "http://archlinux.mirror.colo-serv.net/",
         "protocol": "http",
-        "score": 2.415381159858652,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -4875,7 +4432,6 @@
     {
         "url": "http://glua.ua.pt/pub/archlinux/",
         "protocol": "http",
-        "score": 2.3252055948616257,
         "country": "Portugal",
         "country_code": "PT",
         "isos": true,
@@ -4886,7 +4442,6 @@
     {
         "url": "https://glua.ua.pt/pub/archlinux/",
         "protocol": "https",
-        "score": 2.387210567556307,
         "country": "Portugal",
         "country_code": "PT",
         "isos": true,
@@ -4897,7 +4452,6 @@
     {
         "url": "rsync://glua.ua.pt/archlinux/",
         "protocol": "rsync",
-        "score": 2.8520844870403534,
         "country": "Portugal",
         "country_code": "PT",
         "isos": true,
@@ -4908,7 +4462,6 @@
     {
         "url": "http://repo.iut.ac.ir/repo/archlinux/",
         "protocol": "http",
-        "score": 14.08007670585193,
         "country": "Iran",
         "country_code": "IR",
         "isos": true,
@@ -4919,7 +4472,6 @@
     {
         "url": "http://ftp.lanet.kr/pub/archlinux/",
         "protocol": "http",
-        "score": 9.180067921636972,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -4930,7 +4482,6 @@
     {
         "url": "https://ftp.lanet.kr/pub/archlinux/",
         "protocol": "https",
-        "score": 9.831530698482641,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -4941,7 +4492,6 @@
     {
         "url": "http://archlinux.mirrors.benatherton.com/",
         "protocol": "http",
-        "score": 1.2604492598105677,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -4952,7 +4502,6 @@
     {
         "url": "http://mirrors.sonic.net/archlinux/",
         "protocol": "http",
-        "score": 1.6651523998019593,
         "country": "United States",
         "country_code": "US",
         "isos": false,
@@ -4963,7 +4512,6 @@
     {
         "url": "https://mirrors.sonic.net/archlinux/",
         "protocol": "https",
-        "score": 2.0882578522960875,
         "country": "United States",
         "country_code": "US",
         "isos": false,
@@ -4974,7 +4522,6 @@
     {
         "url": "rsync://mirrors.sonic.net/archlinux/",
         "protocol": "rsync",
-        "score": 3.406487923624978,
         "country": "United States",
         "country_code": "US",
         "isos": false,
@@ -4985,7 +4532,6 @@
     {
         "url": "http://mirrors.celianvdb.fr/archlinux/",
         "protocol": "http",
-        "score": 0.2941950199585743,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -4996,7 +4542,6 @@
     {
         "url": "https://mirrors.celianvdb.fr/archlinux/",
         "protocol": "https",
-        "score": 0.29587972279503394,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -5007,7 +4552,6 @@
     {
         "url": "rsync://mirrors.celianvdb.fr/archlinux/",
         "protocol": "rsync",
-        "score": 0.7374360384946357,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -5018,7 +4562,6 @@
     {
         "url": "http://arch.mirror.square-r00t.net/",
         "protocol": "http",
-        "score": 0.2087870568216444,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5029,7 +4572,6 @@
     {
         "url": "https://arch.mirror.square-r00t.net/",
         "protocol": "https",
-        "score": 0.5682891237262181,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5040,7 +4582,6 @@
     {
         "url": "rsync://arch.mirror.square-r00t.net/arch/",
         "protocol": "rsync",
-        "score": 1.2664711315882407,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5051,7 +4592,6 @@
     {
         "url": "https://ger.mirror.pkgbuild.com/",
         "protocol": "https",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5062,7 +4602,6 @@
     {
         "url": "https://mirror.pkgbuild.com/",
         "protocol": "https",
-        "score": 0.06619591753593794,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5073,7 +4612,6 @@
     {
         "url": "rsync://ger.mirror.pkgbuild.com/packages/",
         "protocol": "rsync",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5084,7 +4622,6 @@
     {
         "url": "rsync://mirror.pkgbuild.com/packages/",
         "protocol": "rsync",
-        "score": 0.26719610569972424,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5095,7 +4632,6 @@
     {
         "url": "http://mirror.xtom.com.hk/archlinux/",
         "protocol": "http",
-        "score": 0.9243389347992744,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -5106,7 +4642,6 @@
     {
         "url": "https://mirror.xtom.com.hk/archlinux/",
         "protocol": "https",
-        "score": 1.37257161440969,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -5117,7 +4652,6 @@
     {
         "url": "rsync://mirror.xtom.com.hk/repo/archlinux/",
         "protocol": "rsync",
-        "score": 3.3493062633945216,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -5128,7 +4662,6 @@
     {
         "url": "http://mirror.truenetwork.ru/archlinux/",
         "protocol": "http",
-        "score": 2.1630858506375463,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -5139,7 +4672,6 @@
     {
         "url": "https://mirror.truenetwork.ru/archlinux/",
         "protocol": "https",
-        "score": 2.2787215278878663,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -5150,7 +4682,6 @@
     {
         "url": "rsync://mirror.truenetwork.ru/archlinux/",
         "protocol": "rsync",
-        "score": 3.0918771894355856,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -5161,7 +4692,6 @@
     {
         "url": "http://mirrors.nxthost.com/archlinux/",
         "protocol": "http",
-        "score": 1.9187057913971763,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -5172,7 +4702,6 @@
     {
         "url": "https://mirrors.nxthost.com/archlinux/",
         "protocol": "https",
-        "score": 2.001031167684617,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -5183,7 +4712,6 @@
     {
         "url": "rsync://mirrors.nxthost.com/archlinux/",
         "protocol": "rsync",
-        "score": 5.720246690354334,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -5194,7 +4722,6 @@
     {
         "url": "http://mirror-hk.koddos.net/archlinux/",
         "protocol": "http",
-        "score": 3.716094115608668,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -5205,7 +4732,6 @@
     {
         "url": "http://mirror.koddos.net/archlinux/",
         "protocol": "http",
-        "score": 3.261336307554547,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5216,7 +4742,6 @@
     {
         "url": "https://mirror-hk.koddos.net/archlinux/",
         "protocol": "https",
-        "score": 4.1072844497319805,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -5227,7 +4752,6 @@
     {
         "url": "https://mirror.koddos.net/archlinux/",
         "protocol": "https",
-        "score": 3.2950842890254295,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5238,7 +4762,6 @@
     {
         "url": "rsync://mirror-hk.koddos.net/archlinux/",
         "protocol": "rsync",
-        "score": 6.16687917350215,
         "country": "Hong Kong",
         "country_code": "HK",
         "isos": true,
@@ -5249,7 +4772,6 @@
     {
         "url": "rsync://mirror.koddos.net/archlinux/",
         "protocol": "rsync",
-        "score": 3.5225388061146248,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5260,7 +4782,6 @@
     {
         "url": "http://ftp.wrz.de/pub/archlinux/",
         "protocol": "http",
-        "score": 5.863101085287074,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5271,7 +4792,6 @@
     {
         "url": "https://ftp.wrz.de/pub/archlinux/",
         "protocol": "https",
-        "score": 5.988199179425889,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5282,7 +4802,6 @@
     {
         "url": "rsync://ftp.wrz.de/pub/archlinux/",
         "protocol": "rsync",
-        "score": 6.984646730567264,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5293,7 +4812,6 @@
     {
         "url": "https://mirror.thekinrar.fr/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -5304,7 +4822,6 @@
     {
         "url": "http://mirror.ufam.edu.br/archlinux/",
         "protocol": "http",
-        "score": 1.3361597891646593,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -5315,7 +4832,6 @@
     {
         "url": "http://archlinux.zepto.cloud/",
         "protocol": "http",
-        "score": null,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -5326,7 +4842,6 @@
     {
         "url": "http://arch.petarmaric.com/",
         "protocol": "http",
-        "score": 1.2702976994218076,
         "country": "Serbia",
         "country_code": "RS",
         "isos": false,
@@ -5337,7 +4852,6 @@
     {
         "url": "http://mirror.neostrada.nl/archlinux/",
         "protocol": "http",
-        "score": 1.7835866097974074,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5348,7 +4862,6 @@
     {
         "url": "https://mirror.neostrada.nl/archlinux/",
         "protocol": "https",
-        "score": 1.7808616978747873,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5359,7 +4872,6 @@
     {
         "url": "rsync://mirror.neostrada.nl/archlinux/",
         "protocol": "rsync",
-        "score": 4.309384420068135,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5370,7 +4882,6 @@
     {
         "url": "http://mirror.xeonbd.com/archlinux/",
         "protocol": "http",
-        "score": 0.7025276646637479,
         "country": "Bangladesh",
         "country_code": "BD",
         "isos": true,
@@ -5381,7 +4892,6 @@
     {
         "url": "http://mirrors.ukfast.co.uk/sites/archlinux.org/",
         "protocol": "http",
-        "score": 2.754185369428894,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -5392,7 +4902,6 @@
     {
         "url": "https://mirrors.ukfast.co.uk/sites/archlinux.org/",
         "protocol": "https",
-        "score": 2.8063283946826547,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -5403,7 +4912,6 @@
     {
         "url": "rsync://mirrors.ukfast.co.uk/archlinux.org/",
         "protocol": "rsync",
-        "score": 3.1172846756937336,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -5414,7 +4922,6 @@
     {
         "url": "https://mirror.ungleich.ch/mirror/packages/archlinux/",
         "protocol": "https",
-        "score": 13.537363534406582,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
@@ -5425,7 +4932,6 @@
     {
         "url": "http://mirrors.nav.ro/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -5436,7 +4942,6 @@
     {
         "url": "rsync://mirrors.nav.ro/archlinux/",
         "protocol": "rsync",
-        "score": null,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -5447,7 +4952,6 @@
     {
         "url": "https://archlinux.mivzakim.net/",
         "protocol": "https",
-        "score": 0.5898021396922465,
         "country": "Israel",
         "country_code": "IL",
         "isos": true,
@@ -5458,7 +4962,6 @@
     {
         "url": "http://mirror2.totbb.net/archlinux/",
         "protocol": "http",
-        "score": 3.4974335764822757,
         "country": "Thailand",
         "country_code": "TH",
         "isos": true,
@@ -5469,7 +4972,6 @@
     {
         "url": "https://mirror.srv.fail/archlinux/",
         "protocol": "https",
-        "score": 0.6204166469675374,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -5480,7 +4982,6 @@
     {
         "url": "http://mirror.reisenbauer.ee/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Austria",
         "country_code": "AT",
         "isos": true,
@@ -5491,7 +4992,6 @@
     {
         "url": "https://mirror.reisenbauer.ee/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "Austria",
         "country_code": "AT",
         "isos": true,
@@ -5502,7 +5002,6 @@
     {
         "url": "rsync://mirror.reisenbauer.ee/archlinux/",
         "protocol": "rsync",
-        "score": null,
         "country": "Austria",
         "country_code": "AT",
         "isos": true,
@@ -5513,7 +5012,6 @@
     {
         "url": "http://mirror.veriteknik.net.tr/archlinux/",
         "protocol": "http",
-        "score": 3.361772466677698,
         "country": "Turkey",
         "country_code": "TR",
         "isos": false,
@@ -5524,7 +5022,6 @@
     {
         "url": "rsync://mirror.veriteknik.net.tr/archlinux/",
         "protocol": "rsync",
-        "score": 4.242831111550703,
         "country": "Turkey",
         "country_code": "TR",
         "isos": false,
@@ -5535,7 +5032,6 @@
     {
         "url": "http://packages.oth-regensburg.de/archlinux/",
         "protocol": "http",
-        "score": 0.11724487144633595,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5546,7 +5042,6 @@
     {
         "url": "https://packages.oth-regensburg.de/archlinux/",
         "protocol": "https",
-        "score": 0.15912049872942582,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5557,7 +5052,6 @@
     {
         "url": "rsync://packages.oth-regensburg.de/archlinux/",
         "protocol": "rsync",
-        "score": 0.42215200556656507,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5568,7 +5062,6 @@
     {
         "url": "http://mirror.orbit-os.com/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5579,7 +5072,6 @@
     {
         "url": "https://mirror.orbit-os.com/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5590,7 +5082,6 @@
     {
         "url": "rsync://mirror.orbit-os.com/archlinux/",
         "protocol": "rsync",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5601,7 +5092,6 @@
     {
         "url": "http://distro.ibiblio.org/archlinux/",
         "protocol": "http",
-        "score": 107.8164995645579,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5612,7 +5102,6 @@
     {
         "url": "rsync://distro.ibiblio.org/archlinux/",
         "protocol": "rsync",
-        "score": 109.3175254536315,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5623,7 +5112,6 @@
     {
         "url": "http://mirror.stephen304.com/archlinux/",
         "protocol": "http",
-        "score": 1.3226210527812032,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5634,7 +5122,6 @@
     {
         "url": "https://mirror.stephen304.com/archlinux/",
         "protocol": "https",
-        "score": 1.5295166291453586,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5645,7 +5132,6 @@
     {
         "url": "https://mirrors.sjtug.sjtu.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 2.994748062514824,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -5656,7 +5142,6 @@
     {
         "url": "http://repo.miserver.it.umich.edu/archlinux/",
         "protocol": "http",
-        "score": 3.552986882540793,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5667,7 +5152,6 @@
     {
         "url": "http://mirrors.cat.net/archlinux/",
         "protocol": "http",
-        "score": 1.02195343704595,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -5678,7 +5162,6 @@
     {
         "url": "https://mirrors.cat.net/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "Japan",
         "country_code": "JP",
         "isos": true,
@@ -5689,7 +5172,6 @@
     {
         "url": "http://mirror.terrahost.no/linux/archlinux/",
         "protocol": "http",
-        "score": 6.641721239470367,
         "country": "Norway",
         "country_code": "NO",
         "isos": true,
@@ -5700,7 +5182,6 @@
     {
         "url": "http://mirror.ufscar.br/archlinux/",
         "protocol": "http",
-        "score": 1.021654155802633,
         "country": "Brazil",
         "country_code": "BR",
         "isos": true,
@@ -5711,7 +5192,6 @@
     {
         "url": "http://mirror.oldsql.cc/archlinux/",
         "protocol": "http",
-        "score": 0.8212667416230359,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -5722,7 +5202,6 @@
     {
         "url": "https://mirror.oldsql.cc/archlinux/",
         "protocol": "https",
-        "score": 0.781913524161205,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -5733,7 +5212,6 @@
     {
         "url": "http://arch.mirrors.lavatech.top/",
         "protocol": "http",
-        "score": 1.9150865655069698,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5744,7 +5222,6 @@
     {
         "url": "https://arch.mirrors.lavatech.top/",
         "protocol": "https",
-        "score": 1.643759500384247,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5755,7 +5232,6 @@
     {
         "url": "https://appuals.com/archlinux/",
         "protocol": "https",
-        "score": 14.251491782374778,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -5766,7 +5242,6 @@
     {
         "url": "http://mirror.checkdomain.de/archlinux/",
         "protocol": "http",
-        "score": 1.9368734010177242,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5777,7 +5252,6 @@
     {
         "url": "https://mirror.checkdomain.de/archlinux/",
         "protocol": "https",
-        "score": 1.942983986493343,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5788,7 +5262,6 @@
     {
         "url": "https://www.caco.ic.unicamp.br/archlinux/",
         "protocol": "https",
-        "score": 1.5145938030355282,
         "country": "Brazil",
         "country_code": "BR",
         "isos": false,
@@ -5799,7 +5272,6 @@
     {
         "url": "http://www.caco.ic.unicamp.br/archlinux/",
         "protocol": "http",
-        "score": 1.4014785133685779,
         "country": "Brazil",
         "country_code": "BR",
         "isos": false,
@@ -5810,7 +5282,6 @@
     {
         "url": "http://mirrors.xtom.com/archlinux/",
         "protocol": "http",
-        "score": 1.2855450256197838,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5821,7 +5292,6 @@
     {
         "url": "https://mirrors.xtom.com/archlinux/",
         "protocol": "https",
-        "score": 1.4426221803814945,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5832,7 +5302,6 @@
     {
         "url": "https://dist-mirror.fem.tu-ilmenau.de/archlinux/",
         "protocol": "https",
-        "score": 0.6110850528678438,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -5843,7 +5312,6 @@
     {
         "url": "http://mirror.fsmg.org.nz/archlinux/",
         "protocol": "http",
-        "score": 1.445403720486006,
         "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
@@ -5854,7 +5322,6 @@
     {
         "url": "https://mirror.fsmg.org.nz/archlinux/",
         "protocol": "https",
-        "score": 1.7165068812726385,
         "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
@@ -5865,7 +5332,6 @@
     {
         "url": "rsync://mirror.fsmg.org.nz/archlinux/",
         "protocol": "rsync",
-        "score": 4.017647479009279,
         "country": "New Zealand",
         "country_code": "NZ",
         "isos": true,
@@ -5876,7 +5342,6 @@
     {
         "url": "http://archlinux.mirror.py/archlinux/",
         "protocol": "http",
-        "score": 4.7128291944835174,
         "country": "Paraguay",
         "country_code": "PY",
         "isos": true,
@@ -5887,7 +5352,6 @@
     {
         "url": "http://mirrors.udenar.edu.co/archlinux/",
         "protocol": "http",
-        "score": 1.603291142703643,
         "country": "Colombia",
         "country_code": "CO",
         "isos": true,
@@ -5898,7 +5362,6 @@
     {
         "url": "rsync://mirrors.udenar.edu.co/archlinux/",
         "protocol": "rsync",
-        "score": 2.9699154789480713,
         "country": "Colombia",
         "country_code": "CO",
         "isos": true,
@@ -5909,7 +5372,6 @@
     {
         "url": "http://mirror.siena.edu/archlinux/",
         "protocol": "http",
-        "score": 3.7344083006041506,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5920,7 +5382,6 @@
     {
         "url": "rsync://mirror.siena.edu/archlinux/",
         "protocol": "rsync",
-        "score": 4.548900953902956,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -5931,7 +5392,6 @@
     {
         "url": "http://archlinux.grena.ge/",
         "protocol": "http",
-        "score": 2.379191109662791,
         "country": "Georgia",
         "country_code": "GE",
         "isos": true,
@@ -5942,7 +5402,6 @@
     {
         "url": "https://archlinux.grena.ge/",
         "protocol": "https",
-        "score": 2.6414357109972344,
         "country": "Georgia",
         "country_code": "GE",
         "isos": true,
@@ -5953,7 +5412,6 @@
     {
         "url": "http://archlinux.mirror.pcextreme.nl/",
         "protocol": "http",
-        "score": 0.45123298697168474,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5964,7 +5422,6 @@
     {
         "url": "https://archlinux.mirror.pcextreme.nl/",
         "protocol": "https",
-        "score": 0.5452782677188831,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5975,7 +5432,6 @@
     {
         "url": "rsync://mirror.pcextreme.nl/archlinux/",
         "protocol": "rsync",
-        "score": 0.9263585411055042,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -5986,7 +5442,6 @@
     {
         "url": "http://mirror.onevip.mk/archlinux/",
         "protocol": "http",
-        "score": 32.296841935545395,
         "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
@@ -5997,7 +5452,6 @@
     {
         "url": "rsync://mirror.onevip.mk/archlinux/",
         "protocol": "rsync",
-        "score": 32.79051224474298,
         "country": "North Macedonia",
         "country_code": "MK",
         "isos": true,
@@ -6008,7 +5462,6 @@
     {
         "url": "http://mirror.cyberbits.eu/archlinux/",
         "protocol": "http",
-        "score": 0.09168127410320993,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -6019,7 +5472,6 @@
     {
         "url": "https://mirror.cyberbits.eu/archlinux/",
         "protocol": "https",
-        "score": 0.2482369282754887,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -6030,7 +5482,6 @@
     {
         "url": "rsync://rsync.cyberbits.eu/archlinux/",
         "protocol": "rsync",
-        "score": 0.45247412048851465,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -6041,7 +5492,6 @@
     {
         "url": "http://repo.ialab.dsu.edu/archlinux/",
         "protocol": "http",
-        "score": 1.416052072765314,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6052,7 +5502,6 @@
     {
         "url": "https://repo.ialab.dsu.edu/archlinux/",
         "protocol": "https",
-        "score": 1.2573999336451152,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6063,7 +5512,6 @@
     {
         "url": "https://arch.unixpeople.org/",
         "protocol": "https",
-        "score": 0.5724222755547944,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6074,7 +5522,6 @@
     {
         "url": "rsync://arch.unixpeople.org/arch/",
         "protocol": "rsync",
-        "score": 0.654735109809545,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6085,7 +5532,6 @@
     {
         "url": "http://mirror.tiguinet.net/arch/",
         "protocol": "http",
-        "score": 1.7644450908526086,
         "country": "Belgium",
         "country_code": "BE",
         "isos": true,
@@ -6096,7 +5542,6 @@
     {
         "url": "http://archlinux.mirror.liquidtelecom.com/",
         "protocol": "http",
-        "score": 0.7430583638368953,
         "country": "Kenya",
         "country_code": "KE",
         "isos": true,
@@ -6107,7 +5552,6 @@
     {
         "url": "https://archlinux.mirror.liquidtelecom.com/",
         "protocol": "https",
-        "score": 1.119287445588498,
         "country": "Kenya",
         "country_code": "KE",
         "isos": true,
@@ -6118,7 +5562,6 @@
     {
         "url": "rsync://archlinux.mirror.liquidtelecom.com/archlinux/",
         "protocol": "rsync",
-        "score": 3.304738083787675,
         "country": "Kenya",
         "country_code": "KE",
         "isos": true,
@@ -6129,7 +5572,6 @@
     {
         "url": "http://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "http",
-        "score": 0.6409603605077862,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6140,7 +5582,6 @@
     {
         "url": "http://quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "http",
-        "score": 0.7523883550416351,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6151,7 +5592,6 @@
     {
         "url": "https://nova.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "https",
-        "score": 0.7060683552938509,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6162,7 +5602,6 @@
     {
         "url": "https://quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "https",
-        "score": 0.716529781003375,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6173,7 +5612,6 @@
     {
         "url": "https://super.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "https",
-        "score": 0.7098699648178995,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6184,7 +5622,6 @@
     {
         "url": "http://super.quantum-mirror.hu/mirrors/pub/archlinux/",
         "protocol": "http",
-        "score": 0.6420821536878194,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6195,7 +5632,6 @@
     {
         "url": "rsync://nova.quantum-mirror.hu/archlinux/",
         "protocol": "rsync",
-        "score": 1.0692503272956235,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6206,7 +5642,6 @@
     {
         "url": "rsync://quantum-mirror.hu/archlinux/",
         "protocol": "rsync",
-        "score": 1.0630435302108185,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6217,7 +5652,6 @@
     {
         "url": "rsync://super.quantum-mirror.hu/archlinux/",
         "protocol": "rsync",
-        "score": 1.0681050357659494,
         "country": "Hungary",
         "country_code": "HU",
         "isos": true,
@@ -6228,7 +5662,6 @@
     {
         "url": "http://archlinux.uk.mirror.allworldit.com/archlinux/",
         "protocol": "http",
-        "score": 0.05902518247214054,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -6239,7 +5672,6 @@
     {
         "url": "http://archlinux.za.mirror.allworldit.com/archlinux/",
         "protocol": "http",
-        "score": 0.750543115587996,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -6250,7 +5682,6 @@
     {
         "url": "https://archlinux.uk.mirror.allworldit.com/archlinux/",
         "protocol": "https",
-        "score": 0.10047433672425143,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -6261,7 +5692,6 @@
     {
         "url": "https://archlinux.za.mirror.allworldit.com/archlinux/",
         "protocol": "https",
-        "score": 1.0551480880175599,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -6272,7 +5702,6 @@
     {
         "url": "rsync://archlinux.uk.mirror.allworldit.com/archlinux/",
         "protocol": "rsync",
-        "score": 0.36154551405425706,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -6283,7 +5712,6 @@
     {
         "url": "rsync://archlinux.za.mirror.allworldit.com/archlinux/",
         "protocol": "rsync",
-        "score": 3.8927860568425956,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -6294,7 +5722,6 @@
     {
         "url": "http://mirror.librelabucm.org/archlinux/",
         "protocol": "http",
-        "score": 1.9246887200422285,
         "country": "Spain",
         "country_code": "ES",
         "isos": true,
@@ -6305,7 +5732,6 @@
     {
         "url": "https://mirror.librelabucm.org/archlinux/",
         "protocol": "https",
-        "score": 1.9488304205531348,
         "country": "Spain",
         "country_code": "ES",
         "isos": true,
@@ -6316,7 +5742,6 @@
     {
         "url": "http://mirror-archlinux.webruimtehosting.nl/",
         "protocol": "http",
-        "score": null,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6327,7 +5752,6 @@
     {
         "url": "https://mirror-archlinux.webruimtehosting.nl/",
         "protocol": "https",
-        "score": null,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6338,7 +5762,6 @@
     {
         "url": "http://mirror.netweaver.uk/archlinux/",
         "protocol": "http",
-        "score": 3.8741712911869817,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -6349,7 +5772,6 @@
     {
         "url": "https://mirror.netweaver.uk/archlinux/",
         "protocol": "https",
-        "score": 3.9317777757093886,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -6360,7 +5782,6 @@
     {
         "url": "http://mirror.wtnet.de/arch/",
         "protocol": "http",
-        "score": 0.2548368545385994,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6371,7 +5792,6 @@
     {
         "url": "https://mirror.wtnet.de/arch/",
         "protocol": "https",
-        "score": 0.2837217344834728,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6382,7 +5802,6 @@
     {
         "url": "http://reflector.luehm.com/arch/",
         "protocol": "http",
-        "score": 0.4453182679596336,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6393,7 +5812,6 @@
     {
         "url": "https://reflector.luehm.com/arch/",
         "protocol": "https",
-        "score": 0.7257173561120271,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6404,7 +5822,6 @@
     {
         "url": "http://mirror.mirohost.net/archlinux/",
         "protocol": "http",
-        "score": 0.9378513728544065,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -6415,7 +5832,6 @@
     {
         "url": "https://mirror.mirohost.net/archlinux/",
         "protocol": "https",
-        "score": 1.011736826652554,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -6426,7 +5842,6 @@
     {
         "url": "rsync://mirror.mirohost.net/archlinux/",
         "protocol": "rsync",
-        "score": 1.5228655854891238,
         "country": "Ukraine",
         "country_code": "UA",
         "isos": true,
@@ -6437,7 +5852,6 @@
     {
         "url": "http://ftp.harukasan.org/archlinux/",
         "protocol": "http",
-        "score": 7.853745270206333,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -6448,7 +5862,6 @@
     {
         "url": "https://ftp.harukasan.org/archlinux/",
         "protocol": "https",
-        "score": 10.625757086754149,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -6459,7 +5872,6 @@
     {
         "url": "rsync://ftp.harukasan.org/archlinux/",
         "protocol": "rsync",
-        "score": 13.625564143853234,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -6470,7 +5882,6 @@
     {
         "url": "http://mirror.ufro.cl/archlinux/",
         "protocol": "http",
-        "score": 2.702544955394951,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -6481,7 +5892,6 @@
     {
         "url": "https://mirror.ufro.cl/archlinux/",
         "protocol": "https",
-        "score": 3.1438010585495917,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -6492,7 +5902,6 @@
     {
         "url": "http://mirror.aktkn.sg/archlinux/",
         "protocol": "http",
-        "score": 76.11707913649414,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -6503,7 +5912,6 @@
     {
         "url": "https://mirror.aktkn.sg/archlinux/",
         "protocol": "https",
-        "score": 76.62447696122544,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -6514,7 +5922,6 @@
     {
         "url": "rsync://mirror.aktkn.sg/archlinux/",
         "protocol": "rsync",
-        "score": 77.6984977218563,
         "country": "Singapore",
         "country_code": "SG",
         "isos": true,
@@ -6525,7 +5932,6 @@
     {
         "url": "http://arch.nixlab.pl/",
         "protocol": "http",
-        "score": 3.281637163709512,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -6536,7 +5942,6 @@
     {
         "url": "https://arch.nixlab.pl/",
         "protocol": "https",
-        "score": 3.324816296043574,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -6547,7 +5952,6 @@
     {
         "url": "rsync://arch.nixlab.pl/archlinux/",
         "protocol": "rsync",
-        "score": 3.6387064155682927,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -6558,7 +5962,6 @@
     {
         "url": "http://mirrors.xtom.nl/archlinux/",
         "protocol": "http",
-        "score": 1.1815627115793712,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6569,7 +5972,6 @@
     {
         "url": "https://mirrors.xtom.nl/archlinux/",
         "protocol": "https",
-        "score": 1.1828414528384879,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6580,7 +5982,6 @@
     {
         "url": "https://arch-mirror.cloud.louifox.house/",
         "protocol": "https",
-        "score": 1.1659519762636812,
         "country": "France",
         "country_code": "FR",
         "isos": false,
@@ -6591,7 +5992,6 @@
     {
         "url": "http://mirror.scd31.com/arch/",
         "protocol": "http",
-        "score": 1.6792224070120791,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -6602,7 +6002,6 @@
     {
         "url": "https://mirror.scd31.com/arch/",
         "protocol": "https",
-        "score": 1.4864929534913176,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -6613,7 +6012,6 @@
     {
         "url": "http://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
         "protocol": "http",
-        "score": 2.4397292732451867,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -6624,7 +6022,6 @@
     {
         "url": "https://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
         "protocol": "https",
-        "score": 2.670413700879226,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -6635,7 +6032,6 @@
     {
         "url": "rsync://ftp.icm.edu.pl/pub/Linux/dist/archlinux/",
         "protocol": "rsync",
-        "score": 2.8290881028356694,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -6646,7 +6042,6 @@
     {
         "url": "http://mirror.nak-mci.ir/arch/",
         "protocol": "http",
-        "score": 3.387167688060056,
         "country": "Iran",
         "country_code": "IR",
         "isos": true,
@@ -6657,7 +6052,6 @@
     {
         "url": "http://mirror.mikrogravitation.org/archlinux/",
         "protocol": "http",
-        "score": 0.5426529032224009,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6668,7 +6062,6 @@
     {
         "url": "https://mirror.mikrogravitation.org/archlinux/",
         "protocol": "https",
-        "score": 0.5252264494968254,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6679,7 +6072,6 @@
     {
         "url": "http://mirror.chaoticum.net/arch/",
         "protocol": "http",
-        "score": 0.03650519662990474,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6690,7 +6082,6 @@
     {
         "url": "https://mirror.chaoticum.net/arch/",
         "protocol": "https",
-        "score": 0.03434084565911234,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6701,7 +6092,6 @@
     {
         "url": "rsync://mirror.chaoticum.net/arch/",
         "protocol": "rsync",
-        "score": 0.09464537076568857,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -6712,7 +6102,6 @@
     {
         "url": "http://iad.mirrors.misaka.one/archlinux/",
         "protocol": "http",
-        "score": 0.6768213939148412,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6723,7 +6112,6 @@
     {
         "url": "https://iad.mirrors.misaka.one/archlinux/",
         "protocol": "https",
-        "score": 0.7724021108666633,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6734,7 +6122,6 @@
     {
         "url": "rsync://iad.mirrors.misaka.one/archlinux/",
         "protocol": "rsync",
-        "score": 1.500164838929372,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6745,7 +6132,6 @@
     {
         "url": "http://mirror.pit.teraswitch.com/archlinux/",
         "protocol": "http",
-        "score": 107.80418845869244,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6756,7 +6142,6 @@
     {
         "url": "https://mirror.pit.teraswitch.com/archlinux/",
         "protocol": "https",
-        "score": 108.0132811425185,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6767,7 +6152,6 @@
     {
         "url": "rsync://mirror.pit.teraswitch.com/archlinux/",
         "protocol": "rsync",
-        "score": 109.59178772601622,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6778,7 +6162,6 @@
     {
         "url": "http://mirror.mijn.host/archlinux/",
         "protocol": "http",
-        "score": 3.3341030135784293,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": false,
@@ -6789,7 +6172,6 @@
     {
         "url": "https://mirror.mijn.host/archlinux/",
         "protocol": "https",
-        "score": 3.3253850883449756,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": false,
@@ -6800,7 +6182,6 @@
     {
         "url": "http://mirror.init7.net/archlinux/",
         "protocol": "http",
-        "score": 2.4115550119343103,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
@@ -6811,7 +6192,6 @@
     {
         "url": "https://mirror.init7.net/archlinux/",
         "protocol": "https",
-        "score": 2.432746083735129,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
@@ -6822,7 +6202,6 @@
     {
         "url": "rsync://mirror.init7.net/archlinux/",
         "protocol": "rsync",
-        "score": 2.648531813404866,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": false,
@@ -6833,7 +6212,6 @@
     {
         "url": "http://archlinux.mirror.liteserver.nl/",
         "protocol": "http",
-        "score": 16.47581190088052,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6844,7 +6222,6 @@
     {
         "url": "https://archlinux.mirror.liteserver.nl/",
         "protocol": "https",
-        "score": 16.473405231347577,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6855,7 +6232,6 @@
     {
         "url": "rsync://mirror.liteserver.nl/archlinux/",
         "protocol": "rsync",
-        "score": 16.777501711493148,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -6866,7 +6242,6 @@
     {
         "url": "http://mirrors.ims.nksc.lt/archlinux/",
         "protocol": "http",
-        "score": 0.7505681706456738,
         "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
@@ -6877,7 +6252,6 @@
     {
         "url": "https://mirrors.ims.nksc.lt/archlinux/",
         "protocol": "https",
-        "score": 0.7586755617050812,
         "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
@@ -6888,7 +6262,6 @@
     {
         "url": "rsync://mirrors.ims.nksc.lt/archlinux/",
         "protocol": "rsync",
-        "score": 1.2140990502217286,
         "country": "Lithuania",
         "country_code": "LT",
         "isos": true,
@@ -6899,7 +6272,6 @@
     {
         "url": "http://mirror.labkom.id/archlinux/",
         "protocol": "http",
-        "score": 2.1874838733728645,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -6910,7 +6282,6 @@
     {
         "url": "rsync://mirror.labkom.id/archlinux/",
         "protocol": "rsync",
-        "score": 5.2558650157468945,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -6921,7 +6292,6 @@
     {
         "url": "https://mirrors.eric.ovh/arch/",
         "protocol": "https",
-        "score": 1.0070790320984409,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -6932,7 +6302,6 @@
     {
         "url": "http://archlinux.rezopole.net/",
         "protocol": "http",
-        "score": 1.050880081836474,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -6943,7 +6312,6 @@
     {
         "url": "rsync://ftp.rezopole.net/archlinux/",
         "protocol": "rsync",
-        "score": 1.4091951248353223,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -6954,7 +6322,6 @@
     {
         "url": "http://sharing.thelinuxsect.com/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Spain",
         "country_code": "ES",
         "isos": true,
@@ -6965,7 +6332,6 @@
     {
         "url": "http://mirror.arizona.edu/archlinux/",
         "protocol": "http",
-        "score": 1.4285013293040496,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6976,7 +6342,6 @@
     {
         "url": "https://mirror.arizona.edu/archlinux/",
         "protocol": "https",
-        "score": 1.7471141370442862,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6987,7 +6352,6 @@
     {
         "url": "rsync://mirror.arizona.edu/archlinux/",
         "protocol": "rsync",
-        "score": 3.243299701973318,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -6998,7 +6362,6 @@
     {
         "url": "https://mirror.cloroformo.org/archlinux/",
         "protocol": "https",
-        "score": 4.403305649493872,
         "country": "Spain",
         "country_code": "ES",
         "isos": true,
@@ -7009,7 +6372,6 @@
     {
         "url": "http://mirror2.evolution-host.com/archlinux/",
         "protocol": "http",
-        "score": 13.045428291512007,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -7020,7 +6382,6 @@
     {
         "url": "https://mirror2.evolution-host.com/archlinux/",
         "protocol": "https",
-        "score": 11.68975950008858,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -7031,7 +6392,6 @@
     {
         "url": "rsync://mirror2.evolution-host.com/archlinux/",
         "protocol": "rsync",
-        "score": 13.290108490091704,
         "country": "Canada",
         "country_code": "CA",
         "isos": true,
@@ -7042,7 +6402,6 @@
     {
         "url": "http://ftpmirror.infania.net/mirror/archlinux/",
         "protocol": "http",
-        "score": 1.472661917477447,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -7053,7 +6412,6 @@
     {
         "url": "rsync://ftpmirror.infania.net/archlinux/",
         "protocol": "rsync",
-        "score": 2.740839145751949,
         "country": "Sweden",
         "country_code": "SE",
         "isos": true,
@@ -7064,7 +6422,6 @@
     {
         "url": "http://mirror.redrock.team/archlinux/",
         "protocol": "http",
-        "score": 11.010672874457859,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7075,7 +6432,6 @@
     {
         "url": "https://mirror.redrock.team/archlinux/",
         "protocol": "https",
-        "score": 14.71437126022652,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7086,7 +6442,6 @@
     {
         "url": "http://archmirror1.octyl.net/",
         "protocol": "http",
-        "score": 0.44466407538922226,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7097,7 +6452,6 @@
     {
         "url": "https://archmirror1.octyl.net/",
         "protocol": "https",
-        "score": 0.7666017964761663,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7108,7 +6462,6 @@
     {
         "url": "http://mirror.telkomuniversity.ac.id/archlinux/",
         "protocol": "http",
-        "score": 3.2767297827216857,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -7119,7 +6472,6 @@
     {
         "url": "https://mirror.telkomuniversity.ac.id/archlinux/",
         "protocol": "https",
-        "score": 3.3635114640365384,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -7130,7 +6482,6 @@
     {
         "url": "http://mirror.serverion.com/archlinux/",
         "protocol": "http",
-        "score": 3.691269597301986,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7141,7 +6492,6 @@
     {
         "url": "https://mirror.serverion.com/archlinux/",
         "protocol": "https",
-        "score": 3.651812388841281,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7152,7 +6502,6 @@
     {
         "url": "rsync://mirror.serverion.com/archlinux/",
         "protocol": "rsync",
-        "score": 3.813263155986138,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7163,7 +6512,6 @@
     {
         "url": "http://plug-mirror.rcac.purdue.edu/archlinux/",
         "protocol": "http",
-        "score": 3.8504690894584166,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7174,7 +6522,6 @@
     {
         "url": "https://plug-mirror.rcac.purdue.edu/archlinux/",
         "protocol": "https",
-        "score": 4.616226608466828,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7185,7 +6532,6 @@
     {
         "url": "rsync://plug-mirror.rcac.purdue.edu/archlinux/",
         "protocol": "rsync",
-        "score": 4.735152563632804,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7196,7 +6542,6 @@
     {
         "url": "https://arch.rrig.gs/",
         "protocol": "https",
-        "score": 2.48424038090024,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7207,7 +6552,6 @@
     {
         "url": "rsync://arch.rrig.gs/arch/",
         "protocol": "rsync",
-        "score": 3.966886660961301,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7218,7 +6562,6 @@
     {
         "url": "http://mirror.efect.ro/archlinux/",
         "protocol": "http",
-        "score": 0.661047365855759,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -7229,7 +6572,6 @@
     {
         "url": "https://mirror.efect.ro/archlinux/",
         "protocol": "https",
-        "score": 4.163648641486805,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -7240,7 +6582,6 @@
     {
         "url": "rsync://mirror.efect.ro/archlinux/",
         "protocol": "rsync",
-        "score": 1.1110160572095107,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -7251,7 +6592,6 @@
     {
         "url": "http://mirror.undisclose.de/archlinux/",
         "protocol": "http",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -7262,7 +6602,6 @@
     {
         "url": "https://mirror.undisclose.de/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -7273,7 +6612,6 @@
     {
         "url": "rsync://mirror.undisclose.de/files/archlinux/",
         "protocol": "rsync",
-        "score": 1.4762899988983649,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -7284,7 +6622,6 @@
     {
         "url": "http://mirrors.mit.edu/archlinux/",
         "protocol": "http",
-        "score": 1.6764062281663505,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7295,7 +6632,6 @@
     {
         "url": "https://mirrors.mit.edu/archlinux/",
         "protocol": "https",
-        "score": 1.7367953381828123,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7306,7 +6642,6 @@
     {
         "url": "rsync://mirrors.mit.edu/archlinux/",
         "protocol": "rsync",
-        "score": 2.8388595975652886,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7317,7 +6652,6 @@
     {
         "url": "http://arch.hu.fo/archlinux/",
         "protocol": "http",
-        "score": 0.9223908284164626,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7328,7 +6662,6 @@
     {
         "url": "https://arch.hu.fo/archlinux/",
         "protocol": "https",
-        "score": 0.6341499662946821,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7339,7 +6672,6 @@
     {
         "url": "rsync://arch.hu.fo/archlinux/",
         "protocol": "rsync",
-        "score": 2.039777100805142,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7350,7 +6682,6 @@
     {
         "url": "http://mirrors.chroot.ro/archlinux/",
         "protocol": "http",
-        "score": 4.48361344653986,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -7361,7 +6692,6 @@
     {
         "url": "https://mirrors.chroot.ro/archlinux/",
         "protocol": "https",
-        "score": 4.576579531659271,
         "country": "Romania",
         "country_code": "RO",
         "isos": true,
@@ -7372,7 +6702,6 @@
     {
         "url": "http://mirrors.melbourne.co.uk/archlinux/",
         "protocol": "http",
-        "score": 1.0253254179486624,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -7383,7 +6712,6 @@
     {
         "url": "https://mirrors.melbourne.co.uk/archlinux/",
         "protocol": "https",
-        "score": 1.1529058626145718,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -7394,7 +6722,6 @@
     {
         "url": "rsync://mirrors.melbourne.co.uk/archlinux/",
         "protocol": "rsync",
-        "score": 1.3682347066971552,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -7405,7 +6732,6 @@
     {
         "url": "http://mirror.tarellia.net/distr/archlinux/",
         "protocol": "http",
-        "score": 0.4798305050993884,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7416,7 +6742,6 @@
     {
         "url": "https://mirror.tarellia.net/distr/archlinux/",
         "protocol": "https",
-        "score": 0.4807637440519666,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7427,7 +6752,6 @@
     {
         "url": "rsync://mirror.tarellia.net/archlinux/",
         "protocol": "rsync",
-        "score": 5.910422880766692,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7438,7 +6762,6 @@
     {
         "url": "http://mirrors.piconets.webwerks.in/archlinux-mirror/",
         "protocol": "http",
-        "score": 23.242583483798104,
         "country": "India",
         "country_code": "IN",
         "isos": true,
@@ -7449,7 +6772,6 @@
     {
         "url": "https://mirrors.piconets.webwerks.in/archlinux-mirror/",
         "protocol": "https",
-        "score": 23.6985897565907,
         "country": "India",
         "country_code": "IN",
         "isos": true,
@@ -7460,7 +6782,6 @@
     {
         "url": "http://mirrors.urbanwave.co.za/archlinux/",
         "protocol": "http",
-        "score": 1.7285975756048573,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -7471,7 +6792,6 @@
     {
         "url": "https://mirrors.urbanwave.co.za/archlinux/",
         "protocol": "https",
-        "score": 1.7863157697652894,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -7482,7 +6802,6 @@
     {
         "url": "http://mirrors.dgut.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 1.545401844587233,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7493,7 +6812,6 @@
     {
         "url": "https://mirrors.dgut.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 3.028607681766773,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7504,7 +6822,6 @@
     {
         "url": "https://mirror.sysa.tech/archlinux/",
         "protocol": "https",
-        "score": 1.5876909692020444,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7515,7 +6832,6 @@
     {
         "url": "rsync://mirror.sysa.tech/archlinux/",
         "protocol": "rsync",
-        "score": 1.8506121276332348,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7526,7 +6842,6 @@
     {
         "url": "http://mirror.rasanegar.com/archlinux/",
         "protocol": "http",
-        "score": 789.1773800772753,
         "country": "Iran",
         "country_code": "IR",
         "isos": true,
@@ -7537,7 +6852,6 @@
     {
         "url": "https://mirror.rasanegar.com/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "Iran",
         "country_code": "IR",
         "isos": true,
@@ -7548,7 +6862,6 @@
     {
         "url": "http://mirror.wuki.li/archlinux/",
         "protocol": "http",
-        "score": 1.1494325591392978,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -7559,7 +6872,6 @@
     {
         "url": "https://mirror.wuki.li/archlinux/",
         "protocol": "https",
-        "score": 1.1642172518700933,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -7570,7 +6882,6 @@
     {
         "url": "rsync://mirror.wuki.li/archlinux/",
         "protocol": "rsync",
-        "score": 5.006278357393276,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -7581,7 +6892,6 @@
     {
         "url": "http://ftp.sudhip.com/archlinux/",
         "protocol": "http",
-        "score": 1.1555230290689462,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7592,7 +6902,6 @@
     {
         "url": "https://ftp.sudhip.com/archlinux/",
         "protocol": "https",
-        "score": 1.4029610920622975,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -7603,7 +6912,6 @@
     {
         "url": "http://mirrors.bfsu.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 2.1087076613632205,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7614,7 +6922,6 @@
     {
         "url": "https://mirrors.bfsu.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 2.860859174928171,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7625,7 +6932,6 @@
     {
         "url": "rsync://mirrors.bfsu.edu.cn/archlinux/",
         "protocol": "rsync",
-        "score": 6.50189158679109,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7636,7 +6942,6 @@
     {
         "url": "http://mirroir.wptheme.fr/archlinux/",
         "protocol": "http",
-        "score": 6.243178434946038,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7647,7 +6952,6 @@
     {
         "url": "https://mirroir.wptheme.fr/archlinux/",
         "protocol": "https",
-        "score": 6.278760196470373,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7658,7 +6962,6 @@
     {
         "url": "rsync://mirroir.wptheme.fr/archlinux/",
         "protocol": "rsync",
-        "score": 6.656207362409761,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7669,7 +6972,6 @@
     {
         "url": "http://mirror.kumi.systems/archlinux/",
         "protocol": "http",
-        "score": 0.5528378552169605,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7680,7 +6982,6 @@
     {
         "url": "https://mirror.kumi.systems/archlinux/",
         "protocol": "https",
-        "score": 0.5105918025024657,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7691,7 +6992,6 @@
     {
         "url": "rsync://mirror.kumi.systems/archlinux/",
         "protocol": "rsync",
-        "score": 0.5409367202503322,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7702,7 +7002,6 @@
     {
         "url": "http://mirror.fsrv.services/archlinux/",
         "protocol": "http",
-        "score": 1.8175891241159636,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -7713,7 +7012,6 @@
     {
         "url": "https://mirror.fsrv.services/archlinux/",
         "protocol": "https",
-        "score": 1.824545582525268,
         "country": "Germany",
         "country_code": "DE",
         "isos": false,
@@ -7724,7 +7022,6 @@
     {
         "url": "https://mirrors.slaanesh.org/archlinux/",
         "protocol": "https",
-        "score": 13.058754901389127,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7735,7 +7032,6 @@
     {
         "url": "rsync://mirrors.slaanesh.org/archlinux/",
         "protocol": "rsync",
-        "score": 13.351265096737341,
         "country": "France",
         "country_code": "FR",
         "isos": true,
@@ -7746,7 +7042,6 @@
     {
         "url": "http://mirror.hosthink.net/archlinux/",
         "protocol": "http",
-        "score": 6.1238197627135404,
         "country": "Finland",
         "country_code": "FI",
         "isos": true,
@@ -7757,7 +7052,6 @@
     {
         "url": "http://mirrors.nju.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 4.646959240893745,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7768,7 +7062,6 @@
     {
         "url": "https://mirrors.nju.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 4.841522324359257,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7779,7 +7072,6 @@
     {
         "url": "rsync://mirrors.nju.edu.cn/archlinux/",
         "protocol": "rsync",
-        "score": 16.3404268293906,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -7790,7 +7082,6 @@
     {
         "url": "http://mirror1.cl.netactuate.com/archlinux/",
         "protocol": "http",
-        "score": 1.3959500550490402,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -7801,7 +7092,6 @@
     {
         "url": "https://mirror1.cl.netactuate.com/archlinux/",
         "protocol": "https",
-        "score": 1.6732913352287566,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -7812,7 +7102,6 @@
     {
         "url": "rsync://mirror1.cl.netactuate.com/archlinux/",
         "protocol": "rsync",
-        "score": 4.020187490963969,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -7823,7 +7112,6 @@
     {
         "url": "http://mirrors.gethosted.online/archlinux/",
         "protocol": "http",
-        "score": 17.989881683013927,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -7834,7 +7122,6 @@
     {
         "url": "https://mirrors.gethosted.online/archlinux/",
         "protocol": "https",
-        "score": 18.029267236401516,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -7845,7 +7132,6 @@
     {
         "url": "rsync://mirrors.gethosted.online/archlinux/",
         "protocol": "rsync",
-        "score": 18.406546112833805,
         "country": "United Kingdom",
         "country_code": "GB",
         "isos": true,
@@ -7856,7 +7142,6 @@
     {
         "url": "http://archlinux.ccns.ncku.edu.tw/archlinux/",
         "protocol": "http",
-        "score": 2.209020752942073,
         "country": "Taiwan",
         "country_code": "TW",
         "isos": true,
@@ -7867,7 +7152,6 @@
     {
         "url": "http://phinau.de/arch/",
         "protocol": "http",
-        "score": 0.06564323880845807,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7878,7 +7162,6 @@
     {
         "url": "https://phinau.de/arch/",
         "protocol": "https",
-        "score": 0.09982196713892601,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7889,7 +7172,6 @@
     {
         "url": "rsync://phinau.de/arch/",
         "protocol": "rsync",
-        "score": 0.5487363144389081,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7900,7 +7182,6 @@
     {
         "url": "http://mirror.anquan.cl/archlinux/",
         "protocol": "http",
-        "score": 1.7002743663150561,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -7911,7 +7192,6 @@
     {
         "url": "rsync://mirror.anquan.cl/archlinux/",
         "protocol": "rsync",
-        "score": 3.2468689573567304,
         "country": "Chile",
         "country_code": "CL",
         "isos": true,
@@ -7922,7 +7202,6 @@
     {
         "url": "https://mirrors.daan.vodka/archlinux/",
         "protocol": "https",
-        "score": 1.1485581563167941,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -7933,7 +7212,6 @@
     {
         "url": "https://arch.jeweet.net/",
         "protocol": "https",
-        "score": 8.010281535586499,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": false,
@@ -7944,7 +7222,6 @@
     {
         "url": "http://mirror.satis-faction.de/archlinux/",
         "protocol": "http",
-        "score": 0.5543613162338893,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7955,7 +7232,6 @@
     {
         "url": "https://mirror.satis-faction.de/archlinux/",
         "protocol": "https",
-        "score": 0.5485980805332153,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -7966,7 +7242,6 @@
     {
         "url": "http://mirror.sfinae.tech/pub/mirrors/archlinux/",
         "protocol": "http",
-        "score": 0.5838883450352685,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -7977,7 +7252,6 @@
     {
         "url": "https://mirror.sfinae.tech/pub/mirrors/archlinux/",
         "protocol": "https",
-        "score": 0.6298629041594208,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -7988,7 +7262,6 @@
     {
         "url": "rsync://mirror.sfinae.tech/archlinux/",
         "protocol": "rsync",
-        "score": 0.8913882661061163,
         "country": "Poland",
         "country_code": "PL",
         "isos": true,
@@ -7999,7 +7272,6 @@
     {
         "url": "http://mirrors.powernet.com.ru/archlinux/",
         "protocol": "http",
-        "score": 4.3365023920458485,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -8010,7 +7282,6 @@
     {
         "url": "rsync://mirrors.powernet.com.ru/pub/archlinux/",
         "protocol": "rsync",
-        "score": 5.212062955542449,
         "country": "Russia",
         "country_code": "RU",
         "isos": true,
@@ -8021,7 +7292,6 @@
     {
         "url": "http://mirror.gi.co.id/archlinux/",
         "protocol": "http",
-        "score": 12.77283709477021,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -8032,7 +7302,6 @@
     {
         "url": "https://mirror.gi.co.id/archlinux/",
         "protocol": "https",
-        "score": 12.847735753473,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -8043,7 +7312,6 @@
     {
         "url": "rsync://mirror.gi.co.id/archlinux/",
         "protocol": "rsync",
-        "score": 14.785489196266784,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -8054,7 +7322,6 @@
     {
         "url": "http://mirror.papua.go.id/archlinux/",
         "protocol": "http",
-        "score": 25.32061790698051,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -8065,7 +7332,6 @@
     {
         "url": "https://mirror.papua.go.id/archlinux/",
         "protocol": "https",
-        "score": 25.626113632752713,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -8076,7 +7342,6 @@
     {
         "url": "rsync://mirror.papua.go.id/archlinux/",
         "protocol": "rsync",
-        "score": 31.63677679498216,
         "country": "Indonesia",
         "country_code": "ID",
         "isos": true,
@@ -8087,7 +7352,6 @@
     {
         "url": "http://mirror.lyrahosting.com/archlinux/",
         "protocol": "http",
-        "score": 12.436157608671257,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -8098,7 +7362,6 @@
     {
         "url": "https://mirror.lyrahosting.com/archlinux/",
         "protocol": "https",
-        "score": 12.476276352529846,
         "country": "Netherlands",
         "country_code": "NL",
         "isos": true,
@@ -8109,7 +7372,6 @@
     {
         "url": "https://mirror.hodgepodge.dev/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -8120,7 +7382,6 @@
     {
         "url": "http://mirrors.hostico.ro/archlinux/",
         "protocol": "http",
-        "score": 6.557898350245195,
         "country": "Romania",
         "country_code": "RO",
         "isos": false,
@@ -8131,7 +7392,6 @@
     {
         "url": "https://mirrors.hostico.ro/archlinux/",
         "protocol": "https",
-        "score": 6.636803896313967,
         "country": "Romania",
         "country_code": "RO",
         "isos": false,
@@ -8142,7 +7402,6 @@
     {
         "url": "http://repo.inara.pk/archlinux/",
         "protocol": "http",
-        "score": 13.094457115574443,
         "country": "Pakistan",
         "country_code": "PK",
         "isos": true,
@@ -8153,7 +7412,6 @@
     {
         "url": "https://repo.inara.pk/archlinux/",
         "protocol": "https",
-        "score": 13.423376086369007,
         "country": "Pakistan",
         "country_code": "PK",
         "isos": true,
@@ -8164,7 +7422,6 @@
     {
         "url": "http://mirror.launtel.net.au/repo/arch/",
         "protocol": "http",
-        "score": 16.326217018763195,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -8175,7 +7432,6 @@
     {
         "url": "https://mirror.launtel.net.au/repo/arch/",
         "protocol": "https",
-        "score": 16.926430654223452,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -8186,7 +7442,6 @@
     {
         "url": "rsync://mirror.launtel.net.au/arch/",
         "protocol": "rsync",
-        "score": 19.262896206886392,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -8197,7 +7452,6 @@
     {
         "url": "https://mirror.dogado.de/archlinux/",
         "protocol": "https",
-        "score": 1.0421404179848182,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -8208,7 +7462,6 @@
     {
         "url": "http://arch.opnmirror.co.za/",
         "protocol": "http",
-        "score": 1.3763907489353826,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -8219,7 +7472,6 @@
     {
         "url": "https://arch.opnmirror.co.za/",
         "protocol": "https",
-        "score": 1.7881242660072467,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -8230,7 +7482,6 @@
     {
         "url": "rsync://arch.opnmirror.co.za/archlinux/archlinux/",
         "protocol": "rsync",
-        "score": 3.4771732878846953,
         "country": "South Africa",
         "country_code": "ZA",
         "isos": true,
@@ -8241,7 +7492,6 @@
     {
         "url": "http://mirror.clientvps.com/archlinux/",
         "protocol": "http",
-        "score": 2.8885283946554416,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -8252,7 +7502,6 @@
     {
         "url": "https://mirror.clientvps.com/archlinux/",
         "protocol": "https",
-        "score": 2.904341708211761,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -8263,7 +7512,6 @@
     {
         "url": "rsync://mirror.clientvps.com:/archlinux/",
         "protocol": "rsync",
-        "score": 3.0269766827384488,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -8274,7 +7522,6 @@
     {
         "url": "https://zxcvfdsa.com/arch/",
         "protocol": "https",
-        "score": 1.3478892266764506,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -8285,7 +7532,6 @@
     {
         "url": "http://mirror.ihost.md/archlinux/",
         "protocol": "http",
-        "score": 3.754355046479289,
         "country": "Moldova",
         "country_code": "MD",
         "isos": true,
@@ -8296,7 +7542,6 @@
     {
         "url": "https://mirror.ihost.md/archlinux/",
         "protocol": "https",
-        "score": 3.8250392964574456,
         "country": "Moldova",
         "country_code": "MD",
         "isos": true,
@@ -8307,7 +7552,6 @@
     {
         "url": "rsync://mirror.ihost.md/archlinux/",
         "protocol": "rsync",
-        "score": 4.192287205367896,
         "country": "Moldova",
         "country_code": "MD",
         "isos": true,
@@ -8318,7 +7562,6 @@
     {
         "url": "https://mirror.autisten.club/archlinux/",
         "protocol": "https",
-        "score": 0.5626421564815218,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -8329,7 +7572,6 @@
     {
         "url": "rsync://mirror.autisten.club/archlinux/",
         "protocol": "rsync",
-        "score": 0.6088657125871061,
         "country": "Germany",
         "country_code": "DE",
         "isos": true,
@@ -8340,7 +7582,6 @@
     {
         "url": "http://mirror.ette.biz/archlinux/",
         "protocol": "http",
-        "score": 3.938287573563286,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -8351,7 +7592,6 @@
     {
         "url": "https://mirror.ette.biz/archlinux/",
         "protocol": "https",
-        "score": 4.136410260395954,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -8362,7 +7602,6 @@
     {
         "url": "rsync://mirror.ette.biz/archlinux/",
         "protocol": "rsync",
-        "score": 5.0498219435949405,
         "country": "United States",
         "country_code": "US",
         "isos": true,
@@ -8373,7 +7612,6 @@
     {
         "url": "http://mirror.bizflycloud.vn/archlinux/",
         "protocol": "http",
-        "score": 2.581103610314297,
         "country": "Vietnam",
         "country_code": "VN",
         "isos": true,
@@ -8384,7 +7622,6 @@
     {
         "url": "https://theswissbay.ch/archlinux/",
         "protocol": "https",
-        "score": 1.4044722117736839,
         "country": "Switzerland",
         "country_code": "CH",
         "isos": true,
@@ -8395,7 +7632,6 @@
     {
         "url": "https://archmirror.it/",
         "protocol": "https",
-        "score": 0.29224574006034154,
         "country": "Italy",
         "country_code": "IT",
         "isos": true,
@@ -8406,7 +7642,6 @@
     {
         "url": "http://mirror.anigil.com/archlinux/",
         "protocol": "http",
-        "score": 3.5266834448381448,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -8417,7 +7652,6 @@
     {
         "url": "https://mirror.anigil.com/archlinux/",
         "protocol": "https",
-        "score": null,
         "country": "South Korea",
         "country_code": "KR",
         "isos": true,
@@ -8428,7 +7662,6 @@
     {
         "url": "http://mirrors.hit.edu.cn/archlinux/",
         "protocol": "http",
-        "score": 4.4830715405632855,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -8439,7 +7672,6 @@
     {
         "url": "https://mirrors.hit.edu.cn/archlinux/",
         "protocol": "https",
-        "score": 6.573302837940167,
         "country": "China",
         "country_code": "CN",
         "isos": true,
@@ -8450,7 +7682,6 @@
     {
         "url": "http://mirror.hoster.kz/archlinux/",
         "protocol": "http",
-        "score": 3.8452598677188012,
         "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
@@ -8461,7 +7692,6 @@
     {
         "url": "https://mirror.hoster.kz/archlinux/",
         "protocol": "https",
-        "score": 4.190298799121071,
         "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
@@ -8472,7 +7702,6 @@
     {
         "url": "rsync://mirror.hoster.kz/archlinux/",
         "protocol": "rsync",
-        "score": 5.067350361721504,
         "country": "Kazakhstan",
         "country_code": "KZ",
         "isos": true,
@@ -8483,7 +7712,6 @@
     {
         "url": "http://arch.lucassymons.net/",
         "protocol": "http",
-        "score": 1.8188364114439342,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
@@ -8494,7 +7722,6 @@
     {
         "url": "https://arch.lucassymons.net/",
         "protocol": "https",
-        "score": 1.8188466039163185,
         "country": "Australia",
         "country_code": "AU",
         "isos": true,
