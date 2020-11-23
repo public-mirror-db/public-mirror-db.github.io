@@ -5,7 +5,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -15,7 +17,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -25,7 +29,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -35,7 +41,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -45,7 +53,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -55,7 +65,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -65,7 +77,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -75,7 +89,9 @@
         "description": "",
         "country_code": "CA",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -85,7 +101,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -95,7 +113,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -105,7 +125,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -115,7 +137,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -125,7 +149,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -135,7 +161,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -145,7 +173,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -155,7 +185,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -165,7 +197,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -175,7 +209,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -185,7 +221,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -195,7 +233,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -205,7 +245,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -215,7 +257,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -225,7 +269,9 @@
         "description": "",
         "country_code": "US",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -235,7 +281,9 @@
         "description": "",
         "country_code": "BR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -245,7 +293,9 @@
         "description": "",
         "country_code": "BR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -255,7 +305,9 @@
         "description": "",
         "country_code": "BR",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -265,7 +317,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -275,7 +329,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -285,7 +341,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -295,7 +353,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -305,7 +365,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -315,7 +377,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -325,7 +389,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -335,7 +401,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -345,7 +413,9 @@
         "description": "",
         "country_code": "CZ",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -355,7 +425,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -365,7 +437,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -375,7 +449,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -385,7 +461,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -395,7 +473,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -405,7 +485,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -415,7 +497,9 @@
         "description": "",
         "country_code": "FR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -425,7 +509,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -435,7 +521,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -445,7 +533,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -455,7 +545,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -465,7 +557,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -475,7 +569,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -485,7 +581,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -495,7 +593,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -505,7 +605,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -515,7 +617,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -525,7 +629,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -535,7 +641,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -545,7 +653,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -555,7 +665,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -565,7 +677,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -575,7 +689,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -585,7 +701,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -595,7 +713,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -605,7 +725,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -615,7 +737,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -625,7 +749,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -635,7 +761,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -645,7 +773,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -655,7 +785,9 @@
         "description": "",
         "country_code": "DE",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -665,7 +797,9 @@
         "description": "",
         "country_code": "GR",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -675,7 +809,9 @@
         "description": "",
         "country_code": "GR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -685,7 +821,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -695,7 +833,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -705,7 +845,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -715,7 +857,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -725,7 +869,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -735,7 +881,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -745,7 +893,9 @@
         "description": "",
         "country_code": "NL",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -755,7 +905,9 @@
         "description": "",
         "country_code": "PL",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -765,7 +917,9 @@
         "description": "",
         "country_code": "PL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -775,7 +929,9 @@
         "description": "",
         "country_code": "PL",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -785,7 +941,9 @@
         "description": "",
         "country_code": "PT",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -795,7 +953,9 @@
         "description": "",
         "country_code": "PT",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -805,7 +965,9 @@
         "description": "",
         "country_code": "PT",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -815,7 +977,9 @@
         "description": "",
         "country_code": "PT",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -825,7 +989,9 @@
         "description": "",
         "country_code": "PT",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -835,7 +1001,9 @@
         "description": "",
         "country_code": "PT",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -845,7 +1013,9 @@
         "description": "",
         "country_code": "RO",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -855,7 +1025,9 @@
         "description": "",
         "country_code": "RO",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -865,7 +1037,9 @@
         "description": "",
         "country_code": "SE",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -875,7 +1049,9 @@
         "description": "",
         "country_code": "SE",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -885,7 +1061,9 @@
         "description": "",
         "country_code": "SK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -895,7 +1073,9 @@
         "description": "",
         "country_code": "SK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -905,7 +1085,9 @@
         "description": "",
         "country_code": "SK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -915,7 +1097,9 @@
         "description": "",
         "country_code": "SK",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -925,7 +1109,9 @@
         "description": "",
         "country_code": "TR",
         "protocol": "https",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -935,7 +1121,9 @@
         "description": "",
         "country_code": "TR",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -945,7 +1133,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -955,7 +1145,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -965,7 +1157,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -975,7 +1169,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -985,7 +1181,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -995,7 +1193,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1005,7 +1205,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1015,7 +1217,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1025,7 +1229,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1035,7 +1241,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1045,7 +1253,9 @@
         "description": "",
         "country_code": "UK",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1055,7 +1265,9 @@
         "description": "",
         "country_code": "AU",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1065,7 +1277,9 @@
         "description": "",
         "country_code": "AU",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1075,7 +1289,9 @@
         "description": "",
         "country_code": "CN",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1085,7 +1301,9 @@
         "description": "",
         "country_code": "CN",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1095,7 +1313,9 @@
         "description": "",
         "country_code": "CN",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1105,7 +1325,9 @@
         "description": "",
         "country_code": "HK",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1115,7 +1337,9 @@
         "description": "",
         "country_code": "JP",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1125,7 +1349,9 @@
         "description": "",
         "country_code": "JP",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1135,7 +1361,9 @@
         "description": "",
         "country_code": "JP",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1145,7 +1373,9 @@
         "description": "",
         "country_code": "PH",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1155,7 +1385,9 @@
         "description": "",
         "country_code": "PH",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1165,7 +1397,9 @@
         "description": "",
         "country_code": "KR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1175,7 +1409,9 @@
         "description": "",
         "country_code": "KR",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1185,7 +1421,9 @@
         "description": "",
         "country_code": "KR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1195,7 +1433,9 @@
         "description": "",
         "country_code": "KR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1205,7 +1445,9 @@
         "description": "",
         "country_code": "KR",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1215,7 +1457,9 @@
         "description": "",
         "country_code": "KR",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1225,7 +1469,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1235,7 +1481,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1245,7 +1493,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1255,7 +1505,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1265,7 +1517,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": true,
+        "tags": [
             "official"
         ]
     },
@@ -1275,7 +1529,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1285,7 +1541,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1295,7 +1553,9 @@
         "description": "",
         "country_code": "RU",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1305,7 +1565,9 @@
         "description": "",
         "country_code": "TW",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1315,7 +1577,9 @@
         "description": "",
         "country_code": "TW",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1325,7 +1589,9 @@
         "description": "",
         "country_code": "IL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1335,7 +1601,9 @@
         "description": "",
         "country_code": "IL",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1345,7 +1613,9 @@
         "description": "",
         "country_code": "KZ",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1355,7 +1625,9 @@
         "description": "",
         "country_code": "KZ",
         "protocol": "http",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1365,7 +1637,9 @@
         "description": "",
         "country_code": "KZ",
         "protocol": "ftp",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1375,7 +1649,9 @@
         "description": "",
         "country_code": "KZ",
         "protocol": "rsync",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "official"
         ]
     },
@@ -1385,7 +1661,9 @@
         "protocol": "http",
         "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
         "description": "",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "Tuna",
@@ -1393,7 +1671,9 @@
         "protocol": "rsync",
         "url": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo",
         "description": "",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "163",
@@ -1401,7 +1681,9 @@
         "protocol": "http",
         "url": "https://mirrors.163.com/gentoo",
         "description": "",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "ZJU",
@@ -1409,7 +1691,9 @@
         "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.zju.edu.cn/gentoo",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "USTC",
@@ -1417,7 +1701,9 @@
         "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.ustc.edu.cn/gentoo",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "partial"
         ]
     },
@@ -1427,7 +1713,9 @@
         "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "BIT",
@@ -1435,7 +1723,9 @@
         "country_code": "CN",
         "protocol": "http",
         "url": "https://mirror.bit.edu.cn/gentoo",
-        "tag": [
+        "ipv4": true,
+        "ipv6": false,
+        "tags": [
             "partial"
         ]
     },
@@ -1445,7 +1735,9 @@
         "protocol": "http",
         "url": "https://mirrors.sohu.com/gentoo",
         "description": "",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "yun-idc",
@@ -1453,7 +1745,9 @@
         "protocol": "http",
         "url": "http://mirrors.yun-idc.com/gentoo",
         "description": "",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "LZU",
@@ -1461,7 +1755,9 @@
         "country_code": "CN",
         "protocol": "http",
         "url": "https://mirror.lzu.edu.cn/gentoo",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "XMU",
@@ -1469,7 +1765,9 @@
         "country_code": "CN",
         "protocol": "http",
         "url": "https://mirrors.xmu.edu.cn/gentoo",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     },
     {
         "name": "neusoft",
@@ -1477,6 +1775,8 @@
         "protocol": "http",
         "url": "http://mirrors.neusoft.edu.cn/gentoo",
         "description": "",
-        "tag": []
+        "ipv4": true,
+        "ipv6": false,
+        "tags": []
     }
 ]

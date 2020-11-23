@@ -4,7 +4,7 @@
         "name": "Tera-byte Dot Com Inc",
         "description": "",
         "country_code": "CA",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -13,7 +13,7 @@
         "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
         "country_code": "US",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -22,7 +22,7 @@
         "name": "Georgia Tech",
         "description": "",
         "country_code": "US",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -31,7 +31,7 @@
         "name": "Rochester Institute of Technology",
         "description": "",
         "country_code": "US",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -40,7 +40,7 @@
         "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
         "country_code": "BR",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -49,7 +49,7 @@
         "name": "Masaryk University Brno",
         "description": "",
         "country_code": "CZ",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -58,7 +58,7 @@
         "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
         "country_code": "CZ",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -67,7 +67,7 @@
         "name": "LeaseWeb (Anycast: Frankfurt)",
         "description": "",
         "country_code": "DE",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -76,7 +76,7 @@
         "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
         "country_code": "DE",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -85,7 +85,7 @@
         "name": "University of Applied Sciences, Esslingen",
         "description": "",
         "country_code": "DE",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -94,7 +94,7 @@
         "name": "1&1 Internet SE",
         "description": "",
         "country_code": "DE",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -103,7 +103,7 @@
         "name": "Netcologne",
         "description": "",
         "country_code": "DE",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -112,7 +112,7 @@
         "name": "RWTH Aachen University",
         "description": "",
         "country_code": "DE",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -121,7 +121,7 @@
         "name": "Universiteit Twente",
         "description": "",
         "country_code": "NL",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -130,7 +130,7 @@
         "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
         "country_code": "NL",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -139,7 +139,7 @@
         "name": "Vectranet",
         "description": "",
         "country_code": "PL",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -148,7 +148,7 @@
         "name": "Bytemark Hosting",
         "description": "",
         "country_code": "UK",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -157,7 +157,7 @@
         "name": "Internet Initiative Japan",
         "description": "",
         "country_code": "JP",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -166,7 +166,7 @@
         "name": "Neo Lab's",
         "description": "",
         "country_code": "KZ",
-        "tag": [
+        "tags": [
             "official"
         ]
     },
@@ -175,6 +175,6 @@
         "description": "Mirror site provided by Xia Men University",
         "country": "CN",
         "url": "http://mirrors.neusoft.edu.cn/gentoo",
-        "tag": []
+        "tags": []
     }
 ]
