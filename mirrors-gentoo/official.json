@@ -6,10 +6,7 @@
         "country_code": "CA",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://gentoo.mirrors.tera-byte.com/",
@@ -18,10 +15,7 @@
         "country_code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://mirrors.tera-byte.com/gentoo",
@@ -30,10 +24,7 @@
         "country_code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
@@ -42,10 +33,7 @@
         "country_code": "CA",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
@@ -54,10 +42,7 @@
         "country_code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
@@ -66,10 +51,7 @@
         "country_code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://gentoo.gossamerhost.com",
@@ -78,10 +60,7 @@
         "country_code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://gentoo.gossamerhost.com/gentoo-distfiles/",
@@ -90,10 +69,7 @@
         "country_code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://gentoo.osuosl.org/",
@@ -102,10 +78,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://gentoo.osuosl.org/",
@@ -114,10 +87,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.leaseweb.com/gentoo/",
@@ -126,10 +96,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.leaseweb.com/gentoo/",
@@ -138,10 +105,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.leaseweb.com/gentoo/",
@@ -150,10 +114,7 @@
         "country_code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://www.gtlib.gatech.edu/pub/gentoo",
@@ -162,10 +123,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://rsync.gtlib.gatech.edu/gentoo",
@@ -174,10 +132,7 @@
         "country_code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.mirrors.tds.net/gentoo",
@@ -186,10 +141,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://gentoo.cs.utah.edu/",
@@ -198,10 +150,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://gentoo.mirrors.easynews.com/linux/gentoo/",
@@ -210,10 +159,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirrors.rit.edu/gentoo/",
@@ -222,10 +168,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirrors.rit.edu/gentoo/",
@@ -234,10 +177,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirrors.rit.edu/gentoo/",
@@ -246,10 +186,7 @@
         "country_code": "US",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://mirrors.rit.edu/gentoo/",
@@ -258,10 +195,7 @@
         "country_code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://gentoo.mirrors.pair.com/",
@@ -270,10 +204,7 @@
         "country_code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://gentoo.c3sl.ufpr.br/",
@@ -282,10 +213,7 @@
         "country_code": "BR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.c3sl.ufpr.br/",
@@ -294,10 +222,7 @@
         "country_code": "BR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
@@ -306,10 +231,7 @@
         "country_code": "BR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.fi.muni.cz/pub/linux/gentoo/",
@@ -318,10 +240,7 @@
         "country_code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.fi.muni.cz/pub/linux/gentoo/",
@@ -330,10 +249,7 @@
         "country_code": "CZ",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo/",
@@ -342,10 +258,7 @@
         "country_code": "CZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.mirror.web4u.cz/",
@@ -354,10 +267,7 @@
         "country_code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://gentoo.mirror.web4u.cz/",
@@ -366,10 +276,7 @@
         "country_code": "CZ",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirror.dkm.cz/gentoo/",
@@ -378,10 +285,7 @@
         "country_code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirror.dkm.cz/gentoo/",
@@ -390,10 +294,7 @@
         "country_code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirror.dkm.cz/gentoo/",
@@ -402,10 +303,7 @@
         "country_code": "CZ",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.dkm.cz/gentoo/",
@@ -414,10 +312,7 @@
         "country_code": "CZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
@@ -426,10 +321,7 @@
         "country_code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.free.fr/mirrors/ftp.gentoo.org/",
@@ -438,10 +330,7 @@
         "country_code": "FR",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.free.fr/mirrors/ftp.gentoo.org/",
@@ -450,10 +339,7 @@
         "country_code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
@@ -462,10 +348,7 @@
         "country_code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirrors.soeasyto.com/distfiles.gentoo.org/",
@@ -474,10 +357,7 @@
         "country_code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirrors.soeasyto.com/distfiles.gentoo.org/",
@@ -486,10 +366,7 @@
         "country_code": "FR",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.modulix.net/gentoo/",
@@ -498,10 +375,7 @@
         "country_code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.leaseweb.com/gentoo/",
@@ -510,10 +384,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.leaseweb.com/gentoo/",
@@ -522,10 +393,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.leaseweb.com/gentoo/",
@@ -534,10 +402,7 @@
         "country_code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
@@ -546,10 +411,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
@@ -558,10 +420,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://ftp.fau.de/gentoo",
@@ -570,10 +429,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.fau.de/gentoo",
@@ -582,10 +438,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.fau.de/gentoo",
@@ -594,10 +447,7 @@
         "country_code": "DE",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://ftp.fau.de/gentoo",
@@ -606,10 +456,7 @@
         "country_code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
@@ -618,10 +465,7 @@
         "country_code": "DE",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
@@ -630,10 +474,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
@@ -642,10 +483,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://ftp-stud.hs-esslingen.de/gentoo/",
@@ -654,10 +492,7 @@
         "country_code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
@@ -666,10 +501,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
@@ -678,10 +510,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.eu.oneandone.net/gentoo/",
@@ -690,10 +519,7 @@
         "country_code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirror.netcologne.de/gentoo/",
@@ -702,10 +528,7 @@
         "country_code": "DE",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirror.netcologne.de/gentoo/",
@@ -714,10 +537,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.netcologne.de/gentoo/",
@@ -726,10 +546,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.netcologne.de/gentoo/",
@@ -738,10 +555,7 @@
         "country_code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://ftp.halifax.rwth-aachen.de/gentoo/",
@@ -750,10 +564,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.halifax.rwth-aachen.de/gentoo/",
@@ -762,10 +573,7 @@
         "country_code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.halifax.rwth-aachen.de/gentoo/",
@@ -774,10 +582,7 @@
         "country_code": "DE",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo/",
@@ -786,10 +591,7 @@
         "country_code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
@@ -798,10 +600,7 @@
         "country_code": "GR",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.ntua.gr/pub/linux/gentoo/",
@@ -810,10 +609,7 @@
         "country_code": "GR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://ftp.snt.utwente.nl/pub/os/linux/gentoo",
@@ -822,10 +618,7 @@
         "country_code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.snt.utwente.nl/pub/os/linux/gentoo",
@@ -834,10 +627,7 @@
         "country_code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.snt.utwente.nl/pub/os/linux/gentoo",
@@ -846,10 +636,7 @@
         "country_code": "NL",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://ftp.snt.utwente.nl/gentoo",
@@ -858,10 +645,7 @@
         "country_code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirror.leaseweb.com/gentoo/",
@@ -870,10 +654,7 @@
         "country_code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.leaseweb.com/gentoo/",
@@ -882,10 +663,7 @@
         "country_code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.leaseweb.com/gentoo/",
@@ -894,10 +672,7 @@
         "country_code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://ftp.vectranet.pl/gentoo/",
@@ -906,10 +681,7 @@
         "country_code": "PL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.vectranet.pl/gentoo/",
@@ -918,10 +690,7 @@
         "country_code": "PL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.vectranet.pl/gentoo/",
@@ -930,10 +699,7 @@
         "country_code": "PL",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
@@ -942,10 +708,7 @@
         "country_code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
@@ -954,10 +717,7 @@
         "country_code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
@@ -966,10 +726,7 @@
         "country_code": "PT",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
@@ -978,10 +735,7 @@
         "country_code": "PT",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.dei.uc.pt/pub/linux/gentoo/",
@@ -990,10 +744,7 @@
         "country_code": "PT",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://ftp.dei.uc.pt/pub/linux/gentoo/",
@@ -1002,10 +753,7 @@
         "country_code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirrors.xservers.ro/gentoo/",
@@ -1014,10 +762,7 @@
         "country_code": "RO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://ftp.romnet.org/gentoo/",
@@ -1026,10 +771,7 @@
         "country_code": "RO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirror.mdfnet.se/gentoo",
@@ -1038,10 +780,7 @@
         "country_code": "SE",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirror.mdfnet.se/gentoo",
@@ -1050,10 +789,7 @@
         "country_code": "SE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirror.wheel.sk/gentoo",
@@ -1062,10 +798,7 @@
         "country_code": "SK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirror.wheel.sk/gentoo",
@@ -1074,10 +807,7 @@
         "country_code": "SK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://tux.rainside.sk/gentoo/",
@@ -1086,10 +816,7 @@
         "country_code": "SK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://tux.rainside.sk/gentoo/",
@@ -1098,10 +825,7 @@
         "country_code": "SK",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://ftp.linux.org.tr/gentoo/",
@@ -1110,10 +834,7 @@
         "country_code": "TR",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://ftp.linux.org.tr/gentoo-distfiles/",
@@ -1122,10 +843,7 @@
         "country_code": "TR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://mirror.bytemark.co.uk/gentoo/",
@@ -1134,10 +852,7 @@
         "country_code": "UK",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirror.bytemark.co.uk/gentoo/",
@@ -1146,10 +861,7 @@
         "country_code": "UK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.bytemark.co.uk/gentoo/",
@@ -1158,10 +870,7 @@
         "country_code": "UK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://mirror.bytemark.co.uk/gentoo/",
@@ -1170,10 +879,7 @@
         "country_code": "UK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirrors.gethosted.online/gentoo",
@@ -1182,10 +888,7 @@
         "country_code": "UK",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirrors.gethosted.online/gentoo",
@@ -1194,10 +897,7 @@
         "country_code": "UK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirrors.gethosted.online/gentoo",
@@ -1206,10 +906,7 @@
         "country_code": "UK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
@@ -1218,10 +915,7 @@
         "country_code": "UK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org/",
@@ -1230,10 +924,7 @@
         "country_code": "UK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/",
@@ -1242,10 +933,7 @@
         "country_code": "UK",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "rsync://rsync.mirrorservice.org/distfiles.gentoo.org/",
@@ -1254,10 +942,7 @@
         "country_code": "UK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.swin.edu.au/gentoo",
@@ -1266,10 +951,7 @@
         "country_code": "AU",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.swin.edu.au/gentoo",
@@ -1278,10 +960,7 @@
         "country_code": "AU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://mirrors.163.com/gentoo/",
@@ -1290,10 +969,7 @@
         "country_code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirrors.163.com/gentoo/",
@@ -1302,10 +978,7 @@
         "country_code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
@@ -1314,10 +987,7 @@
         "country_code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.aditsu.net:8000/",
@@ -1326,10 +996,7 @@
         "country_code": "HK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
@@ -1338,10 +1005,7 @@
         "country_code": "JP",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.iij.ad.jp/pub/linux/gentoo/",
@@ -1350,10 +1014,7 @@
         "country_code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.iij.ad.jp/pub/linux/gentoo/",
@@ -1362,10 +1023,7 @@
         "country_code": "JP",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirror.rise.ph/gentoo",
@@ -1374,10 +1032,7 @@
         "country_code": "PH",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirror.rise.ph/gentoo",
@@ -1386,10 +1041,7 @@
         "country_code": "PH",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://ftp.kaist.ac.kr/pub/gentoo/",
@@ -1398,10 +1050,7 @@
         "country_code": "KR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://ftp.kaist.ac.kr/gentoo/",
@@ -1410,10 +1059,7 @@
         "country_code": "KR",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://ftp.lanet.kr/pub/gentoo/",
@@ -1422,10 +1068,7 @@
         "country_code": "KR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://ftp.lanet.kr/pub/gentoo/",
@@ -1434,10 +1077,7 @@
         "country_code": "KR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://ftp.lanet.kr/pub/gentoo/",
@@ -1446,10 +1086,7 @@
         "country_code": "KR",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://ftp.daum.net/gentoo/",
@@ -1458,10 +1095,7 @@
         "country_code": "KR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.yandex.ru/gentoo-distfiles/",
@@ -1470,10 +1104,7 @@
         "country_code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://mirror.yandex.ru/gentoo-distfiles/",
@@ -1482,10 +1113,7 @@
         "country_code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "ftp://mirror.yandex.ru/gentoo-distfiles/",
@@ -1494,10 +1122,7 @@
         "country_code": "RU",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "https://gentoo-mirror.alexxy.name/",
@@ -1506,10 +1131,7 @@
         "country_code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo-mirror.alexxy.name/",
@@ -1518,10 +1140,7 @@
         "country_code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": true,
-        "tags": [
-            "official"
-        ]
+        "ipv6": true
     },
     {
         "url": "http://gentoo.bloodhost.ru/",
@@ -1530,10 +1149,7 @@
         "country_code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://gentoo.bloodhost.ru/",
@@ -1542,10 +1158,7 @@
         "country_code": "RU",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://gentoo.bloodhost.ru/gentoo-distfiles",
@@ -1554,10 +1167,7 @@
         "country_code": "RU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://ftp.twaren.net/Linux/Gentoo/",
@@ -1566,10 +1176,7 @@
         "country_code": "TW",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://ftp.twaren.net/Linux/Gentoo/",
@@ -1578,10 +1185,7 @@
         "country_code": "TW",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.isoc.org.il/pub/gentoo/",
@@ -1590,10 +1194,7 @@
         "country_code": "IL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirror.isoc.org.il/pub/gentoo/",
@@ -1602,10 +1203,7 @@
         "country_code": "IL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "https://mirror.ps.kz/gentoo/pub",
@@ -1614,10 +1212,7 @@
         "country_code": "KZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "http://mirror.ps.kz/gentoo/pub",
@@ -1626,10 +1221,7 @@
         "country_code": "KZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "ftp://mirror.ps.kz/gentoo/pub",
@@ -1638,10 +1230,7 @@
         "country_code": "KZ",
         "protocol": "ftp",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
+        "ipv6": false
     },
     {
         "url": "rsync://mirror.ps.kz/gentoo",
@@ -1650,133 +1239,6 @@
         "country_code": "KZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "official"
-        ]
-    },
-    {
-        "name": "Tuna",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "Tuna",
-        "country_code": "CN",
-        "protocol": "rsync",
-        "url": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "163",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.163.com/gentoo",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "ZJU",
-        "description": "Mirror site provided by Zhe Jiang University",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.zju.edu.cn/gentoo",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "USTC",
-        "description": "Mirror site provided by University of Science and Technology of China",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.ustc.edu.cn/gentoo",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "partial"
-        ]
-    },
-    {
-        "name": "SJTU",
-        "description": "Mirror site provided by Shanghai Jiao Tong University",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "BIT",
-        "description": "Mirror site provided by Beijing Inistitute of Technology",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirror.bit.edu.cn/gentoo",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": [
-            "partial"
-        ]
-    },
-    {
-        "name": "sohu",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.sohu.com/gentoo",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "yun-idc",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "http://mirrors.yun-idc.com/gentoo",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "LZU",
-        "description": "Mirror site provided by Lan Zhou University",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirror.lzu.edu.cn/gentoo",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "XMU",
-        "description": "Mirror site provided by Xia Men University",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "https://mirrors.xmu.edu.cn/gentoo",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
-    },
-    {
-        "name": "neusoft",
-        "country_code": "CN",
-        "protocol": "http",
-        "url": "http://mirrors.neusoft.edu.cn/gentoo",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "tags": []
+        "ipv6": false
     }
 ]

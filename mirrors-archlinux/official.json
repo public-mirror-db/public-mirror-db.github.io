@@ -5345,7 +5345,7 @@
         "country_code": "PY",
         "isos": true,
         "ipv4": true,
-        "ipv6": true,
+        "ipv6": false,
         "details": "https://www.archlinux.org/mirrors/mirror.py/1197/",
         "tags": []
     },
