@@ -6,7 +6,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://alt.centos5.zswap.net/",
@@ -15,7 +16,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://altarch.mirrors.theom.nz/centos/",
@@ -24,7 +26,8 @@
         "country-code": "NZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos-altarch.itsbrasil.net/",
@@ -33,7 +36,8 @@
         "country-code": "BR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos-altarch.mirror.liquidtelecom.com/",
@@ -42,7 +46,8 @@
         "country-code": "KE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos-altarch.mirror.liteserver.nl/",
@@ -51,7 +56,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos-altarch.reloumirrors.net/",
@@ -60,7 +66,8 @@
         "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos.mirror.garr.it/centos-altarch/",
@@ -69,7 +76,8 @@
         "country-code": "IT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos.vwtonline.net/centos-altarch/",
@@ -78,7 +86,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centos.zero.com.ar/centos-altarch/",
@@ -87,7 +96,8 @@
         "country-code": "AR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://centosaltarch.quelquesmots.fr/",
@@ -96,7 +106,8 @@
         "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://dallas.tx.mirror.xygenhosting.com/centos-altarch/",
@@ -105,7 +116,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.agdsn.de/pub/mirrors/centos-altarch/",
@@ -114,7 +126,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.bme.hu/centos-altarch/",
@@ -123,7 +136,8 @@
         "country-code": "HU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.osuosl.org/pub/centos-altarch/",
@@ -132,7 +146,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.rz.uni-frankfurt.de/pub/mirrors/centos-altarch/",
@@ -141,7 +156,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
@@ -150,7 +166,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://linux.darkpenguin.net/distros/CentOS-AltArch/",
@@ -159,7 +176,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror-hk.koddos.net/centos-altarch/",
@@ -168,7 +186,8 @@
         "country-code": "HK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.airenetworks.es/CentOS-AltArch/",
@@ -177,7 +196,8 @@
         "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.atl.genesisadaptive.com/centos-altarch/",
@@ -186,7 +206,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.calgah.com/centos-altarch/",
@@ -195,7 +216,8 @@
         "country-code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.cedia.org.ec/centos-altarch/",
@@ -204,7 +226,8 @@
         "country-code": "EC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.chpc.utah.edu/pub/centos-altarch/",
@@ -213,7 +236,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.dal.nexril.net/centos-altarch/",
@@ -222,7 +246,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.ehv.weppel.nl/centos-altarch/",
@@ -231,7 +256,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.esecuredata.com/centos-altarch/",
@@ -240,7 +266,8 @@
         "country-code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.facebook.net/centos-altarch/",
@@ -249,7 +276,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.freethought-internet.co.uk/centos-altarch/",
@@ -258,7 +286,8 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.fsmg.org.nz/centos-altarch/",
@@ -267,7 +296,8 @@
         "country-code": "NZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.gadix.com/centos-altarch/",
@@ -276,7 +306,8 @@
         "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.genesisadaptive.com/centos-altarch/",
@@ -285,7 +316,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.genesishosting.com/centos-altarch/",
@@ -294,7 +326,18 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.gi.co.id/centos-altarch/",
+        "name": "PT Global Intermedia Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.hoster.kz/centos-altarch/",
@@ -303,7 +346,8 @@
         "country-code": "KZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.infonline.de/centos-altarch/",
@@ -312,7 +356,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.init7.net/centos-altarch/",
@@ -321,7 +366,8 @@
         "country-code": "CH",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.keystealth.org/centos-altarch/",
@@ -330,7 +376,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.labkom.id/centos-altarch/",
@@ -339,7 +386,8 @@
         "country-code": "ID",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.lagoon.nc/centos-altarch/",
@@ -348,7 +396,8 @@
         "country-code": "NC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.lax.genesisadaptive.com/centos-altarch/",
@@ -357,7 +406,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.math.princeton.edu/pub/centos-altarch/",
@@ -366,7 +416,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.nl.datapacket.com/centos-altarch/",
@@ -375,7 +426,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.nsw.coloau.com.au/centos-altarch/",
@@ -384,7 +436,8 @@
         "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.nyherji.is/centos-altarch/",
@@ -393,7 +446,18 @@
         "country-code": "IS",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.papua.go.id/centos-altarch/",
+        "name": "Pemerintah Provinsi Papua",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.pit.teraswitch.com/centos-altarch/",
@@ -402,7 +466,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.provider.com.tr/centos-altarch/",
@@ -411,7 +476,8 @@
         "country-code": "TR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.serverion.com/centos-altarch/",
@@ -420,7 +486,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.sh.com.tr/centos-altarch/",
@@ -429,7 +496,8 @@
         "country-code": "TR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.siena.edu/centos-altarch/",
@@ -438,7 +506,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.truenetwork.ru/centos-altarch/",
@@ -447,7 +516,8 @@
         "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.ufro.cl/centos-altarch/",
@@ -456,7 +526,8 @@
         "country-code": "CL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.ufs.ac.za/centos-altarch/",
@@ -465,7 +536,8 @@
         "country-code": "ZA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.usenet.farm/centos-altarch/",
@@ -474,7 +546,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.vcu.edu/pub/gnu_linux/centos-altarch/",
@@ -483,7 +556,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.vpsnet.com/centos-altarch/",
@@ -492,7 +566,8 @@
         "country-code": "LT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.wd6.net/centos-altarch/",
@@ -501,7 +576,18 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.worria.com/centos-altarch/",
+        "name": "Worria Hongkong Dedicated Server",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.yer.az/CentOS-AltArch/",
@@ -510,7 +596,8 @@
         "country-code": "AZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror1.cl.netactuate.com/centos-altarch/",
@@ -519,7 +606,8 @@
         "country-code": "CL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
@@ -528,7 +616,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.bfsu.edu.cn/centos-altarch/",
@@ -537,7 +626,8 @@
         "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.coreix.net/centos-altarch/",
@@ -546,7 +636,8 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.daticum.com/centos-altarch/",
@@ -555,16 +646,8 @@
         "country-code": "BG",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.dotsrc.org/centos-altarch/",
-        "name": "dotsrc.org",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.huaweicloud.com/centos-altarch/",
@@ -573,7 +656,8 @@
         "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.mivocloud.com/centos-altarch/",
@@ -582,7 +666,8 @@
         "country-code": "MD",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.nav.ro/centos-altarch/",
@@ -591,7 +676,8 @@
         "country-code": "RO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.nxthost.com/centos-altarch/",
@@ -600,7 +686,8 @@
         "country-code": "RO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.ocf.berkeley.edu/centos-altarch/",
@@ -609,7 +696,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.powernet.com.ru/centos-altarch/",
@@ -618,7 +706,8 @@
         "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.tuna.tsinghua.edu.cn/centos-altarch/",
@@ -627,7 +716,8 @@
         "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.up.pt/pub/centos-altarch/",
@@ -636,7 +726,8 @@
         "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.xtom.com/centos-altarch/",
@@ -645,16 +736,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.xtom.nl/centos-altarch/",
-        "name": "xTom",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://quantum-mirror.hu/mirrors/pub/centos-altarch/",
@@ -663,7 +746,8 @@
         "country-code": "HU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://alt.centos3.zswap.net/",
@@ -672,7 +756,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://alt.centos5.zswap.net/",
@@ -681,7 +766,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://altarch.mirrors.theom.nz/centos/",
@@ -690,7 +776,8 @@
         "country-code": "NZ",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://centos-altarch.itsbrasil.net/",
@@ -699,7 +786,8 @@
         "country-code": "BR",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://centos-altarch.mirror.liquidtelecom.com/",
@@ -708,7 +796,8 @@
         "country-code": "KE",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://centos-altarch.mirror.liteserver.nl/",
@@ -717,7 +806,8 @@
         "country-code": "NL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://centos.mirror.garr.it/centos-altarch/",
@@ -726,7 +816,8 @@
         "country-code": "IT",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://centos.vwtonline.net/centos-altarch/",
@@ -735,7 +826,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://ftp.agdsn.de/pub/mirrors/centos-altarch/",
@@ -744,7 +836,8 @@
         "country-code": "DE",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror-hk.koddos.net/centos-altarch/",
@@ -753,7 +846,8 @@
         "country-code": "HK",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.atl.genesisadaptive.com/centos-altarch/",
@@ -762,7 +856,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.cedia.org.ec/centos-altarch/",
@@ -771,7 +866,8 @@
         "country-code": "EC",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.chpc.utah.edu/pub/centos-altarch/",
@@ -780,7 +876,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.dal.nexril.net/centos-altarch/",
@@ -789,7 +886,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.ehv.weppel.nl/centos-altarch/",
@@ -798,7 +896,8 @@
         "country-code": "NL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.freethought-internet.co.uk/centos-altarch/",
@@ -807,7 +906,8 @@
         "country-code": "GB",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.fsmg.org.nz/centos-altarch/",
@@ -816,7 +916,18 @@
         "country-code": "NZ",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.gi.co.id/centos-altarch/",
+        "name": "PT Global Intermedia Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.hoster.kz/centos-altarch/",
@@ -825,7 +936,8 @@
         "country-code": "KZ",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.infonline.de/centos-altarch/",
@@ -834,7 +946,8 @@
         "country-code": "DE",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.init7.net/centos-altarch/",
@@ -843,7 +956,8 @@
         "country-code": "CH",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.lax.genesisadaptive.com/centos-altarch/",
@@ -852,7 +966,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.math.princeton.edu/pub/centos-altarch/",
@@ -861,7 +976,18 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.papua.go.id/centos-altarch/",
+        "name": "Pemerintah Provinsi Papua",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.provider.com.tr/centos-altarch/",
@@ -870,7 +996,8 @@
         "country-code": "TR",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.serverion.com/centos-altarch/",
@@ -879,7 +1006,8 @@
         "country-code": "NL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.sh.com.tr/centos-altarch/",
@@ -888,7 +1016,8 @@
         "country-code": "TR",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.truenetwork.ru/centos-altarch/",
@@ -897,7 +1026,8 @@
         "country-code": "RU",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.ufro.cl/centos-altarch/",
@@ -906,7 +1036,8 @@
         "country-code": "CL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.usenet.farm/centos-altarch/",
@@ -915,7 +1046,8 @@
         "country-code": "NL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.vcu.edu/pub/gnu_linux/centos-altarch/",
@@ -924,7 +1056,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.vpsnet.com/centos-altarch/",
@@ -933,7 +1066,8 @@
         "country-code": "LT",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.wd6.net/centos-altarch/",
@@ -942,7 +1076,8 @@
         "country-code": "NL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror.yer.az/CentOS-AltArch/",
@@ -951,7 +1086,8 @@
         "country-code": "AZ",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror1.cl.netactuate.com/centos-altarch/",
@@ -960,7 +1096,8 @@
         "country-code": "CL",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
@@ -969,7 +1106,8 @@
         "country-code": "DE",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.bfsu.edu.cn/centos-altarch/",
@@ -978,7 +1116,8 @@
         "country-code": "CN",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.daticum.com/centos-altarch/",
@@ -987,16 +1126,8 @@
         "country-code": "BG",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirrors.dotsrc.org/centos-altarch/",
-        "name": "dotsrc.org",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.huaweicloud.com/centos-altarch/",
@@ -1005,7 +1136,8 @@
         "country-code": "CN",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.nav.ro/centos-altarch/",
@@ -1014,7 +1146,8 @@
         "country-code": "RO",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.nxthost.com/centos-altarch/",
@@ -1023,7 +1156,8 @@
         "country-code": "RO",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.ocf.berkeley.edu/centos-altarch/",
@@ -1032,7 +1166,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.tuna.tsinghua.edu.cn/centos-altarch/",
@@ -1041,7 +1176,8 @@
         "country-code": "CN",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.up.pt/pub/centos-altarch/",
@@ -1050,7 +1186,8 @@
         "country-code": "PT",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://mirrors.xtom.com/centos-altarch/",
@@ -1059,7 +1196,8 @@
         "country-code": "US",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "https://quantum-mirror.hu/mirrors/pub/centos-altarch/",
@@ -1068,7 +1206,8 @@
         "country-code": "HU",
         "protocol": "https",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://centos-altarch.itsbrasil.net/centos-altarch/",
@@ -1077,7 +1216,8 @@
         "country-code": "BR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://centos-altarch.mirror.liquidtelecom.com/centos-altarch/",
@@ -1086,7 +1226,8 @@
         "country-code": "KE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://centos-altarch.mirror.liteserver.nl/centos-altarch/",
@@ -1095,7 +1236,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://centos-altarch.reloumirrors.net/centos-altarch/",
@@ -1104,7 +1246,8 @@
         "country-code": "FR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://centos3.zswap.net::altarch",
@@ -1113,7 +1256,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://centos5.zswap.net::altarch",
@@ -1122,7 +1266,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://dallas.tx.mirror.xygenhosting.com/centos-altarch/",
@@ -1131,7 +1276,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://ftp.rz.uni-frankfurt.de/centos-altarch/",
@@ -1140,7 +1286,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
@@ -1149,7 +1296,8 @@
         "country-code": "JP",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror-hk.koddos.net/centos-altarch/",
@@ -1158,7 +1306,8 @@
         "country-code": "HK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.airenetworks.es/CentOS-AltArch/",
@@ -1167,7 +1316,8 @@
         "country-code": "ES",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.atl.genesisadaptive.com/centos-altarch/",
@@ -1176,7 +1326,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.calgah.com/centos-altarch/",
@@ -1185,7 +1336,8 @@
         "country-code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.chpc.utah.edu/pub/centos-altarch/",
@@ -1194,7 +1346,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.dal.nexril.net/centos-altarch/",
@@ -1203,7 +1356,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.ehv.weppel.nl/centos-altarch/",
@@ -1212,7 +1366,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.facebook.net/centos-altarch/",
@@ -1221,7 +1376,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.freethought-internet.co.uk/centos-altarch/",
@@ -1230,7 +1386,8 @@
         "country-code": "GB",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.fsmg.org.nz/centos-altarch/",
@@ -1239,7 +1396,18 @@
         "country-code": "NZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.gi.co.id/centos-altarch/",
+        "name": "PT Global Intermedia Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.hoster.kz/centos-altarch/",
@@ -1248,7 +1416,8 @@
         "country-code": "KZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.infonline.de/centos-altarch/",
@@ -1257,7 +1426,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.keystealth.org/centos-altarch/",
@@ -1266,7 +1436,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.labkom.id/centos-altarch/",
@@ -1275,7 +1446,8 @@
         "country-code": "ID",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.lagoon.nc/centos-altarch/",
@@ -1284,7 +1456,8 @@
         "country-code": "NC",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.lax.genesisadaptive.com/centos-altarch/",
@@ -1293,7 +1466,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.math.princeton.edu/pub/centos-altarch/",
@@ -1302,7 +1476,18 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.papua.go.id/centos-altarch/",
+        "name": "Pemerintah Provinsi Papua",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
@@ -1311,7 +1496,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.serverion.com/centos-altarch/",
@@ -1320,7 +1506,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.siena.edu/centos-altarch/",
@@ -1329,7 +1516,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.truenetwork.ru/centos-altarch/",
@@ -1338,7 +1526,8 @@
         "country-code": "RU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.ufro.cl/centos-altarch/",
@@ -1347,7 +1536,8 @@
         "country-code": "CL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.ufs.ac.za/centos-altarch/",
@@ -1356,7 +1546,8 @@
         "country-code": "ZA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.usenet.farm/centos-altarch/",
@@ -1365,7 +1556,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.vcu.edu/centos-altarch/",
@@ -1374,7 +1566,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.wd6.net/centos-altarch/",
@@ -1383,7 +1576,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror1.cl.netactuate.com/centos-altarch/",
@@ -1392,7 +1586,8 @@
         "country-code": "CL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror1.hs-esslingen.de/centos-altarch/",
@@ -1401,7 +1596,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.bfsu.edu.cn/centos-altarch/",
@@ -1410,7 +1606,8 @@
         "country-code": "CN",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.coreix.net/centos-altarch/",
@@ -1419,7 +1616,8 @@
         "country-code": "GB",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.daticum.com/centos-altarch/",
@@ -1428,16 +1626,8 @@
         "country-code": "BG",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://mirrors.dotsrc.org/centos-altarch",
-        "name": "dotsrc.org",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.mivocloud.com/centos-altarch/",
@@ -1446,7 +1636,8 @@
         "country-code": "MD",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.nav.ro/centos-altarch/",
@@ -1455,7 +1646,8 @@
         "country-code": "RO",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.nxthost.com/centos-altarch/",
@@ -1464,7 +1656,8 @@
         "country-code": "RO",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.ocf.berkeley.edu/centos-altarch/",
@@ -1473,7 +1666,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.powernet.com.ru/pub/centos-altarch/",
@@ -1482,7 +1676,8 @@
         "country-code": "RU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.tuna.tsinghua.edu.cn/centos-altarch",
@@ -1491,7 +1686,8 @@
         "country-code": "CN",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirrors.up.pt/pub/centos-altarch/",
@@ -1500,7 +1696,8 @@
         "country-code": "PT",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://quantum-mirror.hu/centos-altarch/",
@@ -1509,7 +1706,8 @@
         "country-code": "HU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.mirrors.theom.nz/centos-alt/",
@@ -1518,7 +1716,8 @@
         "country-code": "NZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.osuosl.org/centos-altarch/",
@@ -1527,6 +1726,7 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     }
 ]

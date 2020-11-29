@@ -6,7 +6,8 @@
         "country-code": "SE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.anexia.at/debian-cd/",
@@ -15,7 +16,8 @@
         "country-code": "AT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.c3sl.ufpr.br/debian-cd/",
@@ -24,7 +26,8 @@
         "country-code": "BR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.carnet.hr/debian-cd/",
@@ -33,7 +36,8 @@
         "country-code": "HR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.co.il/debian-cd/",
@@ -42,7 +46,8 @@
         "country-code": "IL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.cs.nctu.edu.tw/debian-cd/",
@@ -51,7 +56,8 @@
         "country-code": "TW",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.ethz.ch/debian-cd/",
@@ -60,7 +66,8 @@
         "country-code": "CH",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.grena.ge/debian-cd/",
@@ -69,7 +76,8 @@
         "country-code": "GE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.ignum.cz/debian-cd/",
@@ -78,7 +86,8 @@
         "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.inf.tu-dresden.de/debian-cd/",
@@ -87,7 +96,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.inode.at/debian-cd/",
@@ -96,7 +106,8 @@
         "country-code": "AT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.koyanet.lv/debian-cd/",
@@ -105,7 +116,8 @@
         "country-code": "LV",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.lagoon.nc/debian-cd/",
@@ -114,7 +126,8 @@
         "country-code": "NC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.linux.edu.lv/debian-cd/",
@@ -123,7 +136,8 @@
         "country-code": "LV",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.mirror.cambrium.nl/debian-cd/",
@@ -132,7 +146,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.mirror.digitalpacific.com.au/debian-cd/",
@@ -141,7 +156,8 @@
         "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.mirror.estruxture.net/debian-cd/",
@@ -150,7 +166,8 @@
         "country-code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.mirror.iweb.ca/debian-cd/",
@@ -159,7 +176,8 @@
         "country-code": "CA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.mirror.root.lu/debian-cd/",
@@ -168,7 +186,8 @@
         "country-code": "LU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.mirror.vu.lt/debian-cd/",
@@ -177,7 +196,8 @@
         "country-code": "LT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.nautile.nc/debian-cd/",
@@ -186,7 +206,8 @@
         "country-code": "NC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.noc.ntua.gr/debian-cd/",
@@ -195,7 +216,8 @@
         "country-code": "GR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.osuosl.org/debian-cd/",
@@ -204,7 +226,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.pop-sc.rnp.br/mirror/debian-cd/",
@@ -213,7 +236,8 @@
         "country-code": "BR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.saix.net/debian-cd/",
@@ -222,7 +246,8 @@
         "country-code": "ZA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.snt.utwente.nl/debian-cd/",
@@ -231,7 +256,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.superhosting.cz/debian-cd/",
@@ -240,7 +266,8 @@
         "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.uevora.pt/debian-cd/",
@@ -249,7 +276,8 @@
         "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.uni-duisburg-essen.de/debian-cd/",
@@ -258,7 +286,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.univ-lorraine.fr/debian-cd/",
@@ -267,7 +296,8 @@
         "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.uvigo.es/debian-cd/",
@@ -276,7 +306,8 @@
         "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.volia.net/debian-cd/",
@@ -285,7 +316,8 @@
         "country-code": "UA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://debian.xfree.com.ar/debian-cd/",
@@ -294,7 +326,8 @@
         "country-code": "AR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp-stud.hs-esslingen.de/debian-cd/",
@@ -303,7 +336,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.acc.umu.se/debian-cd/",
@@ -312,7 +346,8 @@
         "country-code": "SE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.bme.hu/debian-cd/",
@@ -321,7 +356,8 @@
         "country-code": "HU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.byfly.by/debian-cd/",
@@ -330,7 +366,8 @@
         "country-code": "BY",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.caliu.cat/debian-cd/",
@@ -339,7 +376,8 @@
         "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.cica.es/debian-cd/",
@@ -348,7 +386,8 @@
         "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.crifo.org/debian-cd/",
@@ -357,7 +396,8 @@
         "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.fau.de/debian-cd/",
@@ -366,7 +406,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.gwdg.de/debian-cd/",
@@ -375,7 +416,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.halifax.rwth-aachen.de/debian-cd/",
@@ -384,7 +426,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.harukasan.org/debian-cd/",
@@ -393,7 +436,8 @@
         "country-code": "KP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.hosteurope.de/mirror/ftp.debian.org/debian-cd/",
@@ -402,7 +446,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.icm.edu.pl/pub/Linux/debian-cd/",
@@ -411,7 +456,8 @@
         "country-code": "PL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.is.co.za/debian-cd/",
@@ -420,7 +466,8 @@
         "country-code": "ZA",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.iut-bm.univ-fcomte.fr/debian-cd/",
@@ -429,7 +476,8 @@
         "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.jaist.ac.jp/debian-cd/",
@@ -438,7 +486,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.kaist.ac.kr/debian-cd/",
@@ -447,7 +496,8 @@
         "country-code": "KP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.kddilabs.jp/pub/debian-cd/",
@@ -456,7 +506,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.lanet.kr/debian-cd/",
@@ -465,7 +516,8 @@
         "country-code": "KP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.linux.org.tr/debian-cd/",
@@ -474,7 +526,8 @@
         "country-code": "TR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.nara.wide.ad.jp/debian-cd/",
@@ -483,7 +536,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.ncnu.edu.tw/debian-cd/",
@@ -492,7 +546,8 @@
         "country-code": "TW",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.no.debian.org/debian-cd/",
@@ -501,7 +556,8 @@
         "country-code": "NO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.ntou.edu.tw/debian-cd/",
@@ -510,7 +566,8 @@
         "country-code": "TW",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.ps.pl/pub/Linux/debian-cd/",
@@ -519,7 +576,8 @@
         "country-code": "PL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.psn.ru/debian-cd/",
@@ -528,7 +586,8 @@
         "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.pt.debian.org/debian-cd/",
@@ -537,7 +596,8 @@
         "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.riken.jp/Linux/debian/debian-cd/",
@@ -546,7 +606,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/debian-cd/",
@@ -555,7 +616,8 @@
         "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.ticklers.org/debian-cd/",
@@ -564,7 +626,8 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.tku.edu.tw/debian-cd/",
@@ -573,7 +636,8 @@
         "country-code": "TW",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.uio.no/debian-cd/",
@@ -582,7 +646,8 @@
         "country-code": "NO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.uni-bayreuth.de/debian-cd/",
@@ -591,7 +656,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.uni-hannover.de/debian/debian-cd/",
@@ -600,7 +666,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.uni-stuttgart.de/debian-cd/",
@@ -609,7 +676,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://ftp.yz.yamagata-u.ac.jp/debian-cd/",
@@ -618,7 +686,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://giano.com.dist.unige.it/debian-cd/",
@@ -627,7 +696,8 @@
         "country-code": "IT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://hanzubon.jp/debian-cd/",
@@ -636,7 +706,8 @@
         "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://kartolo.sby.datautama.net.id/debian-cd/",
@@ -645,7 +716,8 @@
         "country-code": "ID",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.0x.sg/debian-cd/",
@@ -654,7 +726,8 @@
         "country-code": "SG",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.23media.de/debian-cd/",
@@ -663,7 +736,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.as35701.net/debian-cd/",
@@ -672,7 +746,8 @@
         "country-code": "BE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.asergo.com/debian-cd/",
@@ -681,7 +756,8 @@
         "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.cedia.org.ec/debian-cd/",
@@ -690,7 +766,8 @@
         "country-code": "EC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.checkdomain.de/debian-cd/",
@@ -699,7 +776,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.cogentco.com/debian-cd/",
@@ -708,7 +786,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.corbina.net/debian-cd/",
@@ -717,7 +796,8 @@
         "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.crazynetwork.it/debian-cd/",
@@ -726,7 +806,8 @@
         "country-code": "IT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.daniel-jost.net/debian-cd/",
@@ -735,7 +816,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.datacenter.by/debian-cd/",
@@ -744,7 +826,8 @@
         "country-code": "BY",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.de.leaseweb.net/debian-cd/",
@@ -753,7 +836,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.dkm.cz/debian-cd/",
@@ -762,7 +846,8 @@
         "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.duocast.net/debian-cd/",
@@ -771,7 +856,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.keystealth.org/debian-cd/",
@@ -780,7 +866,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.litnet.lt/debian-cd/",
@@ -789,7 +876,8 @@
         "country-code": "LT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.lzu.edu.cn/debian-cd/",
@@ -798,7 +886,8 @@
         "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.mephi.ru/debian-cd/",
@@ -807,7 +896,8 @@
         "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.netcologne.de/debian-cd/",
@@ -816,7 +906,8 @@
         "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.nl.datapacket.com/debian-cd/",
@@ -825,7 +916,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.nl.leaseweb.net/debian-cd/",
@@ -834,7 +926,8 @@
         "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.one.com/debian-cd/",
@@ -843,7 +936,8 @@
         "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.overthewire.com.au/debian-cd/",
@@ -852,7 +946,8 @@
         "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.poliwangi.ac.id/debian-cd/",
@@ -861,7 +956,8 @@
         "country-code": "ID",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.pregi.net/debian-cd/",
@@ -870,7 +966,8 @@
         "country-code": "PH",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.rackcentral.com.au/debian-cd/",
@@ -879,7 +976,8 @@
         "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.sov.uk.goscomb.net/debian-cd/",
@@ -888,7 +986,8 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.steadfast.net/debian-cd/",
@@ -897,7 +996,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.truenetwork.ru/debian-cd/",
@@ -906,7 +1006,8 @@
         "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.ueb.edu.ec/debian-cd/",
@@ -915,7 +1016,8 @@
         "country-code": "EC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.us.leaseweb.net/debian-cd/",
@@ -924,7 +1026,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.uta.edu.ec/debian-cd/",
@@ -933,7 +1036,8 @@
         "country-code": "EC",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.vorboss.net/debian-cd/",
@@ -942,7 +1046,8 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.xtom.com.hk/debian-cd/",
@@ -951,7 +1056,8 @@
         "country-code": "HK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.163.com/debian-cd/",
@@ -960,7 +1066,8 @@
         "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.advancedhosters.com/debian-cd/",
@@ -969,7 +1076,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.asnet.am/debian-cd/",
@@ -978,7 +1086,8 @@
         "country-code": "AM",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.bloomu.edu/debian-cd/",
@@ -987,7 +1096,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.dotsrc.org/debian-cd/",
@@ -996,7 +1106,8 @@
         "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.gigenet.com/debian-cd/",
@@ -1005,7 +1116,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.hust.edu.cn/debian-cd/",
@@ -1014,7 +1126,8 @@
         "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.lug.mtu.edu/debian-cd/",
@@ -1023,7 +1136,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.m247.com/debian-cd/",
@@ -1032,7 +1146,8 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.ocf.berkeley.edu/debian-cd/",
@@ -1041,7 +1156,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.pidginhost.com/debian-cd/",
@@ -1050,7 +1166,8 @@
         "country-code": "RO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.rackhosting.com/debian-cd/",
@@ -1059,7 +1176,8 @@
         "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.syringanetworks.net/debian-cd/",
@@ -1068,7 +1186,8 @@
         "country-code": "US",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.ucr.ac.cr/debian-cd/",
@@ -1077,7 +1196,8 @@
         "country-code": "CR",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.up.pt/debian-cd/",
@@ -1086,7 +1206,8 @@
         "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrors.xservers.ro/debian-cd/",
@@ -1095,7 +1216,8 @@
         "country-code": "RO",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirrorservice.org/sites/cdimage.debian.org/debian-cd/",
@@ -1104,6 +1226,7 @@
         "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     }
 ]

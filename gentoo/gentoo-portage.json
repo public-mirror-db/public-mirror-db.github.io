@@ -1,12 +1,53 @@
 [
     {
+        "url": "rsync//mirror.bit.edu.cn/gentoo-portage",
+        "name": "BIT",
+        "description": "Mirror site provided by Beijing Inistitute of Technology",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "unofficial-mirror": true
+    },
+    {
+        "url": "rsync://mirror.lzu.edu.cn/gentoo-portage",
+        "name": "LZU",
+        "description": "Mirror site provided by Lan Zhou University",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "unofficial-mirror": true
+    },
+    {
         "url": "rsync://mirrors.gethosted.online/gentoo",
         "name": "Get Hosted online - mirrors.gethosted.online/gentoo",
         "description": "",
         "country-code": "UK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.xmu.edu.cn/gentoo-portage",
+        "name": "XMU",
+        "description": "Mirror site provided by Xia Men University",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "unofficial-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
+        "name": "yun-idc",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "description": "",
+        "ipv4": true,
+        "ipv6": false,
+        "unofficial-mirror": true
     },
     {
         "url": "rsync://rsync.at.gentoo.org",
@@ -15,7 +56,8 @@
         "country-code": "AT",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.au.gentoo.org",
@@ -24,7 +66,8 @@
         "country-code": "AU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.br.gentoo.org",
@@ -33,7 +76,8 @@
         "country-code": "BR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.ca.gentoo.org",
@@ -42,7 +86,8 @@
         "country-code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.cn.gentoo.org",
@@ -51,7 +96,8 @@
         "country-code": "CN",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.cz.gentoo.org",
@@ -60,7 +106,8 @@
         "country-code": "CZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.de.gentoo.org",
@@ -69,7 +116,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.fr.gentoo.org",
@@ -78,7 +126,8 @@
         "country-code": "FR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.jp.gentoo.org",
@@ -87,7 +136,8 @@
         "country-code": "JP",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.kr.gentoo.org",
@@ -96,7 +146,18 @@
         "country-code": "KR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage",
+        "name": "aliyun",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "description": "",
+        "ipv4": true,
+        "ipv6": false,
+        "unofficial-mirror": true
     },
     {
         "url": "rsync://rsync.nl.gentoo.org",
@@ -105,7 +166,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.pl.gentoo.org",
@@ -114,7 +176,8 @@
         "country-code": "PL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.pt.gentoo.org",
@@ -123,7 +186,8 @@
         "country-code": "PT",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.ro.gentoo.org",
@@ -132,7 +196,8 @@
         "country-code": "RO",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.ru.gentoo.org",
@@ -141,7 +206,8 @@
         "country-code": "RU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.sk.gentoo.org",
@@ -150,7 +216,8 @@
         "country-code": "SK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.tw.gentoo.org",
@@ -159,7 +226,8 @@
         "country-code": "TW",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.uk.gentoo.org",
@@ -168,7 +236,8 @@
         "country-code": "UK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync.us.gentoo.org",
@@ -177,7 +246,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.au.gentoo.org",
@@ -186,7 +256,8 @@
         "country-code": "AU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.ca.gentoo.org",
@@ -195,7 +266,8 @@
         "country-code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.cn.gentoo.org",
@@ -204,7 +276,8 @@
         "country-code": "CN",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.cz.gentoo.org",
@@ -213,7 +286,8 @@
         "country-code": "CZ",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.de.gentoo.org",
@@ -222,7 +296,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.fr.gentoo.org",
@@ -231,7 +306,8 @@
         "country-code": "FR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.kr.gentoo.org",
@@ -240,7 +316,8 @@
         "country-code": "KR",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.pl.gentoo.org",
@@ -249,7 +326,8 @@
         "country-code": "PL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.ru.gentoo.org",
@@ -258,7 +336,8 @@
         "country-code": "RU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.sk.gentoo.org",
@@ -267,7 +346,8 @@
         "country-code": "SK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync1.tw.gentoo.org",
@@ -276,7 +356,8 @@
         "country-code": "TW",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync10.de.gentoo.org",
@@ -285,7 +366,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync11.us.gentoo.org",
@@ -294,7 +376,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync12.de.gentoo.org",
@@ -303,7 +386,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync15.de.gentoo.org",
@@ -312,7 +396,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.at.gentoo.org",
@@ -321,7 +406,8 @@
         "country-code": "AT",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.au.gentoo.org",
@@ -330,7 +416,8 @@
         "country-code": "AU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.ca.gentoo.org",
@@ -339,7 +426,8 @@
         "country-code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.nl.gentoo.org",
@@ -348,7 +436,8 @@
         "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.pt.gentoo.org",
@@ -357,7 +446,8 @@
         "country-code": "PT",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.ru.gentoo.org",
@@ -366,7 +456,8 @@
         "country-code": "RU",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync2.uk.gentoo.org",
@@ -375,7 +466,8 @@
         "country-code": "UK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync26.us.gentoo.org",
@@ -384,7 +476,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync3.ca.gentoo.org",
@@ -393,7 +486,8 @@
         "country-code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync3.ro.gentoo.org",
@@ -402,7 +496,8 @@
         "country-code": "RO",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync3.sk.gentoo.org",
@@ -411,7 +506,8 @@
         "country-code": "SK",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync3.us.gentoo.org",
@@ -420,7 +516,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync30.us.gentoo.org",
@@ -429,7 +526,8 @@
         "country-code": "US",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync4.ca.gentoo.org",
@@ -438,7 +536,8 @@
         "country-code": "CA",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync5.de.gentoo.org",
@@ -447,7 +546,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync5.jp.gentoo.org",
@@ -456,7 +556,8 @@
         "country-code": "JP",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync6.tw.gentoo.org",
@@ -465,7 +566,8 @@
         "country-code": "TW",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync7.de.gentoo.org",
@@ -474,7 +576,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync7.pl.gentoo.org",
@@ -483,7 +586,8 @@
         "country-code": "PL",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync8.de.gentoo.org",
@@ -492,7 +596,8 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": true,
+        "official-mirror": true
     },
     {
         "url": "rsync://rsync9.de.gentoo.org",
@@ -501,6 +606,7 @@
         "country-code": "DE",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     }
 ]

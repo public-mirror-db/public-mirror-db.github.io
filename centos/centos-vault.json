@@ -6,7 +6,8 @@
         "country-code": "",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://linuxsoft.cern.ch/centos-vault/",
@@ -15,7 +16,8 @@
         "country-code": "CH",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "http://mirror.nsc.liu.se/centos-store/",
@@ -24,7 +26,8 @@
         "country-code": "SE",
         "protocol": "http",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://archive.kernel.org::centos-vault/",
@@ -33,7 +36,8 @@
         "country-code": "",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://linuxsoft.cern.ch/centos-vault/",
@@ -42,7 +46,8 @@
         "country-code": "CH",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     },
     {
         "url": "rsync://mirror.nsc.liu.se::centos-store/",
@@ -51,6 +56,7 @@
         "country-code": "",
         "protocol": "rsync",
         "ipv4": true,
-        "ipv6": false
+        "ipv6": false,
+        "official-mirror": true
     }
 ]
