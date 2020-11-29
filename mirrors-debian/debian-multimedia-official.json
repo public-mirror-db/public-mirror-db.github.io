@@ -45,6 +45,15 @@
         "ipv6": false
     },
     {
+        "url": "http://ftp.kr.debian.org/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://ftp.ru.debian.org/debian-multimedia/",
         "name": "",
         "description": "",
