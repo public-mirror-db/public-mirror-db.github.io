@@ -9,24 +9,6 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.mnet.bg/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-sofia.bg/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "http://mirror.it.ubc.ca/debian-security/",
         "name": "",
         "description": "",
@@ -45,34 +27,7 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.ch.debian.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "CH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "http://mirrors.163.com/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.cl.debian.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "CL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.bfsu.edu.cn/debian-security/",
         "name": "",
         "description": "",
         "country-code": "CN",
@@ -90,7 +45,16 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.inf.tu-dresden.de/debian-security/",
+        "url": "http://ftp.cl.debian.org/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.de.debian.org/debian-security/",
         "name": "",
         "description": "",
         "country-code": "DE",
@@ -99,16 +63,7 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.cvut.cz/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.united-gameserver.de/debian-security/",
+        "url": "http://debian.tu-bs.de/debian-security/",
         "name": "",
         "description": "",
         "country-code": "DE",
@@ -126,7 +81,25 @@
         "ipv6": false
     },
     {
-        "url": "http://artfiles.org/debian-security/",
+        "url": "http://debian.superhosting.cz/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.cvut.cz/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.inf.tu-dresden.de/debian-security/",
         "name": "",
         "description": "",
         "country-code": "DE",
@@ -135,37 +108,10 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.uni-stuttgart.de/debian-security/",
+        "url": "http://mirror.dogado.de/debian-security/",
         "name": "",
         "description": "",
         "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-mainz.de/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.dotsrc.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.dk.debian.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -180,46 +126,10 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.one.com/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.fr.debian.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.iut-bm.univ-fcomte.fr/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "http://debian.polytech-lille.fr/debian-security/",
         "name": "",
         "description": "",
         "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.ticklers.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -234,6 +144,24 @@
         "ipv6": false
     },
     {
+        "url": "http://debian.asis.ai/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "IR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.ticklers.org/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://debian.dynamica.it/debian-security/",
         "name": "",
         "description": "",
@@ -243,28 +171,10 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.kaist.ac.kr/debian-security/",
+        "url": "http://ftp.iut-bm.univ-fcomte.fr/debian-security/",
         "name": "",
         "description": "",
-        "country-code": "KP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.kr.debian.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "KP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.anigil.com/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "KP",
+        "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -288,37 +198,19 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.litnet.lt/debian-security/",
+        "url": "http://debian.mirror.ac.ke/debian-security/",
         "name": "",
         "description": "",
-        "country-code": "LT",
+        "country-code": "KE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirrors.mivocloud.com/debian-security/",
+        "url": "http://mirror.anigil.com/debian-security/",
         "name": "",
         "description": "",
-        "country-code": "MD",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.nautile.nc/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "NC",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.cambrium.nl/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
+        "country-code": "KP",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -328,51 +220,6 @@
         "name": "",
         "description": "",
         "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.nl.datapacket.com/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.fsmg.org.nz/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "NZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.xtom.nl/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.nz.debian.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "NZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -396,6 +243,15 @@
         "ipv6": false
     },
     {
+        "url": "http://mirror.docker.ru/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://mirror.mephi.ru/debian-security/",
         "name": "",
         "description": "",
@@ -405,19 +261,10 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.ru.debian.org/debian-security/",
+        "url": "http://ftp.pt.debian.org/debian-security/",
         "name": "",
         "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.docker.ru/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
+        "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -432,7 +279,25 @@
         "ipv6": false
     },
     {
+        "url": "http://ftp.ru.debian.org/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://mirror.applebred.net/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.debianclub.org/debian-security/",
         "name": "",
         "description": "",
         "country-code": "TH",
@@ -450,19 +315,10 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.csie.ntu.edu.tw/debian-security/",
+        "url": "http://debian.cc.lehigh.edu/debian-security/",
         "name": "",
         "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.debianclub.org/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "TH",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -477,25 +333,25 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.us.oneandone.net/debian-security/",
+        "url": "http://mirror.siena.edu/debian-security/",
         "name": "",
         "description": "",
         "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.csie.ntu.edu.tw/debian-security/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
         "url": "http://debian.cs.binghamton.edu/debian-security/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.siena.edu/debian-security/",
         "name": "",
         "description": "",
         "country-code": "US",
