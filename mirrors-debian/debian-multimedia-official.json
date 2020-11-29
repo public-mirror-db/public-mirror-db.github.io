@@ -1,0 +1,137 @@
+[
+    {
+        "url": "http://ftp.uni-stuttgart.de/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.dk.debian.org/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.kr.debian.org/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.kaist.ac.kr/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.anigil.com/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.uevora.pt/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.mephi.ru/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.ru.debian.org/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.truenetwork.ru/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.docker.ru/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.lth.se/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.0x.sg/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "SG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.salud.gob.sv/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "SV",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.accretive-networks.net/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://hanzubon.jp/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    }
+]

@@ -1,0 +1,1559 @@
+[
+    {
+        "url": "http://centos-altarch.mirror.liquidtelecom.com/",
+        "name": "Liquid Telecom",
+        "description": "",
+        "country-code": "KE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://centos-altarch.mirror.liquidtelecom.com/",
+        "name": "Liquid Telecom",
+        "description": "",
+        "country-code": "KE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://centos-altarch.mirror.liquidtelecom.com/centos-altarch/",
+        "name": "Liquid Telecom",
+        "description": "",
+        "country-code": "KE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ufs.ac.za/centos-altarch/",
+        "name": "University of the Free State",
+        "description": "",
+        "country-code": "ZA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.ufs.ac.za/centos-altarch/",
+        "name": "University of the Free State",
+        "description": "",
+        "country-code": "ZA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.bfsu.edu.cn/centos-altarch/",
+        "name": "Beijing Foreign Studies University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.bfsu.edu.cn/centos-altarch/",
+        "name": "Beijing Foreign Studies University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.bfsu.edu.cn/centos-altarch/",
+        "name": "Beijing Foreign Studies University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.huaweicloud.com/centos-altarch/",
+        "name": "HUAWEI CLOUD",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.huaweicloud.com/centos-altarch/",
+        "name": "HUAWEI CLOUD",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.tuna.tsinghua.edu.cn/centos-altarch/",
+        "name": "Tsinghua University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.tuna.tsinghua.edu.cn/centos-altarch/",
+        "name": "Tsinghua University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.tuna.tsinghua.edu.cn/centos-altarch",
+        "name": "Tsinghua University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror-hk.koddos.net/centos-altarch/",
+        "name": "KoDDoS Hong Kong",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror-hk.koddos.net/centos-altarch/",
+        "name": "KoDDoS Hong Kong",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror-hk.koddos.net/centos-altarch/",
+        "name": "KoDDoS Hong Kong",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.labkom.id/centos-altarch/",
+        "name": "Laboratorium Komputer ID",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.labkom.id/centos-altarch/",
+        "name": "Laboratorium Komputer ID",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.papua.go.id/centos-altarch/",
+        "name": "Pemerintah Provinsi Papua",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.papua.go.id/centos-altarch/",
+        "name": "Pemerintah Provinsi Papua",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.papua.go.id/centos-altarch/",
+        "name": "Pemerintah Provinsi Papua",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.gi.co.id/centos-altarch/",
+        "name": "PT Global Intermedia Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.gi.co.id/centos-altarch/",
+        "name": "PT Global Intermedia Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.gi.co.id/centos-altarch/",
+        "name": "PT Global Intermedia Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
+        "name": "Yamagata University",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
+        "name": "Yamagata University",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.hoster.kz/centos-altarch/",
+        "name": "LLP Kompaniya Hoster.KZ",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.hoster.kz/centos-altarch/",
+        "name": "LLP Kompaniya Hoster.KZ",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.hoster.kz/centos-altarch/",
+        "name": "LLP Kompaniya Hoster.KZ",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.esecuredata.com/centos-altarch/",
+        "name": "eSecureData Inc.",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.calgah.com/centos-altarch/",
+        "name": "Calgah Computer Systems Ltd.",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.calgah.com/centos-altarch/",
+        "name": "Calgah Computer Systems Ltd.",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.yer.az/CentOS-AltArch/",
+        "name": "YER Hosting",
+        "description": "",
+        "country-code": "AZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.yer.az/CentOS-AltArch/",
+        "name": "YER Hosting",
+        "description": "",
+        "country-code": "AZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.daticum.com/centos-altarch/",
+        "name": "Daticum",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.daticum.com/centos-altarch/",
+        "name": "Daticum",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.daticum.com/centos-altarch/",
+        "name": "Daticum",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.dotsrc.org/centos-altarch/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.dotsrc.org/centos-altarch/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.dotsrc.org/centos-altarch",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://centos-altarch.reloumirrors.net/",
+        "name": "RelouFR and Hivane networks",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://centos-altarch.reloumirrors.net/centos-altarch/",
+        "name": "RelouFR and Hivane networks",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.agdsn.de/pub/mirrors/centos-altarch/",
+        "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://ftp.agdsn.de/pub/mirrors/centos-altarch/",
+        "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://linux.darkpenguin.net/distros/CentOS-AltArch/",
+        "name": "Dark Penguin Network",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.rz.uni-frankfurt.de/pub/mirrors/centos-altarch/",
+        "name": "Goethe University Frankfurt, Computing Center",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://ftp.rz.uni-frankfurt.de/centos-altarch/",
+        "name": "Goethe University Frankfurt, Computing Center",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.infonline.de/centos-altarch/",
+        "name": "INFOnline GmbH",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.infonline.de/centos-altarch/",
+        "name": "INFOnline GmbH",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.infonline.de/centos-altarch/",
+        "name": "INFOnline GmbH",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
+        "name": "University of Applied Sciences Esslingen 2",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
+        "name": "University of Applied Sciences Esslingen 2",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror1.hs-esslingen.de/centos-altarch/",
+        "name": "University of Applied Sciences Esslingen 2",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.bme.hu/centos-altarch/",
+        "name": "BME",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://quantum-mirror.hu/mirrors/pub/centos-altarch/",
+        "name": "Quantum Mirror",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://quantum-mirror.hu/mirrors/pub/centos-altarch/",
+        "name": "Quantum Mirror",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://quantum-mirror.hu/centos-altarch/",
+        "name": "Quantum Mirror",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nyherji.is/centos-altarch/",
+        "name": "N\u00fdherji",
+        "description": "",
+        "country-code": "IS",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://centos.mirror.garr.it/centos-altarch/",
+        "name": "GARR",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://centos.mirror.garr.it/centos-altarch/",
+        "name": "GARR",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.vpsnet.com/centos-altarch/",
+        "name": "UAB Esnet",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.vpsnet.com/centos-altarch/",
+        "name": "UAB Esnet",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.mivocloud.com/centos-altarch/",
+        "name": "MivoCloud",
+        "description": "",
+        "country-code": "MD",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.mivocloud.com/centos-altarch/",
+        "name": "MivoCloud",
+        "description": "",
+        "country-code": "MD",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.xtom.nl/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.wd6.net/centos-altarch/",
+        "name": "WD6.net",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.wd6.net/centos-altarch/",
+        "name": "WD6.net",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.wd6.net/centos-altarch/",
+        "name": "WD6.net",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nl.datapacket.com/centos-altarch/",
+        "name": "DataPacket",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://centos-altarch.mirror.liteserver.nl/",
+        "name": "LiteServer",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://centos-altarch.mirror.liteserver.nl/",
+        "name": "LiteServer",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://centos-altarch.mirror.liteserver.nl/centos-altarch/",
+        "name": "LiteServer",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.serverion.com/centos-altarch/",
+        "name": "Serverion",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.serverion.com/centos-altarch/",
+        "name": "Serverion",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.serverion.com/centos-altarch/",
+        "name": "Serverion",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.usenet.farm/centos-altarch/",
+        "name": "Usenet.Farm",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.usenet.farm/centos-altarch/",
+        "name": "Usenet.Farm",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.usenet.farm/centos-altarch/",
+        "name": "Usenet.Farm",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ehv.weppel.nl/centos-altarch/",
+        "name": "Weppel",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.ehv.weppel.nl/centos-altarch/",
+        "name": "Weppel",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.ehv.weppel.nl/centos-altarch/",
+        "name": "Weppel",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.up.pt/pub/centos-altarch/",
+        "name": "University of Porto",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.up.pt/pub/centos-altarch/",
+        "name": "University of Porto",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.up.pt/pub/centos-altarch/",
+        "name": "University of Porto",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.nxthost.com/centos-altarch/",
+        "name": "nxtHost",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.nxthost.com/centos-altarch/",
+        "name": "nxtHost",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.nxthost.com/centos-altarch/",
+        "name": "nxtHost",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.nav.ro/centos-altarch/",
+        "name": "NAV Communications",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.nav.ro/centos-altarch/",
+        "name": "NAV Communications",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.nav.ro/centos-altarch/",
+        "name": "NAV Communications",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.truenetwork.ru/centos-altarch/",
+        "name": "Truenetwork",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.truenetwork.ru/centos-altarch/",
+        "name": "Truenetwork",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.truenetwork.ru/centos-altarch/",
+        "name": "Truenetwork",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.airenetworks.es/CentOS-AltArch/",
+        "name": "AireNetworks",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.airenetworks.es/CentOS-AltArch/",
+        "name": "AireNetworks",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.gadix.com/centos-altarch/",
+        "name": "Hospedados.com & GadIX.com",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.init7.net/centos-altarch/",
+        "name": "Init7 (Schweiz) AG",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.init7.net/centos-altarch/",
+        "name": "Init7 (Schweiz) AG",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.sh.com.tr/centos-altarch/",
+        "name": "PremierDC",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.sh.com.tr/centos-altarch/",
+        "name": "PremierDC",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.provider.com.tr/centos-altarch/",
+        "name": "Provider Data Center Services",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.provider.com.tr/centos-altarch/",
+        "name": "Provider Data Center Services",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.coreix.net/centos-altarch/",
+        "name": "Coreix",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.coreix.net/centos-altarch/",
+        "name": "Coreix",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.freethought-internet.co.uk/centos-altarch/",
+        "name": "Freethought Internet",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.freethought-internet.co.uk/centos-altarch/",
+        "name": "Freethought Internet",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.freethought-internet.co.uk/centos-altarch/",
+        "name": "Freethought Internet",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nsw.coloau.com.au/centos-altarch/",
+        "name": "Colocation Australia Pty Ltd",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.lagoon.nc/centos-altarch/",
+        "name": "OFFRATEL / LAGOON",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.lagoon.nc/centos-altarch/",
+        "name": "OFFRATEL / LAGOON",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.fsmg.org.nz/centos-altarch/",
+        "name": "Free Software Mirror Group",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.fsmg.org.nz/centos-altarch/",
+        "name": "Free Software Mirror Group",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.fsmg.org.nz/centos-altarch/",
+        "name": "Free Software Mirror Group",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://altarch.mirrors.theom.nz/centos/",
+        "name": "Theo M.",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://altarch.mirrors.theom.nz/centos/",
+        "name": "Theo M.",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://rsync.mirrors.theom.nz/centos-alt/",
+        "name": "Theo M.",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://centos.zero.com.ar/centos-altarch/",
+        "name": "Zero.com.ar",
+        "description": "",
+        "country-code": "AR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://centos-altarch.itsbrasil.net/",
+        "name": "ITS Telecomunicacoes",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://centos-altarch.itsbrasil.net/",
+        "name": "ITS Telecomunicacoes",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://centos-altarch.itsbrasil.net/centos-altarch/",
+        "name": "ITS Telecomunicacoes",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror1.cl.netactuate.com/centos-altarch/",
+        "name": "NetActuate",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror1.cl.netactuate.com/centos-altarch/",
+        "name": "NetActuate",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror1.cl.netactuate.com/centos-altarch/",
+        "name": "NetActuate",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ufro.cl/centos-altarch/",
+        "name": "Universidad de La Frontera",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.ufro.cl/centos-altarch/",
+        "name": "Universidad de La Frontera",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.ufro.cl/centos-altarch/",
+        "name": "Universidad de La Frontera",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.cedia.org.ec/centos-altarch/",
+        "name": "Consorcio Ecuatoriano para el Desarrollo de Internet Avanzado",
+        "description": "",
+        "country-code": "EC",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.cedia.org.ec/centos-altarch/",
+        "name": "Consorcio Ecuatoriano para el Desarrollo de Internet Avanzado",
+        "description": "",
+        "country-code": "EC",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.facebook.net/centos-altarch/",
+        "name": "Facebook",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.facebook.net/centos-altarch/",
+        "name": "Facebook",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.osuosl.org/pub/centos-altarch/",
+        "name": "Oregon State University",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://rsync.osuosl.org/centos-altarch/",
+        "name": "Oregon State University",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://alt.centos3.zswap.net/",
+        "name": "zswap.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://alt.centos3.zswap.net/",
+        "name": "zswap.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://centos3.zswap.net::altarch",
+        "name": "zswap.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.xtom.com/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.xtom.com/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.keystealth.org/centos-altarch/",
+        "name": "keystealth.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.keystealth.org/centos-altarch/",
+        "name": "keystealth.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.ocf.berkeley.edu/centos-altarch/",
+        "name": "Open Computing Facility",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.ocf.berkeley.edu/centos-altarch/",
+        "name": "Open Computing Facility",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.ocf.berkeley.edu/centos-altarch/",
+        "name": "Open Computing Facility",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.atl.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.atl.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.atl.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://centos.vwtonline.net/centos-altarch/",
+        "name": "Virtual World Technologies",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://centos.vwtonline.net/centos-altarch/",
+        "name": "Virtual World Technologies",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.lax.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.lax.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.lax.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.genesisadaptive.com/centos-altarch/",
+        "name": "Genesis Adaptive",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.genesishosting.com/centos-altarch/",
+        "name": "Genesis Hosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.math.princeton.edu/pub/centos-altarch/",
+        "name": "Princeton University Department of Mathematics",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.math.princeton.edu/pub/centos-altarch/",
+        "name": "Princeton University Department of Mathematics",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.math.princeton.edu/pub/centos-altarch/",
+        "name": "Princeton University Department of Mathematics",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.siena.edu/centos-altarch/",
+        "name": "Siena College",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.siena.edu/centos-altarch/",
+        "name": "Siena College",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.pit.teraswitch.com/centos-altarch/",
+        "name": "TeraSwitch Networks Inc.",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
+        "name": "TeraSwitch Networks Inc.",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.dal.nexril.net/centos-altarch/",
+        "name": "Nexril",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.dal.nexril.net/centos-altarch/",
+        "name": "Nexril",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.dal.nexril.net/centos-altarch/",
+        "name": "Nexril",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://dallas.tx.mirror.xygenhosting.com/centos-altarch/",
+        "name": "XygenHosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://dallas.tx.mirror.xygenhosting.com/centos-altarch/",
+        "name": "XygenHosting",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.chpc.utah.edu/pub/centos-altarch/",
+        "name": "University of Utah",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.chpc.utah.edu/pub/centos-altarch/",
+        "name": "University of Utah",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.chpc.utah.edu/pub/centos-altarch/",
+        "name": "University of Utah",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://alt.centos5.zswap.net/",
+        "name": "zswap.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://alt.centos5.zswap.net/",
+        "name": "zswap.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://centos5.zswap.net::altarch",
+        "name": "zswap.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.vcu.edu/pub/gnu_linux/centos-altarch/",
+        "name": "Virginia Commonwealth University",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.vcu.edu/pub/gnu_linux/centos-altarch/",
+        "name": "Virginia Commonwealth University",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.vcu.edu/centos-altarch/",
+        "name": "Virginia Commonwealth University",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "url": "http://archive.kernel.org/centos-vault/",
+        "name": "",
+        "description": "",
+        "country-code": "",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://archive.kernel.org::centos-vault/",
+        "name": "",
+        "description": "",
+        "country-code": "",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://linuxsoft.cern.ch/centos-vault/",
+        "name": "CERN",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://linuxsoft.cern.ch/centos-vault/",
+        "name": "CERN",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nsc.liu.se/centos-store/",
+        "name": "National Supercomputer Centre, Linkoping University",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirror.nsc.liu.se::centos-store/",
+        "name": "",
+        "description": "",
+        "country-code": "",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    }
+]
