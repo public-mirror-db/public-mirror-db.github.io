@@ -1,0 +1,1192 @@
+[
+    {
+        "url": "ftp://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+        "name": "ICM",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://mirror.csclub.uwaterloo.ca/alpine/",
+        "name": "mirror.csclub.uwaterloo.ca",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://mirror.lagoon.nc/alpine/",
+        "name": "Lagoon",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://mirror.ps.kz/alpine/",
+        "name": "PS Internet Company",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://mirror.rise.ph/alpine-linux/",
+        "name": "mirror.rise.ph",
+        "description": "",
+        "country-code": "PH",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://tux.rainside.sk/alpine/",
+        "name": "Rainside",
+        "description": "",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.42.fr/",
+        "name": "alpine.42.fr",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.cs.nctu.edu.tw/",
+        "name": "NCTU CSCC",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.mirror.far.fi/",
+        "name": "alpine.mirror.far.fi",
+        "description": "",
+        "country-code": "FI",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.mirror.vexxhost.ca/",
+        "name": "alpine.mirror.vexxhost.ca",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.mirror.wearetriple.com/",
+        "name": "Triple",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.yourlabs.org",
+        "name": "alpine.yourlabs.org",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpinelinux.c3sl.ufpr.br",
+        "name": "c3sl",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpinelinux.mirror.iweb.com/",
+        "name": "alpinelinux.mirror.iweb.com",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ams.edge.kernel.org/alpine/",
+        "name": "ams.edge.kernel.org",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://dl-2.alpinelinux.org/alpine/",
+        "name": "dl-2.alpinelinux.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://dl-4.alpinelinux.org/alpine/",
+        "name": "dl-4.alpinelinux.org",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://dl-5.alpinelinux.org/alpine/",
+        "name": "dl-5.alpinelinux.org",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://dl-cdn.alpinelinux.org/alpine/",
+        "name": "dl-cdn.alpinelinux.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://download.nus.edu.sg/mirror/alpine/",
+        "name": "download.nus.edu.sg",
+        "description": "",
+        "country-code": "SG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ewr.edge.kernel.org/alpine/",
+        "name": "ewr.edge.kernel.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.acc.umu.se/mirror/alpinelinux.org/",
+        "name": "ftp.acc.umu.se",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.halifax.rwth-aachen.de/alpine/",
+        "name": "ftp.halifax.rwth-aachen.de",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+        "name": "ICM",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.yzu.edu.tw/Linux/alpine/",
+        "name": "Department of Computer Science a...",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://linorg.usp.br/AlpineLinux/",
+        "name": "Centro de Computa\u00e7\u00e3o Eletr\u00f4ni...",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.aarnet.edu.au/pub/alpine",
+        "name": "AARNet",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.clarkson.edu/alpine/",
+        "name": "Clarkson Open Source Institute",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.csclub.uwaterloo.ca/alpine/",
+        "name": "mirror.csclub.uwaterloo.ca",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.ette.biz/alpine/",
+        "name": "Ette.biz",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.fit.cvut.cz/alpine/",
+        "name": "Faculty of Information Technolog...",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.ihost.md/alpine/",
+        "name": "iHost",
+        "description": "",
+        "country-code": "MD",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.lagoon.nc/alpine/",
+        "name": "Lagoon",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.leaseweb.com/alpine/",
+        "name": "leaseweb",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.lzu.edu.cn/alpine/",
+        "name": "mirror.lzu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.math.princeton.edu/pub/alpinelinux/",
+        "name": "mirror.math.princeton.edu",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.operationtulip.com/alpine/",
+        "name": "mirror.operationtulip.com",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.pit.teraswitch.com/alpine",
+        "name": "mirror.pit.teraswitch.com",
+        "description": "",
+        "country-code": "PA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.ps.kz/alpine/",
+        "name": "PS Internet Company",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.reenigne.net/alpine/",
+        "name": "Reenigne",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.rise.ph/alpine-linux/",
+        "name": "mirror.rise.ph",
+        "description": "",
+        "country-code": "PH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.ungleich.ch/mirror/packages/alpine/",
+        "name": "mirror.ungleich.ch",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.xtom.com.hk/alpine/",
+        "name": "mirror.xtom.com.hk",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.yandex.ru/mirrors/alpine/",
+        "name": "mirror.yandex.ru",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/alpine/",
+        "name": "mirror1.hs-esslingen.de",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.dotsrc.org/alpine/",
+        "name": "dotsrc at Aalborg University",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.gigenet.com/alpinelinux/",
+        "name": "mirrors.gigenet.com",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.ircam.fr/pub/alpine/",
+        "name": "mirrors.ircam.fr",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.nju.edu.cn/alpine/",
+        "name": "mirrors.nju.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.sjtug.sjtu.edu.cn/alpine/",
+        "name": "mirrors.sjtug.sjtu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.tuna.tsinghua.edu.cn/alpine/",
+        "name": "mirrors.tuna.tsinghua.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.ustc.edu.cn/alpine/",
+        "name": "mirrors.ustc.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.xjtu.edu.cn/alpine/",
+        "name": "mirrors.xjtu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://pkg.adfinis-sygroup.ch/alpine/",
+        "name": "Adfinis SyGroup",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://quantum-mirror.hu/mirrors/pub/alpine/",
+        "name": "Quantum mirror",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://sjc.edge.kernel.org/alpine/",
+        "name": "sjc.edge.kernel.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://speglar.siminn.is/alpine/",
+        "name": "S\u00edminn hf",
+        "description": "",
+        "country-code": "IS",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://tux.rainside.sk/alpine/",
+        "name": "Rainside",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://uk.alpinelinux.org/alpine/",
+        "name": "uk.alpinelinux.org",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://alpine.global.ssl.fastly.net/alpine/",
+        "name": "dl-cdn.alpinelinux.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://alpine.mirror.wearetriple.com/",
+        "name": "Triple",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://alpine.yourlabs.org",
+        "name": "alpine.yourlabs.org",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://ams.edge.kernel.org/alpine/",
+        "name": "ams.edge.kernel.org",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://download.nus.edu.sg/mirror/alpine/",
+        "name": "download.nus.edu.sg",
+        "description": "",
+        "country-code": "SG",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://ewr.edge.kernel.org/alpine/",
+        "name": "ewr.edge.kernel.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://ftp.acc.umu.se/mirror/alpinelinux.org/",
+        "name": "ftp.acc.umu.se",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://ftp.halifax.rwth-aachen.de/alpine/",
+        "name": "ftp.halifax.rwth-aachen.de",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+        "name": "ICM",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://ftp.yzu.edu.tw/Linux/alpine/",
+        "name": "Department of Computer Science a...",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.csclub.uwaterloo.ca/alpine/",
+        "name": "mirror.csclub.uwaterloo.ca",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.ette.biz/alpine/",
+        "name": "Ette.biz",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.fit.cvut.cz/alpine/",
+        "name": "Faculty of Information Technolog...",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.ihost.md/alpine/",
+        "name": "iHost",
+        "description": "",
+        "country-code": "MD",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.lagoon.nc/alpine/",
+        "name": "Lagoon",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.lzu.edu.cn/alpine/",
+        "name": "mirror.lzu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.math.princeton.edu/pub/alpinelinux/",
+        "name": "mirror.math.princeton.edu",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.operationtulip.com/alpine/",
+        "name": "mirror.operationtulip.com",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.pit.teraswitch.com/alpine",
+        "name": "mirror.pit.teraswitch.com",
+        "description": "",
+        "country-code": "PA",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.ps.kz/alpine/",
+        "name": "PS Internet Company",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.reenigne.net/alpine/",
+        "name": "Reenigne",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.ungleich.ch/mirror/packages/alpine/",
+        "name": "mirror.ungleich.ch",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.xtom.com.hk/alpine/",
+        "name": "mirror.xtom.com.hk",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.dotsrc.org/alpine/",
+        "name": "dotsrc at Aalborg University",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.ircam.fr/pub/alpine/",
+        "name": "mirrors.ircam.fr",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.nju.edu.cn/alpine/",
+        "name": "mirrors.nju.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.sjtug.sjtu.edu.cn/alpine/",
+        "name": "mirrors.sjtug.sjtu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/",
+        "name": "mirrors.tuna.tsinghua.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.ustc.edu.cn/alpine/",
+        "name": "mirrors.ustc.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.xjtu.edu.cn/alpine/",
+        "name": "mirrors.xjtu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://pkg.adfinis-sygroup.ch/alpine/",
+        "name": "Adfinis SyGroup",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://quantum-mirror.hu/mirrors/pub/alpine/",
+        "name": "Quantum mirror",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://sjc.edge.kernel.org/alpine/",
+        "name": "sjc.edge.kernel.org",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://speglar.siminn.is/alpine/",
+        "name": "S\u00edminn hf",
+        "description": "",
+        "country-code": "IS",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://tux.rainside.sk/alpine/",
+        "name": "Rainside",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://uk.alpinelinux.org/alpine/",
+        "name": "uk.alpinelinux.org",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://alpine.mirror.wearetriple.com/alpine/",
+        "name": "Triple",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://alpinelinux.c3sl.ufpr.br/alpinelinux/",
+        "name": "c3sl",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://alpinelinux.mirror.iweb.com/alpine/",
+        "name": "alpinelinux.mirror.iweb.com",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://ftp.acc.umu.se/mirror/alpinelinux.org/",
+        "name": "ftp.acc.umu.se",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://ftp.halifax.rwth-aachen.de/alpine/",
+        "name": "ftp.halifax.rwth-aachen.de",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+        "name": "ICM",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://ftp.yzu.edu.tw/Linux/alpine/",
+        "name": "Department of Computer Science a...",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://linorg.usp.br/AlpineLinux/",
+        "name": "Centro de Computa\u00e7\u00e3o Eletr\u00f4ni...",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.csclub.uwaterloo.ca/alpine/",
+        "name": "mirror.csclub.uwaterloo.ca",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.ette.biz/alpine/",
+        "name": "Ette.biz",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.lagoon.nc/alpine/",
+        "name": "Lagoon",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.leaseweb.com/alpine/",
+        "name": "leaseweb",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.math.princeton.edu/pub/alpinelinux/",
+        "name": "mirror.math.princeton.edu",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.pit.teraswitch.com/alpine",
+        "name": "mirror.pit.teraswitch.com",
+        "description": "",
+        "country-code": "PA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.ps.kz/alpine/",
+        "name": "PS Internet Company",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.reenigne.net/alpine/",
+        "name": "Reenigne",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.dotsrc.org/alpine/",
+        "name": "dotsrc at Aalborg University",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.ircam.fr/pub/alpine/",
+        "name": "mirrors.ircam.fr",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.tuna.tsinghua.edu.cn/alpine/",
+        "name": "mirrors.tuna.tsinghua.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.ustc.edu.cn/alpine/",
+        "name": "mirrors.ustc.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://pkg.adfinis-sygroup.ch/alpine/",
+        "name": "Adfinis SyGroup",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://quantum-mirror.hu/alpine",
+        "name": "Quantum mirror",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://speglar.siminn.is/alpine/",
+        "name": "S\u00edminn hf",
+        "description": "",
+        "country-code": "IS",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://uk.alpinelinux.org/",
+        "name": "uk.alpinelinux.org",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    }
+]
