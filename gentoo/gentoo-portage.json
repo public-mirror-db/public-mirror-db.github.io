@@ -1,6 +1,6 @@
 [
     {
-        "url": "rsync//mirror.bit.edu.cn/gentoo-portage",
+        "url": "rsync://mirror.bit.edu.cn/gentoo-portage",
         "name": "BIT",
         "description": "Mirror site provided by Beijing Inistitute of Technology",
         "country-code": "CN",
