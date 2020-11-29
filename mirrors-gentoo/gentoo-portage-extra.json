@@ -1,28 +1,10 @@
 [
     {
-        "url": "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage",
-        "name": "aliyun",
-        "country-code": "CN",
-        "protocol": "rsync",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "rsync//mirror.bit.edu.cn/gentoo-portage",
         "name": "BIT",
         "description": "Mirror site provided by Beijing Inistitute of Technology",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
-        "name": "yun-idc",
-        "country-code": "CN",
-        "protocol": "rsync",
-        "description": "",
         "ipv4": true,
         "ipv6": false
     },
@@ -41,6 +23,24 @@
         "description": "Mirror site provided by Xia Men University",
         "country-code": "CN",
         "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
+        "name": "yun-idc",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "description": "",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage",
+        "name": "aliyun",
+        "country-code": "CN",
+        "protocol": "rsync",
+        "description": "",
         "ipv4": true,
         "ipv6": false
     }

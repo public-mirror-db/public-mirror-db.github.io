@@ -1,63 +1,45 @@
 [
     {
-        "url": "http://ftp.am.debian.org/debian/",
+        "url": "http://alcateia.ufscar.br/debian/",
         "name": "",
         "description": "",
-        "country-code": "AM",
+        "country-code": "BR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirrors.asnet.am/debian/",
+        "url": "http://artfiles.org/debian/",
         "name": "",
         "description": "",
-        "country-code": "AM",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.unnoba.edu.ar/debian/",
+        "url": "http://deb-mir1.naitways.net/debian/",
         "name": "",
         "description": "",
-        "country-code": "AR",
+        "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.sitsa.com.ar/debian/",
+        "url": "http://debian-archive.trafficmanager.net/debian/",
         "name": "",
         "description": "",
-        "country-code": "AR",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.at.debian.org/debian/",
+        "url": "http://debian-mirror.sakura.ne.jp/debian/",
         "name": "",
         "description": "",
-        "country-code": "AT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.lagis.at/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.sil.at/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AT",
+        "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -72,6 +54,222 @@
         "ipv6": false
     },
     {
+        "url": "http://debian.apt-mirror.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.asis.ai/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.balt.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.c3sl.ufpr.br/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.ca-west.mirror.fullhost.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.carnet.hr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.cc.lehigh.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.charite.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.co.il/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.connesi.it/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.cs.binghamton.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.cs.nctu.edu.tw/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.csail.mit.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.csie.ntu.edu.tw/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.dynamica.it/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.ec.as6453.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.ethz.ch/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.gnu.gen.tr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.grena.ge/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.grn.cat/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.gtisc.gatech.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.ignum.cz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.inf.tu-dresden.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.inhost.pro/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://debian.inode.at/debian/",
         "name": "",
         "description": "",
@@ -81,7 +279,52 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.tu-graz.ac.at/mirror/debian/",
+        "url": "http://debian.intergenia.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.ipacct.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.iskon.hr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.itsbrasil.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.koyanet.lv/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LV",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.lagis.at/debian/",
         "name": "",
         "description": "",
         "country-code": "AT",
@@ -90,7 +333,610 @@
         "ipv6": false
     },
     {
+        "url": "http://debian.linux.edu.lv/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LV",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.lth.se/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.ludost.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.ac.ke/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.cambrium.nl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.constant.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.digitalpacific.com.au/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.estruxture.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.garr.it/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.globo.tech/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.iphh.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.iweb.ca/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.liquidtelecom.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.lrz.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.rafal.ca/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.root.lu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.serversaustralia.com.au/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.su.se/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.uk.sargasso.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirror.vu.lt/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mirrors.uk2.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mnet.bg/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.mobiltel.bg/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://debian.mur.at/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.nautile.nc/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.netlinux.cl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.noc.ntua.gr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.osuosl.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.otenet.gr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.petarmaric.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RS",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.polytech-lille.fr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.pop-sc.rnp.br/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.proxad.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.redimadrid.es/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.redlibre.cl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.redparra.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.repo.cure.edu.uy/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "UY",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.salud.gob.sv/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SV",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.sbnw.in/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.sil.at/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.snt.utwente.nl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.superhosting.cz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.telecoms.bg/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.tu-bs.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.uchicago.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.uevora.pt/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.uni-duisburg-essen.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.univ-lorraine.fr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.univ-reims.fr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.univ-tlse2.fr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.unnoba.edu.ar/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.uvigo.es/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.volia.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "UA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debian.xtdv.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "VN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debianmirror.nkn.in/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debianmirror.una.ac.cr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://debmirror.hbcse.tifr.res.in/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://dennou-k.gfd-dennou.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://dennou-q.gfd-dennou.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://depot-debian.univ-reunion.fr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://free.hands.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp-stud.hs-esslingen.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.acc.umu.se/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.agh.edu.pl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.am.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AM",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.antik.sk/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.arnes.si/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SI",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.at.debian.org/debian/",
         "name": "",
         "description": "",
         "country-code": "AT",
@@ -108,97 +954,7 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.linux.org.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.digitalpacific.com.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.serversaustralia.com.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.overthewire.com.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.aarnet.edu.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.intergrid.com.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.amaze.com.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.launtel.net.au/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.realcompute.io/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "http://ftp.be.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.as35701.net/debian/",
         "name": "",
         "description": "",
         "country-code": "BE",
@@ -225,124 +981,16 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.ludost.net/debian/",
+        "url": "http://ftp.bme.hu/debian/",
         "name": "",
         "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mobiltel.bg/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.ipacct.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mnet.bg/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.telecoms.bg/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-sofia.bg/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.netix.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BG",
+        "country-code": "HU",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
         "url": "http://ftp.br.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.c3sl.ufpr.br/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.pop-sc.rnp.br/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://alcateia.ufscar.br/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://repositorio.nti.ufal.br/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.unesp.br/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.itsbrasil.net/debian/",
         "name": "",
         "description": "",
         "country-code": "BR",
@@ -369,15 +1017,6 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.datacenter.by/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "BY",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "http://ftp.ca.debian.org/debian/",
         "name": "",
         "description": "",
@@ -387,64 +1026,10 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.mirror.rafal.ca/debian/",
+        "url": "http://ftp.caliu.cat/debian/",
         "name": "",
         "description": "",
-        "country-code": "CA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.iweb.ca/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.it.ubc.ca/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.globo.tech/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.estruxture.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.csclub.uwaterloo.ca/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.ca-west.mirror.fullhost.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CA",
+        "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -459,46 +1044,10 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.ethz.ch/debian/",
+        "url": "http://ftp.cica.es/debian/",
         "name": "",
         "description": "",
-        "country-code": "CH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.sinavps.ch/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.iway.ch/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://pkg.adfinis-sygroup.ch/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.init7.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CH",
+        "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -513,181 +1062,10 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.redlibre.cl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.insacom.cl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.netlinux.cl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.ufro.cl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp2.cn.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
         "url": "http://ftp.cn.debian.org/debian/",
         "name": "",
         "description": "",
         "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.tuna.tsinghua.edu.cn/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.163.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.ustc.edu.cn/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.lzu.edu.cn/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.huaweicloud.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.bfsu.edu.cn/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.ucr.ac.cr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debianmirror.una.ac.cr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.cz.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.debian.cz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.dkm.cz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://merlin.fit.vutbr.cz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.superhosting.cz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.ignum.cz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -702,16 +1080,7 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.zcu.cz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.sh.cvut.cz/debian/",
+        "url": "http://ftp.cz.debian.org/debian/",
         "name": "",
         "description": "",
         "country-code": "CZ",
@@ -729,343 +1098,37 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp2.de.debian.org/debian/",
+        "url": "http://ftp.debian.cz/debian/",
         "name": "",
         "description": "",
-        "country-code": "DE",
+        "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.inf.tu-dresden.de/debian/",
+        "url": "http://ftp.debian.sk/debian/",
         "name": "",
         "description": "",
-        "country-code": "DE",
+        "country-code": "SK",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.halifax.rwth-aachen.de/debian/",
+        "url": "http://ftp.debian.xs4all.net/debian/",
         "name": "",
         "description": "",
-        "country-code": "DE",
+        "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.eu.oneandone.net/debian/",
+        "url": "http://ftp.debianclub.org/debian/",
         "name": "",
         "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.eu.oneandone.net/linux/distributions/debian/debian-archive/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.de.leaseweb.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-kl.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.tu-bs.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://packages.hs-regensburg.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.lrz.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.iphh.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.united-gameserver.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.plusline.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.charite.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.netcologne.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://artfiles.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.intergenia.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.gwdg.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-bayreuth.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.tu-chemnitz.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.mpi-sb.mpg.de/pub/linux/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.stw-bonn.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp-stud.hs-esslingen.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.fau.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.uni-duisburg-essen.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.tu-clausthal.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-stuttgart.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-mainz.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://pubmirror.plutex.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.23media.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-hannover.de/debian/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uni-hannover.de/debian/debian-cd/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.wtnet.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.ipb.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.netzwerge.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.k-cix.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.dogado.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DE",
+        "country-code": "TH",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1080,37 +1143,10 @@
         "ipv6": false
     },
     {
-        "url": "http://mirrors.dotsrc.org/debian/",
+        "url": "http://ftp.ec-m.fr/debian/",
         "name": "",
         "description": "",
-        "country-code": "DK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.one.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.asergo.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.rackhosting.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "DK",
+        "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1134,6 +1170,15 @@
         "ipv6": false
     },
     {
+        "url": "http://ftp.eq.uc.pt/software/Linux/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "http://ftp.es.debian.org/debian/",
         "name": "",
         "description": "",
@@ -1143,109 +1188,19 @@
         "ipv6": false
     },
     {
-        "url": "http://ulises.hostalia.com/debian/",
+        "url": "http://ftp.fau.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "ES",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://softlibre.unizar.es/debian/",
+        "url": "http://ftp.fi.debian.org/debian/",
         "name": "",
         "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.redparra.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.grn.cat/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.udc.es/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.cica.es/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.caliu.cat/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.redimadrid.es/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.uvigo.es/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.librelabucm.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://repo.ifca.es/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ES",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://www.nic.funet.fi/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FI",
+        "country-code": "SE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1260,7 +1215,124 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.proxad.net/debian/",
+        "url": "http://ftp.fsn.hu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.gr.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.gwdg.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.halifax.rwth-aachen.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.harukasan.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.hk.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.hosteurope.de/mirror/ftp.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.hr.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.hu.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.icm.edu.pl/pub/Linux/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.is.co.za/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ZA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.is.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.it.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.iut-bm.univ-fcomte.fr/debian/",
         "name": "",
         "description": "",
         "country-code": "FR",
@@ -1269,7 +1341,88 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.ec-m.fr/debian/",
+        "url": "http://ftp.jaist.ac.jp/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.jp.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.kaist.ac.kr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.kddilabs.jp/pub/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.kfki.hu/linux/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.kr.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.lanet.kr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.linux.it/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.linux.org.tr/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.lip6.fr/pub/linux/distributions/debian/",
         "name": "",
         "description": "",
         "country-code": "FR",
@@ -1278,7 +1431,133 @@
         "ipv6": false
     },
     {
-        "url": "http://deb-mir1.naitways.net/debian/",
+        "url": "http://ftp.lt.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.md.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "MD",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.mpi-sb.mpg.de/pub/linux/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.nara.wide.ad.jp/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.nc.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.nl.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.nluug.nl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.no.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.ntou.edu.tw/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.nz.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.pl.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.plusline.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.psn.ru/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.pt.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.rezopole.net/debian/",
         "name": "",
         "description": "",
         "country-code": "FR",
@@ -1287,10 +1566,172 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.univ-lorraine.fr/debian/",
+        "url": "http://ftp.riken.jp/Linux/debian/debian-archive/",
         "name": "",
         "description": "",
-        "country-code": "FR",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.riken.jp/Linux/debian/debian-cd/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.riken.jp/Linux/debian/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.ru.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.se.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.sh.cvut.cz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.si.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SI",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.sk.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.stw-bonn.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.sv.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SV",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.task.gda.pl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.ticklers.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.tku.edu.tw/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.tr.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.tu-chemnitz.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.tu-clausthal.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.tu-graz.ac.at/mirror/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.tw.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1314,91 +1755,19 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.plusserver.com/debian/debian/",
+        "url": "http://ftp.udc.es/debian/",
         "name": "",
         "description": "",
-        "country-code": "FR",
+        "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.univ-tlse2.fr/debian/",
+        "url": "http://ftp.uio.no/debian/",
         "name": "",
         "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.rezopole.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.univ-reims.fr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.univ-pau.fr/linux/mirrors/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.ircam.fr/pub/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.lip6.fr/pub/linux/distributions/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.iut-bm.univ-fcomte.fr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.polytech-lille.fr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.apt-mirror.de/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "FR",
+        "country-code": "NO",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1413,298 +1782,145 @@
         "ipv6": false
     },
     {
-        "url": "http://ftp.is.debian.org/debian/",
+        "url": "http://ftp.uni-bayreuth.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://free.hands.com/debian/",
+        "url": "http://ftp.uni-hannover.de/debian/debian-cd/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ukdebian.mirror.anlx.net/debian/",
+        "url": "http://ftp.uni-hannover.de/debian/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.bytemark.co.uk/debian/",
+        "url": "http://ftp.uni-kl.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.positive-internet.com/debian/",
+        "url": "http://ftp.uni-mainz.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.sucs.swan.ac.uk/pub/linux/debian/",
+        "url": "http://ftp.uni-sofia.bg/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "BG",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.lchost.net/debian/",
+        "url": "http://ftp.uni-stuttgart.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.mirror.uk.sargasso.net/debian/",
+        "url": "http://ftp.univ-pau.fr/linux/mirrors/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.mythic-beasts.com/debian/",
+        "url": "http://ftp.us.debian.org/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.vorboss.net/debian/",
+        "url": "http://ftp.yz.yamagata-u.ac.jp/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.sov.uk.goscomb.net/debian/",
+        "url": "http://ftp.zcu.cz/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.ox.ac.uk/debian/",
+        "url": "http://ftp2.cn.debian.org/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.ticklers.org/debian/",
+        "url": "http://ftp2.de.debian.org/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirrorservice.org/sites/ftp.debian.org/debian/",
+        "url": "http://ftpmirror1.infania.net/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "SE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirrors.m247.com/debian/",
+        "url": "http://giano.com.dist.unige.it/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
+        "country-code": "IT",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.mirrors.uk2.net/debian/",
+        "url": "http://hanzubon.jp/debian/",
         "name": "",
         "description": "",
-        "country-code": "GB",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.coreix.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "GB",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.grena.ge/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "GE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.gr.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "GR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.noc.ntua.gr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "GR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.otenet.gr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "GR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.hk.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.xtom.com.hk/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://openbsd.hk/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.hr.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.carnet.hr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.iskon.hr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.hu.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.fsn.hu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.bme.hu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.kfki.hu/linux/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://repo.jztkft.hu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "HU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.poliwangi.ac.id/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "ID",
+        "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1728,262 +1944,10 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.isoc.org.il/pub/debian/",
+        "url": "http://merlin.fit.vutbr.cz/debian/",
         "name": "",
         "description": "",
-        "country-code": "IL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.co.il/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debianmirror.nkn.in/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.cse.iitk.ac.in/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debmirror.hbcse.tifr.res.in/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.sbnw.in/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.asis.ai/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.aminidc.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.it.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.dynamica.it/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.units.it/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.garr.it/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://giano.com.dist.unige.it/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.connesi.it/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.linux.it/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "IT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.jp.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://hanzubon.jp/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://dennou-k.gfd-dennou.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://dennou-q.gfd-dennou.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.nara.wide.ad.jp/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian-mirror.sakura.ne.jp/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.jaist.ac.jp/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.riken.jp/Linux/debian/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.riken.jp/Linux/debian/debian-cd/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.riken.jp/Linux/debian/debian-archive/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.kddilabs.jp/pub/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.yz.yamagata-u.ac.jp/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.ac.ke/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "KE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.liquidtelecom.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "KE",
+        "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -1998,46 +1962,46 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.cambo.host/debian/",
+        "url": "http://mirror.0x.sg/debian/",
         "name": "",
         "description": "",
-        "country-code": "KH",
+        "country-code": "SG",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.kr.debian.org/debian/",
+        "url": "http://mirror.23media.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "KP",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.kaist.ac.kr/debian/",
+        "url": "http://mirror.aarnet.edu.au/debian/",
         "name": "",
         "description": "",
-        "country-code": "KP",
+        "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.lanet.kr/debian/",
+        "url": "http://mirror.amaze.com.au/debian/",
         "name": "",
         "description": "",
-        "country-code": "KP",
+        "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.harukasan.org/debian/",
+        "url": "http://mirror.aminidc.com/debian/",
         "name": "",
         "description": "",
-        "country-code": "KP",
+        "country-code": "IR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -2052,100 +2016,19 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.ps.kz/debian/",
+        "url": "http://mirror.applebred.net/debian/",
         "name": "",
         "description": "",
-        "country-code": "KZ",
+        "country-code": "TH",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.hoster.kz/debian/",
+        "url": "http://mirror.as35701.net/debian/",
         "name": "",
         "description": "",
-        "country-code": "KZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.lt.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.vu.lt/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.litnet.lt/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.balt.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.vpsnet.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.root.lu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.linux.edu.lv/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LV",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.koyanet.lv/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "LV",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.md.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "MD",
+        "country-code": "BE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -2160,889 +2043,34 @@
         "ipv6": false
     },
     {
-        "url": "http://mirrors.mivocloud.com/debian/",
+        "url": "http://mirror.asergo.com/debian/",
         "name": "",
         "description": "",
-        "country-code": "MD",
+        "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.onevip.mk/debian/",
+        "url": "http://mirror.bytemark.co.uk/debian/",
         "name": "",
         "description": "",
-        "country-code": "MK",
+        "country-code": "GB",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.nc.debian.org/debian/",
+        "url": "http://mirror.cambo.host/debian/",
         "name": "",
         "description": "",
-        "country-code": "NC",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.nautile.nc/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NC",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.lagoon.nc/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NC",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.nl.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.snt.utwente.nl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.nl.leaseweb.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.i3d.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.cambrium.nl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.debian.xs4all.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.nluug.nl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.dataone.nl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.nforce.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.duocast.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.novg.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.nl.datapacket.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.neostrada.nl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.seedvps.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.vpgrp.io/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.serverius.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.schoemaker.systems/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.xtom.nl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.no.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.uio.no/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.nz.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.fsmg.org.nz/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "NZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.pregi.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.rise.ph/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.pl.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.task.gda.pl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.agh.edu.pl/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.icm.edu.pl/pub/Linux/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.inhost.pro/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.pt.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.uevora.pt/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.up.pt/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.eq.uc.pt/software/Linux/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.ptisp.pt/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://depot-debian.univ-reunion.fr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.pidginhost.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.xservers.ro/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.nxthost.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.nav.ro/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.pmf.kg.ac.rs/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RS",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.petarmaric.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RS",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.ru.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.mephi.ru/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.corbina.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.psn.ru/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.truenetwork.ru/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.powernet.com.ru/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.docker.ru/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.se.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.fi.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.acc.umu.se/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.lth.se/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.glesys.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.su.se/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.zetup.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.linux.pizza/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftpmirror1.infania.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.0x.sg/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.si.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SI",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.arnes.si/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SI",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.sk.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.debian.sk/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.antik.sk/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.sv.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SV",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.salud.gob.sv/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "SV",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.kku.ac.th/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.applebred.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.debianclub.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.tr.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.linux.org.tr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.gnu.gen.tr/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.tw.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.tku.edu.tw/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.ntou.edu.tw/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.cs.nctu.edu.tw/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://opensource.nchc.org.tw/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.csie.ntu.edu.tw/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.volia.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "UA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.mirohost.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "UA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.us.debian.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian-archive.trafficmanager.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.csail.mit.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.osuosl.org/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.lug.mtu.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.cc.lehigh.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.us.oneandone.net/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.gtisc.gatech.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
+        "country-code": "KH",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
         "url": "http://mirror.cc.columbia.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.bloomu.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.namecheap.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.ocf.berkeley.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://debian.mirror.constant.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.advancedhosters.com/debian/",
         "name": "",
         "description": "",
         "country-code": "US",
@@ -3060,7 +2088,781 @@
         "ipv6": false
     },
     {
-        "url": "http://mirrors.syringanetworks.net/debian/",
+        "url": "http://mirror.corbina.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.csclub.uwaterloo.ca/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.cse.iitk.ac.in/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.datacenter.by/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BY",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.dataone.nl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.de.leaseweb.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.dkm.cz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.docker.ru/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.dogado.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.duocast.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.eu.oneandone.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.eu.oneandone.net/linux/distributions/debian/debian-archive/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.fsmg.org.nz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.hoster.kz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.i3d.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.init7.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.insacom.cl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.intergrid.com.au/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ipb.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.isoc.org.il/pub/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.it.ubc.ca/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.iway.ch/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.k-cix.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.keystealth.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.kku.ac.th/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.lagoon.nc/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.launtel.net.au/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.lchost.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.librelabucm.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.linux.org.au/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.linux.pizza/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.litnet.lt/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.lzu.edu.cn/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.mephi.ru/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.mirohost.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "UA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.mythic-beasts.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.neostrada.nl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.netcologne.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.netzwerge.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nforce.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nl.datapacket.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.nl.leaseweb.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.novg.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.one.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.onevip.mk/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "MK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.overthewire.com.au/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ox.ac.uk/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.pit.teraswitch.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.plusserver.com/debian/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.pmf.kg.ac.rs/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RS",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.poliwangi.ac.id/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.positive-internet.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.pregi.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ps.kz/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.realcompute.io/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.rise.ph/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.schoemaker.systems/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.seedvps.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.serverius.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.siena.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.sinavps.ch/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.sitsa.com.ar/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.sov.uk.goscomb.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.steadfast.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.sucs.swan.ac.uk/pub/linux/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.truenetwork.ru/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.ufro.cl/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.unesp.br/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.united-gameserver.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.units.it/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.us.leaseweb.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.us.oneandone.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.vorboss.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.vpgrp.io/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.vpsnet.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "LT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.wtnet.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.xtom.com.hk/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.zetup.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.163.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.accretive-networks.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.advancedhosters.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.asnet.am/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "AM",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.bfsu.edu.cn/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.bloomu.edu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.coreix.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.dotsrc.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.edge.kernel.org/debian/",
         "name": "",
         "description": "",
         "country-code": "US",
@@ -3078,7 +2880,34 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.us.leaseweb.net/debian/",
+        "url": "http://mirrors.glesys.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.huaweicloud.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.ircam.fr/pub/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.lug.mtu.edu/debian/",
         "name": "",
         "description": "",
         "country-code": "US",
@@ -3087,7 +2916,25 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.ec.as6453.net/debian/",
+        "url": "http://mirrors.m247.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.mivocloud.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "MD",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.namecheap.com/debian/",
         "name": "",
         "description": "",
         "country-code": "US",
@@ -3096,7 +2943,34 @@
         "ipv6": false
     },
     {
-        "url": "http://mirrors.accretive-networks.net/debian/",
+        "url": "http://mirrors.nav.ro/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.netix.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.nxthost.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.ocf.berkeley.edu/debian/",
         "name": "",
         "description": "",
         "country-code": "US",
@@ -3105,7 +2979,43 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.cs.binghamton.edu/debian/",
+        "url": "http://mirrors.pidginhost.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.powernet.com.ru/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.ptisp.pt/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.rackhosting.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.syringanetworks.net/debian/",
         "name": "",
         "description": "",
         "country-code": "US",
@@ -3114,28 +3024,37 @@
         "ipv6": false
     },
     {
-        "url": "http://mirror.steadfast.net/debian/",
+        "url": "http://mirrors.tuna.tsinghua.edu.cn/debian/",
         "name": "",
         "description": "",
-        "country-code": "US",
+        "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.keystealth.org/debian/",
+        "url": "http://mirrors.ucr.ac.cr/debian/",
         "name": "",
         "description": "",
-        "country-code": "US",
+        "country-code": "CR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.uchicago.edu/debian/",
+        "url": "http://mirrors.up.pt/debian/",
         "name": "",
         "description": "",
-        "country-code": "US",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.ustc.edu.cn/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CN",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -3150,37 +3069,10 @@
         "ipv6": false
     },
     {
-        "url": "http://mirrors.edge.kernel.org/debian/",
+        "url": "http://mirrors.xservers.ro/debian/",
         "name": "",
         "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://repo.ialab.dsu.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.siena.edu/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.pit.teraswitch.com/debian/",
-        "name": "",
-        "description": "",
-        "country-code": "US",
+        "country-code": "RO",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -3195,10 +3087,55 @@
         "ipv6": false
     },
     {
-        "url": "http://us.mirror.nsec.pt/debian/",
+        "url": "http://mirrors.xtom.nl/debian/",
         "name": "",
         "description": "",
-        "country-code": "US",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrorservice.org/sites/ftp.debian.org/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://openbsd.hk/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://opensource.nchc.org.tw/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://packages.hs-regensburg.de/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://pkg.adfinis-sygroup.ch/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "CH",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -3213,28 +3150,91 @@
         "ipv6": false
     },
     {
-        "url": "http://debian.repo.cure.edu.uy/debian/",
+        "url": "http://pubmirror.plutex.de/debian/",
         "name": "",
         "description": "",
-        "country-code": "UY",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://debian.xtdv.net/debian/",
+        "url": "http://repo.ialab.dsu.edu/debian/",
         "name": "",
         "description": "",
-        "country-code": "VN",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://ftp.is.co.za/debian/",
+        "url": "http://repo.ifca.es/debian/",
         "name": "",
         "description": "",
-        "country-code": "ZA",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://repo.jztkft.hu/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "HU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://repositorio.nti.ufal.br/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://softlibre.unizar.es/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ukdebian.mirror.anlx.net/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ulises.hostalia.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://us.mirror.nsec.pt/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://www.nic.funet.fi/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "FI",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false

@@ -1,30 +1,174 @@
 [
     {
-        "url": "ftp://mirrors.tera-byte.com/pub/gentoo",
-        "name": "Tera-byte Dot Com Inc",
+        "url": "ftp://ftp.dei.uc.pt/pub/linux/gentoo/",
+        "name": "University of Coimbra",
         "description": "",
-        "country-code": "CA",
+        "country-code": "PT",
         "protocol": "ftp",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://gentoo.mirrors.tera-byte.com/",
-        "name": "Tera-byte Dot Com Inc",
+        "url": "ftp://ftp.fau.de/gentoo",
+        "name": "Uni Erlangen-N\u00fcrnberg",
         "description": "",
-        "country-code": "CA",
-        "protocol": "http",
+        "country-code": "DE",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.fi.muni.cz/pub/linux/gentoo/",
+        "name": "Masaryk University Brno",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.free.fr/mirrors/ftp.gentoo.org/",
+        "name": "Free",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.halifax.rwth-aachen.de/gentoo/",
+        "name": "RWTH Aachen University",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.iij.ad.jp/pub/linux/gentoo/",
+        "name": "Internet Initiative Japan",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.kaist.ac.kr/gentoo/",
+        "name": "KAIST",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "ftp",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "rsync://mirrors.tera-byte.com/gentoo",
-        "name": "Tera-byte Dot Com Inc",
+        "url": "ftp://ftp.lanet.kr/pub/gentoo/",
+        "name": "lanet.kr",
         "description": "",
-        "country-code": "CA",
-        "protocol": "rsync",
+        "country-code": "KR",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/",
+        "name": "The UK Mirror Service",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
+        "name": "National Technical University of Athens",
+        "description": "",
+        "country-code": "GR",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
+        "name": "RNL - T\u00e9cnico Lisboa",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.snt.utwente.nl/pub/os/linux/gentoo",
+        "name": "Universiteit Twente",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.swin.edu.au/gentoo",
+        "name": "Swinburne University of Technology",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.twaren.net/Linux/Gentoo/",
+        "name": "National Center for High-Performance Computing",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "ftp",
         "ipv4": true,
         "ipv6": false
+    },
+    {
+        "url": "ftp://ftp.vectranet.pl/gentoo/",
+        "name": "Vectranet",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
+        "name": "Dresden University of Technology/AG DSN",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://gentoo.bloodhost.ru/",
+        "name": "Bloodhost.ru",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://gentoo.mirror.web4u.cz/",
+        "name": "Web4U Mirror",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://mirror.bytemark.co.uk/gentoo/",
+        "name": "Bytemark Hosting",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
     },
     {
         "url": "ftp://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
@@ -36,19 +180,298 @@
         "ipv6": false
     },
     {
-        "url": "https://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
-        "name": "University of Waterloo",
+        "url": "ftp://mirror.dkm.cz/gentoo/",
+        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://mirror.mdfnet.se/gentoo",
+        "name": "mdfnet.se",
+        "description": "",
+        "country-code": "SE",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://mirror.netcologne.de/gentoo/",
+        "name": "Netcologne",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://mirror.ps.kz/gentoo/pub",
+        "name": "Neo Lab's",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://mirror.rise.ph/gentoo",
+        "name": "RISE",
+        "description": "",
+        "country-code": "PH",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://mirror.yandex.ru/gentoo-distfiles/",
+        "name": "Yandex.ru",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://mirrors.gethosted.online/gentoo",
+        "name": "Get Hosted online",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://mirrors.rit.edu/gentoo/",
+        "name": "Rochester Institute of Technology",
+        "description": "",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://mirrors.soeasyto.com/distfiles.gentoo.org/",
+        "name": "soeasyto.com",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "ftp://mirrors.tera-byte.com/pub/gentoo",
+        "name": "Tera-byte Dot Com Inc",
         "description": "",
         "country-code": "CA",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "ftp://tux.rainside.sk/gentoo/",
+        "name": "Rainside.sk",
+        "description": "",
+        "country-code": "SK",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
+        "name": "University of Applied Sciences, Esslingen",
+        "description": "",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
-        "name": "University of Waterloo",
+        "url": "http://ftp.daum.net/gentoo/",
+        "name": "Daum Communications Corp",
         "description": "",
-        "country-code": "CA",
+        "country-code": "KR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.dei.uc.pt/pub/linux/gentoo/",
+        "name": "University of Coimbra",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.fau.de/gentoo",
+        "name": "Uni Erlangen-N\u00fcrnberg",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.fi.muni.cz/pub/linux/gentoo/",
+        "name": "Masaryk University Brno",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.free.fr/mirrors/ftp.gentoo.org/",
+        "name": "Free",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.halifax.rwth-aachen.de/gentoo/",
+        "name": "RWTH Aachen University",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.iij.ad.jp/pub/linux/gentoo/",
+        "name": "Internet Initiative Japan",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.kaist.ac.kr/pub/gentoo/",
+        "name": "KAIST",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.lanet.kr/pub/gentoo/",
+        "name": "lanet.kr",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.ntua.gr/pub/linux/gentoo/",
+        "name": "National Technical University of Athens",
+        "description": "",
+        "country-code": "GR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
+        "name": "RNL - T\u00e9cnico Lisboa",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.romnet.org/gentoo/",
+        "name": "Romanian Organization Network",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.snt.utwente.nl/pub/os/linux/gentoo",
+        "name": "Universiteit Twente",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.swin.edu.au/gentoo",
+        "name": "Swinburne University of Technology",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://ftp.twaren.net/Linux/Gentoo/",
+        "name": "National Center for High-Performance Computing",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://ftp.vectranet.pl/gentoo/",
+        "name": "Vectranet",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://gentoo-mirror.alexxy.name/",
+        "name": "Alexxy.name",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://gentoo.aditsu.net:8000/",
+        "name": "aditsu.net",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://gentoo.bloodhost.ru/",
+        "name": "Bloodhost.ru",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://gentoo.c3sl.ufpr.br/",
+        "name": "C3SL, Federal University of Paran\u00e1",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://gentoo.cs.utah.edu/",
+        "name": "University of Utah",
+        "description": "",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -63,91 +486,10 @@
         "ipv6": false
     },
     {
-        "url": "rsync://gentoo.gossamerhost.com/gentoo-distfiles/",
-        "name": "Gossamer Threads",
+        "url": "http://gentoo.mirror.web4u.cz/",
+        "name": "Web4U Mirror",
         "description": "",
-        "country-code": "CA",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://gentoo.osuosl.org/",
-        "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://gentoo.osuosl.org/",
-        "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://www.gtlib.gatech.edu/pub/gentoo",
-        "name": "Georgia Tech",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://rsync.gtlib.gatech.edu/gentoo",
-        "name": "Georgia Tech",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.mirrors.tds.net/gentoo",
-        "name": "TDS Internet Services",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://gentoo.cs.utah.edu/",
-        "name": "University of Utah",
-        "description": "",
-        "country-code": "US",
+        "country-code": "CZ",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
@@ -162,40 +504,13 @@
         "ipv6": false
     },
     {
-        "url": "https://mirrors.rit.edu/gentoo/",
-        "name": "Rochester Institute of Technology",
+        "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+        "name": "OVH",
         "description": "",
-        "country-code": "US",
+        "country-code": "FR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
-    },
-    {
-        "url": "http://mirrors.rit.edu/gentoo/",
-        "name": "Rochester Institute of Technology",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://mirrors.rit.edu/gentoo/",
-        "name": "Rochester Institute of Technology",
-        "description": "",
-        "country-code": "US",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://mirrors.rit.edu/gentoo/",
-        "name": "Rochester Institute of Technology",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
     },
     {
         "url": "http://gentoo.mirrors.pair.com/",
@@ -207,74 +522,65 @@
         "ipv6": false
     },
     {
-        "url": "https://gentoo.c3sl.ufpr.br/",
-        "name": "C3SL, Federal University of Paran\u00e1",
+        "url": "http://gentoo.mirrors.tds.net/gentoo",
+        "name": "TDS Internet Services",
         "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.c3sl.ufpr.br/",
-        "name": "C3SL, Federal University of Paran\u00e1",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
-        "name": "C3SL, Federal University of Paran\u00e1",
-        "description": "",
-        "country-code": "BR",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.fi.muni.cz/pub/linux/gentoo/",
-        "name": "Masaryk University Brno",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.fi.muni.cz/pub/linux/gentoo/",
-        "name": "Masaryk University Brno",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo/",
-        "name": "Masaryk University Brno",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.mirror.web4u.cz/",
-        "name": "Web4U Mirror",
-        "description": "",
-        "country-code": "CZ",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "ftp://gentoo.mirror.web4u.cz/",
-        "name": "Web4U Mirror",
+        "url": "http://gentoo.mirrors.tera-byte.com/",
+        "name": "Tera-byte Dot Com Inc",
         "description": "",
-        "country-code": "CZ",
-        "protocol": "ftp",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://gentoo.modulix.net/gentoo/",
+        "name": "modulix.net",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://gentoo.osuosl.org/",
+        "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
+        "name": "Ruhr-Universit\u00e4t Bochum",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.bytemark.co.uk/gentoo/",
+        "name": "Bytemark Hosting",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
+        "name": "University of Waterloo",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
@@ -288,100 +594,28 @@
         "ipv6": true
     },
     {
-        "url": "https://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "url": "http://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
+        "name": "1&1 Internet SE",
         "description": "",
-        "country-code": "CZ",
+        "country-code": "DE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "ftp://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "url": "http://mirror.isoc.org.il/pub/gentoo/",
+        "name": "Hamakor FOSS Society",
         "description": "",
-        "country-code": "CZ",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
-        "description": "",
-        "country-code": "CZ",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
-        "name": "OVH",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.free.fr/mirrors/ftp.gentoo.org/",
-        "name": "Free",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.free.fr/mirrors/ftp.gentoo.org/",
-        "name": "Free",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
-        "name": "soeasyto.com",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://mirrors.soeasyto.com/distfiles.gentoo.org/",
-        "name": "soeasyto.com",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://mirrors.soeasyto.com/distfiles.gentoo.org/",
-        "name": "soeasyto.com",
-        "description": "",
-        "country-code": "FR",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.modulix.net/gentoo/",
-        "name": "modulix.net",
-        "description": "",
-        "country-code": "FR",
+        "country-code": "IL",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "https://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: Frankfurt)",
+        "url": "http://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country-code": "DE",
+        "country-code": "US",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
@@ -396,26 +630,134 @@
         "ipv6": true
     },
     {
-        "url": "rsync://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: Frankfurt)",
+        "url": "http://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: Amsterdam)",
         "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
+        "country-code": "NL",
+        "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
-        "name": "Ruhr-Universit\u00e4t Bochum",
+        "url": "http://mirror.netcologne.de/gentoo/",
+        "name": "Netcologne",
         "description": "",
         "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://mirror.ps.kz/gentoo/pub",
+        "name": "Neo Lab's",
+        "description": "",
+        "country-code": "KZ",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
-        "name": "Ruhr-Universit\u00e4t Bochum",
+        "url": "http://mirror.rise.ph/gentoo",
+        "name": "RISE",
+        "description": "",
+        "country-code": "PH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.wheel.sk/gentoo",
+        "name": "Wheel.sk",
+        "description": "",
+        "country-code": "SK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirror.yandex.ru/gentoo-distfiles/",
+        "name": "Yandex.ru",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://mirrors.163.com/gentoo/",
+        "name": "Netease.com, Inc.",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.gethosted.online/gentoo",
+        "name": "Get Hosted online",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://mirrors.rit.edu/gentoo/",
+        "name": "Rochester Institute of Technology",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://mirrors.soeasyto.com/distfiles.gentoo.org/",
+        "name": "soeasyto.com",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://mirrors.xservers.ro/gentoo/",
+        "name": "xservers.ro Gazduire Web",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://tux.rainside.sk/gentoo/",
+        "name": "Rainside.sk",
+        "description": "",
+        "country-code": "SK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "http://www.gtlib.gatech.edu/pub/gentoo",
+        "name": "Georgia Tech",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org/",
+        "name": "The UK Mirror Service",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
+        "name": "University of Applied Sciences, Esslingen",
         "description": "",
         "country-code": "DE",
         "protocol": "http",
@@ -432,132 +774,6 @@
         "ipv6": true
     },
     {
-        "url": "http://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
-        "name": "Dresden University of Technology/AG DSN",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
-        "name": "University of Applied Sciences, Esslingen",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
-        "name": "University of Applied Sciences, Esslingen",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://ftp-stud.hs-esslingen.de/gentoo/",
-        "name": "University of Applied Sciences, Esslingen",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
-        "name": "1&1 Internet SE",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
-        "name": "1&1 Internet SE",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://mirror.eu.oneandone.net/gentoo/",
-        "name": "1&1 Internet SE",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://mirror.netcologne.de/gentoo/",
-        "name": "Netcologne",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://mirror.netcologne.de/gentoo/",
-        "name": "Netcologne",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://mirror.netcologne.de/gentoo/",
-        "name": "Netcologne",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://mirror.netcologne.de/gentoo/",
-        "name": "Netcologne",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
         "url": "https://ftp.halifax.rwth-aachen.de/gentoo/",
         "name": "RWTH Aachen University",
         "description": "",
@@ -567,46 +783,28 @@
         "ipv6": true
     },
     {
-        "url": "http://ftp.halifax.rwth-aachen.de/gentoo/",
-        "name": "RWTH Aachen University",
+        "url": "https://ftp.lanet.kr/pub/gentoo/",
+        "name": "lanet.kr",
         "description": "",
-        "country-code": "DE",
+        "country-code": "KR",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "ftp://ftp.halifax.rwth-aachen.de/gentoo/",
-        "name": "RWTH Aachen University",
+        "url": "https://ftp.linux.org.tr/gentoo/",
+        "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
         "description": "",
-        "country-code": "DE",
-        "protocol": "ftp",
+        "country-code": "TR",
+        "protocol": "https",
         "ipv4": true,
-        "ipv6": true
+        "ipv6": false
     },
     {
-        "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo/",
-        "name": "RWTH Aachen University",
+        "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
+        "name": "RNL - T\u00e9cnico Lisboa",
         "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
-        "name": "National Technical University of Athens",
-        "description": "",
-        "country-code": "GR",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.ntua.gr/pub/linux/gentoo/",
-        "name": "National Technical University of Athens",
-        "description": "",
-        "country-code": "GR",
+        "country-code": "PT",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
@@ -621,29 +819,101 @@
         "ipv6": true
     },
     {
-        "url": "http://ftp.snt.utwente.nl/pub/os/linux/gentoo",
-        "name": "Universiteit Twente",
+        "url": "https://gentoo-mirror.alexxy.name/",
+        "name": "Alexxy.name",
         "description": "",
-        "country-code": "NL",
+        "country-code": "RU",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "ftp://ftp.snt.utwente.nl/pub/os/linux/gentoo",
-        "name": "Universiteit Twente",
+        "url": "https://gentoo.c3sl.ufpr.br/",
+        "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
-        "country-code": "NL",
-        "protocol": "ftp",
+        "country-code": "BR",
+        "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "rsync://ftp.snt.utwente.nl/gentoo",
-        "name": "Universiteit Twente",
+        "url": "https://gentoo.osuosl.org/",
+        "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
         "description": "",
-        "country-code": "NL",
-        "protocol": "rsync",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
+        "name": "Ruhr-Universit\u00e4t Bochum",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.bytemark.co.uk/gentoo/",
+        "name": "Bytemark Hosting",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
+        "name": "University of Waterloo",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.dkm.cz/gentoo/",
+        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
+        "name": "1&1 Internet SE",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirror.isoc.org.il/pub/gentoo/",
+        "name": "Hamakor FOSS Society",
+        "description": "",
+        "country-code": "IL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: Frankfurt)",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
@@ -657,17 +927,170 @@
         "ipv6": true
     },
     {
-        "url": "http://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: Amsterdam)",
+        "url": "https://mirror.mdfnet.se/gentoo",
+        "name": "mdfnet.se",
         "description": "",
-        "country-code": "NL",
+        "country-code": "SE",
         "protocol": "http",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "rsync://mirror.leaseweb.com/gentoo/",
-        "name": "LeaseWeb (Anycast: Amsterdam)",
+        "url": "https://mirror.netcologne.de/gentoo/",
+        "name": "Netcologne",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirror.ps.kz/gentoo/pub",
+        "name": "Neo Lab's",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.wheel.sk/gentoo",
+        "name": "Wheel.sk",
+        "description": "",
+        "country-code": "SK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirror.yandex.ru/gentoo-distfiles/",
+        "name": "Yandex.ru",
+        "description": "",
+        "country-code": "RU",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirrors.163.com/gentoo/",
+        "name": "Netease.com, Inc.",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.gethosted.online/gentoo",
+        "name": "Get Hosted online",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.rit.edu/gentoo/",
+        "name": "Rochester Institute of Technology",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
+        "name": "soeasyto.com",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
+        "name": "Tsinghua University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
+        "name": "The UK Mirror Service",
+        "description": "",
+        "country-code": "UK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://ftp-stud.hs-esslingen.de/gentoo/",
+        "name": "University of Applied Sciences, Esslingen",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://ftp.fau.de/gentoo",
+        "name": "Uni Erlangen-N\u00fcrnberg",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo/",
+        "name": "Masaryk University Brno",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo/",
+        "name": "RWTH Aachen University",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
+        "name": "Internet Initiative Japan",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://ftp.linux.org.tr/gentoo-distfiles/",
+        "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
+        "description": "",
+        "country-code": "TR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
+        "name": "RNL - T\u00e9cnico Lisboa",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://ftp.snt.utwente.nl/gentoo",
+        "name": "Universiteit Twente",
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
@@ -684,193 +1107,31 @@
         "ipv6": true
     },
     {
-        "url": "http://ftp.vectranet.pl/gentoo/",
-        "name": "Vectranet",
+        "url": "rsync://gentoo.bloodhost.ru/gentoo-distfiles",
+        "name": "Bloodhost.ru",
         "description": "",
-        "country-code": "PL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.vectranet.pl/gentoo/",
-        "name": "Vectranet",
-        "description": "",
-        "country-code": "PL",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.dei.uc.pt/pub/linux/gentoo/",
-        "name": "University of Coimbra",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.dei.uc.pt/pub/linux/gentoo/",
-        "name": "University of Coimbra",
-        "description": "",
-        "country-code": "PT",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.xservers.ro/gentoo/",
-        "name": "xservers.ro Gazduire Web",
-        "description": "",
-        "country-code": "RO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.romnet.org/gentoo/",
-        "name": "Romanian Organization Network",
-        "description": "",
-        "country-code": "RO",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://mirror.mdfnet.se/gentoo",
-        "name": "mdfnet.se",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://mirror.mdfnet.se/gentoo",
-        "name": "mdfnet.se",
-        "description": "",
-        "country-code": "SE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://mirror.wheel.sk/gentoo",
-        "name": "Wheel.sk",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.wheel.sk/gentoo",
-        "name": "Wheel.sk",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://tux.rainside.sk/gentoo/",
-        "name": "Rainside.sk",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "ftp://tux.rainside.sk/gentoo/",
-        "name": "Rainside.sk",
-        "description": "",
-        "country-code": "SK",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://ftp.linux.org.tr/gentoo/",
-        "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
-        "description": "",
-        "country-code": "TR",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://ftp.linux.org.tr/gentoo-distfiles/",
-        "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
-        "description": "",
-        "country-code": "TR",
+        "country-code": "RU",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false
     },
     {
-        "url": "ftp://mirror.bytemark.co.uk/gentoo/",
-        "name": "Bytemark Hosting",
+        "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
+        "name": "C3SL, Federal University of Paran\u00e1",
         "description": "",
-        "country-code": "UK",
-        "protocol": "ftp",
+        "country-code": "BR",
+        "protocol": "rsync",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "https://mirror.bytemark.co.uk/gentoo/",
-        "name": "Bytemark Hosting",
+        "url": "rsync://gentoo.gossamerhost.com/gentoo-distfiles/",
+        "name": "Gossamer Threads",
         "description": "",
-        "country-code": "UK",
-        "protocol": "http",
+        "country-code": "CA",
+        "protocol": "rsync",
         "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://mirror.bytemark.co.uk/gentoo/",
-        "name": "Bytemark Hosting",
-        "description": "",
-        "country-code": "UK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
+        "ipv6": false
     },
     {
         "url": "rsync://mirror.bytemark.co.uk/gentoo/",
@@ -882,56 +1143,92 @@
         "ipv6": true
     },
     {
-        "url": "ftp://mirrors.gethosted.online/gentoo",
-        "name": "Get Hosted online",
+        "url": "rsync://mirror.dkm.cz/gentoo/",
+        "name": "UPC \u010cesk\u00e1 republika, a.s.",
         "description": "",
-        "country-code": "UK",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirrors.gethosted.online/gentoo",
-        "name": "Get Hosted online",
-        "description": "",
-        "country-code": "UK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.gethosted.online/gentoo",
-        "name": "Get Hosted online",
-        "description": "",
-        "country-code": "UK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
-        "name": "The UK Mirror Service",
-        "description": "",
-        "country-code": "UK",
-        "protocol": "http",
+        "country-code": "CZ",
+        "protocol": "rsync",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org/",
-        "name": "The UK Mirror Service",
+        "url": "rsync://mirror.eu.oneandone.net/gentoo/",
+        "name": "1&1 Internet SE",
         "description": "",
-        "country-code": "UK",
-        "protocol": "http",
+        "country-code": "DE",
+        "protocol": "rsync",
         "ipv4": true,
         "ipv6": true
     },
     {
-        "url": "ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/",
-        "name": "The UK Mirror Service",
+        "url": "rsync://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
         "description": "",
-        "country-code": "UK",
-        "protocol": "ftp",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: Frankfurt)",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://mirror.leaseweb.com/gentoo/",
+        "name": "LeaseWeb (Anycast: Amsterdam)",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://mirror.netcologne.de/gentoo/",
+        "name": "Netcologne",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": true
+    },
+    {
+        "url": "rsync://mirror.ps.kz/gentoo",
+        "name": "Neo Lab's",
+        "description": "",
+        "country-code": "KZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.rit.edu/gentoo/",
+        "name": "Rochester Institute of Technology",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://mirrors.tera-byte.com/gentoo",
+        "name": "Tera-byte Dot Com Inc",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "rsync://rsync.gtlib.gatech.edu/gentoo",
+        "name": "Georgia Tech",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
         "ipv4": true,
         "ipv6": true
     },
@@ -943,302 +1240,5 @@
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.swin.edu.au/gentoo",
-        "name": "Swinburne University of Technology",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.swin.edu.au/gentoo",
-        "name": "Swinburne University of Technology",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://mirrors.163.com/gentoo/",
-        "name": "Netease.com, Inc.",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirrors.163.com/gentoo/",
-        "name": "Netease.com, Inc.",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
-        "name": "Tsinghua University",
-        "description": "",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.aditsu.net:8000/",
-        "name": "aditsu.net",
-        "description": "",
-        "country-code": "HK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
-        "name": "Internet Initiative Japan",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.iij.ad.jp/pub/linux/gentoo/",
-        "name": "Internet Initiative Japan",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.iij.ad.jp/pub/linux/gentoo/",
-        "name": "Internet Initiative Japan",
-        "description": "",
-        "country-code": "JP",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://mirror.rise.ph/gentoo",
-        "name": "RISE",
-        "description": "",
-        "country-code": "PH",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.rise.ph/gentoo",
-        "name": "RISE",
-        "description": "",
-        "country-code": "PH",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.kaist.ac.kr/pub/gentoo/",
-        "name": "KAIST",
-        "description": "",
-        "country-code": "KR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "ftp://ftp.kaist.ac.kr/gentoo/",
-        "name": "KAIST",
-        "description": "",
-        "country-code": "KR",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.lanet.kr/pub/gentoo/",
-        "name": "lanet.kr",
-        "description": "",
-        "country-code": "KR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://ftp.lanet.kr/pub/gentoo/",
-        "name": "lanet.kr",
-        "description": "",
-        "country-code": "KR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://ftp.lanet.kr/pub/gentoo/",
-        "name": "lanet.kr",
-        "description": "",
-        "country-code": "KR",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://ftp.daum.net/gentoo/",
-        "name": "Daum Communications Corp",
-        "description": "",
-        "country-code": "KR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirror.yandex.ru/gentoo-distfiles/",
-        "name": "Yandex.ru",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://mirror.yandex.ru/gentoo-distfiles/",
-        "name": "Yandex.ru",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "ftp://mirror.yandex.ru/gentoo-distfiles/",
-        "name": "Yandex.ru",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "https://gentoo-mirror.alexxy.name/",
-        "name": "Alexxy.name",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo-mirror.alexxy.name/",
-        "name": "Alexxy.name",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": true
-    },
-    {
-        "url": "http://gentoo.bloodhost.ru/",
-        "name": "Bloodhost.ru",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "ftp://gentoo.bloodhost.ru/",
-        "name": "Bloodhost.ru",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://gentoo.bloodhost.ru/gentoo-distfiles",
-        "name": "Bloodhost.ru",
-        "description": "",
-        "country-code": "RU",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://ftp.twaren.net/Linux/Gentoo/",
-        "name": "National Center for High-Performance Computing",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "ftp://ftp.twaren.net/Linux/Gentoo/",
-        "name": "National Center for High-Performance Computing",
-        "description": "",
-        "country-code": "TW",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirror.isoc.org.il/pub/gentoo/",
-        "name": "Hamakor FOSS Society",
-        "description": "",
-        "country-code": "IL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.isoc.org.il/pub/gentoo/",
-        "name": "Hamakor FOSS Society",
-        "description": "",
-        "country-code": "IL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirror.ps.kz/gentoo/pub",
-        "name": "Neo Lab's",
-        "description": "",
-        "country-code": "KZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "http://mirror.ps.kz/gentoo/pub",
-        "name": "Neo Lab's",
-        "description": "",
-        "country-code": "KZ",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "ftp://mirror.ps.kz/gentoo/pub",
-        "name": "Neo Lab's",
-        "description": "",
-        "country-code": "KZ",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "rsync://mirror.ps.kz/gentoo",
-        "name": "Neo Lab's",
-        "description": "",
-        "country-code": "KZ",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false
     }
 ]

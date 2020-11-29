@@ -1,45 +1,7 @@
 [
     {
-        "url": "https://mirrors.zju.edu.cn/gentoo",
-        "name": "ZJU",
-        "description": "Mirror site provided by Zhe Jiang University",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirrors.ustc.edu.cn/gentoo",
-        "name": "USTC",
-        "description": "Mirror site provided by University of Science and Technology of China",
-        "country-code": "CN",
-        "protocol": "http",
-        "full": false,
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
-        "name": "SJTU",
-        "description": "Mirror site provided by Shanghai Jiao Tong University",
-        "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirror.bit.edu.cn/gentoo",
-        "name": "BIT",
-        "description": "Mirror site provided by Beijing Inistitute of Technology",
-        "country-code": "CN",
-        "protocol": "http",
-        "full": false,
-        "ipv4": true,
-        "ipv6": false
-    },
-    {
-        "url": "https://mirrors.sohu.com/gentoo",
-        "name": "sohu",
+        "url": "http://mirrors.neusoft.edu.cn/gentoo",
+        "name": "neusoft",
         "country-code": "CN",
         "protocol": "http",
         "description": "",
@@ -56,11 +18,49 @@
         "ipv6": false
     },
     {
+        "url": "https://mirror.bit.edu.cn/gentoo",
+        "name": "BIT",
+        "description": "Mirror site provided by Beijing Inistitute of Technology",
+        "country-code": "CN",
+        "protocol": "http",
+        "full": false,
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
         "url": "https://mirror.lzu.edu.cn/gentoo",
         "name": "LZU",
         "description": "Mirror site provided by Lan Zhou University",
         "country-code": "CN",
         "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
+        "name": "SJTU",
+        "description": "Mirror site provided by Shanghai Jiao Tong University",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.sohu.com/gentoo",
+        "name": "sohu",
+        "country-code": "CN",
+        "protocol": "http",
+        "description": "",
+        "ipv4": true,
+        "ipv6": false
+    },
+    {
+        "url": "https://mirrors.ustc.edu.cn/gentoo",
+        "name": "USTC",
+        "description": "Mirror site provided by University of Science and Technology of China",
+        "country-code": "CN",
+        "protocol": "http",
+        "full": false,
         "ipv4": true,
         "ipv6": false
     },
@@ -74,11 +74,11 @@
         "ipv6": false
     },
     {
-        "url": "http://mirrors.neusoft.edu.cn/gentoo",
-        "name": "neusoft",
+        "url": "https://mirrors.zju.edu.cn/gentoo",
+        "name": "ZJU",
+        "description": "Mirror site provided by Zhe Jiang University",
         "country-code": "CN",
         "protocol": "http",
-        "description": "",
         "ipv4": true,
         "ipv6": false
     }
