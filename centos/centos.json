@@ -220,6 +220,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://centos.exabytes.com.my/main/",
+        "name": "Exabytes Network Sdn. Bhd",
+        "description": "",
+        "country-code": "MY",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://centos.excellmedia.net/",
         "name": "Excell Media Pvt. Ltd.",
         "description": "",
@@ -370,6 +380,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://centos.mirror.angkasa.id/centos/",
+        "name": "PT. Angkasa Komunikasi Global Utama",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://centos.mirror.ate.info/",
         "name": "Avenir Telematique SAS",
         "description": "",
@@ -440,6 +460,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://centos.mirror.far.fi/",
+        "name": "Finnish Administrators Reunited",
+        "description": "",
+        "country-code": "FI",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://centos.mirror.fr.planethoster.net/",
         "name": "PlanetHoster France",
         "description": "",
@@ -470,6 +500,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://centos.mirror.hostinginside.com/",
+        "name": "HostingInside LTD",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://centos.mirror.iphh.net/CentOS/",
         "name": "IPHH Internet Port Hamburg GmbH",
         "description": "",
@@ -494,16 +534,6 @@
         "name": "Liquid Telecom",
         "description": "",
         "country-code": "KE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://centos.mirror.liteserver.nl/",
-        "name": "LiteServer",
-        "description": "",
-        "country-code": "NL",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -720,6 +750,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://centos.mirrors.proxad.net/",
+        "name": "ftp.free.fr",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://centos.mirrors.psw.services/centos/",
         "name": "PSW Group",
         "description": "",
@@ -764,6 +804,16 @@
         "name": "Nethub Online Limited",
         "description": "",
         "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://centos.netonboard.com/centos/",
+        "name": "Net Onboard Sdn Bhd",
+        "description": "",
+        "country-code": "MY",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -844,6 +894,16 @@
         "name": "LiveNet Sp. z o.o.",
         "description": "",
         "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://centos.spd.co.il/",
+        "name": "SPD Hosting LTD",
+        "description": "",
+        "country-code": "IL",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -1070,6 +1130,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://download.nus.edu.sg/mirror/centos/",
+        "name": "National University of Singapore",
+        "description": "",
+        "country-code": "SG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://espejito.fder.edu.uy/centos/",
         "name": "Facultad de Derecho, UdelaR",
         "description": "",
@@ -1094,6 +1164,16 @@
         "name": "Rpmfind",
         "description": "",
         "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp-srv2.kddilabs.jp/Linux/packages/CentOS/",
+        "name": "KDDI R&D Laboratories Inc.",
+        "description": "",
+        "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -1380,6 +1460,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://ftp.kaist.ac.kr/CentOS/",
+        "name": "KAIST",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://ftp.klid.dk/ftp/centos/",
         "name": "KLID",
         "description": "",
@@ -1520,6 +1610,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://ftp.ps.pl/pub/Linux/CentOS/",
+        "name": "Szczecin University of Technology",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://ftp.rediris.es/mirror/CentOS/",
         "name": "RedIRIS, Spanish Research and Education Network",
         "description": "",
@@ -1534,6 +1634,16 @@
         "name": "Rezopole",
         "description": "",
         "country-code": "FR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.riken.jp/Linux/centos/",
+        "name": "RIKEN Research Institute",
+        "description": "",
+        "country-code": "JP",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -2090,6 +2200,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.anigil.com/CentOS/",
+        "name": "anigil.com",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.aptus.co.tz/pub/centos/",
         "name": "Aptus Solutions",
         "description": "",
@@ -2212,6 +2332,16 @@
     {
         "url": "http://mirror.biznetgio.com/centos/",
         "name": "PT. Biznet Gio Nusantara",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.buana.web.id/centos/",
+        "name": "BUANA dotnet by SUITEN.ID",
         "description": "",
         "country-code": "ID",
         "protocol": "http",
@@ -2610,6 +2740,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.dionipe.net/Centos/",
+        "name": "PT. Orion Cyber Internet",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.docker.ru/centos/",
         "name": "docker.ru",
         "description": "",
@@ -2910,6 +3050,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.hkt.cc/centos/",
+        "name": "Forewin Telecom Group LTD",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.horizon.vn/centos/",
         "name": "HORIZON",
         "description": "",
@@ -2974,6 +3124,16 @@
         "name": "Hostnet bv",
         "description": "",
         "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.idroot.cloud/centos/",
+        "name": "IDroot Cloud",
+        "description": "",
+        "country-code": "ID",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -3120,6 +3280,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.kakao.com/centos/",
+        "name": "Kakao Corp.",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.karneval.cz/pub/centos/",
         "name": "UPC Czech Republic",
         "description": "",
@@ -3144,6 +3314,16 @@
         "name": "Kinamo NV/SA",
         "description": "",
         "country-code": "BE",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.kku.ac.th/centos/",
+        "name": "Khon Kaen University",
+        "description": "",
+        "country-code": "TH",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -4040,6 +4220,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.slu.cz/centos/",
+        "name": "Silesian university in Opava",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.softaculous.com/centos/",
         "name": "Softaculous ltd.",
         "description": "",
@@ -4124,6 +4314,16 @@
         "name": "Teklinks",
         "description": "",
         "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.telkomuniversity.ac.id/centos/",
+        "name": "Telkom University",
+        "description": "",
+        "country-code": "ID",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -4260,6 +4460,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.unej.ac.id/centos/",
+        "name": "Computer Center, Jember University",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.unimagdalena.edu.co/centos/",
         "name": "Universidad del Magdalena",
         "description": "",
@@ -4282,6 +4492,16 @@
     {
         "url": "http://mirror.us-midwest-1.nexcess.net/CentOS/",
         "name": "Nexcess.net",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.us.oneandone.net/linux/distributions/centos/",
+        "name": "1&1 Internet Inc.",
         "description": "",
         "country-code": "US",
         "protocol": "http",
@@ -4314,6 +4534,16 @@
         "name": "IRTIC/Universidad de Valencia",
         "description": "",
         "country-code": "ES",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.vanehost.com/centos/",
+        "name": "Vane Host Limited",
+        "description": "",
+        "country-code": "BD",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -4600,6 +4830,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror2.totbb.net/centos/",
+        "name": "TOT Public Company Limited",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirrors.163.com/centos/",
         "name": "NetEase",
         "description": "",
@@ -4650,6 +4890,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirrors.bangmod.cloud/centos/",
+        "name": "Bangmod.Cloud",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirrors.bfsu.edu.cn/centos/",
         "name": "Beijing Foreign Studies University",
         "description": "",
@@ -4684,6 +4934,16 @@
         "name": "Portland State Univ.",
         "description": "",
         "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.ch-center.com/centos/",
+        "name": "CH-Center Hosting",
+        "description": "",
+        "country-code": "RO",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -4754,6 +5014,16 @@
         "name": "Daticum",
         "description": "",
         "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.dotsrc.org/centos/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -4855,6 +5125,26 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.icidc.com/centos/",
+        "name": "ICIDC NETWORK",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.icidc.com/centos/",
+        "name": "ICIDC NETWORK",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "https",
         "ipv4": true,
         "ipv6": false,
         "official-mirror": true
@@ -5000,16 +5290,6 @@
         "official-mirror": true
     },
     {
-        "url": "http://mirrors.netix.net/centos/",
-        "name": "Netix",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
         "url": "http://mirrors.neusoft.edu.cn/centos/",
         "name": "Dalian Neusoft University of Information",
         "description": "",
@@ -5032,6 +5312,16 @@
     {
         "url": "http://mirrors.nju.edu.cn/centos/",
         "name": "Nanjing University",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.njupt.edu.cn/centos/",
+        "name": "Nanjing University of Posts and Telecommunications",
         "description": "",
         "country-code": "CN",
         "protocol": "http",
@@ -5360,6 +5650,26 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirrors.vhost.vn/centos/",
+        "name": "VHost",
+        "description": "",
+        "country-code": "VN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.viethosting.com/centos/",
+        "name": "VietHosting.vn",
+        "description": "",
+        "country-code": "VN",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirrors.xgroup.si/CentOS/",
         "name": "xGroup",
         "description": "",
@@ -5400,6 +5710,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirrors.xtom.nl/centos/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://muug.ca/mirror/centos/",
         "name": "Manitoba Unix User Group",
         "description": "",
@@ -5424,6 +5744,16 @@
         "name": "Clouvider",
         "description": "",
         "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ossm.utm.my/centos/",
+        "name": "Universiti Teknologi Malaysia",
+        "description": "",
+        "country-code": "MY",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -5460,6 +5790,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://rep-centos-il.upress.io/",
+        "name": "uPress Inc",
+        "description": "",
+        "country-code": "IL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://repo.boun.edu.tr/centos/",
         "name": "Bogazici University",
         "description": "",
@@ -5484,6 +5824,16 @@
         "name": "Dakota State University",
         "description": "",
         "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://repo.ifca.es/centos/",
+        "name": "IFCA Advanced Computing and e-Science Group",
+        "description": "",
+        "country-code": "ES",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -5900,20 +6250,20 @@
         "official-mirror": true
     },
     {
-        "url": "https://centos.mirror.liquidtelecom.com/",
-        "name": "Liquid Telecom",
+        "url": "https://centos.mirror.hostinginside.com/",
+        "name": "HostingInside LTD",
         "description": "",
-        "country-code": "KE",
+        "country-code": "TW",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "https://centos.mirror.liteserver.nl/",
-        "name": "LiteServer",
+        "url": "https://centos.mirror.liquidtelecom.com/",
+        "name": "Liquid Telecom",
         "description": "",
-        "country-code": "NL",
+        "country-code": "KE",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -6150,6 +6500,16 @@
         "official-mirror": true
     },
     {
+        "url": "https://ftp.ps.pl/pub/Linux/CentOS/",
+        "name": "Szczecin University of Technology",
+        "description": "",
+        "country-code": "PL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "https://ftp.rediris.es/mirror/CentOS/",
         "name": "RedIRIS, Spanish Research and Education Network",
         "description": "",
@@ -6374,6 +6734,16 @@
         "name": "Leaseweb",
         "description": "",
         "country-code": "NL",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.anigil.com/CentOS/",
+        "name": "anigil.com",
+        "description": "",
+        "country-code": "KR",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -6750,6 +7120,16 @@
         "official-mirror": true
     },
     {
+        "url": "https://mirror.hkt.cc/centos/",
+        "name": "Forewin Telecom Group LTD",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "https://mirror.hoster.kz/centos/",
         "name": "LLP Kompaniya Hoster.KZ",
         "description": "",
@@ -6834,6 +7214,16 @@
         "name": "UPC Czech Republic",
         "description": "",
         "country-code": "CZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.kku.ac.th/centos/",
+        "name": "Khon Kaen University",
+        "description": "",
+        "country-code": "TH",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -7210,10 +7600,30 @@
         "official-mirror": true
     },
     {
+        "url": "https://mirror.slu.cz/centos/",
+        "name": "Silesian university in Opava",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "https://mirror.steadfastnet.com/centos/",
         "name": "Steadfast Networks",
         "description": "",
         "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.telkomuniversity.ac.id/centos/",
+        "name": "Telkom University",
+        "description": "",
+        "country-code": "ID",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -7304,6 +7714,16 @@
         "name": "Universidad T\u00e9cnica de Ambato, Tungurahua",
         "description": "",
         "country-code": "EC",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.vanehost.com/centos/",
+        "name": "Vane Host Limited",
+        "description": "",
+        "country-code": "BD",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -7440,6 +7860,16 @@
         "official-mirror": true
     },
     {
+        "url": "https://mirrors.bangmod.cloud/centos/",
+        "name": "Bangmod.Cloud",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "https://mirrors.bfsu.edu.cn/centos/",
         "name": "Beijing Foreign Studies University",
         "description": "",
@@ -7504,6 +7934,16 @@
         "name": "Daticum",
         "description": "",
         "country-code": "BG",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.dotsrc.org/centos/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -7634,6 +8074,16 @@
         "name": "Neterra LTD",
         "description": "",
         "country-code": "BG",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.njupt.edu.cn/centos/",
+        "name": "Nanjing University of Posts and Telecommunications",
+        "description": "",
+        "country-code": "CN",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -7910,6 +8360,16 @@
         "official-mirror": true
     },
     {
+        "url": "https://repo.ifca.es/centos/",
+        "name": "IFCA Advanced Computing and e-Science Group",
+        "description": "",
+        "country-code": "ES",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "https://repo.inara.pk/centos/",
         "name": "Inara Technologies (Pvt) Ltd.",
         "description": "",
@@ -8100,6 +8560,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://centos.mirror.angkasa.id/centos/",
+        "name": "PT. Angkasa Komunikasi Global Utama",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://centos.mirror.ate.info/centos/",
         "name": "Avenir Telematique SAS",
         "description": "",
@@ -8120,6 +8590,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://centos.mirror.hostinginside.com/CentOS/",
+        "name": "HostingInside LTD",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://centos.mirror.iweb.ca/centos/",
         "name": "iWeb Technologies Inc.",
         "description": "",
@@ -8134,16 +8614,6 @@
         "name": "Liquid Telecom",
         "description": "",
         "country-code": "KE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://centos.mirror.liteserver.nl/centos/",
-        "name": "LiteServer",
-        "description": "",
-        "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -8420,6 +8890,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://ftp.kaist.ac.kr/CentOS/",
+        "name": "KAIST",
+        "description": "",
+        "country-code": "KR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://ftp.linux.org.tr/centos/",
         "name": "Turkish Linux User's Association",
         "description": "",
@@ -8534,6 +9014,16 @@
         "name": "Rezopole",
         "description": "",
         "country-code": "FR",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://ftp.riken.jp/centos/",
+        "name": "RIKEN Research Institute",
+        "description": "",
+        "country-code": "JP",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -8854,6 +9344,16 @@
         "name": "BestHosting",
         "description": "",
         "country-code": "UA",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.buana.web.id/centos/",
+        "name": "BUANA dotnet by SUITEN.ID",
+        "description": "",
+        "country-code": "ID",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -9210,6 +9710,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://mirror.idroot.cloud/centos/",
+        "name": "IDroot Cloud",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://mirror.ilumno.com/centos/",
         "name": "Ilumno Technologies",
         "description": "",
@@ -9284,6 +9794,16 @@
         "name": "keystealth.org",
         "description": "",
         "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.kku.ac.th/centos/",
+        "name": "Khon Kaen University",
+        "description": "",
+        "country-code": "TH",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -9650,6 +10170,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://mirror.slu.cz/centos/",
+        "name": "Silesian university in Opava",
+        "description": "",
+        "country-code": "CZ",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://mirror.steadfastnet.com/centos/",
         "name": "Steadfast Networks",
         "description": "",
@@ -9770,6 +10300,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://mirror.us.oneandone.net/centos/",
+        "name": "1&1 Internet Inc.",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://mirror.usenet.farm/centos/",
         "name": "Usenet.Farm",
         "description": "",
@@ -9794,6 +10334,16 @@
         "name": "IRTIC/Universidad de Valencia",
         "description": "",
         "country-code": "ES",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.vanehost.com/centos/",
+        "name": "Vane Host Limited",
+        "description": "",
+        "country-code": "BD",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -9910,6 +10460,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://mirror2.totbb.net/centos/",
+        "name": "TOT Public Company Limited",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://mirrors.advancedhosters.com/centos/",
         "name": "AdvancedHosters",
         "description": "",
@@ -9954,6 +10514,16 @@
         "name": "Daticum",
         "description": "",
         "country-code": "BG",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.dotsrc.org/centos/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -10092,16 +10662,6 @@
     {
         "url": "rsync://mirrors.neterra.net/centos/",
         "name": "Neterra LTD",
-        "description": "",
-        "country-code": "BG",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirrors.netix.net/centos/",
-        "name": "Netix",
         "description": "",
         "country-code": "BG",
         "protocol": "rsync",
@@ -10310,6 +10870,16 @@
         "official-mirror": true
     },
     {
+        "url": "rsync://mirrors.viethosting.com/centos/",
+        "name": "VietHosting.vn",
+        "description": "",
+        "country-code": "VN",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "rsync://mirrors.xmission.com/centos/",
         "name": "XMission",
         "description": "",
@@ -10344,6 +10914,16 @@
         "name": "Quantum Mirror",
         "description": "",
         "country-code": "HU",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://repo.ifca.es/centos/",
+        "name": "IFCA Advanced Computing and e-Science Group",
+        "description": "",
+        "country-code": "ES",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -10504,6 +11084,16 @@
         "name": "TU Chemnitz",
         "description": "",
         "country-code": "DE",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://rsync.kddilabs.jp/centos/",
+        "name": "KDDI R&D Laboratories Inc.",
+        "description": "",
+        "country-code": "JP",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,

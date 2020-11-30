@@ -50,16 +50,6 @@
         "official-mirror": true
     },
     {
-        "url": "http://centos-altarch.mirror.liteserver.nl/",
-        "name": "LiteServer",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
         "url": "http://centos-altarch.reloumirrors.net/",
         "name": "RelouFR and Hivane networks",
         "description": "",
@@ -620,6 +610,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirrors.bangmod.cloud/centos-altarch/",
+        "name": "Bangmod.Cloud",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirrors.bfsu.edu.cn/centos-altarch/",
         "name": "Beijing Foreign Studies University",
         "description": "",
@@ -644,6 +644,16 @@
         "name": "Daticum",
         "description": "",
         "country-code": "BG",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.dotsrc.org/centos-altarch/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -740,6 +750,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirrors.xtom.nl/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "NL",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://quantum-mirror.hu/mirrors/pub/centos-altarch/",
         "name": "Quantum Mirror",
         "description": "",
@@ -794,16 +814,6 @@
         "name": "Liquid Telecom",
         "description": "",
         "country-code": "KE",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://centos-altarch.mirror.liteserver.nl/",
-        "name": "LiteServer",
-        "description": "",
-        "country-code": "NL",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -1110,6 +1120,16 @@
         "official-mirror": true
     },
     {
+        "url": "https://mirrors.bangmod.cloud/centos-altarch/",
+        "name": "Bangmod.Cloud",
+        "description": "",
+        "country-code": "TH",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "https://mirrors.bfsu.edu.cn/centos-altarch/",
         "name": "Beijing Foreign Studies University",
         "description": "",
@@ -1124,6 +1144,16 @@
         "name": "Daticum",
         "description": "",
         "country-code": "BG",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.dotsrc.org/centos-altarch/",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
         "protocol": "https",
         "ipv4": true,
         "ipv6": false,
@@ -1224,16 +1254,6 @@
         "name": "Liquid Telecom",
         "description": "",
         "country-code": "KE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://centos-altarch.mirror.liteserver.nl/centos-altarch/",
-        "name": "LiteServer",
-        "description": "",
-        "country-code": "NL",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,
@@ -1624,6 +1644,16 @@
         "name": "Daticum",
         "description": "",
         "country-code": "BG",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.dotsrc.org/centos-altarch",
+        "name": "dotsrc.org",
+        "description": "",
+        "country-code": "DK",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,

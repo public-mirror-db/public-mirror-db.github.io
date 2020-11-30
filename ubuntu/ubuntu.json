@@ -1010,16 +1010,6 @@
         "official-mirror": true
     },
     {
-        "url": "ftp://mirror.as24220.net/pub/ubuntu-archive/",
-        "name": "Hostcentral",
-        "description": "",
-        "country-code": "AU",
-        "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
         "url": "ftp://mirror.as24220.net/pub/ubuntu/",
         "name": "Hostcentral",
         "description": "",
@@ -3814,16 +3804,6 @@
         "name": "Kamatera Inc.",
         "description": "",
         "country-code": "HK",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.as24220.net/pub/ubuntu-archive/",
-        "name": "Hostcentral",
-        "description": "",
-        "country-code": "AU",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
@@ -9224,16 +9204,6 @@
         "name": "University of Arizona",
         "description": "",
         "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.as24220.net/ubuntu-archive/",
-        "name": "Hostcentral",
-        "description": "",
-        "country-code": "AU",
         "protocol": "rsync",
         "ipv4": true,
         "ipv6": false,

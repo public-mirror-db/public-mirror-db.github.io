@@ -2330,6 +2330,16 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.cov.ukservers.com/debian/",
+        "name": "",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.csclub.uwaterloo.ca/debian/",
         "name": "",
         "description": "",

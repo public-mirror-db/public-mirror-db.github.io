@@ -70,6 +70,26 @@
         "official-mirror": true
     },
     {
+        "url": "http://ftp.tw.debian.org/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://kebo.pens.ac.id/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.anigil.com/debian-multimedia/",
         "name": "",
         "description": "",
@@ -114,6 +134,16 @@
         "name": "",
         "description": "",
         "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.dotsrc.org/debian-multimedia/",
+        "name": "",
+        "description": "",
+        "country-code": "DK",
         "protocol": "http",
         "ipv4": true,
         "ipv6": false,
