@@ -1,0 +1,192 @@
+[
+    {
+        "url": "ftp://aleph.gutenberg.org/",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror.  Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://eremita.di.uminho.pt/pub/gutenberg/",
+        "name": "Universidade do Minho",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/",
+        "name": "iBiblio",
+        "description": "Main Project Gutenberg FTP Site.",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://ftp.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
+        "name": "UK Mirror Service",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://gutenberg.pglaf.org",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://gutenberg.readingroo.ms/gutenberg/",
+        "name": "Project Gutenberg",
+        "description": "Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "ftp://mirrors.xmission.com/gutenberg/",
+        "name": "Xmission ISP - FTP",
+        "description": "",
+        "country-code": "US",
+        "protocol": "ftp",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "gopher://gutenberg.pglaf.org:70",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "gopher",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://aleph.gutenberg.org/",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror.  Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://eremita.di.uminho.pt/gutenberg/",
+        "name": "Universidade do Minho",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://gutenberg.readingroo.ms/",
+        "name": "Project Gutenberg",
+        "description": "Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.csclub.uwaterloo.ca/gutenberg/",
+        "name": "University of Waterloo Computer Science Club",
+        "description": "",
+        "country-code": "CA",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.xmission.com/gutenberg/",
+        "name": "Xmission ISP - HTTP",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://www.gutenberg.org/dirs/",
+        "name": "iBiblio",
+        "description": "Main Project Gutenberg Collection Site",
+        "country-code": "US",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
+        "name": "UK Mirror Service",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "http",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://gutenberg.pglaf.org/",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "https",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://aleph.gutenberg.org/gutenberg/",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror.  Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://gutenberg.pglaf.org/gutenberg",
+        "name": "Project Gutenberg",
+        "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+        "country-code": "US",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://rsync.mirrorservice.org/gutenberg/",
+        "name": "UK Mirror Service",
+        "description": "",
+        "country-code": "GB",
+        "protocol": "rsync",
+        "ipv4": true,
+        "ipv6": false,
+        "official-mirror": true
+    }
+]
