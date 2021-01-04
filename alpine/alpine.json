@@ -5,8 +5,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -15,8 +13,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -25,8 +21,6 @@
         "description": "",
         "country-code": "NC",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -35,8 +29,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -45,8 +37,6 @@
         "description": "",
         "country-code": "PH",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -55,8 +45,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -65,8 +53,14 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://alpine.ccns.ncku.edu.tw",
+        "name": "ccns",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -75,8 +69,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -85,8 +77,6 @@
         "description": "",
         "country-code": "FI",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -95,8 +85,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -105,8 +93,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -115,8 +101,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -125,8 +109,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -135,8 +117,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -145,8 +125,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -155,8 +133,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -165,8 +141,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -175,8 +149,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -185,8 +157,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -195,8 +165,6 @@
         "description": "",
         "country-code": "SG",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -205,8 +173,14 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://foobar.turbo.net.id/alpine/",
+        "name": "turbo.net.id",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -215,8 +189,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -225,8 +197,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -235,8 +205,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -245,8 +213,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -255,8 +221,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -265,8 +229,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -275,8 +237,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -285,8 +245,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -295,8 +253,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -305,8 +261,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -315,8 +269,6 @@
         "description": "",
         "country-code": "MD",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -325,8 +277,6 @@
         "description": "",
         "country-code": "NC",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -335,8 +285,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -345,8 +293,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -355,8 +301,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -365,8 +309,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -375,8 +317,6 @@
         "description": "",
         "country-code": "PA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -385,8 +325,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -395,8 +333,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -405,8 +341,6 @@
         "description": "",
         "country-code": "PH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -415,8 +349,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -425,8 +357,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -435,8 +365,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -445,8 +373,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -455,8 +381,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -465,8 +389,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -475,8 +397,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -485,8 +405,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -495,8 +413,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -505,8 +421,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -515,8 +429,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -525,18 +437,14 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "http://pkg.adfinis-sygroup.ch/alpine/",
-        "name": "Adfinis SyGroup",
+        "url": "http://pkg.adfinis.com/alpine/",
+        "name": "Adfinis",
         "description": "",
         "country-code": "CH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -545,8 +453,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -555,8 +461,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -565,8 +469,6 @@
         "description": "",
         "country-code": "IS",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -575,8 +477,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -585,8 +485,14 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://alpine.ccns.ncku.edu.tw",
+        "name": "ccns",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "https",
         "official-mirror": true
     },
     {
@@ -595,8 +501,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -605,8 +509,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -615,8 +517,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -625,8 +525,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -635,8 +533,6 @@
         "description": "",
         "country-code": "SG",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -645,8 +541,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -655,8 +549,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -665,8 +557,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -675,8 +565,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -685,8 +573,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -695,8 +581,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -705,8 +589,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -715,8 +597,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -725,8 +605,6 @@
         "description": "",
         "country-code": "MD",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -735,8 +613,6 @@
         "description": "",
         "country-code": "NC",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -745,8 +621,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -755,8 +629,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -765,8 +637,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -775,8 +645,6 @@
         "description": "",
         "country-code": "PA",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -785,8 +653,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -795,8 +661,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -805,8 +669,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -815,8 +677,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -825,8 +685,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -835,8 +693,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -845,8 +701,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -855,8 +709,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -865,8 +717,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -875,8 +725,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -885,18 +733,14 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "https://pkg.adfinis-sygroup.ch/alpine/",
-        "name": "Adfinis SyGroup",
+        "url": "https://pkg.adfinis.com/alpine/",
+        "name": "Adfinis",
         "description": "",
         "country-code": "CH",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -905,8 +749,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -915,8 +757,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -925,8 +765,6 @@
         "description": "",
         "country-code": "IS",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -935,8 +773,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -945,8 +781,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -955,8 +789,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -965,8 +797,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -975,8 +805,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -985,8 +813,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -995,8 +821,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1005,8 +829,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1015,8 +837,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1025,8 +845,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1035,8 +853,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1045,8 +861,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1055,8 +869,6 @@
         "description": "",
         "country-code": "NC",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1065,8 +877,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1075,8 +885,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1085,8 +893,6 @@
         "description": "",
         "country-code": "PA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1095,8 +901,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1105,8 +909,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1115,8 +917,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1125,8 +925,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1135,8 +933,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1145,18 +941,14 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "rsync://pkg.adfinis-sygroup.ch/alpine/",
-        "name": "Adfinis SyGroup",
+        "url": "rsync://pkg.adfinis.com/alpine/",
+        "name": "Adfinis",
         "description": "",
         "country-code": "CH",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1165,8 +957,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1175,8 +965,6 @@
         "description": "",
         "country-code": "IS",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1185,8 +973,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     }
 ]
