@@ -5,18 +5,14 @@
         "description": "",
         "country-code": "PT",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "ftp://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
+        "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
         "description": "",
         "country-code": "DE",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -25,8 +21,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -35,8 +29,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -45,8 +37,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -55,8 +45,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -65,8 +53,6 @@
         "description": "",
         "country-code": "KR",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -75,8 +61,6 @@
         "description": "",
         "country-code": "KR",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -85,8 +69,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -95,18 +77,14 @@
         "description": "",
         "country-code": "GR",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
         "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
+        "name": "RNL - T\u00c3\u00a9cnico Lisboa",
         "description": "",
         "country-code": "PT",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -115,8 +93,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -125,8 +101,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -135,8 +109,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -145,8 +117,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -155,8 +125,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -165,8 +133,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -175,8 +141,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -185,8 +149,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -195,18 +157,14 @@
         "description": "",
         "country-code": "CA",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "ftp://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
         "description": "",
         "country-code": "CZ",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -215,8 +173,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -225,8 +181,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -235,8 +189,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -245,8 +197,6 @@
         "description": "",
         "country-code": "PH",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -255,9 +205,14 @@
         "description": "",
         "country-code": "RU",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
+    },
+    {
+        "url": "ftp://mirrors.dotsrc.org/gentoo",
+        "name": "Dotsrc.org",
+        "country-code": "US",
+        "protocol": "ftp",
+        "description": ""
     },
     {
         "url": "ftp://mirrors.gethosted.online/gentoo",
@@ -265,8 +220,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -275,8 +228,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -285,8 +236,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -295,8 +244,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -305,9 +252,14 @@
         "description": "",
         "country-code": "SK",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
+    },
+    {
+        "url": "ftp://www.mirrorservice.org/sites/distfiles.gentoo.org",
+        "name": "KU Mirror Service",
+        "country-code": "GB",
+        "protocol": "ftp",
+        "description": ""
     },
     {
         "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
@@ -315,8 +267,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -325,8 +275,6 @@
         "description": "",
         "country-code": "KR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -335,18 +283,14 @@
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
+        "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -355,8 +299,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -365,8 +307,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -375,8 +315,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -385,8 +323,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -395,8 +331,6 @@
         "description": "",
         "country-code": "KR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -405,8 +339,6 @@
         "description": "",
         "country-code": "KR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -415,18 +347,14 @@
         "description": "",
         "country-code": "GR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
         "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
+        "name": "RNL - T\u00c3\u00a9cnico Lisboa",
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -435,8 +363,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -445,8 +371,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -455,8 +379,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -465,8 +387,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -475,8 +395,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -485,8 +403,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -495,8 +411,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -505,18 +419,14 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://gentoo.c3sl.ufpr.br/",
-        "name": "C3SL, Federal University of Paran\u00e1",
+        "name": "C3SL, Federal University of Paran\u00c3\u00a1",
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -525,8 +435,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -535,8 +443,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -545,18 +451,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://gentoo.mirrors.easynews.com/linux/gentoo/",
-        "name": "Easynews NNTP Hosting",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -565,8 +459,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -575,8 +467,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -585,8 +475,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -595,8 +483,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -605,8 +491,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -615,18 +499,14 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
-        "name": "Ruhr-Universit\u00e4t Bochum",
+        "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -635,8 +515,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -645,18 +523,14 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -665,8 +539,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -675,8 +547,6 @@
         "description": "",
         "country-code": "IL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -685,8 +555,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -695,8 +563,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -705,8 +571,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -715,8 +579,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -725,8 +587,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -735,8 +595,6 @@
         "description": "",
         "country-code": "PH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -745,8 +603,6 @@
         "description": "",
         "country-code": "SK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -755,8 +611,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -765,8 +619,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -775,8 +627,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -784,10 +634,7 @@
         "name": "neusoft",
         "country-code": "CN",
         "protocol": "http",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "description": ""
     },
     {
         "url": "http://mirrors.rit.edu/gentoo/",
@@ -795,8 +642,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -805,8 +650,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -815,8 +658,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -824,10 +665,7 @@
         "name": "yun-idc",
         "country-code": "CN",
         "protocol": "http",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "description": ""
     },
     {
         "url": "http://tux.rainside.sk/gentoo/",
@@ -835,8 +673,6 @@
         "description": "",
         "country-code": "SK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -845,8 +681,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -855,8 +689,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -865,18 +697,14 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "https://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
+        "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -885,8 +713,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -895,8 +721,6 @@
         "description": "",
         "country-code": "KR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -905,18 +729,14 @@
         "description": "",
         "country-code": "TR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
+        "name": "RNL - T\u00c3\u00a9cnico Lisboa",
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -925,8 +745,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -935,18 +753,14 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
         "url": "https://gentoo.c3sl.ufpr.br/",
-        "name": "C3SL, Federal University of Paran\u00e1",
+        "name": "C3SL, Federal University of Paran\u00c3\u00a1",
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -955,18 +769,14 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
-        "name": "Ruhr-Universit\u00e4t Bochum",
+        "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -975,10 +785,7 @@
         "description": "Mirror site provided by Beijing Inistitute of Technology",
         "country-code": "CN",
         "protocol": "http",
-        "full": false,
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "full": false
     },
     {
         "url": "https://mirror.bytemark.co.uk/gentoo/",
@@ -986,8 +793,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -996,18 +801,14 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "https://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1016,8 +817,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1026,8 +825,6 @@
         "description": "",
         "country-code": "IL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1036,8 +833,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1046,8 +841,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1056,8 +849,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1065,10 +856,7 @@
         "name": "LZU",
         "description": "Mirror site provided by Lan Zhou University",
         "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "protocol": "http"
     },
     {
         "url": "https://mirror.mdfnet.se/gentoo",
@@ -1076,8 +864,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1086,8 +872,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1096,8 +880,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1106,8 +888,6 @@
         "description": "",
         "country-code": "SK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1116,8 +896,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1126,9 +904,14 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.dotsrc.org/gentoo",
+        "name": "Dotsrc.org",
+        "country-code": "US",
+        "protocol": "http",
+        "description": ""
     },
     {
         "url": "https://mirrors.gethosted.online/gentoo",
@@ -1136,8 +919,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1146,8 +927,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1155,10 +934,7 @@
         "name": "SJTU",
         "description": "Mirror site provided by Shanghai Jiao Tong University",
         "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "protocol": "http"
     },
     {
         "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
@@ -1166,8 +942,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1175,10 +949,7 @@
         "name": "sohu",
         "country-code": "CN",
         "protocol": "http",
-        "description": "",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "description": ""
     },
     {
         "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
@@ -1186,8 +957,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1196,30 +965,28 @@
         "description": "Mirror site provided by University of Science and Technology of China",
         "country-code": "CN",
         "protocol": "http",
-        "full": false,
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "full": false
     },
     {
         "url": "https://mirrors.xmu.edu.cn/gentoo",
         "name": "XMU",
         "description": "Mirror site provided by Xia Men University",
         "country-code": "CN",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "protocol": "http"
     },
     {
         "url": "https://mirrors.zju.edu.cn/gentoo",
         "name": "ZJU",
         "description": "Mirror site provided by Zhe Jiang University",
         "country-code": "CN",
+        "protocol": "http"
+    },
+    {
+        "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org",
+        "name": "KU Mirror Service",
+        "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "description": ""
     },
     {
         "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
@@ -1227,8 +994,6 @@
         "description": "",
         "country-code": "UK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1237,18 +1002,14 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "rsync://ftp.fau.de/gentoo",
-        "name": "Uni Erlangen-N\u00fcrnberg",
+        "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1257,8 +1018,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1267,8 +1026,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1277,8 +1034,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1287,18 +1042,14 @@
         "description": "",
         "country-code": "TR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-        "name": "RNL - T\u00e9cnico Lisboa",
+        "name": "RNL - T\u00c3\u00a9cnico Lisboa",
         "description": "",
         "country-code": "PT",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1307,8 +1058,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1317,8 +1066,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1327,18 +1074,14 @@
         "description": "",
         "country-code": "RU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
-        "name": "C3SL, Federal University of Paran\u00e1",
+        "name": "C3SL, Federal University of Paran\u00c3\u00a1",
         "description": "",
         "country-code": "BR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1347,8 +1090,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1357,18 +1098,14 @@
         "description": "",
         "country-code": "UK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
         "url": "rsync://mirror.dkm.cz/gentoo/",
-        "name": "UPC \u010cesk\u00e1 republika, a.s.",
+        "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
         "description": "",
         "country-code": "CZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1377,8 +1114,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1387,8 +1122,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1397,8 +1130,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1407,8 +1138,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1417,8 +1146,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1427,9 +1154,14 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.dotsrc.org/gentoo",
+        "name": "Dotsrc.org",
+        "country-code": "US",
+        "protocol": "rsync",
+        "description": ""
     },
     {
         "url": "rsync://mirrors.rit.edu/gentoo/",
@@ -1437,8 +1169,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1447,8 +1177,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1457,8 +1185,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
     },
     {
@@ -1467,8 +1193,13 @@
         "description": "",
         "country-code": "UK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": true,
         "official-mirror": true
+    },
+    {
+        "url": "rsync://www.mirrorservice.org/sites/distfiles.gentoo.org",
+        "name": "KU Mirror Service",
+        "country-code": "GB",
+        "protocol": "rsync",
+        "description": ""
     }
 ]

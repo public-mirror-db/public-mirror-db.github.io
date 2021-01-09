@@ -2240,6 +2240,14 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.dogado.de/centos/",
+        "name": "dogado GmbH",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.domainhizmetleri.com/centos/",
         "name": "DH Bilisim Teknolojileri Ltd.",
         "description": "",
@@ -2268,6 +2276,14 @@
         "name": "Easyname",
         "description": "",
         "country-code": "AT",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.edgeuno.net/centos/",
+        "name": "EdgeUNO",
+        "description": "",
+        "country-code": "CO",
         "protocol": "http",
         "official-mirror": true
     },
@@ -2884,14 +2900,6 @@
         "name": "CoLoCity",
         "description": "",
         "country-code": "BD",
-        "protocol": "http",
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.nbtelecom.com.br/centos/",
-        "name": "NB Telecom",
-        "description": "",
-        "country-code": "BR",
         "protocol": "http",
         "official-mirror": true
     },
@@ -4272,6 +4280,14 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirrors.piconets.webwerks.in/centos-mirror/",
+        "name": "PicoNets WebWerks",
+        "description": "",
+        "country-code": "IN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
         "url": "http://mirrors.pidginhost.com/centos/",
         "name": "Pidgin Host",
         "description": "",
@@ -5580,14 +5596,6 @@
         "name": "dogado GmbH",
         "description": "",
         "country-code": "DE",
-        "protocol": "http",
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.dogado.de/centos/",
-        "name": "dogado GmbH",
-        "description": "",
-        "country-code": "DE",
         "protocol": "https",
         "official-mirror": true
     },
@@ -5605,14 +5613,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "https",
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.edgeuno.net/centos/",
-        "name": "EdgeUNO",
-        "description": "",
-        "country-code": "CO",
-        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -5876,14 +5876,6 @@
         "name": "mijn.host",
         "description": "",
         "country-code": "NL",
-        "protocol": "https",
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.nbtelecom.com.br/centos/",
-        "name": "NB Telecom",
-        "description": "",
-        "country-code": "BR",
         "protocol": "https",
         "official-mirror": true
     },
@@ -6516,6 +6508,14 @@
         "name": "University of California, Irvine",
         "description": "",
         "country-code": "US",
+        "protocol": "https",
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.piconets.webwerks.in/centos-mirror/",
+        "name": "PicoNets WebWerks",
+        "description": "",
+        "country-code": "IN",
         "protocol": "https",
         "official-mirror": true
     },
@@ -7972,14 +7972,6 @@
         "name": "Leaseweb",
         "description": "",
         "country-code": "US",
-        "protocol": "rsync",
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.nbtelecom.com.br/centos/",
-        "name": "NB Telecom",
-        "description": "",
-        "country-code": "BR",
         "protocol": "rsync",
         "official-mirror": true
     },
