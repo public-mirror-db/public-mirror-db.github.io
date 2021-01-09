@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "url": "http://ftp2.cn.debian.org/debian-nonfree/",
+        "name": "ftp2.cn.debian.org",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://hanzubon.jp/debian-nonfree/",
+        "name": "hanzubon.jp",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.bfsu.edu.cn/debian-nonfree/",
+        "name": "mirrors.bfsu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-nonfree/",
+        "name": "mirrors.tuna.tsinghua.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "official-mirror": true
+    }
+]

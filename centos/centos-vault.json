@@ -1,7 +1,7 @@
 [
     {
         "url": "http://archive.kernel.org/centos-vault/",
-        "name": "archive.kernel.org/centos-vault/",
+        "name": "archive.kernel.org",
         "description": "",
         "country-code": "US",
         "protocol": "http",
@@ -25,7 +25,7 @@
     },
     {
         "url": "rsync://archive.kernel.org::centos-vault/",
-        "name": "archive.kernel.org::centos-vault/",
+        "name": "archive.kernel.org",
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
@@ -41,7 +41,7 @@
     },
     {
         "url": "rsync://mirror.nsc.liu.se::centos-store/",
-        "name": "mirror.nsc.liu.se::centos-store/",
+        "name": "mirror.nsc.liu.se",
         "description": "",
         "country-code": "US",
         "protocol": "rsync",

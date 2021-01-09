@@ -1,162 +1,322 @@
 [
     {
+        "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
+        "name": "debian.c3sl.ufpr.br",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
         "url": "http://debian.lth.se/debian-multimedia/",
-        "name": "",
+        "name": "debian.lth.se",
         "description": "",
         "country-code": "SE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://debian.mirror.ac.ke/debian-multimedia/",
-        "name": "",
+        "name": "debian.mirror.ac.ke",
         "description": "",
         "country-code": "KE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://debian.mirror.garr.it/debian-multimedia/",
+        "name": "debian.mirror.garr.it",
+        "description": "",
+        "country-code": "IT",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://debian.mur.at/debian-multimedia/",
+        "name": "debian.mur.at",
+        "description": "",
+        "country-code": "AT",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://debian.nautile.nc/debian-multimedia/",
+        "name": "debian.nautile.nc",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://debian.salud.gob.sv/debian-multimedia/",
-        "name": "",
+        "name": "debian.salud.gob.sv",
         "description": "",
         "country-code": "SV",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://debian.uevora.pt/debian-multimedia/",
+        "name": "debian.uevora.pt",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://debian.univ-reims.fr/debian-multimedia/",
+        "name": "debian.univ-reims.fr",
+        "description": "",
+        "country-code": "FR",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://debian.volia.net/debian-multimedia/",
-        "name": "",
+        "name": "debian.volia.net",
         "description": "",
         "country-code": "UA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.br.debian.org/debian-multimedia/",
+        "name": "ftp.br.debian.org",
+        "description": "",
+        "country-code": "BR",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.by.debian.org/debian-multimedia/",
+        "name": "ftp.by.debian.org",
+        "description": "",
+        "country-code": "BY",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.byfly.by/debian-multimedia/",
+        "name": "ftp.byfly.by",
+        "description": "",
+        "country-code": "BY",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.cn.debian.org/debian-multimedia/",
+        "name": "ftp.cn.debian.org",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.dk.debian.org/debian-multimedia/",
+        "name": "ftp.dk.debian.org",
+        "description": "",
+        "country-code": "DK",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://ftp.kaist.ac.kr/debian-multimedia/",
-        "name": "",
+        "name": "ftp.kaist.ac.kr",
         "description": "",
         "country-code": "KP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://ftp.kr.debian.org/debian-multimedia/",
-        "name": "",
+        "name": "ftp.kr.debian.org",
         "description": "",
         "country-code": "KP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.nc.debian.org/debian-multimedia/",
+        "name": "ftp.nc.debian.org",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.pt.debian.org/debian-multimedia/",
+        "name": "ftp.pt.debian.org",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://ftp.ru.debian.org/debian-multimedia/",
-        "name": "",
+        "name": "ftp.ru.debian.org",
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://ftp.tw.debian.org/debian-multimedia/",
-        "name": "",
+        "name": "ftp.tw.debian.org",
         "description": "",
         "country-code": "TW",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.uni-kl.de/debian-multimedia/",
+        "name": "ftp.uni-kl.de",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.uni-stuttgart.de/debian-multimedia/",
+        "name": "ftp.uni-stuttgart.de",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp2.cn.debian.org/debian-multimedia/",
+        "name": "ftp2.cn.debian.org",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://hanzubon.jp/debian-multimedia/",
+        "name": "hanzubon.jp",
+        "description": "",
+        "country-code": "JP",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://kebo.pens.ac.id/debian-multimedia/",
-        "name": "",
+        "name": "kebo.pens.ac.id",
         "description": "",
         "country-code": "ID",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.0x.sg/debian-multimedia/",
+        "name": "mirror.0x.sg",
+        "description": "",
+        "country-code": "SG",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://mirror.anigil.com/debian-multimedia/",
-        "name": "",
+        "name": "mirror.anigil.com",
         "description": "",
         "country-code": "KP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "http://mirror.docker.ru/debian-multimedia/",
-        "name": "",
+        "url": "http://mirror.csclub.uwaterloo.ca/debian-multimedia/",
+        "name": "mirror.csclub.uwaterloo.ca",
         "description": "",
-        "country-code": "RU",
+        "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.lagoon.nc/debian-multimedia/",
+        "name": "mirror.lagoon.nc",
+        "description": "",
+        "country-code": "NC",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://mirror.mephi.ru/debian-multimedia/",
-        "name": "",
+        "name": "mirror.mephi.ru",
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://mirror.truenetwork.ru/debian-multimedia/",
-        "name": "",
+        "name": "mirror.truenetwork.ru",
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
         "url": "http://mirrors.accretive-networks.net/debian-multimedia/",
-        "name": "",
+        "name": "mirrors.accretive-networks.net",
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.bfsu.edu.cn/debian-multimedia/",
+        "name": "mirrors.bfsu.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://mirrors.dotsrc.org/debian-multimedia/",
-        "name": "",
+        "name": "mirrors.dotsrc.org",
         "description": "",
         "country-code": "DK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
+        "name": "mirrors.tuna.tsinghua.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
         "official-mirror": true
     },
     {
         "url": "http://mirrors.ucr.ac.cr/debian-multimedia/",
-        "name": "",
+        "name": "mirrors.ucr.ac.cr",
         "description": "",
         "country-code": "CR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.up.pt/debian-multimedia/",
+        "name": "mirrors.up.pt",
+        "description": "",
+        "country-code": "PT",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.ustc.edu.cn/debian-multimedia/",
+        "name": "mirrors.ustc.edu.cn",
+        "description": "",
+        "country-code": "CN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://opensource.nchc.org.tw/debian-multimedia/",
+        "name": "opensource.nchc.org.tw",
+        "description": "",
+        "country-code": "TW",
+        "protocol": "http",
         "official-mirror": true
     }
 ]

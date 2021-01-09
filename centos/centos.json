@@ -624,6 +624,14 @@
         "official-mirror": true
     },
     {
+        "url": "http://centos.mirrors.estointernet.in/",
+        "name": "Esto Internet",
+        "description": "",
+        "country-code": "IN",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
         "url": "http://centos.mirrors.hoobly.com/",
         "name": "Hobby Classifieds",
         "description": "",
@@ -804,14 +812,6 @@
         "name": "Universidade Federal do Esp\u00edrito Santo",
         "description": "",
         "country-code": "BR",
-        "protocol": "http",
-        "official-mirror": true
-    },
-    {
-        "url": "http://centos.uhost.hk/",
-        "name": "i-System Technology Limited",
-        "description": "",
-        "country-code": "HK",
         "protocol": "http",
         "official-mirror": true
     },
@@ -1538,6 +1538,14 @@
     {
         "url": "http://ge.mirror.cloud9.ge/centos/",
         "name": "Cloud9",
+        "description": "",
+        "country-code": "GE",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://ge.mirror.worldbus.ge/centos/",
+        "name": "Worldbus",
         "description": "",
         "country-code": "GE",
         "protocol": "http",
@@ -4088,14 +4096,6 @@
         "official-mirror": true
     },
     {
-        "url": "http://mirrors.icidc.com/centos/",
-        "name": "ICIDC NETWORK",
-        "description": "",
-        "country-code": "HK",
-        "protocol": "https",
-        "official-mirror": true
-    },
-    {
         "url": "http://mirrors.inet.vn/centos/",
         "name": "iNET",
         "description": "",
@@ -5036,6 +5036,14 @@
         "name": "AS250.net Foundation",
         "description": "",
         "country-code": "DE",
+        "protocol": "https",
+        "official-mirror": true
+    },
+    {
+        "url": "https://centos.mirrors.estointernet.in/",
+        "name": "Esto Internet",
+        "description": "",
+        "country-code": "IN",
         "protocol": "https",
         "official-mirror": true
     },
@@ -6400,6 +6408,14 @@
         "official-mirror": true
     },
     {
+        "url": "https://mirrors.icidc.com/centos/",
+        "name": "ICIDC NETWORK",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "https",
+        "official-mirror": true
+    },
+    {
         "url": "https://mirrors.inet.vn/centos/",
         "name": "iNET",
         "description": "",
@@ -6948,6 +6964,14 @@
         "name": "TransIP BV",
         "description": "",
         "country-code": "NL",
+        "protocol": "rsync",
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://centos.mirrors.estointernet.in/centos/",
+        "name": "Esto Internet",
+        "description": "",
+        "country-code": "IN",
         "protocol": "rsync",
         "official-mirror": true
     },
