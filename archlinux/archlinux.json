@@ -1688,6 +1688,14 @@
         "official-mirror": true
     },
     {
+        "url": "http://mirror.rackspace.com/archlinux/",
+        "name": "mirror.rackspace.com/archlinux/",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
         "url": "http://mirror.rasanegar.com/archlinux/",
         "name": "mirror.rasanegar.com/archlinux/",
         "description": "",
@@ -2124,6 +2132,14 @@
         "name": "mirrors.dotsrc.org/archlinux/",
         "description": "",
         "country-code": "DK",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.evowise.com/archlinux/",
+        "name": "mirrors.evowise.com/archlinux/",
+        "description": "",
+        "country-code": "US",
         "protocol": "http",
         "official-mirror": true
     },
@@ -3732,6 +3748,14 @@
         "name": "mirror.puzzle.ch/archlinux/",
         "description": "",
         "country-code": "CH",
+        "protocol": "https",
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.rackspace.com/archlinux/",
+        "name": "mirror.rackspace.com/archlinux/",
+        "description": "",
+        "country-code": "US",
         "protocol": "https",
         "official-mirror": true
     },
@@ -5572,6 +5596,14 @@
         "name": "mirror.puzzle.ch/archlinux/",
         "description": "",
         "country-code": "CH",
+        "protocol": "rsync",
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.rackspace.com/archlinux/",
+        "name": "mirror.rackspace.com/archlinux/",
+        "description": "",
+        "country-code": "US",
         "protocol": "rsync",
         "official-mirror": true
     },

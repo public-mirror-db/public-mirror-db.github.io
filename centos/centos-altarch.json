@@ -1,32 +1,10 @@
 [
     {
-        "url": "http://alt.centos3.zswap.net/",
-        "name": "zswap.net",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://alt.centos5.zswap.net/",
-        "name": "zswap.net",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
         "url": "http://altarch.mirrors.theom.nz/centos/",
         "name": "Theo M.",
         "description": "",
         "country-code": "NZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -35,8 +13,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -45,8 +21,6 @@
         "description": "",
         "country-code": "KE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -55,8 +29,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -65,8 +37,6 @@
         "description": "",
         "country-code": "IT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -75,8 +45,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -85,8 +53,6 @@
         "description": "",
         "country-code": "AR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -95,8 +61,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -105,8 +69,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -115,8 +77,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -125,8 +85,6 @@
         "description": "",
         "country-code": "HU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -135,8 +93,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -145,8 +101,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -155,8 +109,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -165,8 +117,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -175,8 +125,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -185,8 +133,6 @@
         "description": "",
         "country-code": "ES",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -195,8 +141,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -205,8 +149,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -215,8 +157,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -225,8 +165,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -235,8 +173,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -245,8 +181,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -255,8 +189,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -265,8 +197,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -275,8 +205,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -285,8 +213,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -295,8 +221,6 @@
         "description": "",
         "country-code": "ES",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -305,8 +229,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -315,8 +237,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -325,8 +245,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -335,18 +253,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.infonline.de/centos-altarch/",
-        "name": "INFOnline GmbH",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -355,8 +261,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -365,8 +269,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -375,8 +277,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -385,8 +285,6 @@
         "description": "",
         "country-code": "NC",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -395,8 +293,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -405,8 +301,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -415,8 +309,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -425,8 +317,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -435,8 +325,6 @@
         "description": "",
         "country-code": "IS",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -445,8 +333,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -455,28 +341,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.provider.com.tr/centos-altarch/",
-        "name": "Provider Data Center Services",
-        "description": "",
-        "country-code": "TR",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.serverion.com/centos-altarch/",
-        "name": "Serverion",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -485,8 +349,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -495,8 +357,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -505,8 +365,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -515,8 +373,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -525,8 +381,6 @@
         "description": "",
         "country-code": "ZA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -535,8 +389,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -545,8 +397,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -555,8 +405,6 @@
         "description": "",
         "country-code": "LT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -565,8 +413,14 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.webmaster.my.id/centos-altarch/",
+        "name": "webmaster.my.id",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -575,8 +429,14 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.xtom.com.hk/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -585,8 +445,6 @@
         "description": "",
         "country-code": "AZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -595,8 +453,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -605,8 +461,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -615,8 +469,6 @@
         "description": "",
         "country-code": "TH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -625,8 +477,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -635,8 +485,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -645,8 +493,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -655,8 +501,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -665,8 +509,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -675,8 +517,6 @@
         "description": "",
         "country-code": "MD",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -685,8 +525,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -695,8 +533,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -705,8 +541,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -715,8 +549,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -725,8 +557,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -735,8 +565,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -745,8 +573,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -755,8 +581,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -765,28 +589,14 @@
         "description": "",
         "country-code": "HU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "https://alt.centos3.zswap.net/",
-        "name": "zswap.net",
+        "url": "http://vpsmurah.jagoanhosting.com/centos-altarch/",
+        "name": "Jagoanhosting.com",
         "description": "",
-        "country-code": "US",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://alt.centos5.zswap.net/",
-        "name": "zswap.net",
-        "description": "",
-        "country-code": "US",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
+        "country-code": "ID",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -795,8 +605,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -805,8 +613,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -815,8 +621,6 @@
         "description": "",
         "country-code": "KE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -825,8 +629,6 @@
         "description": "",
         "country-code": "IT",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -835,8 +637,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -845,8 +645,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -855,8 +653,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -865,8 +661,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -875,8 +669,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -885,8 +677,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -895,8 +685,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -905,8 +693,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -915,8 +701,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -925,8 +709,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -935,8 +717,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -945,18 +725,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.infonline.de/centos-altarch/",
-        "name": "INFOnline GmbH",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -965,8 +733,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -975,8 +741,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -985,8 +749,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -995,28 +757,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.provider.com.tr/centos-altarch/",
-        "name": "Provider Data Center Services",
-        "description": "",
-        "country-code": "TR",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.serverion.com/centos-altarch/",
-        "name": "Serverion",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1025,8 +765,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1035,8 +773,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1045,8 +781,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1055,8 +789,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1065,8 +797,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1075,8 +805,6 @@
         "description": "",
         "country-code": "LT",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1085,8 +813,22 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.webmaster.my.id/centos-altarch/",
+        "name": "webmaster.my.id",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "https",
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.xtom.com.hk/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "https",
         "official-mirror": true
     },
     {
@@ -1095,8 +837,6 @@
         "description": "",
         "country-code": "AZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1105,8 +845,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1115,8 +853,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1125,8 +861,6 @@
         "description": "",
         "country-code": "TH",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1135,8 +869,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1145,8 +877,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1155,8 +885,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1165,8 +893,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1175,8 +901,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1185,8 +909,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1195,8 +917,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1205,8 +925,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1215,8 +933,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1225,8 +941,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1235,8 +949,14 @@
         "description": "",
         "country-code": "HU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://vpsmurah.jagoanhosting.com/centos-altarch/",
+        "name": "Jagoanhosting.com",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "https",
         "official-mirror": true
     },
     {
@@ -1245,8 +965,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1255,8 +973,6 @@
         "description": "",
         "country-code": "KE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1265,28 +981,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://centos3.zswap.net::altarch",
-        "name": "zswap.net",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://centos5.zswap.net::altarch",
-        "name": "zswap.net",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1295,8 +989,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1305,8 +997,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1315,8 +1005,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1325,8 +1013,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1335,8 +1021,6 @@
         "description": "",
         "country-code": "ES",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1345,8 +1029,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1355,8 +1037,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1365,8 +1045,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1375,8 +1053,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1385,8 +1061,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1395,8 +1069,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1405,8 +1077,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1415,8 +1085,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1425,8 +1093,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1435,18 +1101,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.infonline.de/centos-altarch/",
-        "name": "INFOnline GmbH",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1455,8 +1109,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1465,8 +1117,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1475,8 +1125,6 @@
         "description": "",
         "country-code": "NC",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1485,8 +1133,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1495,8 +1141,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1505,8 +1149,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1515,18 +1157,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.serverion.com/centos-altarch/",
-        "name": "Serverion",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1535,8 +1165,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1545,8 +1173,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1555,8 +1181,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1565,8 +1189,6 @@
         "description": "",
         "country-code": "ZA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1575,8 +1197,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1585,8 +1205,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1595,8 +1213,22 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.webmaster.my.id/centos-altarch/",
+        "name": "webmaster.my.id",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.xtom.com.hk/repo/centos-altarch/",
+        "name": "xTom",
+        "description": "",
+        "country-code": "HK",
+        "protocol": "rsync",
         "official-mirror": true
     },
     {
@@ -1605,8 +1237,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1615,8 +1245,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1625,8 +1253,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1635,8 +1261,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1645,8 +1269,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1655,8 +1277,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1665,8 +1285,6 @@
         "description": "",
         "country-code": "MD",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1675,8 +1293,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1685,8 +1301,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1695,8 +1309,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1705,8 +1317,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1715,8 +1325,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1725,8 +1333,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1735,8 +1341,6 @@
         "description": "",
         "country-code": "HU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1745,8 +1349,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1755,8 +1357,14 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://vpsmurah.jagoanhosting.com/centos-altarch/",
+        "name": "Jagoanhosting.com",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
         "official-mirror": true
     }
 ]
