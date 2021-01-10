@@ -4,27 +4,27 @@
         "name": "Taobao NPM registry",
         "description": "",
         "country-code": "CN",
-        "unofficial-mirror": true
+        "protocol": "http"
     },
     {
         "url": "https://r.cnpmjs.org",
-        "name": "",
+        "name": "r.cnpmjs.org",
         "description": "",
         "country-code": "US",
-        "unofficial-mirror": true
+        "protocol": "https"
     },
     {
         "url": "https://registry.yarnpkg.com",
-        "name": "",
+        "name": "registry.yarnpkg.com",
         "description": "",
         "country-code": "US",
-        "unofficial-mirror": true
+        "protocol": "https"
     },
     {
         "url": "https://skimdb.npmjs.com/registry",
-        "name": "",
+        "name": "skimdb.npmjs.com",
         "description": "",
         "country-code": "US",
-        "unofficial-mirror": true
+        "protocol": "https"
     }
 ]

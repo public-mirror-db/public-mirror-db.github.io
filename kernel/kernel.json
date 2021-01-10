@@ -2,10 +2,8 @@
     {
         "url": "https://mirrors.tuna.tsinghua.edu.cn/kernel",
         "name": "Tuna",
+        "description": "",
         "country-code": "CN",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "unofficial-mirror": true
+        "protocol": "https"
     }
 ]

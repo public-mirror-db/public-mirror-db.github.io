@@ -5,8 +5,6 @@
         "description": "High-speed mirror.  Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -15,8 +13,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -25,8 +21,6 @@
         "description": "Main Project Gutenberg FTP Site.",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -35,8 +29,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -45,8 +37,6 @@
         "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -55,8 +45,6 @@
         "description": "Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -65,8 +53,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "ftp",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -75,8 +61,6 @@
         "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "gopher",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -85,8 +69,6 @@
         "description": "High-speed mirror.  Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -95,8 +77,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -105,8 +85,6 @@
         "description": "Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -115,8 +93,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -125,8 +101,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -135,8 +109,6 @@
         "description": "Main Project Gutenberg Collection Site",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -145,8 +117,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -155,8 +125,6 @@
         "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -165,8 +133,6 @@
         "description": "High-speed mirror.  Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -175,8 +141,6 @@
         "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -185,8 +149,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     }
 ]
