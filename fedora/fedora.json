@@ -5,8 +5,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -15,8 +13,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -25,8 +21,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -35,8 +29,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -45,8 +37,6 @@
         "description": "",
         "country-code": "SG",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -55,8 +45,6 @@
         "description": "",
         "country-code": "UY",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -65,8 +53,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -75,8 +61,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -85,8 +69,6 @@
         "description": "",
         "country-code": "BE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -95,18 +77,6 @@
         "description": "",
         "country-code": "AT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://fedora.ip-connect.info/linux",
-        "name": "IP-Connect.info",
-        "description": "",
-        "country-code": "UA",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -115,8 +85,14 @@
         "description": "",
         "country-code": "UA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://fedora.ipacct.com/fedora/linux",
+        "name": "IPACCT",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -125,8 +101,6 @@
         "description": "",
         "country-code": "MY",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -135,8 +109,6 @@
         "description": "",
         "country-code": "ZA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -145,8 +117,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -155,8 +125,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -165,8 +133,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -175,8 +141,6 @@
         "description": "",
         "country-code": "IT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -185,8 +149,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -195,8 +157,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -205,8 +165,6 @@
         "description": "",
         "country-code": "KE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -215,8 +173,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -225,8 +181,6 @@
         "description": "",
         "country-code": "LU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -235,8 +189,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -245,8 +197,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -255,8 +205,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -265,8 +213,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -275,8 +221,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -285,8 +229,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -295,8 +237,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -305,8 +245,6 @@
         "description": "",
         "country-code": "BY",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -315,8 +253,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -325,8 +261,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -335,8 +269,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -345,8 +277,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -355,8 +285,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -365,8 +293,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -375,8 +301,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -385,8 +309,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -395,8 +317,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -405,8 +325,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -415,8 +333,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -425,8 +341,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -435,8 +349,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -445,8 +357,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -455,8 +365,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -465,8 +373,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -475,8 +381,6 @@
         "description": "",
         "country-code": "GR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -485,8 +389,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -495,8 +397,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -505,8 +405,6 @@
         "description": "",
         "country-code": "ZA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -515,8 +413,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -525,8 +421,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -535,8 +429,6 @@
         "description": "",
         "country-code": "ES",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -545,8 +437,14 @@
         "description": "",
         "country-code": "es",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://ftp.uni-bayreuth.de/linux/fedora/linux",
+        "name": "Uni Bayreuth",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -555,8 +453,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -565,8 +461,6 @@
         "description": "",
         "country-code": "SK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -575,8 +469,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -585,8 +477,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -595,8 +485,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -605,8 +493,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -615,8 +501,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -625,8 +509,14 @@
         "description": "",
         "country-code": "ID",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://kartolo.sby.datautama.net.id/fedora",
+        "name": "DATAUTAMA-NET-ID",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -635,8 +525,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -645,8 +533,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -655,8 +541,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -665,8 +549,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -675,8 +557,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -685,8 +565,22 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.as24220.net/fedora",
+        "name": "Hostcentral",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "http",
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirror.atl.genesisadaptive.com/fedora/linux",
+        "name": "Genesis Adaptive",
+        "description": "",
+        "country-code": "US",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -695,8 +589,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -705,8 +597,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -715,18 +605,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.chpc.utah.edu/pub/fedora/linux",
-        "name": "University of Utah CHPC",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -735,8 +613,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -745,8 +621,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -755,8 +629,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -765,8 +637,6 @@
         "description": "",
         "country-code": "BY",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -775,8 +645,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -785,8 +653,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -795,8 +661,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -805,8 +669,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -815,8 +677,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -825,8 +685,6 @@
         "description": "",
         "country-code": "RS",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -835,8 +693,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -845,8 +701,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -855,8 +709,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -865,8 +717,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -875,8 +725,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -885,18 +733,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.infonline.de/fedora/linux",
-        "name": "INFOnline",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -905,8 +741,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -915,8 +749,6 @@
         "description": "",
         "country-code": "IL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -925,8 +757,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -935,8 +765,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -945,8 +773,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -955,8 +781,6 @@
         "description": "",
         "country-code": "CY",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -965,8 +789,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -975,8 +797,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -985,8 +805,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -995,8 +813,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1005,8 +821,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1015,8 +829,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1025,18 +837,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.nodesdirect.com/fedora",
-        "name": "Nodes Direct Jacksonville",
-        "description": "",
-        "country-code": "US",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1045,8 +845,6 @@
         "description": "",
         "country-code": "IL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1055,8 +853,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1065,8 +861,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1075,8 +869,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1085,8 +877,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1095,8 +885,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1105,18 +893,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "http://mirror.serverion.com/fedora",
-        "name": "Serverion",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1125,8 +901,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1135,8 +909,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1145,8 +917,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1155,8 +925,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1165,8 +933,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1175,8 +941,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1185,8 +949,6 @@
         "description": "",
         "country-code": "HU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1195,8 +957,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1205,8 +965,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1215,8 +973,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1225,8 +981,6 @@
         "description": "",
         "country-code": "ES",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1235,8 +989,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1245,8 +997,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1255,8 +1005,6 @@
         "description": "",
         "country-code": "LT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1265,8 +1013,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1275,8 +1021,6 @@
         "description": "",
         "country-code": "BD",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1285,8 +1029,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1295,8 +1037,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1305,8 +1045,6 @@
         "description": "",
         "country-code": "TH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1315,8 +1053,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1325,8 +1061,6 @@
         "description": "",
         "country-code": "TH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1335,8 +1069,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1345,8 +1077,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1355,8 +1085,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1365,8 +1093,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1375,8 +1101,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1385,8 +1109,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1395,8 +1117,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1405,8 +1125,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1415,8 +1133,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1425,8 +1141,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1435,8 +1149,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1445,8 +1157,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1455,8 +1165,14 @@
         "description": "",
         "country-code": "TH",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "http://mirrors.nxthost.com/fedora",
+        "name": "mirrors.nxthost.com",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "http",
         "official-mirror": true
     },
     {
@@ -1465,8 +1181,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1475,8 +1189,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1485,8 +1197,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1495,8 +1205,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1505,8 +1213,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1515,8 +1221,6 @@
         "description": "",
         "country-code": "CR",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1525,8 +1229,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1535,8 +1237,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1545,8 +1245,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1555,8 +1253,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1565,8 +1261,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1575,8 +1269,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1585,8 +1277,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1595,8 +1285,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1605,8 +1293,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1615,8 +1301,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1625,8 +1309,6 @@
         "description": "",
         "country-code": "IS",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1635,8 +1317,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1645,8 +1325,6 @@
         "description": "",
         "country-code": "FI",
         "protocol": "http",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1655,8 +1333,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1665,8 +1341,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1675,8 +1349,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1685,8 +1357,6 @@
         "description": "",
         "country-code": "SG",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1695,8 +1365,6 @@
         "description": "",
         "country-code": "UY",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1705,8 +1373,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1715,18 +1381,6 @@
         "description": "",
         "country-code": "BE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://fedora.ip-connect.info/linux",
-        "name": "IP-Connect.info",
-        "description": "",
-        "country-code": "UA",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1735,8 +1389,14 @@
         "description": "",
         "country-code": "UA",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://fedora.ipacct.com/fedora/linux",
+        "name": "IPACCT",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "https",
         "official-mirror": true
     },
     {
@@ -1745,8 +1405,6 @@
         "description": "",
         "country-code": "MY",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1755,8 +1413,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1765,8 +1421,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1775,8 +1429,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1785,8 +1437,6 @@
         "description": "",
         "country-code": "IT",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1795,8 +1445,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1805,8 +1453,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1815,8 +1461,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1825,8 +1469,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1835,8 +1477,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1845,8 +1485,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1855,8 +1493,6 @@
         "description": "",
         "country-code": "BY",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1865,8 +1501,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1875,8 +1509,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1885,8 +1517,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1895,8 +1525,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1905,8 +1533,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1915,8 +1541,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1925,8 +1549,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1935,8 +1557,6 @@
         "description": "",
         "country-code": "SK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1945,8 +1565,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1955,8 +1573,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1965,8 +1581,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1975,8 +1589,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1985,8 +1597,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -1995,8 +1605,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2005,8 +1613,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2015,8 +1621,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2025,8 +1629,22 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.as24220.net/fedora",
+        "name": "Hostcentral",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "https",
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirror.atl.genesisadaptive.com/fedora/linux",
+        "name": "Genesis Adaptive",
+        "description": "",
+        "country-code": "US",
+        "protocol": "https",
         "official-mirror": true
     },
     {
@@ -2035,18 +1653,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.chpc.utah.edu/pub/fedora/linux",
-        "name": "University of Utah CHPC",
-        "description": "",
-        "country-code": "US",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2055,8 +1661,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2065,8 +1669,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2075,8 +1677,6 @@
         "description": "",
         "country-code": "BY",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2085,8 +1685,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2095,8 +1693,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2105,8 +1701,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2115,8 +1709,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2125,18 +1717,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "https://mirror.infonline.de/fedora/linux",
-        "name": "INFOnline",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2145,8 +1725,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2155,8 +1733,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2165,8 +1741,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2175,8 +1749,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2185,8 +1757,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2195,8 +1765,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2205,8 +1773,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2215,18 +1781,14 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
-        "url": "https://mirror.serverion.com/fedora",
-        "name": "Serverion",
+        "url": "https://mirror.sjtu.edu.cn/fedora/linux",
+        "name": "SJTUG",
         "description": "",
-        "country-code": "NL",
+        "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2235,8 +1797,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2245,8 +1805,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2255,8 +1813,6 @@
         "description": "",
         "country-code": "HU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2265,8 +1821,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2275,8 +1829,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2285,8 +1837,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2295,8 +1845,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2305,8 +1853,6 @@
         "description": "",
         "country-code": "LT",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2315,8 +1861,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2325,8 +1869,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2335,8 +1877,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2345,8 +1885,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2355,8 +1893,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2365,8 +1901,14 @@
         "description": "",
         "country-code": "BG",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "https://mirrors.nxthost.com/fedora",
+        "name": "mirrors.nxthost.com",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "https",
         "official-mirror": true
     },
     {
@@ -2375,8 +1917,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2385,8 +1925,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2395,8 +1933,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2405,8 +1941,6 @@
         "description": "",
         "country-code": "CR",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2415,8 +1949,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2425,8 +1957,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2435,8 +1965,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2445,8 +1973,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2455,8 +1981,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2465,8 +1989,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2475,8 +1997,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2485,8 +2005,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2495,8 +2013,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2505,8 +2021,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "https",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2515,8 +2029,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2525,8 +2037,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2535,8 +2045,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2545,8 +2053,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2555,8 +2061,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2565,8 +2069,6 @@
         "description": "",
         "country-code": "SG",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2575,8 +2077,6 @@
         "description": "",
         "country-code": "UY",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2585,8 +2085,6 @@
         "description": "",
         "country-code": "BR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2595,8 +2093,6 @@
         "description": "",
         "country-code": "TW",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2605,18 +2101,6 @@
         "description": "",
         "country-code": "AT",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://fedora.ip-connect.info/fedora/linux",
-        "name": "IP-Connect.info",
-        "description": "",
-        "country-code": "UA",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2625,8 +2109,14 @@
         "description": "",
         "country-code": "UA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://fedora.ipacct.com/fedora/linux",
+        "name": "IPACCT",
+        "description": "",
+        "country-code": "BG",
+        "protocol": "rsync",
         "official-mirror": true
     },
     {
@@ -2635,8 +2125,6 @@
         "description": "",
         "country-code": "ZA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2645,8 +2133,6 @@
         "description": "",
         "country-code": "ID",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2655,8 +2141,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2665,8 +2149,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2675,8 +2157,6 @@
         "description": "",
         "country-code": "KE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2685,8 +2165,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2695,8 +2173,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2705,8 +2181,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2715,8 +2189,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2725,8 +2197,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2735,8 +2205,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2745,8 +2213,6 @@
         "description": "",
         "country-code": "BY",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2755,8 +2221,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2765,8 +2229,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2775,8 +2237,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2785,8 +2245,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2795,8 +2253,6 @@
         "description": "",
         "country-code": "PL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2805,8 +2261,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2815,8 +2269,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2825,8 +2277,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2835,8 +2285,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2845,8 +2293,6 @@
         "description": "",
         "country-code": "SE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2855,8 +2301,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2865,8 +2309,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2875,8 +2317,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2885,8 +2325,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2895,8 +2333,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2905,8 +2341,6 @@
         "description": "",
         "country-code": "SK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2915,8 +2349,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2925,8 +2357,6 @@
         "description": "",
         "country-code": "JP",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2935,8 +2365,6 @@
         "description": "",
         "country-code": "HK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2945,8 +2373,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2955,8 +2381,14 @@
         "description": "",
         "country-code": "ID",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://kartolo.sby.datautama.net.id/fedora",
+        "name": "DATAUTAMA-NET-ID",
+        "description": "",
+        "country-code": "ID",
+        "protocol": "rsync",
         "official-mirror": true
     },
     {
@@ -2965,8 +2397,6 @@
         "description": "",
         "country-code": "CH",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2975,8 +2405,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2985,8 +2413,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -2995,8 +2421,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3005,8 +2429,22 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.as24220.net/fedora",
+        "name": "Hostcentral",
+        "description": "",
+        "country-code": "AU",
+        "protocol": "rsync",
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirror.atl.genesisadaptive.com/fedora",
+        "name": "Genesis Adaptive",
+        "description": "",
+        "country-code": "US",
+        "protocol": "rsync",
         "official-mirror": true
     },
     {
@@ -3015,8 +2453,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3025,18 +2461,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.chpc.utah.edu/pub/fedora/linux",
-        "name": "University of Utah CHPC",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3045,8 +2469,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3055,8 +2477,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3065,8 +2485,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3075,8 +2493,6 @@
         "description": "",
         "country-code": "BY",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3085,8 +2501,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3095,8 +2509,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3105,8 +2517,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3115,8 +2525,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3125,8 +2533,6 @@
         "description": "",
         "country-code": "RS",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3135,8 +2541,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3145,8 +2549,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3155,8 +2557,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3165,18 +2565,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.infonline.de/fedora-enchilada/linux",
-        "name": "INFOnline",
-        "description": "",
-        "country-code": "DE",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3185,8 +2573,6 @@
         "description": "",
         "country-code": "CA",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3195,8 +2581,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3205,8 +2589,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3215,8 +2597,6 @@
         "description": "",
         "country-code": "CY",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3225,8 +2605,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3235,8 +2613,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3245,8 +2621,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3255,8 +2629,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3265,8 +2637,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3275,18 +2645,6 @@
         "description": "",
         "country-code": "NL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.nodesdirect.com/fedora",
-        "name": "Nodes Direct Jacksonville",
-        "description": "",
-        "country-code": "US",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3295,8 +2653,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3305,8 +2661,6 @@
         "description": "",
         "country-code": "KZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3315,18 +2669,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
-        "official-mirror": true
-    },
-    {
-        "url": "rsync://mirror.serverion.com/fedora",
-        "name": "Serverion",
-        "description": "",
-        "country-code": "NL",
-        "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3335,8 +2677,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3345,8 +2685,6 @@
         "description": "",
         "country-code": "CZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3355,8 +2693,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3365,8 +2701,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3375,8 +2709,6 @@
         "description": "",
         "country-code": "HU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3385,8 +2717,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3395,8 +2725,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3405,8 +2733,6 @@
         "description": "",
         "country-code": "EC",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3415,8 +2741,6 @@
         "description": "",
         "country-code": "ES",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3425,8 +2749,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3435,8 +2757,6 @@
         "description": "",
         "country-code": "TR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3445,8 +2765,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3455,8 +2773,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3465,8 +2781,6 @@
         "description": "",
         "country-code": "CL",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3475,8 +2789,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3485,8 +2797,6 @@
         "description": "",
         "country-code": "TH",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3495,8 +2805,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3505,8 +2813,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3515,8 +2821,6 @@
         "description": "",
         "country-code": "DK",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3525,8 +2829,6 @@
         "description": "",
         "country-code": "FR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3535,8 +2837,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3545,8 +2845,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3555,8 +2853,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3565,8 +2861,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3575,8 +2869,6 @@
         "description": "",
         "country-code": "DE",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3585,8 +2877,6 @@
         "description": "",
         "country-code": "RO",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3595,8 +2885,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3605,8 +2893,14 @@
         "description": "",
         "country-code": "TH",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://mirrors.nxthost.com/fedora",
+        "name": "mirrors.nxthost.com",
+        "description": "",
+        "country-code": "RO",
+        "protocol": "rsync",
         "official-mirror": true
     },
     {
@@ -3615,8 +2909,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3625,8 +2917,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3635,8 +2925,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3645,8 +2933,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3655,8 +2941,6 @@
         "description": "",
         "country-code": "CR",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3665,8 +2949,6 @@
         "description": "",
         "country-code": "BG",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3675,8 +2957,6 @@
         "description": "",
         "country-code": "PT",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3685,8 +2965,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3695,8 +2973,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3705,8 +2981,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3715,8 +2989,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3725,8 +2997,6 @@
         "description": "",
         "country-code": "US",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3735,8 +3005,6 @@
         "description": "",
         "country-code": "RU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3745,8 +3013,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3755,8 +3021,6 @@
         "description": "",
         "country-code": "CN",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3765,8 +3029,6 @@
         "description": "",
         "country-code": "GB",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3775,8 +3037,14 @@
         "description": "",
         "country-code": "FI",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
+        "official-mirror": true
+    },
+    {
+        "url": "rsync://rsync.uni-bayreuth.de/fedora-enchilada/linux",
+        "name": "Uni Bayreuth",
+        "description": "",
+        "country-code": "DE",
+        "protocol": "rsync",
         "official-mirror": true
     },
     {
@@ -3785,8 +3053,6 @@
         "description": "",
         "country-code": "AU",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3795,8 +3061,6 @@
         "description": "",
         "country-code": "NZ",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     },
     {
@@ -3805,8 +3069,6 @@
         "description": "",
         "country-code": "IS",
         "protocol": "rsync",
-        "ipv4": true,
-        "ipv6": false,
         "official-mirror": true
     }
 ]
