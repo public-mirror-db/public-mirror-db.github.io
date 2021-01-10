@@ -1,19 +1,5 @@
 [
     {
-        "url": "ftp://mirrors.dotsrc.org/gentoo-portage",
-        "name": "Dotsrc.org",
-        "country-code": "US",
-        "protocol": "ftp",
-        "description": ""
-    },
-    {
-        "url": "https://mirrors.dotsrc.org/gentoo-portage",
-        "name": "Dotsrc.org",
-        "country-code": "US",
-        "protocol": "http",
-        "description": ""
-    },
-    {
         "url": "rsync://mirror.bit.edu.cn/gentoo-portage",
         "name": "BIT",
         "description": "Mirror site provided by Beijing Inistitute of Technology",
@@ -30,15 +16,15 @@
     {
         "url": "rsync://mirrors.dotsrc.org/gentoo-portage",
         "name": "Dotsrc.org",
+        "description": "",
         "country-code": "US",
-        "protocol": "rsync",
-        "description": ""
+        "protocol": "rsync"
     },
     {
         "url": "rsync://mirrors.gethosted.online/gentoo",
         "name": "Get Hosted online - mirrors.gethosted.online/gentoo",
         "description": "",
-        "country-code": "UK",
+        "country-code": "GB",
         "protocol": "rsync",
         "official-mirror": true
     },
@@ -52,9 +38,9 @@
     {
         "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
         "name": "yun-idc",
+        "description": "",
         "country-code": "CN",
-        "protocol": "rsync",
-        "description": ""
+        "protocol": "rsync"
     },
     {
         "url": "rsync://rsync.at.gentoo.org",
@@ -139,9 +125,9 @@
     {
         "url": "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage",
         "name": "aliyun",
+        "description": "",
         "country-code": "CN",
-        "protocol": "rsync",
-        "description": ""
+        "protocol": "rsync"
     },
     {
         "url": "rsync://rsync.nl.gentoo.org",
@@ -203,7 +189,7 @@
         "url": "rsync://rsync.uk.gentoo.org",
         "name": "Any available mirror - rsync.uk.gentoo.org",
         "description": "",
-        "country-code": "UK",
+        "country-code": "GB",
         "protocol": "rsync",
         "official-mirror": true
     },
@@ -387,7 +373,7 @@
         "url": "rsync://rsync2.uk.gentoo.org",
         "name": "Bytemark Hosting - rsync2.uk.gentoo.org",
         "description": "",
-        "country-code": "UK",
+        "country-code": "GB",
         "protocol": "rsync",
         "official-mirror": true
     },
