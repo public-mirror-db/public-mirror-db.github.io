@@ -1,0 +1,29 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "http://registry.npm.taobao.org",
+            "name": "Taobao NPM registry",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "https://r.cnpmjs.org",
+            "name": "r.cnpmjs.org",
+            "description": "",
+            "country-code": "US"
+        },
+        {
+            "url": "https://registry.yarnpkg.com",
+            "name": "registry.yarnpkg.com",
+            "description": "",
+            "country-code": "US"
+        },
+        {
+            "url": "https://skimdb.npmjs.com/registry",
+            "name": "skimdb.npmjs.com",
+            "description": "",
+            "country-code": "US"
+        }
+    ]
+}

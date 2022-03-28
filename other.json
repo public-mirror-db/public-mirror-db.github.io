@@ -1,0 +1,26 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "http://ftp.acc.umu.se/mirror/wikimedia.org/other",
+            "name": "Academic Computer Club, Ume\u00e5 University",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.acc.umu.se/mirror/wikimedia.org/other",
+            "name": "Academic Computer Club, Ume\u00e5 University",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.acc.umu.se/mirror/wikimedia.org/other",
+            "name": "Academic Computer Club, Ume\u00e5 University",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        }
+    ]
+}

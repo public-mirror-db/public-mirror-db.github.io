@@ -1,0 +1,451 @@
+{
+    "sources": [
+        {
+            "url": "rsync://rsync.gentoo.org/gentoo-portage"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "rsync://mirror.bit.edu.cn/gentoo-portage",
+            "name": "BIT",
+            "description": "Mirror site provided by Beijing Inistitute of Technology",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://mirror.lzu.edu.cn/gentoo-portage",
+            "name": "LZU",
+            "description": "Mirror site provided by Lan Zhou University",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://mirrors.dotsrc.org/gentoo-portage",
+            "name": "Dotsrc.org",
+            "description": "",
+            "country-code": "US"
+        },
+        {
+            "url": "rsync://mirrors.gethosted.online/gentoo",
+            "name": "Get Hosted online - mirrors.gethosted.online/gentoo",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.xmu.edu.cn/gentoo-portage",
+            "name": "XMU",
+            "description": "Mirror site provided by Xia Men University",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
+            "name": "yun-idc",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://rsync.au.gentoo.org",
+            "name": "Any available mirror - rsync.au.gentoo.org",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.br.gentoo.org",
+            "name": "Any available mirror - rsync.br.gentoo.org",
+            "description": "",
+            "country-code": "BR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.ca.gentoo.org",
+            "name": "Any available mirror - rsync.ca.gentoo.org",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.cn.gentoo.org",
+            "name": "Any available mirror - rsync.cn.gentoo.org",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.cz.gentoo.org",
+            "name": "Any available mirror - rsync.cz.gentoo.org",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.de.gentoo.org",
+            "name": "Any available mirror - rsync.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.fr.gentoo.org",
+            "name": "Any available mirror - rsync.fr.gentoo.org",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.jp.gentoo.org",
+            "name": "Any available mirror - rsync.jp.gentoo.org",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.kr.gentoo.org",
+            "name": "Any available mirror - rsync.kr.gentoo.org",
+            "description": "",
+            "country-code": "KR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.mirrors.aliyun.com/gentoo-portage/gentoo-portage",
+            "name": "aliyun",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://rsync.nl.gentoo.org",
+            "name": "Any available mirror - rsync.nl.gentoo.org",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.pl.gentoo.org",
+            "name": "Any available mirror - rsync.pl.gentoo.org",
+            "description": "",
+            "country-code": "PL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.pt.gentoo.org",
+            "name": "Any available mirror - rsync.pt.gentoo.org",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.ro.gentoo.org",
+            "name": "Any available mirror - rsync.ro.gentoo.org",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.ru.gentoo.org",
+            "name": "Any available mirror - rsync.ru.gentoo.org",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.sk.gentoo.org",
+            "name": "Any available mirror - rsync.sk.gentoo.org",
+            "description": "",
+            "country-code": "SK",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.tw.gentoo.org",
+            "name": "Any available mirror - rsync.tw.gentoo.org",
+            "description": "",
+            "country-code": "TW",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.uk.gentoo.org",
+            "name": "Any available mirror - rsync.uk.gentoo.org",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.us.gentoo.org",
+            "name": "Any available mirror - rsync.us.gentoo.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.au.gentoo.org",
+            "name": "Swinburne University of Technology - rsync1.au.gentoo.org",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.ca.gentoo.org",
+            "name": "Tera-byte Dot Com Inc - rsync1.ca.gentoo.org",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.cn.gentoo.org",
+            "name": "Tsinghua University - rsync1.cn.gentoo.org",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.cz.gentoo.org",
+            "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s - rsync1.cz.gentoo.org.",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.de.gentoo.org",
+            "name": "Gentoo e.V. - rsync1.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.fr.gentoo.org",
+            "name": "Linuxant.fr - rsync1.fr.gentoo.org",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.kr.gentoo.org",
+            "name": "KAIST - rsync1.kr.gentoo.org",
+            "description": "",
+            "country-code": "KR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.pl.gentoo.org",
+            "name": "Institute of Theoretical Physics University of Wroclaw, Poland - rsync1.pl.gentoo.org",
+            "description": "",
+            "country-code": "PL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.ru.gentoo.org",
+            "name": "bloodhost.ru - rsync1.ru.gentoo.org",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.sk.gentoo.org",
+            "name": "Wheel.sk - rsync1.sk.gentoo.org",
+            "description": "",
+            "country-code": "SK",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync1.tw.gentoo.org",
+            "name": "linux.cs.nctu.edu.tw - rsync1.tw.gentoo.org",
+            "description": "",
+            "country-code": "TW",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync10.de.gentoo.org",
+            "name": "Ruhr-Universit\u00c3\u00a4t Bochum - rsync10.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync11.us.gentoo.org",
+            "name": "Steadfast Networks - rsync11.us.gentoo.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync12.de.gentoo.org",
+            "name": "mirror.amiconsult.de - rsync12.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync15.de.gentoo.org",
+            "name": "RWTH Aachen University",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync2.au.gentoo.org",
+            "name": "Viktor Villafuerte",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync2.ca.gentoo.org",
+            "name": "Gossamer Threads",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync2.nl.gentoo.org",
+            "name": "Universiteit Twente - rsync2.nl.gentoo.org",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync2.pt.gentoo.org",
+            "name": "Rede das Novas Licenciaturas - rsync2.pt.gentoo.org",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync2.ru.gentoo.org",
+            "name": "Yandex.ru - rsync2.ru.gentoo.org",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync2.uk.gentoo.org",
+            "name": "Bytemark Hosting - rsync2.uk.gentoo.org",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync26.us.gentoo.org",
+            "name": "TDS Internet Services - rsync26.us.gentoo.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync3.au.gentoo.org",
+            "name": "Rackspace Technology - rsync3.au.gentoo.org",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync3.ca.gentoo.org",
+            "name": "Memorial University - rsync3.ca.gentoo.org",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync3.cn.gentoo.org",
+            "name": "Rackspace Technology - rsync3.cn.gentoo.org",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync3.ro.gentoo.org",
+            "name": "Romanian Organization Network",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync3.sk.gentoo.org",
+            "name": "Rainside.sk - rsync3.sk.gentoo.org",
+            "description": "",
+            "country-code": "SK",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync3.us.gentoo.org",
+            "name": "Georgia Tech - rsync3.us.gentoo.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync30.us.gentoo.org",
+            "name": "Silicon Valley Web Hosting - rsync30.us.gentoo.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync31.us.gentoo.org",
+            "name": "Rackspace Technology - rsync31.us.gentoo.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync4.ca.gentoo.org",
+            "name": "University of Waterloo - rsync4.ca.gentoo.org",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync4.uk.gentoo.org",
+            "name": "Rackspace Technology - rsync4.uk.gentoo.org",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync5.de.gentoo.org",
+            "name": "I-Node - rsync5.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync5.jp.gentoo.org",
+            "name": "wide.ad.jp - rsync5.jp.gentoo.org",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync6.tw.gentoo.org",
+            "name": "National Center for High-Performance Computing - rsync6.tw.gentoo.org",
+            "description": "",
+            "country-code": "TW",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync7.de.gentoo.org",
+            "name": "stealer.net - rsync7.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync7.pl.gentoo.org",
+            "name": "Vectranet - rsync7.pl.gentoo.org",
+            "description": "",
+            "country-code": "PL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync8.de.gentoo.org",
+            "name": "gentoo64.net - rsync8.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync9.de.gentoo.org",
+            "name": "University of Applied Sciences, Esslingen - rsync9.de.gentoo.org",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        }
+    ]
+}

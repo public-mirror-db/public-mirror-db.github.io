@@ -1,0 +1,26 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "http://archive.kernel.org/centos-vault/",
+            "name": "archive.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://linuxsoft.cern.ch/centos-vault/",
+            "name": "linuxsoft.cern.ch",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.nsc.liu.se/centos-store/",
+            "name": "mirror.nsc.liu.se",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        }
+    ]
+}

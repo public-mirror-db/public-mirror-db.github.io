@@ -1,0 +1,2364 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "http://dfw.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://distrib-coffee.ipsl.jussieu.fr/pub/linux/fedora/linux",
+            "name": "CNRS/IPSL",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://download-cc-rdu01.fedoraproject.org/pub/fedora/linux",
+            "name": "Red Hat",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://download-ib01.fedoraproject.org/pub/fedora/linux",
+            "name": "Red Hat",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://download.nus.edu.sg/mirror/fedora/linux",
+            "name": "Download@NUS",
+            "description": "",
+            "country-code": "SG",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.astra.in.ua",
+            "name": "Astra ISP",
+            "description": "",
+            "country-code": "UA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.c3sl.ufpr.br/linux",
+            "name": "fedora.c3sl.ufpr.br",
+            "description": "",
+            "country-code": "BR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.cu.be/linux",
+            "name": "Cu.be Solutions",
+            "description": "",
+            "country-code": "BE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.ip-connect.info/linux",
+            "name": "IP-Connect.info",
+            "description": "",
+            "country-code": "UA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.ipacct.com/fedora/linux",
+            "name": "IPACCT",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.is.co.za/linux",
+            "name": "Internet Solutions",
+            "description": "",
+            "country-code": "ZA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.angkasa.id/pub/fedora/linux",
+            "name": "mirror.angkasa.id",
+            "description": "",
+            "country-code": "ID",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.constant.com/fedora/linux",
+            "name": "Constant.com",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.digitalpacific.com.au/linux",
+            "name": "Digital Pacific Australia",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.garr.it/fedora/linux",
+            "name": "GARR Mirror",
+            "description": "",
+            "country-code": "IT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.gtcomm.net",
+            "name": "GloboTech_Communication",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.iweb.com/linux",
+            "name": "iWeb inc.",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.liquidtelecom.com/fedora/linux",
+            "name": "Liquid Telecom",
+            "description": "",
+            "country-code": "KE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.liteserver.nl/linux",
+            "name": "LiteServer",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.net.in/fedora/linux",
+            "name": "Fedora-DDCPL",
+            "description": "",
+            "country-code": "IN",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.root.lu",
+            "name": "fedora.mirror.root.lu",
+            "description": "",
+            "country-code": "LU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirror.wearetriple.com/linux",
+            "name": "Triple",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirrors.telekom.ro/pub/fedora/linux",
+            "name": "Telekom Romania",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirrors.theom.nz",
+            "name": "TNZ",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.mirrorservice.org/fedora/linux",
+            "name": "University of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fedora.tu-chemnitz.de/pub/linux/fedora/linux",
+            "name": "fedora.tu-chemnitz.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://fr2.rpmfind.net/linux/fedora/linux",
+            "name": "fr2.rpmfind.net",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp-chi.osuosl.org/pub/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp-nyc.osuosl.org/pub/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp-osl.osuosl.org/pub/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp-stud.hs-esslingen.de/pub/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.acc.umu.se/mirror/fedora/linux",
+            "name": "Academic Computer Club",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.byfly.by/pub/fedoraproject.org/linux",
+            "name": "RUE Beltelecom, MGTS",
+            "description": "",
+            "country-code": "BY",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.cc.uoc.gr/pub/linux/fedora/linux",
+            "name": "UOC",
+            "description": "",
+            "country-code": "GR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.cse.buffalo.edu/pub/fedora/linux",
+            "name": "cse.buffalo.edu",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.dei.uc.pt/pub/linux/fedora",
+            "name": "DEI-FCT-UC",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.fau.de/fedora/linux",
+            "name": "Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.fi.muni.cz/pub/linux/fedora/linux",
+            "name": "Masaryk University, Brno",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.halifax.rwth-aachen.de/fedora/linux",
+            "name": "ftp.halifax.rwth-aachen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora",
+            "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.iinet.net.au/pub/fedora/linux",
+            "name": "iinet.net.au",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.jaist.ac.jp/pub/Linux/Fedora",
+            "name": "JAIST",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.lip6.fr/ftp/pub/linux/distributions/fedora",
+            "name": "LIP6",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.lysator.liu.se/pub/fedora/linux",
+            "name": "Lysator",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.nluug.nl/pub/os/Linux/distr/fedora/linux",
+            "name": "NLUUG-SURFnet",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.otenet.gr/linux/fedora/linux",
+            "name": "OTENET",
+            "description": "",
+            "country-code": "GR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.plusline.net/fedora/linux",
+            "name": "Plus.line AG",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.riken.jp/Linux/fedora",
+            "name": "RIKEN",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.swin.edu.au/fedora",
+            "name": "Fedora Mirror",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.tudelft.nl/download.fedora.redhat.com/linux",
+            "name": "Delft University of Technology",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.udl.es/pub/fedora/linux",
+            "name": "Universitat de Lleida",
+            "description": "",
+            "country-code": "ES",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.uma.es/mirror/fedora/linux",
+            "name": "Universidad de Malaga",
+            "description": "",
+            "country-code": "es",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.uni-kl.de/pub/linux/fedora/linux",
+            "name": "uni-kl.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.upjs.sk/pub/fedora/linux",
+            "name": "ftp.upjs.sk",
+            "description": "",
+            "country-code": "SK",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.usf.edu/pub/fedora/linux",
+            "name": "University of South Florida",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/fedora-projects/fedora/linux",
+            "name": "Yamagata University",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "http://iad.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://linus.iyte.edu.tr/linux/fedora/linux",
+            "name": "Izmir Yuksek Teknoloji Enstitusu",
+            "description": "",
+            "country-code": "TR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://linuxsoft.cern.ch/fedora",
+            "name": "CERN",
+            "description": "",
+            "country-code": "CH",
+            "official-mirror": true
+        },
+        {
+            "url": "http://lon.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.23m.com/fedora/linux",
+            "name": "23media",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.2degrees.nz/fedora/linux",
+            "name": "2degrees",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.aarnet.edu.au/pub/fedora/linux",
+            "name": "AARNet Mirror",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.alwyzon.net/fedora",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.arizona.edu/fedora/linux",
+            "name": "University of Arizona",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.bytemark.co.uk/fedora/linux",
+            "name": "Bytemark Hosting",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.cedia.org.ec/fedora/linux",
+            "name": "CEDIA",
+            "description": "",
+            "country-code": "EC",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.cogentco.com/pub/linux/fedora/linux",
+            "name": "cogentco.com",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.crucial.com.au/fedora/linux",
+            "name": "crucial.com.au",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.csclub.uwaterloo.ca/fedora/linux",
+            "name": "Computer Science Club of the University of Waterloo",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.datacenter.by/pub/fedoraproject.org/linux",
+            "name": "RUE Beltelecom, Datacenter",
+            "description": "",
+            "country-code": "BY",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.datto.com/fedora/primary",
+            "name": "Datto, Inc. (West Chester, PA, US)",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.de.leaseweb.net/fedora/linux",
+            "name": "LeaseWeb",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.dogado.de/fedora/linux",
+            "name": "dogado GmbH",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.dst.ca/fedora",
+            "name": "Digital Shape Technologies Inc.",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.easyspeedy.com/fedora",
+            "name": "EasySpeedy",
+            "description": "",
+            "country-code": "DK",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.facebook.net/fedora/linux",
+            "name": "Facebook",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.fcix.net/fedora/linux",
+            "name": "FCIX Software Mirror",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.ihost.md/fedora",
+            "name": "iHost",
+            "description": "",
+            "country-code": "MD",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.im.jku.at/mirror/fedora/linux",
+            "name": "Johannes Kepler University (JKU)",
+            "description": "",
+            "country-code": "AT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.in2p3.fr/pub/fedora/linux",
+            "name": "IN2P3 Computing Centre",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.init7.net/fedora/fedora/linux",
+            "name": "mirror.init7.net",
+            "description": "",
+            "country-code": "CH",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.isoc.org.il/pub/fedora",
+            "name": "isoc-il",
+            "description": "",
+            "country-code": "IL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.karneval.cz/pub/linux/fedora/linux",
+            "name": "Vodafone Czech Republic",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.library.ucy.ac.cy/linux/fedora/linux",
+            "name": "University of Cyprus, Library",
+            "description": "",
+            "country-code": "CY",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.linux-ia64.org/fedora/linux",
+            "name": "ia64-linux.org",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.lzu.edu.cn/fedora",
+            "name": "Lanzhou University",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.math.princeton.edu/pub/fedora/linux",
+            "name": "mirror.math.princeton.edu",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.metrocast.net/fedora/linux",
+            "name": "mirror.metrocast.net",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.netsite.dk/fedora/linux",
+            "name": "Netsite",
+            "description": "",
+            "country-code": "DK",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.netzwerge.de/fedora/linux",
+            "name": "Netzwerge GmbH",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.nl.leaseweb.net/fedora/linux",
+            "name": "LeaseWeb",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.nonstop.co.il/fedora/linux",
+            "name": "mirror.nonstop.co.il",
+            "description": "",
+            "country-code": "IL",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.optus.net/fedora/linux",
+            "name": "OptusNet",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.prgmr.com/pub/fedora/linux",
+            "name": "prgmr.com, Inc.",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.ps.kz/fedora",
+            "name": "mirror.ps.kz",
+            "description": "",
+            "country-code": "KZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.realcompute.io/fedora/linux",
+            "name": "Real World Group",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.rnet.missouri.edu/fedora/linux",
+            "name": "University of Missouri",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.sfo12.us.leaseweb.net/fedora/linux",
+            "name": "LeaseWeb",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.siena.edu/fedora/linux",
+            "name": "Siena College",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.slu.cz/fedora/linux",
+            "name": "Silesian university in Opava",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.steadfastnet.com/fedora",
+            "name": "Steadfast Networks",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.szerverem.hu/fedora/linux",
+            "name": "szerverem",
+            "description": "",
+            "country-code": "HU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.telepoint.bg/fedora",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.umd.edu/fedora/linux",
+            "name": "U. of Maryland",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.uv.es/mirror/fedora/linux",
+            "name": "IRTIC/Universidad de Valencia",
+            "description": "",
+            "country-code": "ES",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.vpsnet.com/fedora/linux",
+            "name": "mirror.vpsnet.com",
+            "description": "",
+            "country-code": "LT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.web-ster.com/fedora",
+            "name": "Canby Telcom",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror.yandex.ru/fedora/linux",
+            "name": "Yandex",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror2.hs-esslingen.de/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirror2.totbb.net/fedora/linux",
+            "name": "TOT Public Company Limited",
+            "description": "",
+            "country-code": "TH",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.163.com/fedora",
+            "name": "163.com",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.bfsu.edu.cn/fedora",
+            "name": "Beijing Foreign Studies University",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.ipserverone.com/fedora/fedora/linux",
+            "name": "IP Serverone Solutions Sdn Bhd",
+            "description": "",
+            "country-code": "MY",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.kernel.org/fedora",
+            "name": "mirrors.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.liquidweb.com/fedora",
+            "name": "liquidweb.com",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.lug.mtu.edu/fedora/linux",
+            "name": "MTU Linux/UNIX Users' Group",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.mit.edu/fedora/linux",
+            "name": "MIT SIPB",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.n-ix.net/fedora/linux",
+            "name": "Nuremberg Internet Exchange",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.nav.ro/fedora/linux",
+            "name": "NAV Communications",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.netix.net/fedora",
+            "name": "NetiX",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.nipa.cloud/fedora",
+            "name": "NIPA.CLOUD 1st Cloud Thailand",
+            "description": "",
+            "country-code": "TH",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.nxthost.com/fedora",
+            "name": "mirrors.nxthost.com",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.ocf.berkeley.edu/fedora/fedora/linux",
+            "name": "OCF",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.oit.uci.edu/fedora/linux",
+            "name": "UC Irvine",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.pt/fedora",
+            "name": "edgoo networks",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.ptisp.pt/fedora",
+            "name": "mirrors.ptisp.pt",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.rit.edu/fedora/fedora/linux",
+            "name": "Rochester Institute of Technology",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.syringanetworks.net/fedora/linux",
+            "name": "Syringa Networks",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.tscak.com/Fedora/fedora/linux",
+            "name": "Snowcloud Services",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.tuna.tsinghua.edu.cn/fedora",
+            "name": "TUNA",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.xmission.com/fedora/linux",
+            "name": "XMission Internet",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://mirrors.xtom.de/fedora",
+            "name": "xTom",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "http://muug.ca/mirror/fedora/linux",
+            "name": "Manitoba Unix User Group",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ord.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://packages.oit.ncsu.edu/fedora/linux",
+            "name": "NC State University",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://pubmirror1.math.uh.edu/fedora-buffet/fedora/linux",
+            "name": "UH Mathematics",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://repo.fedora.md/fedora/linux",
+            "name": "FedoraMD",
+            "description": "",
+            "country-code": "MD",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ucmirror.canterbury.ac.nz/linux/fedora/linux",
+            "name": "University of Canterbury",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "http://www.fedora.is/fedora",
+            "name": "Opin Kerfi",
+            "description": "",
+            "country-code": "IS",
+            "official-mirror": true
+        },
+        {
+            "url": "http://www.nic.funet.fi/pub/mirrors/fedora.redhat.com/pub/fedora/linux",
+            "name": "ftp.funet.fi",
+            "description": "",
+            "country-code": "FI",
+            "official-mirror": true
+        },
+        {
+            "url": "https://dfw.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://download-cc-rdu01.fedoraproject.org/pub/fedora/linux",
+            "name": "Red Hat",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://download-ib01.fedoraproject.org/pub/fedora/linux",
+            "name": "Red Hat",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://download.nus.edu.sg/mirror/fedora/linux",
+            "name": "Download@NUS",
+            "description": "",
+            "country-code": "SG",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.astra.in.ua",
+            "name": "Astra ISP",
+            "description": "",
+            "country-code": "UA",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.cu.be/linux",
+            "name": "Cu.be Solutions",
+            "description": "",
+            "country-code": "BE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.ip-connect.info/linux",
+            "name": "IP-Connect.info",
+            "description": "",
+            "country-code": "UA",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.ipacct.com/fedora/linux",
+            "name": "IPACCT",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirror.constant.com/fedora/linux",
+            "name": "Constant.com",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirror.digitalpacific.com.au/linux",
+            "name": "Digital Pacific Australia",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirror.garr.it/fedora/linux",
+            "name": "GARR Mirror",
+            "description": "",
+            "country-code": "IT",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirror.liteserver.nl/linux",
+            "name": "LiteServer",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirror.wearetriple.com/linux",
+            "name": "Triple",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirrors.theom.nz",
+            "name": "TNZ",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fedora.mirrorservice.org/fedora/linux",
+            "name": "University of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "https://fr2.rpmfind.net/linux/fedora/linux",
+            "name": "fr2.rpmfind.net",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp-chi.osuosl.org/pub/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp-nyc.osuosl.org/pub/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp-osl.osuosl.org/pub/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp-stud.hs-esslingen.de/pub/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.acc.umu.se/mirror/fedora/linux",
+            "name": "Academic Computer Club",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.byfly.by/pub/fedoraproject.org/linux",
+            "name": "RUE Beltelecom, MGTS",
+            "description": "",
+            "country-code": "BY",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.cc.uoc.gr/pub/linux/fedora/linux",
+            "name": "UOC",
+            "description": "",
+            "country-code": "GR",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.fau.de/fedora/linux",
+            "name": "Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.halifax.rwth-aachen.de/fedora/linux",
+            "name": "ftp.halifax.rwth-aachen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.iij.ad.jp/pub/linux/Fedora",
+            "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.lip6.fr/ftp/pub/linux/distributions/fedora",
+            "name": "LIP6",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.lysator.liu.se/pub/fedora/linux",
+            "name": "Lysator",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.plusline.net/fedora/linux",
+            "name": "Plus.line AG",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.riken.jp/Linux/fedora",
+            "name": "RIKEN",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.upjs.sk/pub/fedora/linux",
+            "name": "ftp.upjs.sk",
+            "description": "",
+            "country-code": "SK",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ftp.yz.yamagata-u.ac.jp/pub/linux/fedora-projects/fedora/linux",
+            "name": "Yamagata University",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "https://iad.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://linuxsoft.cern.ch/fedora",
+            "name": "CERN",
+            "description": "",
+            "country-code": "CH",
+            "official-mirror": true
+        },
+        {
+            "url": "https://lon.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.23m.com/fedora/linux",
+            "name": "23media",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.2degrees.nz/fedora/linux",
+            "name": "2degrees",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.aarnet.edu.au/pub/fedora/linux",
+            "name": "AARNet Mirror",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.alwyzon.net/fedora",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.arizona.edu/fedora/linux",
+            "name": "University of Arizona",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.cedia.org.ec/fedora/linux",
+            "name": "CEDIA",
+            "description": "",
+            "country-code": "EC",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.csclub.uwaterloo.ca/fedora/linux",
+            "name": "Computer Science Club of the University of Waterloo",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.datacenter.by/pub/fedoraproject.org/linux",
+            "name": "RUE Beltelecom, Datacenter",
+            "description": "",
+            "country-code": "BY",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.dogado.de/fedora/linux",
+            "name": "dogado GmbH",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.dst.ca/fedora",
+            "name": "Digital Shape Technologies Inc.",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.facebook.net/fedora/linux",
+            "name": "Facebook",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.ihost.md/fedora",
+            "name": "iHost",
+            "description": "",
+            "country-code": "MD",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.im.jku.at/mirror/fedora/linux",
+            "name": "Johannes Kepler University (JKU)",
+            "description": "",
+            "country-code": "AT",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.in2p3.fr/pub/fedora/linux",
+            "name": "IN2P3 Computing Centre",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.init7.net/fedora/fedora/linux",
+            "name": "mirror.init7.net",
+            "description": "",
+            "country-code": "CH",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.karneval.cz/pub/linux/fedora/linux",
+            "name": "Vodafone Czech Republic",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.linux-ia64.org/fedora/linux",
+            "name": "ia64-linux.org",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.lzu.edu.cn/fedora",
+            "name": "Lanzhou University",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.netsite.dk/fedora/linux",
+            "name": "Netsite",
+            "description": "",
+            "country-code": "DK",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.netzwerge.de/fedora/linux",
+            "name": "Netzwerge GmbH",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.ps.kz/fedora",
+            "name": "mirror.ps.kz",
+            "description": "",
+            "country-code": "KZ",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.realcompute.io/fedora/linux",
+            "name": "Real World Group",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.sjtu.edu.cn/fedora/linux",
+            "name": "SJTUG",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.steadfastnet.com/fedora",
+            "name": "Steadfast Networks",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.szerverem.hu/fedora/linux",
+            "name": "szerverem",
+            "description": "",
+            "country-code": "HU",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.telepoint.bg/fedora",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.umd.edu/fedora/linux",
+            "name": "U. of Maryland",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.vpsnet.com/fedora/linux",
+            "name": "mirror.vpsnet.com",
+            "description": "",
+            "country-code": "LT",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirror.yandex.ru/fedora/linux",
+            "name": "Yandex",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.ipserverone.com/fedora/fedora/linux",
+            "name": "IP Serverone Solutions Sdn Bhd",
+            "description": "",
+            "country-code": "MY",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.lug.mtu.edu/fedora/linux",
+            "name": "MTU Linux/UNIX Users' Group",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.n-ix.net/fedora/linux",
+            "name": "Nuremberg Internet Exchange",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.netix.net/fedora",
+            "name": "NetiX",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.nxthost.com/fedora",
+            "name": "mirrors.nxthost.com",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.ocf.berkeley.edu/fedora/fedora/linux",
+            "name": "OCF",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.pt/fedora",
+            "name": "edgoo networks",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.ptisp.pt/fedora",
+            "name": "mirrors.ptisp.pt",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.rit.edu/fedora/fedora/linux",
+            "name": "Rochester Institute of Technology",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/fedora",
+            "name": "TUNA",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.xmission.com/fedora/linux",
+            "name": "XMission Internet",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.xtom.de/fedora",
+            "name": "xTom",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "https://muug.ca/mirror/fedora/linux",
+            "name": "Manitoba Unix User Group",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "https://ord.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://pubmirror1.math.uh.edu/fedora-buffet/fedora/linux",
+            "name": "UH Mathematics",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "https://www.fedora.is/fedora",
+            "name": "Opin Kerfi",
+            "description": "",
+            "country-code": "IS",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://dfw.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://distrib-coffee.ipsl.jussieu.fr/pub/linux/fedora/linux",
+            "name": "CNRS/IPSL",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://download-cc-rdu01.fedoraproject.org/fedora-enchilada/linux",
+            "name": "Red Hat",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://download-ib01.fedoraproject.org/fedora-enchilada/linux",
+            "name": "Red Hat",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://download.nus.edu.sg/fedora/linux",
+            "name": "Download@NUS",
+            "description": "",
+            "country-code": "SG",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.astra.in.ua/fedora",
+            "name": "Astra ISP",
+            "description": "",
+            "country-code": "UA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.c3sl.ufpr.br/fedora/linux",
+            "name": "fedora.c3sl.ufpr.br",
+            "description": "",
+            "country-code": "BR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.ip-connect.info/fedora/linux",
+            "name": "IP-Connect.info",
+            "description": "",
+            "country-code": "UA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.ipacct.com/fedora/linux",
+            "name": "IPACCT",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.is.co.za/mirror/fedora.redhat.com/linux",
+            "name": "Internet Solutions",
+            "description": "",
+            "country-code": "ZA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.mirror.angkasa.id/fedora-enchilada/linux",
+            "name": "mirror.angkasa.id",
+            "description": "",
+            "country-code": "ID",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.mirror.digitalpacific.com.au/fedora/linux",
+            "name": "Digital Pacific Australia",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.mirror.iweb.com/fedora/linux",
+            "name": "iWeb inc.",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.mirror.liquidtelecom.com/fedora-enchilada/linux",
+            "name": "Liquid Telecom",
+            "description": "",
+            "country-code": "KE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.mirrors.telekom.ro/fedora/linux",
+            "name": "Telekom Romania",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fedora.tu-chemnitz.de/ftp/pub/linux/fedora/linux",
+            "name": "fedora.tu-chemnitz.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://fr2.rpmfind.net/linux/fedora/linux",
+            "name": "fr2.rpmfind.net",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp-chi.osuosl.org/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp-nyc.osuosl.org/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp-osl.osuosl.org/fedora/linux",
+            "name": "Oregon State University Open Source Lab",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp-stud.hs-esslingen.de/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.acc.umu.se/mirror/fedora/linux",
+            "name": "Academic Computer Club",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.byfly.by/fedora-linux",
+            "name": "RUE Beltelecom, MGTS",
+            "description": "",
+            "country-code": "BY",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.cc.uoc.gr/fedora/linux",
+            "name": "UOC",
+            "description": "",
+            "country-code": "GR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.fau.de/fedora/linux",
+            "name": "Friedrich-Alexander-Universitaet Erlangen-Nuernberg",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.fi.muni.cz/pub/linux/fedora/linux",
+            "name": "Masaryk University, Brno",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.halifax.rwth-aachen.de/fedora/linux",
+            "name": "ftp.halifax.rwth-aachen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora",
+            "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.iinet.net.au/redhat-fedora",
+            "name": "iinet.net.au",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.jaist.ac.jp/pub/Linux/Fedora",
+            "name": "JAIST",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.lip6.fr/Fedora",
+            "name": "LIP6",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.lysator.liu.se/pub/fedora/linux",
+            "name": "Lysator",
+            "description": "",
+            "country-code": "SE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.nluug.nl/Fedora/linux",
+            "name": "NLUUG-SURFnet",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.plusline.net/fedora/linux",
+            "name": "Plus.line AG",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.riken.jp/fedora",
+            "name": "RIKEN",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.swin.edu.au/fedora",
+            "name": "Fedora Mirror",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.uni-kl.de/pub/linux/fedora/linux",
+            "name": "uni-kl.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.upjs.sk/pub/fedora/linux",
+            "name": "ftp.upjs.sk",
+            "description": "",
+            "country-code": "SK",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/fedora-projects/fedora/linux",
+            "name": "Yamagata University",
+            "description": "",
+            "country-code": "JP",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://iad.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://linuxsoft.cern.ch/fedora-enchilada",
+            "name": "CERN",
+            "description": "",
+            "country-code": "CH",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://lon.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.23m.com/fedora/linux",
+            "name": "23media",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.2degrees.nz/fedora-enchilada/linux",
+            "name": "2degrees",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.aarnet.edu.au/fedora/linux",
+            "name": "AARNet Mirror",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.alwyzon.net/fedora",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.arizona.edu/fedora/linux",
+            "name": "University of Arizona",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.bytemark.co.uk/fedora/linux",
+            "name": "Bytemark Hosting",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.cedia.org.ec/fedora/linux",
+            "name": "CEDIA",
+            "description": "",
+            "country-code": "EC",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.cogentco.com/fedora-enchilada",
+            "name": "cogentco.com",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.crucial.com.au/fedora/linux",
+            "name": "crucial.com.au",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.csclub.uwaterloo.ca/fedora-enchilada/linux",
+            "name": "Computer Science Club of the University of Waterloo",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.datacenter.by/fedora-linux",
+            "name": "RUE Beltelecom, Datacenter",
+            "description": "",
+            "country-code": "BY",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.datto.com/fedora-primary",
+            "name": "Datto, Inc. (West Chester, PA, US)",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.de.leaseweb.net/fedora",
+            "name": "LeaseWeb",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.dst.ca/fedora",
+            "name": "Digital Shape Technologies Inc.",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.easyspeedy.com/fedora",
+            "name": "EasySpeedy",
+            "description": "",
+            "country-code": "DK",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.facebook.net/fedora/linux",
+            "name": "Facebook",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.ihost.md/fedora",
+            "name": "iHost",
+            "description": "",
+            "country-code": "MD",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.im.jku.at/fedora/linux",
+            "name": "Johannes Kepler University (JKU)",
+            "description": "",
+            "country-code": "AT",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.in2p3.fr/pub/fedora/linux",
+            "name": "IN2P3 Computing Centre",
+            "description": "",
+            "country-code": "FR",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.karneval.cz/fedora/linux",
+            "name": "Vodafone Czech Republic",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.library.ucy.ac.cy/fedora/linux",
+            "name": "University of Cyprus, Library",
+            "description": "",
+            "country-code": "CY",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.liteserver.nl/fedora/linux",
+            "name": "LiteServer",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.math.princeton.edu/pub/fedora/linux",
+            "name": "mirror.math.princeton.edu",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.metrocast.net/Fedora/linux",
+            "name": "mirror.metrocast.net",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.netsite.dk/fedora",
+            "name": "Netsite",
+            "description": "",
+            "country-code": "DK",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.netzwerge.de/fedora/linux",
+            "name": "Netzwerge GmbH",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.nl.leaseweb.net/fedora/linux",
+            "name": "LeaseWeb",
+            "description": "",
+            "country-code": "NL",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.ps.kz/fedora-enchilada",
+            "name": "mirror.ps.kz",
+            "description": "",
+            "country-code": "KZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.realcompute.io/fedora",
+            "name": "Real World Group",
+            "description": "",
+            "country-code": "AU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.rnet.missouri.edu/fedora-enchilada",
+            "name": "University of Missouri",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.sfo12.us.leaseweb.net/fedora",
+            "name": "LeaseWeb",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.sjtu.edu.cn/fedora/linux",
+            "name": "SJTUG",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.slu.cz/fedora/linux",
+            "name": "Silesian university in Opava",
+            "description": "",
+            "country-code": "CZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.steadfastnet.com/fedora",
+            "name": "Steadfast Networks",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.szerverem.hu/fedora/linux",
+            "name": "szerverem",
+            "description": "",
+            "country-code": "HU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.telepoint.bg/fedora",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.umd.edu/fedora/linux",
+            "name": "U. of Maryland",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.uv.es/fedora",
+            "name": "IRTIC/Universidad de Valencia",
+            "description": "",
+            "country-code": "ES",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.web-ster.com/fedora",
+            "name": "Canby Telcom",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror.yandex.ru/fedora/linux",
+            "name": "Yandex",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror2.hs-esslingen.de/fedora-linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirror2.totbb.net/fedora/linux",
+            "name": "TOT Public Company Limited",
+            "description": "",
+            "country-code": "TH",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.163.com/fedora",
+            "name": "163.com",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.bfsu.edu.cn/fedora",
+            "name": "Beijing Foreign Studies University",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.kernel.org/fedora",
+            "name": "mirrors.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.liquidweb.com/fedora",
+            "name": "liquidweb.com",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.lug.mtu.edu/fedora",
+            "name": "MTU Linux/UNIX Users' Group",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.mit.edu/fedora/linux",
+            "name": "MIT SIPB",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.n-ix.net/fedora",
+            "name": "Nuremberg Internet Exchange",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.nav.ro/fedora-enchilada",
+            "name": "NAV Communications",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.netix.net/fedora",
+            "name": "NetiX",
+            "description": "",
+            "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.nipa.cloud/fedora",
+            "name": "NIPA.CLOUD 1st Cloud Thailand",
+            "description": "",
+            "country-code": "TH",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.nxthost.com/fedora",
+            "name": "mirrors.nxthost.com",
+            "description": "",
+            "country-code": "RO",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.ocf.berkeley.edu/fedora-enchilada/linux",
+            "name": "OCF",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.pt/fedora",
+            "name": "edgoo networks",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.ptisp.pt/fedora",
+            "name": "mirrors.ptisp.pt",
+            "description": "",
+            "country-code": "PT",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.rit.edu/fedora",
+            "name": "Rochester Institute of Technology",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.syringanetworks.net/fedora/linux",
+            "name": "Syringa Networks",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/fedora",
+            "name": "TUNA",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.xmission.com/fedora/linux",
+            "name": "XMission Internet",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.xtom.de/fedora",
+            "name": "xTom",
+            "description": "",
+            "country-code": "DE",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://muug.ca/fedora",
+            "name": "Manitoba Unix User Group",
+            "description": "",
+            "country-code": "CA",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ord.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://packages.oit.ncsu.edu/fedora/linux",
+            "name": "NC State University",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://pubmirror1.math.uh.edu/fedora-enchilada/linux",
+            "name": "UH Mathematics",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://repo.fedora.md/fedora/linux",
+            "name": "FedoraMD",
+            "description": "",
+            "country-code": "MD",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.mirror.linux-ia64.org/fedora",
+            "name": "ia64-linux.org",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.mirrors.theom.nz/fedora",
+            "name": "TNZ",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.mirrorservice.org/dl.fedoraproject.org/pub/fedora/linux",
+            "name": "University of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://rsync.nic.funet.fi/ftp/pub/mirrors/fedora.redhat.com/pub/fedora/linux",
+            "name": "ftp.funet.fi",
+            "description": "",
+            "country-code": "FI",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ucmirror.canterbury.ac.nz/mirror/fedora/linux",
+            "name": "University of Canterbury",
+            "description": "",
+            "country-code": "NZ",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://www.fedora.is/fedora",
+            "name": "Opin Kerfi",
+            "description": "",
+            "country-code": "IS",
+            "official-mirror": true
+        }
+    ]
+}

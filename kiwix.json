@@ -1,0 +1,125 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "ftp://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "ftp://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE"
+        },
+        {
+            "url": "ftp://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "ftp://mirrors.dotsrc.org/kiwix",
+            "name": "Dotsrc.org",
+            "country-code": "US",
+            "description": ""
+        },
+        {
+            "url": "ftp://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
+            "description": ""
+        },
+        {
+            "url": "http://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "http://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE"
+        },
+        {
+            "url": "http://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "http://mirrors.dotsrc.org/kiwix",
+            "name": "Dotsrc.org",
+            "country-code": "US",
+            "description": ""
+        },
+        {
+            "url": "http://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
+            "description": ""
+        },
+        {
+            "url": "https://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "https://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE"
+        },
+        {
+            "url": "https://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "https://mirrors.dotsrc.org/kiwix",
+            "name": "Dotsrc.org",
+            "country-code": "US",
+            "description": ""
+        },
+        {
+            "url": "https://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
+            "description": ""
+        },
+        {
+            "url": "rsync://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE"
+        },
+        {
+            "url": "rsync://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN"
+        },
+        {
+            "url": "rsync://mirrors.dotsrc.org/kiwix",
+            "name": "Dotsrc.org",
+            "country-code": "US",
+            "description": ""
+        },
+        {
+            "url": "rsync://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "sources": [
+        {
+            "url": "https://distfiles.gentoo.org"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/kernel",
+            "name": "Tuna",
+            "description": "",
+            "country-code": "CN"
+        }
+    ]
+}

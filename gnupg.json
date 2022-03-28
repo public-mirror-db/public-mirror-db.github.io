@@ -1,0 +1,11 @@
+{
+    "sources": [
+        {
+            "url": "ftp://ftp.gnupg.org/gcrypt/"
+        },
+        {
+            "url": "https://gnupg.org/ftp/gcrypt/"
+        }
+    ],
+    "mirrors": []
+}
