@@ -198,6 +198,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
+            "name": "mirror.truenetwork.ru",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
             "url": "http://mirrors.accretive-networks.net/debian-multimedia/",
             "name": "mirrors.accretive-networks.net",
             "description": "",

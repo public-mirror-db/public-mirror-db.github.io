@@ -1101,6 +1101,13 @@
             "official-mirror": true
         },
         {
+            "url": "ftp://ubuntu.cs.utah.edu/ubuntu/releases/",
+            "name": "University of Utah",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
             "url": "ftp://ubuntu.grena.ge/releases/",
             "name": "GRENA",
             "description": "",
@@ -2389,13 +2396,6 @@
             "official-mirror": true
         },
         {
-            "url": "http://mirror.nju.edu.cn/ubuntu-releases/",
-            "name": "eScience Center, Nanjing University",
-            "description": "",
-            "country-code": "CN",
-            "official-mirror": true
-        },
-        {
             "url": "http://mirror.nl.datapacket.com/ubuntu-releases/",
             "name": "datapacket.com",
             "description": "",
@@ -3152,6 +3152,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://mirrors.vinters.com/ubuntu-releases/",
+            "name": "Vinters",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
             "url": "http://mirrors.xmission.com/ubuntu-cd/",
             "name": "Xmission",
             "description": "",
@@ -3579,6 +3586,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://ubuntu.cs.utah.edu/releases/",
+            "name": "University of Utah",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
             "url": "http://ubuntu.cu.be/",
             "name": "Cu.be Solutions",
             "description": "",
@@ -3618,13 +3632,6 @@
             "name": "HQserv",
             "description": "",
             "country-code": "IL",
-            "official-mirror": true
-        },
-        {
-            "url": "http://ubuntu.hysing.is/ubuntu-releases/",
-            "name": "Advania",
-            "description": "",
-            "country-code": "IS",
             "official-mirror": true
         },
         {
@@ -3716,6 +3723,13 @@
             "name": "Shasta County Office of Education",
             "description": "",
             "country-code": "US",
+            "official-mirror": true
+        },
+        {
+            "url": "http://ubuntu.mirror.snu.edu.in/ubuntu-releases/",
+            "name": "Shiv Nadar University",
+            "description": "",
+            "country-code": "IN",
             "official-mirror": true
         },
         {
@@ -4629,13 +4643,6 @@
             "official-mirror": true
         },
         {
-            "url": "https://mirror.nju.edu.cn/ubuntu-releases/",
-            "name": "eScience Center, Nanjing University",
-            "description": "",
-            "country-code": "CN",
-            "official-mirror": true
-        },
-        {
             "url": "https://mirror.nl.datapacket.com/ubuntu-releases/",
             "name": "datapacket.com",
             "description": "",
@@ -5098,6 +5105,13 @@
             "official-mirror": true
         },
         {
+            "url": "https://mirrors.vinters.com/ubuntu-releases/",
+            "name": "Vinters",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
             "url": "https://mirrors.xmission.com/ubuntu-cd/",
             "name": "Xmission",
             "description": "",
@@ -5319,13 +5333,6 @@
             "name": "GRENA",
             "description": "",
             "country-code": "GE",
-            "official-mirror": true
-        },
-        {
-            "url": "https://ubuntu.hysing.is/ubuntu-releases/",
-            "name": "Advania",
-            "description": "",
-            "country-code": "IS",
             "official-mirror": true
         },
         {
@@ -6162,13 +6169,6 @@
             "official-mirror": true
         },
         {
-            "url": "rsync://mirror.nju.edu.cn/ubuntu-releases/",
-            "name": "eScience Center, Nanjing University",
-            "description": "",
-            "country-code": "CN",
-            "official-mirror": true
-        },
-        {
             "url": "rsync://mirror.nl.leaseweb.net/ubuntu-releases/",
             "name": "LeaseWeb Global B.V.",
             "description": "",
@@ -6582,6 +6582,13 @@
             "official-mirror": true
         },
         {
+            "url": "rsync://mirrors.vinters.com/ubuntu-releases/",
+            "name": "Vinters",
+            "description": "",
+            "country-code": "GB",
+            "official-mirror": true
+        },
+        {
             "url": "rsync://mirrors.xtom.com/ubuntu-releases/",
             "name": "xTom",
             "description": "",
@@ -6845,6 +6852,13 @@
             "name": "NCTUCSCC",
             "description": "",
             "country-code": "TW",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://ubuntu.cs.utah.edu/ubuntu-releases/",
+            "name": "University of Utah",
+            "description": "",
+            "country-code": "US",
             "official-mirror": true
         },
         {

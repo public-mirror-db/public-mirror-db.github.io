@@ -667,6 +667,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://mirror.truenetwork.ru/debian-security/",
+            "name": "mirror.truenetwork.ru",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
             "url": "http://mirror.unair.ac.id/debian-security/",
             "name": "mirror.unair.ac.id",
             "description": "",

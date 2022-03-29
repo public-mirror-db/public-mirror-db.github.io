@@ -856,6 +856,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://mirrors.neusoft.edu.cn/fedora",
+            "name": "Dalian Neusoft University of Information",
+            "description": "",
+            "country-code": "CN",
+            "official-mirror": true
+        },
+        {
             "url": "http://mirrors.nipa.cloud/fedora",
             "name": "NIPA.CLOUD 1st Cloud Thailand",
             "description": "",
@@ -1469,6 +1476,13 @@
             "name": "NetiX",
             "description": "",
             "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "https://mirrors.neusoft.edu.cn/fedora",
+            "name": "Dalian Neusoft University of Information",
+            "description": "",
+            "country-code": "CN",
             "official-mirror": true
         },
         {
@@ -2211,6 +2225,13 @@
             "name": "NetiX",
             "description": "",
             "country-code": "BG",
+            "official-mirror": true
+        },
+        {
+            "url": "rsync://mirrors.neusoft.edu.cn/fedora",
+            "name": "Dalian Neusoft University of Information",
+            "description": "",
+            "country-code": "CN",
             "official-mirror": true
         },
         {

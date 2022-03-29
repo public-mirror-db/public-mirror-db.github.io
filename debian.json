@@ -1637,6 +1637,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://mirror.truenetwork.ru/debian/",
+            "name": "mirror.truenetwork.ru",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
             "url": "http://mirror.uepg.br/debian/",
             "name": "mirror.uepg.br",
             "description": "",

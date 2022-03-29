@@ -520,6 +520,13 @@
             "official-mirror": true
         },
         {
+            "url": "http://mirror.truenetwork.ru/debian-cd/",
+            "name": "mirror.truenetwork.ru",
+            "description": "",
+            "country-code": "RU",
+            "official-mirror": true
+        },
+        {
             "url": "http://mirror.us.leaseweb.net/debian-cd/",
             "name": "mirror.us.leaseweb.net",
             "description": "",

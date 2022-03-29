@@ -5812,6 +5812,13 @@
             "official-mirror": true
         },
         {
+            "url": "https://lug.mines.edu/mirrors/ubuntu/",
+            "name": "Colorado School of Mines",
+            "description": "",
+            "country-code": "US",
+            "official-mirror": true
+        },
+        {
             "url": "https://mirror-gw.elastis.id/ubuntu/",
             "name": "Elastis.id",
             "description": "",
