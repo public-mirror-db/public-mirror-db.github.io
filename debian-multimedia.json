@@ -121,13 +121,6 @@
             "official-mirror": true
         },
         {
-            "url": "http://ftp.tw.debian.org/debian-multimedia/",
-            "name": "ftp.tw.debian.org",
-            "description": "",
-            "country-code": "TW",
-            "official-mirror": true
-        },
-        {
             "url": "http://ftp.uni-kl.de/debian-multimedia/",
             "name": "ftp.uni-kl.de",
             "description": "",
