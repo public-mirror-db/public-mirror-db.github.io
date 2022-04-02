@@ -716,17 +716,6 @@
             "official-mirror": true
         },
         {
-            "url": "http://mirror.lzu.edu.cn/gentoo",
-            "name": "LZU",
-            "description": "Mirror site provided by Lan Zhou University",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
-        },
-        {
             "url": "http://mirror.netcologne.de/gentoo/",
             "name": "Netcologne",
             "description": "",
@@ -886,17 +875,6 @@
             "name": "USTC",
             "description": "Mirror site provided by University of Science and Technology of China",
             "country-code": "CN",
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
-        },
-        {
-            "url": "http://mirrors.xmu.edu.cn/gentoo",
-            "name": "XMU",
-            "description": "Mirror site provided by Xia Men University",
-            "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -1195,17 +1173,6 @@
             "official-mirror": true
         },
         {
-            "url": "https://mirror.lzu.edu.cn/gentoo",
-            "name": "LZU",
-            "description": "Mirror site provided by Lan Zhou University",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
-        },
-        {
             "url": "https://mirror.netcologne.de/gentoo/",
             "name": "Netcologne",
             "description": "",
@@ -1379,17 +1346,6 @@
             "name": "USTC",
             "description": "Mirror site provided by University of Science and Technology of China",
             "country-code": "CN",
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
-        },
-        {
-            "url": "https://mirrors.xmu.edu.cn/gentoo",
-            "name": "XMU",
-            "description": "Mirror site provided by Xia Men University",
-            "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"

@@ -16,17 +16,6 @@
             ]
         },
         {
-            "url": "rsync://mirror.lzu.edu.cn/gentoo-portage",
-            "name": "LZU",
-            "description": "Mirror site provided by Lan Zhou University",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
-        },
-        {
             "url": "rsync://mirrors.dotsrc.org/gentoo-portage",
             "name": "Dotsrc.org",
             "description": "",
@@ -44,17 +33,6 @@
             "country-code": "GB",
             "full-mirror": true,
             "official-mirror": true
-        },
-        {
-            "url": "rsync://mirrors.xmu.edu.cn/gentoo-portage",
-            "name": "XMU",
-            "description": "Mirror site provided by Xia Men University",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
         },
         {
             "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
