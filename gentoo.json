@@ -275,7 +275,12 @@
             "url": "ftp://mirrors.dotsrc.org/gentoo",
             "name": "Dotsrc.org",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "ftp://mirrors.dotsrc.org/gentoo/",
@@ -323,7 +328,12 @@
             "url": "ftp://www.mirrorservice.org/sites/distfiles.gentoo.org",
             "name": "KU Mirror Service",
             "description": "",
-            "country-code": "GB"
+            "country-code": "GB",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://download.nus.edu.sg/mirror/gentoo/",
@@ -630,7 +640,10 @@
             "url": "http://mirror.bit.edu.cn/gentoo",
             "name": "BIT",
             "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN"
+            "country-code": "CN",
+            "address-families": [
+                "ip6"
+            ]
         },
         {
             "url": "http://mirror.bytemark.co.uk/gentoo/",
@@ -706,7 +719,12 @@
             "url": "http://mirror.lzu.edu.cn/gentoo",
             "name": "LZU",
             "description": "Mirror site provided by Lan Zhou University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://mirror.netcologne.de/gentoo/",
@@ -796,7 +814,12 @@
             "url": "http://mirrors.dotsrc.org/gentoo",
             "name": "Dotsrc.org",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://mirrors.dotsrc.org/gentoo/",
@@ -816,7 +839,12 @@
             "url": "http://mirrors.neusoft.edu.cn/gentoo",
             "name": "neusoft",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://mirrors.rit.edu/gentoo/",
@@ -829,7 +857,12 @@
             "url": "http://mirrors.sjtug.sjtu.edu.cn/gentoo",
             "name": "SJTU",
             "description": "Mirror site provided by Shanghai Jiao Tong University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://mirrors.soeasyto.com/distfiles.gentoo.org/",
@@ -842,19 +875,32 @@
             "url": "http://mirrors.sohu.com/gentoo",
             "name": "sohu",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ]
         },
         {
             "url": "http://mirrors.ustc.edu.cn/gentoo",
             "name": "USTC",
             "description": "Mirror site provided by University of Science and Technology of China",
-            "country-code": "CN"
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://mirrors.xmu.edu.cn/gentoo",
             "name": "XMU",
             "description": "Mirror site provided by Xia Men University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://mirrors.xservers.ro/gentoo/",
@@ -867,13 +913,21 @@
             "url": "http://mirrors.yun-idc.com/gentoo",
             "name": "yun-idc",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ]
         },
         {
             "url": "http://mirrors.zju.edu.cn/gentoo",
             "name": "ZJU",
             "description": "Mirror site provided by Zhe Jiang University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ]
         },
         {
             "url": "http://packages.hs-regensburg.de/gentoo-distfiles/",
@@ -900,7 +954,12 @@
             "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org",
             "name": "KU Mirror Service",
             "description": "",
-            "country-code": "GB"
+            "country-code": "GB",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org/",
@@ -1060,7 +1119,10 @@
             "url": "https://mirror.bit.edu.cn/gentoo",
             "name": "BIT",
             "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN"
+            "country-code": "CN",
+            "address-families": [
+                "ip6"
+            ]
         },
         {
             "url": "https://mirror.bytemark.co.uk/gentoo/",
@@ -1136,7 +1198,12 @@
             "url": "https://mirror.lzu.edu.cn/gentoo",
             "name": "LZU",
             "description": "Mirror site provided by Lan Zhou University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://mirror.netcologne.de/gentoo/",
@@ -1219,7 +1286,12 @@
             "url": "https://mirrors.dotsrc.org/gentoo",
             "name": "Dotsrc.org",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://mirrors.dotsrc.org/gentoo/",
@@ -1253,7 +1325,12 @@
             "url": "https://mirrors.neusoft.edu.cn/gentoo",
             "name": "neusoft",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://mirrors.rit.edu/gentoo/",
@@ -1266,7 +1343,12 @@
             "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
             "name": "SJTU",
             "description": "Mirror site provided by Shanghai Jiao Tong University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
@@ -1279,7 +1361,11 @@
             "url": "https://mirrors.sohu.com/gentoo",
             "name": "sohu",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ]
         },
         {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
@@ -1292,25 +1378,42 @@
             "url": "https://mirrors.ustc.edu.cn/gentoo",
             "name": "USTC",
             "description": "Mirror site provided by University of Science and Technology of China",
-            "country-code": "CN"
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://mirrors.xmu.edu.cn/gentoo",
             "name": "XMU",
             "description": "Mirror site provided by Xia Men University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://mirrors.yun-idc.com/gentoo",
             "name": "yun-idc",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ]
         },
         {
             "url": "https://mirrors.zju.edu.cn/gentoo",
             "name": "ZJU",
             "description": "Mirror site provided by Zhe Jiang University",
-            "country-code": "CN"
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ]
         },
         {
             "url": "https://packages.hs-regensburg.de/gentoo-distfiles/",
@@ -1323,7 +1426,12 @@
             "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org",
             "name": "KU Mirror Service",
             "description": "",
-            "country-code": "GB"
+            "country-code": "GB",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
@@ -1602,7 +1710,12 @@
             "url": "rsync://mirrors.dotsrc.org/gentoo",
             "name": "Dotsrc.org",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         },
         {
             "url": "rsync://mirrors.dotsrc.org/gentoo/",
@@ -1657,7 +1770,12 @@
             "url": "rsync://www.mirrorservice.org/sites/distfiles.gentoo.org",
             "name": "KU Mirror Service",
             "description": "",
-            "country-code": "GB"
+            "country-code": "GB",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ]
         }
     ]
 }
