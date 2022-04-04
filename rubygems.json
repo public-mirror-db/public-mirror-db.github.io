@@ -5,7 +5,8 @@
             "url": "https://gems.ruby-china.com",
             "name": "RubyGems - Ruby China",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "role": "wild-mirror"
         }
     ]
 }

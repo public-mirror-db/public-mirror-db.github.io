@@ -5,7 +5,8 @@
             "url": "https://ftp.lysator.liu.se/pub/void-ppc-sources",
             "name": "ftp.lysator.liu.se",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "role": "wild-mirror"
         }
     ]
 }

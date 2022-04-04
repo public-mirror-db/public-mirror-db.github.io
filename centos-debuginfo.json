@@ -6,105 +6,105 @@
             "name": "linuxsoft.cern.ch",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.facebook.net/centos-debuginfo/",
             "name": "mirror.facebook.net",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://planet.centos.org/",
             "name": "planet.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://wiki.centos.org/Contribute",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://wiki.centos.org/FAQ",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://wiki.centos.org/GettingHelp/ListInfo",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://wiki.centos.org/ReportBugs",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://wiki.centos.org/SpecialInterestGroups",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://wiki.centos.org/irc",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.centos.org/about",
             "name": "www.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.centos.org/about/governance",
             "name": "www.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.centos.org/code-of-conduct",
             "name": "www.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.centos.org/community/calendar/",
             "name": "www.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.centos.org/forums/",
             "name": "www.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.centos.org/variants",
             "name": "www.centos.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         }
     ]
 }

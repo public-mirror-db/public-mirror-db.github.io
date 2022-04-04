@@ -5,25 +5,29 @@
             "url": "http://registry.npm.taobao.org",
             "name": "Taobao NPM registry",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "role": "wild-mirror"
         },
         {
             "url": "https://r.cnpmjs.org",
             "name": "r.cnpmjs.org",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "role": "wild-mirror"
         },
         {
             "url": "https://registry.yarnpkg.com",
             "name": "registry.yarnpkg.com",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "role": "wild-mirror"
         },
         {
             "url": "https://skimdb.npmjs.com/registry",
             "name": "skimdb.npmjs.com",
             "description": "",
-            "country-code": "US"
+            "country-code": "US",
+            "role": "wild-mirror"
         }
     ]
 }

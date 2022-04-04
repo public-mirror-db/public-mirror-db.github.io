@@ -10,266 +10,266 @@
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.dei.uc.pt/pub/linux/gentoo/",
             "name": "University of Coimbra",
             "description": "",
             "country-code": "PT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.fau.de/gentoo",
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.fi.muni.cz/pub/linux/gentoo/",
             "name": "Masaryk University Brno",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.free.fr/mirrors/ftp.gentoo.org/",
             "name": "Free",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.gwdg.de/pub/linux/gentoo/",
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.halifax.rwth-aachen.de/gentoo/",
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.iij.ad.jp/pub/linux/gentoo/",
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.jaist.ac.jp/pub/Linux/Gentoo/",
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.kaist.ac.kr/gentoo/",
             "name": "KAIST",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.lanet.kr/pub/gentoo/",
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.leg.uct.ac.za/pub/linux/gentoo/",
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.mirrorservice.org/sites/distfiles.gentoo.org/",
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
             "name": "National Technical University of Athens",
             "description": "",
             "country-code": "GR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.snt.utwente.nl/pub/os/linux/gentoo",
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.swin.edu.au/gentoo",
             "name": "Swinburne University of Technology",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.tu-ilmenau.de/mirror/gentoo/",
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.twaren.net/Linux/Gentoo/",
             "name": "National Center for High-Performance Computing",
             "description": "",
             "country-code": "TW",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.uni-hannover.de/gentoo/",
             "name": "Leibniz Universit\u00c3\u00a4t Hannover",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.vectranet.pl/gentoo/",
             "name": "Vectranet",
             "description": "",
             "country-code": "PL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://gentoo.bloodhost.ru/",
             "name": "Bloodhost.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://gentoo.mirror.web4u.cz/",
             "name": "Web4U Mirror",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://linux.rz.ruhr-uni-bochum.de/gentoo-mirror/",
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.bytemark.co.uk/gentoo/",
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.dkm.cz/gentoo/",
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.lagoon.nc/gentoo/",
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.netcologne.de/gentoo/",
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.ps.kz/gentoo/pub",
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.rise.ph/gentoo",
             "name": "RISE",
             "description": "",
             "country-code": "PH",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.root.lu/gentoo/",
             "name": "root S.A.",
             "description": "",
             "country-code": "LU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.yandex.ru/gentoo-distfiles/",
             "name": "Yandex.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirrors.dotsrc.org/gentoo",
@@ -280,49 +280,50 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "ftp://mirrors.dotsrc.org/gentoo/",
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirrors.gethosted.online/gentoo",
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirrors.rit.edu/gentoo/",
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirrors.soeasyto.com/distfiles.gentoo.org/",
             "name": "soeasyto.com",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://mirrors.tera-byte.com/pub/gentoo",
             "name": "Tera-byte Dot Com Inc",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://tux.rainside.sk/gentoo/",
             "name": "Rainside.sk",
             "description": "",
             "country-code": "SK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "ftp://www.mirrorservice.org/sites/distfiles.gentoo.org",
@@ -333,471 +334,463 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://download.nus.edu.sg/mirror/gentoo/",
             "name": "National University of Singapore",
             "description": "",
             "country-code": "SG",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://download.nust.na/pub/gentoo/",
             "name": "Namibia University of Science and Technology",
             "description": "",
             "country-code": "NA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.belnet.be/pub/rsync.gentoo.org/gentoo/",
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.daum.net/gentoo/",
             "name": "Daum Communications Corp",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.dei.uc.pt/pub/linux/gentoo/",
             "name": "University of Coimbra",
             "description": "",
             "country-code": "PT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.fau.de/gentoo",
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.fi.muni.cz/pub/linux/gentoo/",
             "name": "Masaryk University Brno",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.free.fr/mirrors/ftp.gentoo.org/",
             "name": "Free",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.gwdg.de/pub/linux/gentoo/",
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.halifax.rwth-aachen.de/gentoo/",
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.iij.ad.jp/pub/linux/gentoo/",
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.jaist.ac.jp/pub/Linux/Gentoo/",
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.kaist.ac.kr/pub/gentoo/",
             "name": "KAIST",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.lanet.kr/pub/gentoo/",
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.leg.uct.ac.za/pub/linux/gentoo/",
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.ntua.gr/pub/linux/gentoo/",
             "name": "National Technical University of Athens",
             "description": "",
             "country-code": "GR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.riken.jp/Linux/gentoo/",
             "name": "RIKEN",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.romnet.org/gentoo/",
             "name": "Romanian Organization Network",
             "description": "",
             "country-code": "RO",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.snt.utwente.nl/pub/os/linux/gentoo",
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.swin.edu.au/gentoo",
             "name": "Swinburne University of Technology",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.tu-ilmenau.de/mirror/gentoo/",
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.twaren.net/Linux/Gentoo/",
             "name": "National Center for High-Performance Computing",
             "description": "",
             "country-code": "TW",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.uni-hannover.de/gentoo/",
             "name": "Leibniz Universit\u00c3\u00a4t Hannover",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.vectranet.pl/gentoo/",
             "name": "Vectranet",
             "description": "",
             "country-code": "PL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo-mirror.alexxy.name/",
             "name": "Alexxy.name",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.aditsu.net:8000/",
             "name": "aditsu.net",
             "description": "",
             "country-code": "HK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.bloodhost.ru/",
             "name": "Bloodhost.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.c3sl.ufpr.br/",
             "name": "C3SL, Federal University of Paran\u00c3\u00a1",
             "description": "",
             "country-code": "BR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.gossamerhost.com",
             "name": "Gossamer Threads",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirror.garr.it/",
             "name": "GARR",
             "description": "",
             "country-code": "IT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirror.root.lu/",
             "name": "root S.A.",
             "description": "",
             "country-code": "LU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirror.web4u.cz/",
             "name": "Web4U Mirror",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
             "name": "OVH",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirrors.pair.com/",
             "name": "Pair Networks",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirrors.tds.net/gentoo",
             "name": "TDS Internet Services",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.mirrors.tera-byte.com/",
             "name": "Tera-byte Dot Com Inc",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.modulix.net/gentoo/",
             "name": "modulix.net",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://gentoo.osuosl.org/",
             "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.aarnet.edu.au/pub/gentoo/",
             "name": "AARnet",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
-        },
-        {
-            "url": "http://mirror.bit.edu.cn/gentoo",
-            "name": "BIT",
-            "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN",
-            "address-families": [
-                "ip6"
-            ]
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.bytemark.co.uk/gentoo/",
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.dkm.cz/gentoo/",
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
             "name": "1&1 Internet SE",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.init7.net/gentoo/",
             "name": "Init7",
             "description": "",
             "country-code": "CH",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.isoc.org.il/pub/gentoo/",
             "name": "Hamakor FOSS Society",
             "description": "",
             "country-code": "IL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.lagoon.nc/gentoo/",
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Amsterdam)",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.netcologne.de/gentoo/",
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.ps.kz/gentoo/pub",
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.rise.ph/gentoo",
             "name": "RISE",
             "description": "",
             "country-code": "PH",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.ufro.cl/gentoo/",
             "name": "Universidad de La Frontera",
             "description": "",
             "country-code": "CL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.wheel.sk/gentoo",
             "name": "Wheel.sk",
             "description": "",
             "country-code": "SK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.yandex.ru/gentoo-distfiles/",
             "name": "Yandex.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.163.com/gentoo/",
             "name": "Netease.com, Inc.",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.aliyun.com/gentoo/",
             "name": "Alibaba Cloud Computing",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.dotsrc.org/gentoo",
@@ -808,21 +801,22 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://mirrors.dotsrc.org/gentoo/",
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.gethosted.online/gentoo",
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.neusoft.edu.cn/gentoo",
@@ -833,14 +827,15 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://mirrors.rit.edu/gentoo/",
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.sjtug.sjtu.edu.cn/gentoo",
@@ -851,14 +846,15 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://mirrors.soeasyto.com/distfiles.gentoo.org/",
             "name": "soeasyto.com",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.sohu.com/gentoo",
@@ -868,24 +864,15 @@
             "full-mirror": true,
             "address-families": [
                 "ip"
-            ]
-        },
-        {
-            "url": "http://mirrors.ustc.edu.cn/gentoo",
-            "name": "USTC",
-            "description": "Mirror site provided by University of Science and Technology of China",
-            "country-code": "CN",
-            "address-families": [
-                "ip",
-                "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://mirrors.xservers.ro/gentoo/",
             "name": "xservers.ro Gazduire Web",
             "description": "",
             "country-code": "RO",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.yun-idc.com/gentoo",
@@ -895,7 +882,8 @@
             "full-mirror": true,
             "address-families": [
                 "ip"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://mirrors.zju.edu.cn/gentoo",
@@ -904,29 +892,31 @@
             "country-code": "CN",
             "full-mirror": true,
             "address-families": [
-                "ip"
-            ]
+                "ip",
+                "ip6"
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://packages.hs-regensburg.de/gentoo-distfiles/",
             "name": "Ostbayerische Technische Hochschule Regensburg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://tux.rainside.sk/gentoo/",
             "name": "Rainside.sk",
             "description": "",
             "country-code": "SK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://www.gtlib.gatech.edu/pub/gentoo",
             "name": "Georgia Tech",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org",
@@ -937,317 +927,309 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org/",
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://download.nus.edu.sg/mirror/gentoo/",
             "name": "National University of Singapore",
             "description": "",
             "country-code": "SG",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/gentoo/",
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.belnet.be/pub/rsync.gentoo.org/gentoo/",
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.fau.de/gentoo",
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.gwdg.de/pub/linux/gentoo/",
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.halifax.rwth-aachen.de/gentoo/",
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.jaist.ac.jp/pub/Linux/Gentoo/",
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.lanet.kr/pub/gentoo/",
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.leg.uct.ac.za/pub/linux/gentoo/",
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.linux.org.tr/gentoo/",
             "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
             "description": "",
             "country-code": "TR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.riken.jp/Linux/gentoo/",
             "name": "RIKEN",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.snt.utwente.nl/pub/os/linux/gentoo",
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.tu-ilmenau.de/mirror/gentoo/",
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://ftp.uni-hannover.de/gentoo/",
             "name": "Leibniz Universit\u00c3\u00a4t Hannover",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://gentoo-mirror.alexxy.name/",
             "name": "Alexxy.name",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://gentoo.c3sl.ufpr.br/",
             "name": "C3SL, Federal University of Paran\u00c3\u00a1",
             "description": "",
             "country-code": "BR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://gentoo.mirror.garr.it/",
             "name": "GARR",
             "description": "",
             "country-code": "IT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://gentoo.osuosl.org/",
             "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.aarnet.edu.au/pub/gentoo/",
             "name": "AARnet",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
-        },
-        {
-            "url": "https://mirror.bit.edu.cn/gentoo",
-            "name": "BIT",
-            "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN",
-            "address-families": [
-                "ip6"
-            ]
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.bytemark.co.uk/gentoo/",
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.csclub.uwaterloo.ca/gentoo-distfiles/",
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.dkm.cz/gentoo/",
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.eu.oneandone.net/linux/distributions/gentoo/gentoo/",
             "name": "1&1 Internet SE",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.init7.net/gentoo/",
             "name": "Init7",
             "description": "",
             "country-code": "CH",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.isoc.org.il/pub/gentoo/",
             "name": "Hamakor FOSS Society",
             "description": "",
             "country-code": "IL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.lagoon.nc/gentoo/",
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Amsterdam)",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.netcologne.de/gentoo/",
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.ps.kz/gentoo/pub",
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.ufro.cl/gentoo/",
             "name": "Universidad de La Frontera",
             "description": "",
             "country-code": "CL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.wheel.sk/gentoo",
             "name": "Wheel.sk",
             "description": "",
             "country-code": "SK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirror.yandex.ru/gentoo-distfiles/",
             "name": "Yandex.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.163.com/gentoo/",
             "name": "Netease.com, Inc.",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.aliyun.com/gentoo/",
             "name": "Alibaba Cloud Computing",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.dotsrc.org/gentoo",
@@ -1258,35 +1240,36 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://mirrors.dotsrc.org/gentoo/",
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.gethosted.online/gentoo",
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.ircam.fr/pub/gentoo-distfiles/",
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.ircam.fr/pub/gentoo-distfiles/",
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.neusoft.edu.cn/gentoo",
@@ -1297,14 +1280,15 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://mirrors.rit.edu/gentoo/",
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.sjtug.sjtu.edu.cn/gentoo",
@@ -1315,14 +1299,15 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://mirrors.soeasyto.com/distfiles.gentoo.org/",
             "name": "soeasyto.com",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.sohu.com/gentoo",
@@ -1332,14 +1317,15 @@
             "full-mirror": true,
             "address-families": [
                 "ip"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo",
             "name": "Tsinghua University",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.ustc.edu.cn/gentoo",
@@ -1349,7 +1335,8 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://mirrors.yun-idc.com/gentoo",
@@ -1359,7 +1346,8 @@
             "full-mirror": true,
             "address-families": [
                 "ip"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://mirrors.zju.edu.cn/gentoo",
@@ -1368,15 +1356,17 @@
             "country-code": "CN",
             "full-mirror": true,
             "address-families": [
-                "ip"
-            ]
+                "ip",
+                "ip6"
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://packages.hs-regensburg.de/gentoo-distfiles/",
             "name": "Ostbayerische Technische Hochschule Regensburg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org",
@@ -1387,280 +1377,281 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org/",
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://download.nus.edu.sg/gentoo/",
             "name": "National University of Singapore",
             "description": "",
             "country-code": "SG",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp-stud.hs-esslingen.de/gentoo/",
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.belnet.be/gentoo/gentoo/",
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.fau.de/gentoo",
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.fi.muni.cz/pub/linux/gentoo/",
             "name": "Masaryk University Brno",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.gwdg.de/gentoo/",
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.halifax.rwth-aachen.de/gentoo/",
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.jaist.ac.jp/pub/Linux/Gentoo/",
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.leg.uct.ac.za/pub/linux/gentoo/",
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.linux.org.tr/gentoo-distfiles/",
             "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
             "description": "",
             "country-code": "TR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.riken.jp/gentoo/",
             "name": "RIKEN",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.snt.utwente.nl/gentoo",
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.tu-ilmenau.de/gentoo/",
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.vectranet.pl/gentoo/",
             "name": "Vectranet",
             "description": "",
             "country-code": "PL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://ftp.wh2.tu-dresden.de/gentoo",
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://gentoo.bloodhost.ru/gentoo-distfiles",
             "name": "Bloodhost.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
             "name": "C3SL, Federal University of Paran\u00c3\u00a1",
             "description": "",
             "country-code": "BR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://gentoo.gossamerhost.com/gentoo-distfiles/",
             "name": "Gossamer Threads",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://gentoo.ufro.cl/gentoo/",
             "name": "Universidad de La Frontera",
             "description": "",
             "country-code": "CL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://linux.rz.ruhr-uni-bochum.de/gentoo",
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.aarnet.edu.au/pub/gentoo/",
             "name": "AARnet",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.bytemark.co.uk/gentoo/",
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.csclub.uwaterloo.ca/gentoo-distfiles",
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.dkm.cz/gentoo/",
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.eu.oneandone.net/gentoo/",
             "name": "1&1 Internet SE",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.init7.net/gentoo/",
             "name": "Init7",
             "description": "",
             "country-code": "CH",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.lagoon.nc/gentoo/",
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Amsterdam)",
             "description": "",
             "country-code": "NL",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.netcologne.de/gentoo/",
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.ps.kz/gentoo",
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirrors.dotsrc.org/gentoo",
@@ -1671,56 +1662,57 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "rsync://mirrors.dotsrc.org/gentoo/",
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirrors.ircam.fr/pub/gentoo-distfiles/",
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirrors.rit.edu/gentoo/",
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirrors.tera-byte.com/gentoo",
             "name": "Tera-byte Dot Com Inc",
             "description": "",
             "country-code": "CA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://packages.hs-regensburg.de/gentoo-distfiles/",
             "name": "Ostbayerische Technische Hochschule Regensburg",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.gtlib.gatech.edu/gentoo",
             "name": "Georgia Tech",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.mirrorservice.org/distfiles.gentoo.org/",
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://www.mirrorservice.org/sites/distfiles.gentoo.org",
@@ -1731,7 +1723,8 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         }
     ]
 }

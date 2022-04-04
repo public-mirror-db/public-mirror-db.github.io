@@ -9,7 +9,8 @@
             "url": "https://mirrors.tuna.tsinghua.edu.cn/kernel",
             "name": "Tuna",
             "description": "",
-            "country-code": "CN"
+            "country-code": "CN",
+            "role": "wild-mirror"
         }
     ]
 }

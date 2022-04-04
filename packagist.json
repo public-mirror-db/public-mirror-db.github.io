@@ -6,112 +6,112 @@
             "name": "developer.aliyun.com",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.cloud.tencent.com/help/composer.html",
             "name": "mirrors.cloud.tencent.com",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://mirrors.huaweicloud.com/repository/php",
             "name": "mirrors.huaweicloud.com",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.co.za",
             "name": "packagist.co.za",
             "description": "",
             "country-code": "ZA",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.com.br",
             "name": "packagist.com.br",
             "description": "",
             "country-code": "BR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.fi",
             "name": "packagist.fi",
             "description": "",
             "country-code": "FI",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.hesse.im",
             "name": "packagist.hesse.im",
             "description": "",
             "country-code": "DE",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.in",
             "name": "packagist.in",
             "description": "",
             "country-code": "IN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.jp",
             "name": "packagist.jp",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.kr",
             "name": "packagist.kr",
             "description": "",
             "country-code": "KR",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.mirrors.sjtug.sjtu.edu.cn",
             "name": "packagist.mirrors.sjtug.sjtu.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.mycools.in.th/",
             "name": "packagist.mycools.in.th",
             "description": "",
             "country-code": "TH",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.phpcomposer.com",
             "name": "packagist.phpcomposer.com",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.phpindonesia.id",
             "name": "packagist.phpindonesia.id",
             "description": "",
             "country-code": "ID",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://packagist.tw/",
             "name": "packagist.tw",
             "description": "",
             "country-code": "TW",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "https://php.cnpkg.org",
             "name": "php.cnpkg.org",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         }
     ]
 }

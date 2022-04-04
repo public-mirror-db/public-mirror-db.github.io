@@ -6,35 +6,35 @@
             "name": "hanzubon.jp",
             "description": "",
             "country-code": "JP",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.nju.edu.cn/debian-nonfree/",
             "name": "mirror.nju.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.bfsu.edu.cn/debian-nonfree/",
             "name": "mirrors.bfsu.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
             "name": "mirrors.ocf.berkeley.edu",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-nonfree/",
             "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror": true
+            "role": "official-mirror"
         }
     ]
 }

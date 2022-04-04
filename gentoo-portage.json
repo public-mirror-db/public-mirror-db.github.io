@@ -6,16 +6,6 @@
     ],
     "mirrors": [
         {
-            "url": "rsync://mirror.bit.edu.cn/gentoo-portage",
-            "name": "BIT",
-            "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip6"
-            ]
-        },
-        {
             "url": "rsync://mirrors.dotsrc.org/gentoo-portage",
             "name": "Dotsrc.org",
             "description": "",
@@ -24,7 +14,8 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "rsync://mirrors.gethosted.online/gentoo",
@@ -32,7 +23,7 @@
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
@@ -42,7 +33,8 @@
             "full-mirror": true,
             "address-families": [
                 "ip"
-            ]
+            ],
+            "role": "wild-mirror"
         },
         {
             "url": "rsync://rsync.au.gentoo.org",
@@ -50,7 +42,7 @@
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.br.gentoo.org",
@@ -58,7 +50,7 @@
             "description": "",
             "country-code": "BR",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.ca.gentoo.org",
@@ -66,7 +58,7 @@
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.cn.gentoo.org",
@@ -74,7 +66,7 @@
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.cz.gentoo.org",
@@ -82,7 +74,7 @@
             "description": "",
             "country-code": "CZ",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.de.gentoo.org",
@@ -90,7 +82,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.fr.gentoo.org",
@@ -98,7 +90,7 @@
             "description": "",
             "country-code": "FR",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.jp.gentoo.org",
@@ -106,7 +98,7 @@
             "description": "",
             "country-code": "JP",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.kr.gentoo.org",
@@ -114,7 +106,7 @@
             "description": "",
             "country-code": "KR",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.nl.gentoo.org",
@@ -122,7 +114,7 @@
             "description": "",
             "country-code": "NL",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.pl.gentoo.org",
@@ -130,7 +122,7 @@
             "description": "",
             "country-code": "PL",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.pt.gentoo.org",
@@ -138,7 +130,7 @@
             "description": "",
             "country-code": "PT",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.ro.gentoo.org",
@@ -146,7 +138,7 @@
             "description": "",
             "country-code": "RO",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.ru.gentoo.org",
@@ -154,7 +146,7 @@
             "description": "",
             "country-code": "RU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.sk.gentoo.org",
@@ -162,7 +154,7 @@
             "description": "",
             "country-code": "SK",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.tw.gentoo.org",
@@ -170,7 +162,7 @@
             "description": "",
             "country-code": "TW",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.uk.gentoo.org",
@@ -178,7 +170,7 @@
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync.us.gentoo.org",
@@ -186,7 +178,7 @@
             "description": "",
             "country-code": "US",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.au.gentoo.org",
@@ -194,7 +186,7 @@
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.ca.gentoo.org",
@@ -202,7 +194,7 @@
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.cn.gentoo.org",
@@ -210,7 +202,7 @@
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.cz.gentoo.org",
@@ -218,7 +210,7 @@
             "description": "",
             "country-code": "CZ",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.de.gentoo.org",
@@ -226,7 +218,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.fr.gentoo.org",
@@ -234,7 +226,7 @@
             "description": "",
             "country-code": "FR",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.kr.gentoo.org",
@@ -242,7 +234,7 @@
             "description": "",
             "country-code": "KR",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.pl.gentoo.org",
@@ -250,7 +242,7 @@
             "description": "",
             "country-code": "PL",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.ru.gentoo.org",
@@ -258,7 +250,7 @@
             "description": "",
             "country-code": "RU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.sk.gentoo.org",
@@ -266,7 +258,7 @@
             "description": "",
             "country-code": "SK",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync1.tw.gentoo.org",
@@ -274,7 +266,7 @@
             "description": "",
             "country-code": "TW",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync10.de.gentoo.org",
@@ -282,7 +274,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync11.us.gentoo.org",
@@ -290,7 +282,7 @@
             "description": "",
             "country-code": "US",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync12.de.gentoo.org",
@@ -298,7 +290,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync15.de.gentoo.org",
@@ -306,7 +298,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync2.au.gentoo.org",
@@ -314,7 +306,7 @@
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync2.ca.gentoo.org",
@@ -322,7 +314,7 @@
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync2.nl.gentoo.org",
@@ -330,7 +322,7 @@
             "description": "",
             "country-code": "NL",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync2.pt.gentoo.org",
@@ -338,7 +330,7 @@
             "description": "",
             "country-code": "PT",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync2.ru.gentoo.org",
@@ -346,7 +338,7 @@
             "description": "",
             "country-code": "RU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync2.uk.gentoo.org",
@@ -354,7 +346,7 @@
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync26.us.gentoo.org",
@@ -362,7 +354,7 @@
             "description": "",
             "country-code": "US",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync3.au.gentoo.org",
@@ -370,7 +362,7 @@
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync3.ca.gentoo.org",
@@ -378,7 +370,7 @@
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync3.cn.gentoo.org",
@@ -386,7 +378,7 @@
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync3.ro.gentoo.org",
@@ -394,7 +386,7 @@
             "description": "",
             "country-code": "RO",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync3.sk.gentoo.org",
@@ -402,7 +394,7 @@
             "description": "",
             "country-code": "SK",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync3.us.gentoo.org",
@@ -410,7 +402,7 @@
             "description": "",
             "country-code": "US",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync30.us.gentoo.org",
@@ -418,7 +410,7 @@
             "description": "",
             "country-code": "US",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync31.us.gentoo.org",
@@ -426,7 +418,7 @@
             "description": "",
             "country-code": "US",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync4.ca.gentoo.org",
@@ -434,7 +426,7 @@
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync4.uk.gentoo.org",
@@ -442,7 +434,7 @@
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync5.de.gentoo.org",
@@ -450,7 +442,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync5.jp.gentoo.org",
@@ -458,7 +450,7 @@
             "description": "",
             "country-code": "JP",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync6.tw.gentoo.org",
@@ -466,7 +458,7 @@
             "description": "",
             "country-code": "TW",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync7.de.gentoo.org",
@@ -474,7 +466,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync7.pl.gentoo.org",
@@ -482,7 +474,7 @@
             "description": "",
             "country-code": "PL",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync8.de.gentoo.org",
@@ -490,7 +482,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "rsync://rsync9.de.gentoo.org",
@@ -498,7 +490,7 @@
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
-            "official-mirror": true
+            "role": "official-mirror"
         }
     ]
 }

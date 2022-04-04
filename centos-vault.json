@@ -6,21 +6,21 @@
             "name": "archive.kernel.org",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://linuxsoft.cern.ch/centos-vault/",
             "name": "linuxsoft.cern.ch",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         },
         {
             "url": "http://mirror.nsc.liu.se/centos-store/",
             "name": "mirror.nsc.liu.se",
             "description": "",
             "country-code": "US",
-            "official-mirror": true
+            "role": "official-mirror"
         }
     ]
 }
