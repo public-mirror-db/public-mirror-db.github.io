@@ -9,6 +9,13 @@
             "role": "wild-mirror"
         },
         {
+            "url": "https://skimdb.npmjs.com/registry",
+            "name": "skimdb.npmjs.com",
+            "description": "",
+            "country-code": "US",
+            "role": "wild-mirror"
+        },
+        {
             "url": "https://r.cnpmjs.org",
             "name": "r.cnpmjs.org",
             "description": "",
@@ -18,13 +25,6 @@
         {
             "url": "https://registry.yarnpkg.com",
             "name": "registry.yarnpkg.com",
-            "description": "",
-            "country-code": "US",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "https://skimdb.npmjs.com/registry",
-            "name": "skimdb.npmjs.com",
             "description": "",
             "country-code": "US",
             "role": "wild-mirror"

@@ -6,7 +6,7 @@
             "name": "ftp.debian.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -14,15 +14,7 @@
             "name": "ftp.dk.xemacs.org",
             "description": "",
             "country-code": "DK",
-            "official-mirror-tier": 2,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpha.de.repo.voidlinux.org/",
-            "name": "alpha.de.repo.voidlinux.org",
-            "description": "",
-            "country-code": "FI",
-            "official-mirror-tier": 1,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -30,7 +22,7 @@
             "name": "cdimage.debian.org",
             "description": "",
             "country-code": "SE",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -38,7 +30,7 @@
             "name": "ftp.acc.umu.se",
             "description": "",
             "country-code": "SE",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -46,7 +38,7 @@
             "name": "ftp.lysator.liu.se",
             "description": "",
             "country-code": "SE",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -54,7 +46,7 @@
             "name": "ftp.sunet.se",
             "description": "",
             "country-code": "SE",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -62,7 +54,7 @@
             "name": "ftp.swin.edu.au",
             "description": "",
             "country-code": "AU",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -70,7 +62,7 @@
             "name": "mirror.aarnet.edu.au",
             "description": "",
             "country-code": "AU",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -78,7 +70,7 @@
             "name": "mirror.clarkson.edu",
             "description": "",
             "country-code": "US",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -86,7 +78,7 @@
             "name": "mirror.fit.cvut.cz",
             "description": "",
             "country-code": "CZ",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -94,7 +86,7 @@
             "name": "mirror.ps.kz",
             "description": "",
             "country-code": "KZ",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -102,7 +94,7 @@
             "name": "mirror.sjtu.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -110,7 +102,7 @@
             "name": "mirror.yandex.ru",
             "description": "",
             "country-code": "RU",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -118,7 +110,7 @@
             "name": "mirrors.bfsu.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -126,7 +118,7 @@
             "name": "mirrors.cnnic.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -134,15 +126,7 @@
             "name": "mirrors.dotsrc.org",
             "description": "",
             "country-code": "DK",
-            "official-mirror-tier": 2,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.servercentral.com/voidlinux/",
-            "name": "mirrors.servercentral.com",
-            "description": "",
-            "country-code": "US",
-            "official-mirror-tier": 1,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -150,7 +134,7 @@
             "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -158,23 +142,7 @@
             "name": "quantum-mirror.hu",
             "description": "",
             "country-code": "HU",
-            "official-mirror-tier": 2,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://repo-fi.voidlinux.org/",
-            "name": "repo-fi.voidlinux.org",
-            "description": "",
-            "country-code": "FI",
-            "official-mirror-tier": 1,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://repo-us.voidlinux.org/",
-            "name": "repo-us.voidlinux.org",
-            "description": "",
-            "country-code": "US",
-            "official-mirror-tier": 1,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -182,7 +150,7 @@
             "name": "void.cijber.net",
             "description": "",
             "country-code": "NL",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -190,7 +158,7 @@
             "name": "void.sakamoto.pl",
             "description": "",
             "country-code": "PL",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -198,7 +166,7 @@
             "name": "void.webconverger.org",
             "description": "",
             "country-code": "SG",
-            "official-mirror-tier": 2,
+            "tier": 2,
             "role": "official-mirror"
         },
         {
@@ -206,7 +174,39 @@
             "name": "voidlinux.mirror.garr.it",
             "description": "",
             "country-code": "IT",
-            "official-mirror-tier": 2,
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpha.de.repo.voidlinux.org/",
+            "name": "alpha.de.repo.voidlinux.org",
+            "description": "",
+            "country-code": "FI",
+            "tier": 1,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.servercentral.com/voidlinux/",
+            "name": "mirrors.servercentral.com",
+            "description": "",
+            "country-code": "US",
+            "tier": 1,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo-fi.voidlinux.org/",
+            "name": "repo-fi.voidlinux.org",
+            "description": "",
+            "country-code": "FI",
+            "tier": 1,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo-us.voidlinux.org/",
+            "name": "repo-us.voidlinux.org",
+            "description": "",
+            "country-code": "US",
+            "tier": 1,
             "role": "official-mirror"
         }
     ]

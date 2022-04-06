@@ -2,8 +2,43 @@
     "sources": [],
     "mirrors": [
         {
+            "url": "https://packagist.co.za",
+            "name": "packagist.co.za",
+            "description": "",
+            "country-code": "ZA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.huaweicloud.com/repository/php",
+            "name": "mirrors.huaweicloud.com",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://developer.aliyun.com/composer",
             "name": "developer.aliyun.com",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://php.cnpkg.org",
+            "name": "php.cnpkg.org",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://packagist.phpcomposer.com",
+            "name": "packagist.phpcomposer.com",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://packagist.mirrors.sjtug.sjtu.edu.cn",
+            "name": "packagist.mirrors.sjtug.sjtu.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -16,45 +51,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.huaweicloud.com/repository/php",
-            "name": "mirrors.huaweicloud.com",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.co.za",
-            "name": "packagist.co.za",
-            "description": "",
-            "country-code": "ZA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.com.br",
-            "name": "packagist.com.br",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.fi",
-            "name": "packagist.fi",
-            "description": "",
-            "country-code": "FI",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.hesse.im",
-            "name": "packagist.hesse.im",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://packagist.in",
             "name": "packagist.in",
             "description": "",
             "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://packagist.phpindonesia.id",
+            "name": "packagist.phpindonesia.id",
+            "description": "",
+            "country-code": "ID",
             "role": "official-mirror"
         },
         {
@@ -72,31 +79,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://packagist.mirrors.sjtug.sjtu.edu.cn",
-            "name": "packagist.mirrors.sjtug.sjtu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://packagist.mycools.in.th/",
             "name": "packagist.mycools.in.th",
             "description": "",
             "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.phpcomposer.com",
-            "name": "packagist.phpcomposer.com",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.phpindonesia.id",
-            "name": "packagist.phpindonesia.id",
-            "description": "",
-            "country-code": "ID",
             "role": "official-mirror"
         },
         {
@@ -107,10 +93,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://php.cnpkg.org",
-            "name": "php.cnpkg.org",
+            "url": "https://packagist.fi",
+            "name": "packagist.fi",
             "description": "",
-            "country-code": "CN",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://packagist.hesse.im",
+            "name": "packagist.hesse.im",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://packagist.com.br",
+            "name": "packagist.com.br",
+            "description": "",
+            "country-code": "BR",
             "role": "official-mirror"
         }
     ]

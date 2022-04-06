@@ -2,52 +2,10 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "ftp://ftp.acc.umu.se/mirror/kiwix.org",
-            "name": "ACC UMU",
-            "description": "",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "ftp://ftp.fau.de/kiwix",
-            "name": "FAU",
-            "description": "",
-            "country-code": "DE",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "ftp://ftp.vim.org/kiwix",
+            "url": "https://ftp.vim.org/kiwix",
             "name": "ZJU",
             "description": "",
             "country-code": "CN",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "ftp://mirrors.dotsrc.org/kiwix",
-            "name": "Dotsrc.org",
-            "country-code": "US",
-            "description": "",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "ftp://www.mirrorservice.org/sites/download.kiwix.org",
-            "name": "KU Mirror Service",
-            "country-code": "GB",
-            "description": "",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "http://ftp.acc.umu.se/mirror/kiwix.org",
-            "name": "ACC UMU",
-            "description": "",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "http://ftp.fau.de/kiwix",
-            "name": "FAU",
-            "description": "",
-            "country-code": "DE",
             "role": "wild-mirror"
         },
         {
@@ -58,9 +16,23 @@
             "role": "wild-mirror"
         },
         {
-            "url": "http://mirrors.dotsrc.org/kiwix",
-            "name": "Dotsrc.org",
-            "country-code": "US",
+            "url": "ftp://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "rsync://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
             "description": "",
             "role": "wild-mirror"
         },
@@ -72,24 +44,17 @@
             "role": "wild-mirror"
         },
         {
-            "url": "https://ftp.acc.umu.se/mirror/kiwix.org",
-            "name": "ACC UMU",
+            "url": "ftp://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
             "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
-            "url": "https://ftp.fau.de/kiwix",
-            "name": "FAU",
+            "url": "rsync://www.mirrorservice.org/sites/download.kiwix.org",
+            "name": "KU Mirror Service",
+            "country-code": "GB",
             "description": "",
-            "country-code": "DE",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "https://ftp.vim.org/kiwix",
-            "name": "ZJU",
-            "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
@@ -100,31 +65,17 @@
             "role": "wild-mirror"
         },
         {
-            "url": "https://www.mirrorservice.org/sites/download.kiwix.org",
-            "name": "KU Mirror Service",
-            "country-code": "GB",
+            "url": "http://mirrors.dotsrc.org/kiwix",
+            "name": "Dotsrc.org",
+            "country-code": "US",
             "description": "",
             "role": "wild-mirror"
         },
         {
-            "url": "rsync://ftp.acc.umu.se/mirror/kiwix.org",
-            "name": "ACC UMU",
+            "url": "ftp://mirrors.dotsrc.org/kiwix",
+            "name": "Dotsrc.org",
+            "country-code": "US",
             "description": "",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "rsync://ftp.fau.de/kiwix",
-            "name": "FAU",
-            "description": "",
-            "country-code": "DE",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "rsync://ftp.vim.org/kiwix",
-            "name": "ZJU",
-            "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
@@ -135,10 +86,59 @@
             "role": "wild-mirror"
         },
         {
-            "url": "rsync://www.mirrorservice.org/sites/download.kiwix.org",
-            "name": "KU Mirror Service",
-            "country-code": "GB",
+            "url": "https://ftp.fau.de/kiwix",
+            "name": "FAU",
             "description": "",
+            "country-code": "DE",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "http://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "ftp://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "rsync://ftp.fau.de/kiwix",
+            "name": "FAU",
+            "description": "",
+            "country-code": "DE",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "http://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "ftp://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "rsync://ftp.acc.umu.se/mirror/kiwix.org",
+            "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN",
             "role": "wild-mirror"
         }
     ]

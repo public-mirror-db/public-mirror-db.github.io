@@ -2,24 +2,10 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "ftp://aleph.gutenberg.org/",
-            "name": "Project Gutenberg",
-            "description": "High-speed mirror. As of October 2021, does not include cache/generated files.",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://eremita.di.uminho.pt/pub/gutenberg/",
-            "name": "Universidade do Minho",
+            "url": "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
+            "name": "UK Mirror Service",
             "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/",
-            "name": "iBiblio",
-            "description": "Main Project Gutenberg FTP Site.",
-            "country-code": "US",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
@@ -30,22 +16,57 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://gutenberg.pglaf.org",
-            "name": "Project Gutenberg",
-            "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+            "url": "rsync://rsync.mirrorservice.org/gutenberg/",
+            "name": "UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://eremita.di.uminho.pt/pub/gutenberg/",
+            "name": "Universidade do Minho",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://eremita.di.uminho.pt/gutenberg/",
+            "name": "Universidade do Minho",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.csclub.uwaterloo.ca/gutenberg/",
+            "name": "University of Waterloo Computer Science Club",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/",
+            "name": "iBiblio",
+            "description": "Main Project Gutenberg FTP Site.",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "ftp://gutenberg.readingroo.ms/gutenberg/",
-            "name": "Project Gutenberg",
-            "description": "Includes cache/generated files (epub, mobi, etc.).",
+            "url": "http://www.gutenberg.org/dirs/",
+            "name": "iBiblio",
+            "description": "Main Project Gutenberg Collection Site",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
             "url": "ftp://mirrors.xmission.com/gutenberg/",
             "name": "Xmission ISP - FTP",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.xmission.com/gutenberg/",
+            "name": "Xmission ISP - HTTP",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -58,51 +79,23 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://eremita.di.uminho.pt/gutenberg/",
-            "name": "Universidade do Minho",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://gutenberg.readingroo.ms/",
-            "name": "Project Gutenberg",
-            "description": "Includes cache/generated files (epub, mobi, etc.).",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.csclub.uwaterloo.ca/gutenberg/",
-            "name": "University of Waterloo Computer Science Club",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.xmission.com/gutenberg/",
-            "name": "Xmission ISP - HTTP",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://www.gutenberg.org/dirs/",
-            "name": "iBiblio",
-            "description": "Main Project Gutenberg Collection Site",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
-            "name": "UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://gutenberg.pglaf.org/",
             "name": "Project Gutenberg",
             "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://gutenberg.pglaf.org",
+            "name": "Project Gutenberg",
+            "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://aleph.gutenberg.org/",
+            "name": "Project Gutenberg",
+            "description": "High-speed mirror. As of October 2021, does not include cache/generated files.",
             "country-code": "US",
             "role": "official-mirror"
         },
@@ -121,10 +114,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.mirrorservice.org/gutenberg/",
-            "name": "UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
+            "url": "ftp://gutenberg.readingroo.ms/gutenberg/",
+            "name": "Project Gutenberg",
+            "description": "Includes cache/generated files (epub, mobi, etc.).",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gutenberg.readingroo.ms/",
+            "name": "Project Gutenberg",
+            "description": "Includes cache/generated files (epub, mobi, etc.).",
+            "country-code": "US",
             "role": "official-mirror"
         }
     ]

@@ -1,10 +1,10 @@
 {
     "sources": [
         {
-            "url": "https://goproxy.io/"
+            "url": "https://proxy.golang.org/"
         },
         {
-            "url": "https://proxy.golang.org/"
+            "url": "https://goproxy.io/"
         }
     ],
     "mirrors": []

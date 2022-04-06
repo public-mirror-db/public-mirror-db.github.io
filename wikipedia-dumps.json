@@ -2,14 +2,14 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "http://ftp.acc.umu.se/mirror/wikimedia.org/dumps",
+            "url": "https://ftp.acc.umu.se/mirror/wikimedia.org/dumps",
             "name": "Academic Computer Club, Ume\u00e5 University",
             "description": "",
             "country-code": "SE",
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.acc.umu.se/mirror/wikimedia.org/dumps",
+            "url": "http://ftp.acc.umu.se/mirror/wikimedia.org/dumps",
             "name": "Academic Computer Club, Ume\u00e5 University",
             "description": "",
             "country-code": "SE",

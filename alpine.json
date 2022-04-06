@@ -6,150 +6,38 @@
     ],
     "mirrors": [
         {
-            "url": "ftp://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
-            "name": "ICM",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftpmirror2.infania.net/mirror/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.csclub.uwaterloo.ca/alpine/",
-            "name": "mirror.csclub.uwaterloo.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.kku.ac.th/alpine",
-            "name": "Khon Kaen University",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.lagoon.nc/alpine/",
-            "name": "Lagoon",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.ps.kz/alpine/",
-            "name": "PS Internet Company",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.rise.ph/alpine-linux/",
-            "name": "mirror.rise.ph",
-            "description": "",
-            "country-code": "PH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://tux.rainside.sk/alpine/",
-            "name": "Rainside",
+            "url": "http://dl-cdn.alpinelinux.org/alpine/",
+            "name": "dl-cdn.alpinelinux.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.42.fr/",
-            "name": "alpine.42.fr",
-            "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.astra.in.ua",
-            "name": "atra.in.ua",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.bardia.tech",
-            "name": "Bardia",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.ccns.ncku.edu.tw/alpine/",
-            "name": "ccns",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.cs.nctu.edu.tw/",
-            "name": "NCTU CSCC",
+            "url": "https://dl-cdn.alpinelinux.org/alpine/",
+            "name": "dl-cdn.alpinelinux.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.mirror.far.fi/",
-            "name": "alpine.mirror.far.fi",
+            "url": "http://uk.alpinelinux.org/alpine/",
+            "name": "uk.alpinelinux.org",
             "description": "",
-            "country-code": "FI",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.mirror.wearetriple.com/",
-            "name": "Triple",
+            "url": "https://uk.alpinelinux.org/alpine/",
+            "name": "uk.alpinelinux.org",
             "description": "",
-            "country-code": "NL",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.northrepo.ca",
-            "name": "Northrepo",
+            "url": "rsync://uk.alpinelinux.org/",
+            "name": "uk.alpinelinux.org",
             "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.sakamoto.pl/alpine/",
-            "name": "sakamoto",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.yourlabs.org",
-            "name": "alpine.yourlabs.org",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpinelinux.c3sl.ufpr.br",
-            "name": "c3sl",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpinelinux.mirror.iweb.com/",
-            "name": "alpinelinux.mirror.iweb.com",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ams.edge.kernel.org/alpine/",
-            "name": "ams.edge.kernel.org",
-            "description": "",
-            "country-code": "NL",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
@@ -167,290 +55,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://dl-cdn.alpinelinux.org/alpine/",
-            "name": "dl-cdn.alpinelinux.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download.nus.edu.sg/mirror/alpine/",
-            "name": "download.nus.edu.sg",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ewr.edge.kernel.org/alpine/",
-            "name": "ewr.edge.kernel.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://foobar.turbo.net.id/alpine/",
-            "name": "turbo.net.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.acc.umu.se/mirror/alpinelinux.org/",
-            "name": "ftp.acc.umu.se",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.halifax.rwth-aachen.de/alpine/",
-            "name": "ftp.halifax.rwth-aachen.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
-            "name": "ICM",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftpmirror2.infania.net/mirror/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.0-1.cloud/alpine/",
-            "name": "0-1.cloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.2degrees.nz/alpine/",
-            "name": "2degrees.nz",
-            "description": "",
-            "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.aarnet.edu.au/pub/alpine",
-            "name": "AARNet",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.alwyzon.net/alpine/",
-            "name": "Alwyzon",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.arvancloud.com/alpine",
-            "name": "ArvanCloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.clarkson.edu/alpine/",
-            "name": "Clarkson Open Source Institute",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.csclub.uwaterloo.ca/alpine/",
-            "name": "mirror.csclub.uwaterloo.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.dst.ca/alpine",
-            "name": "Digital Shape",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ette.biz/alpine/",
-            "name": "Ette.biz",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.fcix.net/alpine/",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.fit.cvut.cz/alpine/",
-            "name": "FIT CTU in Prague",
-            "description": "",
-            "country-code": "CZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ihost.md/alpine/",
-            "name": "iHost",
-            "description": "",
-            "country-code": "MD",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.kku.ac.th/alpine",
-            "name": "Khon Kaen University",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.kumi.systems/alpine",
-            "name": "Kumi Systems",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lagoon.nc/alpine/",
-            "name": "Lagoon",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.leaseweb.com/alpine/",
-            "name": "leaseweb",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lzu.edu.cn/alpine/",
-            "name": "mirror.lzu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.math.princeton.edu/pub/alpinelinux/",
-            "name": "mirror.math.princeton.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.operationtulip.com/alpine/",
-            "name": "mirror.operationtulip.com",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.pit.teraswitch.com/alpine",
-            "name": "mirror.pit.teraswitch.com",
-            "description": "",
-            "country-code": "PA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ps.kz/alpine/",
-            "name": "PS Internet Company",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.reenigne.net/alpine/",
-            "name": "Reenigne",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.rise.ph/alpine-linux/",
-            "name": "mirror.rise.ph",
-            "description": "",
-            "country-code": "PH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.sabay.com.kh/alpine/",
-            "name": "Sabay",
-            "description": "",
-            "country-code": "KH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.uepg.br/alpine",
-            "name": "Universidade Estadual de Ponta G...",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ungleich.ch/mirror/packages/alpine/",
-            "name": "mirror.ungleich.ch",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.xtom.com.hk/alpine/",
-            "name": "mirror.xtom.com.hk",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.yandex.ru/mirrors/alpine/",
             "name": "mirror.yandex.ru",
             "description": "",
             "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/alpine/",
-            "name": "mirror1.hs-esslingen.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror1.ku.ac.th/alpine/",
-            "name": "mirror1.ku.ac.th",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.aliyun.com/alpine/",
-            "name": "Alibaba Cloud",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bfsu.edu.cn/alpine",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.dotsrc.org/alpine/",
-            "name": "dotsrc at Aalborg University",
-            "description": "",
-            "country-code": "DK",
             "role": "official-mirror"
         },
         {
@@ -461,49 +69,140 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ircam.fr/pub/alpine/",
-            "name": "mirrors.ircam.fr",
+            "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/alpine/",
+            "name": "mirror1.hs-esslingen.de",
             "description": "",
-            "country-code": "FR",
+            "country-code": "DE",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.neusoft.edu.cn/alpine/",
-            "name": "Dalian Neusoft University of Inf...",
+            "url": "http://mirror.leaseweb.com/alpine/",
+            "name": "leaseweb",
             "description": "",
-            "country-code": "CN",
+            "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.nju.edu.cn/alpine/",
-            "name": "mirrors.nju.edu.cn",
+            "url": "rsync://mirror.leaseweb.com/alpine/",
+            "name": "leaseweb",
             "description": "",
-            "country-code": "CN",
+            "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ocf.berkeley.edu/alpine/",
-            "name": "Open Compute Facility",
+            "url": "https://mirror.fit.cvut.cz/alpine/",
+            "name": "FIT CTU in Prague",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.fit.cvut.cz/alpine/",
+            "name": "FIT CTU in Prague",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.mirror.far.fi/",
+            "name": "alpine.mirror.far.fi",
+            "description": "",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.mirror.wearetriple.com/",
+            "name": "Triple",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.mirror.wearetriple.com/",
+            "name": "Triple",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpine.mirror.wearetriple.com/alpine/",
+            "name": "Triple",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.clarkson.edu/alpine/",
+            "name": "Clarkson Open Source Institute",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.pardisco.co/alpine/",
-            "name": "Pardisco",
+            "url": "http://mirror.aarnet.edu.au/pub/alpine",
+            "name": "AARNet",
             "description": "",
-            "country-code": "IR",
+            "country-code": "AU",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.sjtug.sjtu.edu.cn/alpine/",
-            "name": "mirrors.sjtug.sjtu.edu.cn",
+            "url": "http://mirrors.dotsrc.org/alpine/",
+            "name": "dotsrc at Aalborg University",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.dotsrc.org/alpine/",
+            "name": "dotsrc at Aalborg University",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.dotsrc.org/alpine/",
+            "name": "dotsrc at Aalborg University",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.halifax.rwth-aachen.de/alpine/",
+            "name": "ftp.halifax.rwth-aachen.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.halifax.rwth-aachen.de/alpine/",
+            "name": "ftp.halifax.rwth-aachen.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.halifax.rwth-aachen.de/alpine/",
+            "name": "ftp.halifax.rwth-aachen.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.tuna.tsinghua.edu.cn/alpine/",
+            "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.tuna.tsinghua.edu.cn/alpine/",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/",
+            "name": "mirrors.tuna.tsinghua.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/alpine/",
             "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
@@ -517,610 +216,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://pkg.adfinis.com/alpine/",
-            "name": "Adfinis",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://quantum-mirror.hu/mirrors/pub/alpine/",
-            "name": "Quantum mirror",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://repo.iut.ac.ir/repo/alpine",
-            "name": "Isfahan University of Technology...",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://sjc.edge.kernel.org/alpine/",
-            "name": "sjc.edge.kernel.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://tux.rainside.sk/alpine/",
-            "name": "Rainside",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://uk.alpinelinux.org/alpine/",
-            "name": "uk.alpinelinux.org",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.astra.in.ua",
-            "name": "atra.in.ua",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.bardia.tech",
-            "name": "Bardia",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.ccns.ncku.edu.tw/alpine/",
-            "name": "ccns",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.mirror.wearetriple.com/",
-            "name": "Triple",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.northrepo.ca",
-            "name": "Northrepo",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.sakamoto.pl/alpine/",
-            "name": "sakamoto",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.yourlabs.org",
-            "name": "alpine.yourlabs.org",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ams.edge.kernel.org/alpine/",
-            "name": "ams.edge.kernel.org",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://dl-cdn.alpinelinux.org/alpine/",
-            "name": "dl-cdn.alpinelinux.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://download.nus.edu.sg/mirror/alpine/",
-            "name": "download.nus.edu.sg",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ewr.edge.kernel.org/alpine/",
-            "name": "ewr.edge.kernel.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.acc.umu.se/mirror/alpinelinux.org/",
-            "name": "ftp.acc.umu.se",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.halifax.rwth-aachen.de/alpine/",
-            "name": "ftp.halifax.rwth-aachen.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
-            "name": "ICM",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftpmirror2.infania.net/mirror/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.0-1.cloud/alpine/",
-            "name": "0-1.cloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.2degrees.nz/alpine/",
-            "name": "2degrees.nz",
-            "description": "",
-            "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.alwyzon.net/alpine/",
-            "name": "Alwyzon",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.arvancloud.com/alpine",
-            "name": "ArvanCloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.csclub.uwaterloo.ca/alpine/",
-            "name": "mirror.csclub.uwaterloo.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.dst.ca/alpine",
-            "name": "Digital Shape",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ette.biz/alpine/",
-            "name": "Ette.biz",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.fit.cvut.cz/alpine/",
-            "name": "FIT CTU in Prague",
-            "description": "",
-            "country-code": "CZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ihost.md/alpine/",
-            "name": "iHost",
-            "description": "",
-            "country-code": "MD",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.kku.ac.th/alpine",
-            "name": "Khon Kaen University",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.kumi.systems/alpine",
-            "name": "Kumi Systems",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.lagoon.nc/alpine/",
-            "name": "Lagoon",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.lzu.edu.cn/alpine/",
-            "name": "mirror.lzu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.math.princeton.edu/pub/alpinelinux/",
-            "name": "mirror.math.princeton.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.operationtulip.com/alpine/",
-            "name": "mirror.operationtulip.com",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.pit.teraswitch.com/alpine",
-            "name": "mirror.pit.teraswitch.com",
-            "description": "",
-            "country-code": "PA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ps.kz/alpine/",
-            "name": "PS Internet Company",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.reenigne.net/alpine/",
-            "name": "Reenigne",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.sabay.com.kh/alpine/",
-            "name": "Sabay",
-            "description": "",
-            "country-code": "KH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.uepg.br/alpine",
-            "name": "Universidade Estadual de Ponta G...",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ungleich.ch/mirror/packages/alpine/",
-            "name": "mirror.ungleich.ch",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.xtom.com.hk/alpine/",
-            "name": "mirror.xtom.com.hk",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.aliyun.com/alpine/",
-            "name": "Alibaba Cloud",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.bfsu.edu.cn/alpine",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.dotsrc.org/alpine/",
-            "name": "dotsrc at Aalborg University",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.ircam.fr/pub/alpine/",
-            "name": "mirrors.ircam.fr",
-            "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.neusoft.edu.cn/alpine/",
-            "name": "Dalian Neusoft University of Inf...",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.nju.edu.cn/alpine/",
-            "name": "mirrors.nju.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.ocf.berkeley.edu/alpine/",
-            "name": "Open Compute Facility",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.pardisco.co/alpine/",
-            "name": "Pardisco",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.sjtug.sjtu.edu.cn/alpine/",
-            "name": "mirrors.sjtug.sjtu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/alpine/",
-            "name": "mirrors.tuna.tsinghua.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirrors.ustc.edu.cn/alpine/",
             "name": "mirrors.ustc.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://pkg.adfinis.com/alpine/",
-            "name": "Adfinis",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://quantum-mirror.hu/mirrors/pub/alpine/",
-            "name": "Quantum mirror",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://repo.iut.ac.ir/repo/alpine",
-            "name": "Isfahan University of Technology...",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://sjc.edge.kernel.org/alpine/",
-            "name": "sjc.edge.kernel.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://tux.rainside.sk/alpine/",
-            "name": "Rainside",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://uk.alpinelinux.org/alpine/",
-            "name": "uk.alpinelinux.org",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://alpine.astra.in.ua",
-            "name": "atra.in.ua",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://alpine.mirror.wearetriple.com/alpine/",
-            "name": "Triple",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://alpinelinux.c3sl.ufpr.br/alpinelinux/",
-            "name": "c3sl",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://alpinelinux.mirror.iweb.com/alpine/",
-            "name": "alpinelinux.mirror.iweb.com",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.acc.umu.se/mirror/alpinelinux.org/",
-            "name": "ftp.acc.umu.se",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.halifax.rwth-aachen.de/alpine/",
-            "name": "ftp.halifax.rwth-aachen.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
-            "name": "ICM",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftpmirror2.infania.net/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.2degrees.nz/alpine/",
-            "name": "2degrees.nz",
-            "description": "",
-            "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.csclub.uwaterloo.ca/alpine/",
-            "name": "mirror.csclub.uwaterloo.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.dst.ca/alpine",
-            "name": "Digital Shape",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ette.biz/alpine/",
-            "name": "Ette.biz",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ihost.md/alpine",
-            "name": "iHost",
-            "description": "",
-            "country-code": "MD",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.kku.ac.th/alpine",
-            "name": "Khon Kaen University",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.lagoon.nc/alpine/",
-            "name": "Lagoon",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.leaseweb.com/alpine/",
-            "name": "leaseweb",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.math.princeton.edu/pub/alpinelinux/",
-            "name": "mirror.math.princeton.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.pit.teraswitch.com/alpine",
-            "name": "mirror.pit.teraswitch.com",
-            "description": "",
-            "country-code": "PA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ps.kz/alpine/",
-            "name": "PS Internet Company",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.reenigne.net/alpine/",
-            "name": "Reenigne",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.uepg.br/alpine",
-            "name": "Universidade Estadual de Ponta G...",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.bfsu.edu.cn/alpine",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.dotsrc.org/alpine/",
-            "name": "dotsrc at Aalborg University",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.ircam.fr/pub/alpine/",
-            "name": "mirrors.ircam.fr",
-            "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.neusoft.edu.cn/alpine/",
-            "name": "Dalian Neusoft University of Inf...",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.nju.edu.cn/alpine/",
-            "name": "mirrors.nju.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/alpine/",
-            "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -1133,10 +230,423 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.nju.edu.cn/alpine/",
+            "name": "mirrors.nju.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.nju.edu.cn/alpine/",
+            "name": "mirrors.nju.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.nju.edu.cn/alpine/",
+            "name": "mirrors.nju.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lzu.edu.cn/alpine/",
+            "name": "mirror.lzu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.lzu.edu.cn/alpine/",
+            "name": "mirror.lzu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.acc.umu.se/mirror/alpinelinux.org/",
+            "name": "ftp.acc.umu.se",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.acc.umu.se/mirror/alpinelinux.org/",
+            "name": "ftp.acc.umu.se",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.acc.umu.se/mirror/alpinelinux.org/",
+            "name": "ftp.acc.umu.se",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.xtom.com.hk/alpine/",
+            "name": "mirror.xtom.com.hk",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.xtom.com.hk/alpine/",
+            "name": "mirror.xtom.com.hk",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.csclub.uwaterloo.ca/alpine/",
+            "name": "mirror.csclub.uwaterloo.ca",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.csclub.uwaterloo.ca/alpine/",
+            "name": "mirror.csclub.uwaterloo.ca",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.csclub.uwaterloo.ca/alpine/",
+            "name": "mirror.csclub.uwaterloo.ca",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.csclub.uwaterloo.ca/alpine/",
+            "name": "mirror.csclub.uwaterloo.ca",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpinelinux.mirror.iweb.com/",
+            "name": "alpinelinux.mirror.iweb.com",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpinelinux.mirror.iweb.com/alpine/",
+            "name": "alpinelinux.mirror.iweb.com",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pkg.adfinis.com/alpine/",
+            "name": "Adfinis",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://pkg.adfinis.com/alpine/",
+            "name": "Adfinis",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://pkg.adfinis.com/alpine/",
             "name": "Adfinis",
             "description": "",
             "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ps.kz/alpine/",
+            "name": "PS Internet Company",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ps.kz/alpine/",
+            "name": "PS Internet Company",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.ps.kz/alpine/",
+            "name": "PS Internet Company",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ps.kz/alpine/",
+            "name": "PS Internet Company",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.rise.ph/alpine-linux/",
+            "name": "mirror.rise.ph",
+            "description": "",
+            "country-code": "PH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.rise.ph/alpine-linux/",
+            "name": "mirror.rise.ph",
+            "description": "",
+            "country-code": "PH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.operationtulip.com/alpine/",
+            "name": "mirror.operationtulip.com",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.operationtulip.com/alpine/",
+            "name": "mirror.operationtulip.com",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ircam.fr/pub/alpine/",
+            "name": "mirrors.ircam.fr",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.ircam.fr/pub/alpine/",
+            "name": "mirrors.ircam.fr",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.ircam.fr/pub/alpine/",
+            "name": "mirrors.ircam.fr",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.42.fr/",
+            "name": "alpine.42.fr",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.math.princeton.edu/pub/alpinelinux/",
+            "name": "mirror.math.princeton.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.math.princeton.edu/pub/alpinelinux/",
+            "name": "mirror.math.princeton.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.math.princeton.edu/pub/alpinelinux/",
+            "name": "mirror.math.princeton.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.sjtug.sjtu.edu.cn/alpine/",
+            "name": "mirrors.sjtug.sjtu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.sjtug.sjtu.edu.cn/alpine/",
+            "name": "mirrors.sjtug.sjtu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+            "name": "ICM",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+            "name": "ICM",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+            "name": "ICM",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.icm.edu.pl/pub/Linux/distributions/alpine/",
+            "name": "ICM",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ungleich.ch/mirror/packages/alpine/",
+            "name": "mirror.ungleich.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ungleich.ch/mirror/packages/alpine/",
+            "name": "mirror.ungleich.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sjc.edge.kernel.org/alpine/",
+            "name": "sjc.edge.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://sjc.edge.kernel.org/alpine/",
+            "name": "sjc.edge.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ewr.edge.kernel.org/alpine/",
+            "name": "ewr.edge.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ewr.edge.kernel.org/alpine/",
+            "name": "ewr.edge.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ams.edge.kernel.org/alpine/",
+            "name": "ams.edge.kernel.org",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ams.edge.kernel.org/alpine/",
+            "name": "ams.edge.kernel.org",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://download.nus.edu.sg/mirror/alpine/",
+            "name": "download.nus.edu.sg",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://download.nus.edu.sg/mirror/alpine/",
+            "name": "download.nus.edu.sg",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.yourlabs.org",
+            "name": "alpine.yourlabs.org",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.yourlabs.org",
+            "name": "alpine.yourlabs.org",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.pit.teraswitch.com/alpine",
+            "name": "mirror.pit.teraswitch.com",
+            "description": "",
+            "country-code": "PA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.pit.teraswitch.com/alpine",
+            "name": "mirror.pit.teraswitch.com",
+            "description": "",
+            "country-code": "PA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.pit.teraswitch.com/alpine",
+            "name": "mirror.pit.teraswitch.com",
+            "description": "",
+            "country-code": "PA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.reenigne.net/alpine/",
+            "name": "Reenigne",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.reenigne.net/alpine/",
+            "name": "Reenigne",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.reenigne.net/alpine/",
+            "name": "Reenigne",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://quantum-mirror.hu/mirrors/pub/alpine/",
+            "name": "Quantum mirror",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://quantum-mirror.hu/mirrors/pub/alpine/",
+            "name": "Quantum mirror",
+            "description": "",
+            "country-code": "US",
             "role": "official-mirror"
         },
         {
@@ -1147,10 +657,521 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://uk.alpinelinux.org/",
-            "name": "uk.alpinelinux.org",
+            "url": "http://tux.rainside.sk/alpine/",
+            "name": "Rainside",
             "description": "",
-            "country-code": "GB",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://tux.rainside.sk/alpine/",
+            "name": "Rainside",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://tux.rainside.sk/alpine/",
+            "name": "Rainside",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.cs.nctu.edu.tw/",
+            "name": "NCTU CSCC",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ihost.md/alpine/",
+            "name": "iHost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ihost.md/alpine/",
+            "name": "iHost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ihost.md/alpine",
+            "name": "iHost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ette.biz/alpine/",
+            "name": "Ette.biz",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ette.biz/alpine/",
+            "name": "Ette.biz",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ette.biz/alpine/",
+            "name": "Ette.biz",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lagoon.nc/alpine/",
+            "name": "Lagoon",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.lagoon.nc/alpine/",
+            "name": "Lagoon",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.lagoon.nc/alpine/",
+            "name": "Lagoon",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.lagoon.nc/alpine/",
+            "name": "Lagoon",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpinelinux.c3sl.ufpr.br",
+            "name": "c3sl",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpinelinux.c3sl.ufpr.br/alpinelinux/",
+            "name": "c3sl",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://foobar.turbo.net.id/alpine/",
+            "name": "turbo.net.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.ccns.ncku.edu.tw/alpine/",
+            "name": "ccns",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.ccns.ncku.edu.tw/alpine/",
+            "name": "ccns",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.dst.ca/alpine",
+            "name": "Digital Shape",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.dst.ca/alpine",
+            "name": "Digital Shape",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.dst.ca/alpine",
+            "name": "Digital Shape",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.kumi.systems/alpine",
+            "name": "Kumi Systems",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.kumi.systems/alpine",
+            "name": "Kumi Systems",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.sabay.com.kh/alpine/",
+            "name": "Sabay",
+            "description": "",
+            "country-code": "KH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.sabay.com.kh/alpine/",
+            "name": "Sabay",
+            "description": "",
+            "country-code": "KH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.northrepo.ca",
+            "name": "Northrepo",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.northrepo.ca",
+            "name": "Northrepo",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.bardia.tech",
+            "name": "Bardia",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.bardia.tech",
+            "name": "Bardia",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ocf.berkeley.edu/alpine/",
+            "name": "Open Compute Facility",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.ocf.berkeley.edu/alpine/",
+            "name": "Open Compute Facility",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.pardisco.co/alpine/",
+            "name": "Pardisco",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.pardisco.co/alpine/",
+            "name": "Pardisco",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.aliyun.com/alpine/",
+            "name": "Alibaba Cloud",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.aliyun.com/alpine/",
+            "name": "Alibaba Cloud",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.alwyzon.net/alpine/",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.alwyzon.net/alpine/",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror1.ku.ac.th/alpine/",
+            "name": "mirror1.ku.ac.th",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.bfsu.edu.cn/alpine",
+            "name": "mirrors.bfsu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.bfsu.edu.cn/alpine",
+            "name": "mirrors.bfsu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.bfsu.edu.cn/alpine",
+            "name": "mirrors.bfsu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftpmirror2.infania.net/mirror/alpine/",
+            "name": "infania",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftpmirror2.infania.net/mirror/alpine/",
+            "name": "infania",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftpmirror2.infania.net/mirror/alpine/",
+            "name": "infania",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftpmirror2.infania.net/alpine/",
+            "name": "infania",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://repo.iut.ac.ir/repo/alpine",
+            "name": "Isfahan University of Technology...",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo.iut.ac.ir/repo/alpine",
+            "name": "Isfahan University of Technology...",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.fcix.net/alpine/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.sakamoto.pl/alpine/",
+            "name": "sakamoto",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.sakamoto.pl/alpine/",
+            "name": "sakamoto",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.2degrees.nz/alpine/",
+            "name": "2degrees.nz",
+            "description": "",
+            "country-code": "NZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.2degrees.nz/alpine/",
+            "name": "2degrees.nz",
+            "description": "",
+            "country-code": "NZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.2degrees.nz/alpine/",
+            "name": "2degrees.nz",
+            "description": "",
+            "country-code": "NZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.arvancloud.com/alpine",
+            "name": "ArvanCloud",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.arvancloud.com/alpine",
+            "name": "ArvanCloud",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.0-1.cloud/alpine/",
+            "name": "0-1.cloud",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.0-1.cloud/alpine/",
+            "name": "0-1.cloud",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.kku.ac.th/alpine",
+            "name": "Khon Kaen University",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.kku.ac.th/alpine",
+            "name": "Khon Kaen University",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.kku.ac.th/alpine",
+            "name": "Khon Kaen University",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.kku.ac.th/alpine",
+            "name": "Khon Kaen University",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.uepg.br/alpine",
+            "name": "Universidade Estadual de Ponta G...",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.uepg.br/alpine",
+            "name": "Universidade Estadual de Ponta G...",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.uepg.br/alpine",
+            "name": "Universidade Estadual de Ponta G...",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.astra.in.ua",
+            "name": "atra.in.ua",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.astra.in.ua",
+            "name": "atra.in.ua",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpine.astra.in.ua",
+            "name": "atra.in.ua",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.neusoft.edu.cn/alpine/",
+            "name": "Dalian Neusoft University of Inf...",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.neusoft.edu.cn/alpine/",
+            "name": "Dalian Neusoft University of Inf...",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.neusoft.edu.cn/alpine/",
+            "name": "Dalian Neusoft University of Inf...",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.udx.icscoe.jp/Linux/alpine/",
+            "name": "ICSCoE",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.udx.icscoe.jp/Linux/alpine/",
+            "name": "ICSCoE",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.udx.icscoe.jp/Linux/alpine/",
+            "name": "ICSCoE",
+            "description": "",
+            "country-code": "JP",
             "role": "official-mirror"
         }
     ]

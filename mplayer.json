@@ -1,18 +1,6 @@
 {
     "sources": [
         {
-            "url": "ftp://ftp1.mplayerhq.hu/MPlayer/"
-        },
-        {
-            "url": "ftp://ftp6.mplayerhq.hu/MPlayer/"
-        },
-        {
-            "url": "ftp://ftp7.mplayerhq.hu/MPlayer/"
-        },
-        {
-            "url": "ftp://ftp8.mplayerhq.hu/MPlayer/"
-        },
-        {
             "url": "https://www1.mplayerhq.hu/MPlayer"
         },
         {
@@ -23,6 +11,18 @@
         },
         {
             "url": "https://www8.mplayerhq.hu/MPlayer"
+        },
+        {
+            "url": "ftp://ftp1.mplayerhq.hu/MPlayer/"
+        },
+        {
+            "url": "ftp://ftp6.mplayerhq.hu/MPlayer/"
+        },
+        {
+            "url": "ftp://ftp7.mplayerhq.hu/MPlayer/"
+        },
+        {
+            "url": "ftp://ftp8.mplayerhq.hu/MPlayer/"
         }
     ],
     "mirrors": []
