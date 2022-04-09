@@ -317,13 +317,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.co.il/debian-cd/",
-            "name": "debian.co.il",
-            "description": "",
-            "country-code": "IL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.jaist.ac.jp/debian-cd/",
             "name": "ftp.jaist.ac.jp",
             "description": "",
@@ -545,6 +538,13 @@
             "name": "ftp.ntou.edu.tw",
             "description": "",
             "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.netforce.hosting/debian-cd/",
+            "name": "debian.netforce.hosting",
+            "description": "",
+            "country-code": "UA",
             "role": "official-mirror"
         },
         {

@@ -1290,27 +1290,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://hkg.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://hkg.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://hkg.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://hk.mirrors.thegigabit.com/epel",
             "name": "Gigabit Hosting",
             "description": "",
@@ -1934,27 +1913,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://epel.mirrors.theom.nz",
-            "name": "TNZ",
-            "description": "",
-            "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://epel.mirrors.theom.nz",
-            "name": "TNZ",
-            "description": "",
-            "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.mirrors.theom.nz/epel",
-            "name": "TNZ",
-            "description": "",
-            "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.2degrees.nz/fedora-epel",
             "name": "2degrees",
             "description": "",
@@ -2071,6 +2029,20 @@
             "name": "mirrors.ptisp.pt",
             "description": "",
             "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fedora.mirrors.orange.ro/pub/epel",
+            "name": "Orange Romania Communications",
+            "description": "",
+            "country-code": "RO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fedora.mirrors.orange.ro/pub/epel",
+            "name": "Orange Romania Communications",
+            "description": "",
+            "country-code": "RO",
             "role": "official-mirror"
         },
         {

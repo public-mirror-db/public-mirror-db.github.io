@@ -174,13 +174,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.netix.net/debian/",
-            "name": "mirrors.netix.net",
-            "description": "",
-            "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.pop-sc.rnp.br/debian/",
             "name": "debian.pop-sc.rnp.br",
             "description": "",
@@ -1056,13 +1049,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.co.il/debian/",
-            "name": "debian.co.il",
-            "description": "",
-            "country-code": "IL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.isoc.org.il/pub/debian/",
             "name": "mirror.isoc.org.il",
             "description": "",
@@ -1207,13 +1193,6 @@
             "name": "dennou-q.gfd-dennou.org",
             "description": "",
             "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.mirror.ac.ke/debian/",
-            "name": "debian.mirror.ac.ke",
-            "description": "",
-            "country-code": "KE",
             "role": "official-mirror"
         },
         {
@@ -1616,13 +1595,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.surf/debian/",
-            "name": "mirror.surf",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.glesys.net/debian/",
             "name": "mirrors.glesys.net",
             "description": "",
@@ -1816,6 +1788,13 @@
             "name": "opensource.nchc.org.tw",
             "description": "",
             "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.netforce.hosting/debian/",
+            "name": "debian.netforce.hosting",
+            "description": "",
+            "country-code": "UA",
             "role": "official-mirror"
         },
         {

@@ -7022,8 +7022,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "full-mirror": false,
             "role": "official-mirror"
@@ -7034,8 +7033,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "full-mirror": false,
             "role": "official-mirror"
