@@ -30,13 +30,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.overthewire.com.au/debian-cd/",
-            "name": "mirror.overthewire.com.au",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.rackcentral.com.au/debian-cd/",
             "name": "mirror.rackcentral.com.au",
             "description": "",
@@ -48,13 +41,6 @@
             "name": "mirror.as35701.net",
             "description": "",
             "country-code": "BE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.pop-sc.rnp.br/mirror/debian-cd/",
-            "name": "debian.pop-sc.rnp.br",
-            "description": "",
-            "country-code": "BR",
             "role": "official-mirror"
         },
         {
@@ -100,8 +86,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.lzu.edu.cn/debian-cd/",
-            "name": "mirror.lzu.edu.cn",
+            "url": "http://mirrors.163.com/debian-cd/",
+            "name": "mirrors.163.com",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -310,13 +296,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://kartolo.sby.datautama.net.id/debian-cd/",
-            "name": "kartolo.sby.datautama.net.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.jaist.ac.jp/debian-cd/",
             "name": "ftp.jaist.ac.jp",
             "description": "",
@@ -468,13 +447,6 @@
             "name": "mirrors.up.pt",
             "description": "",
             "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.xservers.ro/debian-cd/",
-            "name": "mirrors.xservers.ro",
-            "description": "",
-            "country-code": "RO",
             "role": "official-mirror"
         },
         {

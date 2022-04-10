@@ -470,6 +470,30 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo-portage",
+            "name": "",
+            "description": "",
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "wild-mirror"
+        },
+        {
+            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo-portage",
+            "name": "",
+            "description": "",
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "wild-mirror"
+        },
+        {
             "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
             "name": "yun-idc",
             "description": "",

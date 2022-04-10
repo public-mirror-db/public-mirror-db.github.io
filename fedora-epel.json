@@ -1290,6 +1290,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://hkg.mirror.rackspace.com/epel",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://hkg.mirror.rackspace.com/epel",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://hkg.mirror.rackspace.com/epel",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://hk.mirrors.thegigabit.com/epel",
             "name": "Gigabit Hosting",
             "description": "",

@@ -1206,27 +1206,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.bfsu.edu.cn/ubuntu/",
-            "name": "Beijing Foreign Studies University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bfsu.edu.cn/ubuntu/",
-            "name": "Beijing Foreign Studies University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.bfsu.edu.cn/ubuntu/",
-            "name": "Beijing Foreign Studies University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirrors.cloud.tencent.com/ubuntu/",
             "name": "Tencent Cloud",
             "description": "",
@@ -1369,27 +1348,6 @@
         {
             "url": "rsync://mirrors.sohu.com/ubuntu/",
             "name": "Sohu",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/",
-            "name": "Tsinghua University 2",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/",
-            "name": "Tsinghua University 2",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/ubuntu-ports/",
-            "name": "Tsinghua University 2",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -2321,6 +2279,13 @@
         {
             "url": "rsync://mirror.ipb.de/ubuntu/",
             "name": "IPB Internet Provider in Berlin GmbH",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.wtnet.de/ubuntu/",
+            "name": "wilhelm.tel GmbH",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -6591,20 +6556,6 @@
         {
             "url": "http://tw1.mirror.blendbyte.net/ubuntu/",
             "name": "Blendbyte Inc.",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ubuntu.ccns.ncku.edu.tw/ubuntu/",
-            "name": "NCKU CCNS",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu.ccns.ncku.edu.tw/ubuntu/",
-            "name": "NCKU CCNS",
             "description": "",
             "country-code": "TW",
             "role": "official-mirror"

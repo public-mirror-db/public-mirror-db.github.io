@@ -1504,6 +1504,18 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/gentoo",
+            "name": "",
+            "description": "",
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "wild-mirror"
+        },
+        {
             "url": "http://mirrors.zju.edu.cn/gentoo",
             "name": "ZJU",
             "description": "Mirror site provided by Zhe Jiang University",
@@ -1642,18 +1654,6 @@
             "role": "wild-mirror"
         },
         {
-            "url": "https://www.mirrorservice.org/sites/distfiles.gentoo.org",
-            "name": "KU Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
             "url": "ftp://www.mirrorservice.org/sites/distfiles.gentoo.org",
             "name": "KU Mirror Service",
             "description": "",
@@ -1679,18 +1679,6 @@
         },
         {
             "url": "http://mirrors.dotsrc.org/gentoo",
-            "name": "Dotsrc.org",
-            "description": "",
-            "country-code": "US",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "ftp://mirrors.dotsrc.org/gentoo",
             "name": "Dotsrc.org",
             "description": "",
             "country-code": "US",

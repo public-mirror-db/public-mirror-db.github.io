@@ -912,6 +912,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.hit.edu.cn/ubuntu-releases/",
+            "name": "Harbin Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.hit.edu.cn/ubuntu-releases/",
+            "name": "Harbin Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.hit.edu.cn/ubuntu-releases/",
+            "name": "Harbin Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.huaweicloud.com/repository/ubuntu-releases/",
             "name": "HUAWEI CLOUD",
             "description": "",
@@ -977,6 +998,20 @@
         {
             "url": "http://mirror.lzu.edu.cn/ubuntu-releases/",
             "name": "Lanzhou University Open Source Society",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.dgut.edu.cn/ubuntu-releases/",
+            "name": "Dongguan University of Technology (\u4e1c\u839e\u7406\u5de5\u5b66\u9662)",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.dgut.edu.cn/ubuntu-releases/",
+            "name": "Dongguan University of Technology (\u4e1c\u839e\u7406\u5de5\u5b66\u9662)",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -1677,34 +1712,6 @@
         {
             "url": "rsync://mirror.serverloft.eu/ubuntu-linux/releases/",
             "name": "serverloft - SERVER4YOU",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.faigner.de/ubuntu/",
-            "name": "FAigner",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.faigner.de/ubuntu/",
-            "name": "FAigner",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.faigner.de/ubuntu/",
-            "name": "FAigner",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://faigner.de/cdubuntu/",
-            "name": "FAigner",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
