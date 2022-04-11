@@ -3,16 +3,16 @@
     "mirrors": [
         {
             "url": "http://mirror.facebook.net/centos-debuginfo/",
-            "name": "mirror.facebook.net",
+            "name": "Facebook",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
             "url": "http://linuxsoft.cern.ch/centos-debuginfo/",
-            "name": "linuxsoft.cern.ch",
+            "name": "CERN",
             "description": "",
-            "country-code": "US",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {

@@ -10,16 +10,16 @@
         },
         {
             "url": "http://linuxsoft.cern.ch/centos-vault/",
-            "name": "linuxsoft.cern.ch",
+            "name": "CERN",
             "description": "",
-            "country-code": "US",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {
             "url": "http://mirror.nsc.liu.se/centos-store/",
-            "name": "mirror.nsc.liu.se",
+            "name": "National Supercomputer Centre, Linkoping University",
             "description": "",
-            "country-code": "US",
+            "country-code": "SE",
             "role": "official-mirror"
         }
     ]
