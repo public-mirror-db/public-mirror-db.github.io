@@ -1,139 +1,184 @@
 {
     "mirrors": [
         {
-            "host": "104.102.28.11"
+            "host": "104.102.28.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.118.220.22"
+            "host": "104.118.220.22",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.123.204.11"
+            "host": "104.123.204.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.124.45.99"
+            "host": "104.124.45.99",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.74.20.10"
+            "host": "104.74.20.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.75.164.10"
+            "host": "104.75.164.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.85.0.10"
+            "host": "104.85.0.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.85.244.12"
+            "host": "104.85.244.12",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.91.76.10"
+            "host": "104.91.76.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "104.95.252.10"
+            "host": "104.95.252.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "173.222.180.12"
+            "host": "173.222.180.12",
+            "role": "wild-mirror"
         },
         {
-            "host": "173.223.108.10"
+            "host": "173.223.108.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "184.27.212.18"
+            "host": "184.27.212.18",
+            "role": "wild-mirror"
         },
         {
-            "host": "184.27.28.11"
+            "host": "184.27.28.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "2.18.232.16"
+            "host": "2.18.232.16",
+            "role": "wild-mirror"
         },
         {
-            "host": "223.119.202.32"
+            "host": "223.119.202.32",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.0.246.37"
+            "host": "23.0.246.37",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.1.244.11"
+            "host": "23.1.244.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.193.52.13"
+            "host": "23.193.52.13",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.195.254.33"
+            "host": "23.195.254.33",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.200.148.10"
+            "host": "23.200.148.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.204.248.59"
+            "host": "23.204.248.59",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.205.36.9"
+            "host": "23.205.36.9",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.207.172.10"
+            "host": "23.207.172.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.3.84.10"
+            "host": "23.3.84.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.36.176.11"
+            "host": "23.36.176.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.40.1.117"
+            "host": "23.40.1.117",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.40.120.10"
+            "host": "23.40.120.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.40.180.10"
+            "host": "23.40.180.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.40.44.10"
+            "host": "23.40.44.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.45.132.11"
+            "host": "23.45.132.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.45.196.54"
+            "host": "23.45.196.54",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.47.120.15"
+            "host": "23.47.120.15",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.48.228.10"
+            "host": "23.48.228.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.51.208.11"
+            "host": "23.51.208.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.53.252.13"
+            "host": "23.53.252.13",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.55.248.10"
+            "host": "23.55.248.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.56.0.33"
+            "host": "23.56.0.33",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.57.112.17"
+            "host": "23.57.112.17",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.59.156.11"
+            "host": "23.59.156.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.72.44.9"
+            "host": "23.72.44.9",
+            "role": "wild-mirror"
         },
         {
-            "host": "23.78.216.11"
+            "host": "23.78.216.11",
+            "role": "wild-mirror"
         },
         {
-            "host": "95.100.144.34"
+            "host": "95.100.144.34",
+            "role": "wild-mirror"
         },
         {
-            "host": "96.16.108.10"
+            "host": "96.16.108.10",
+            "role": "wild-mirror"
         },
         {
-            "host": "96.16.88.10"
+            "host": "96.16.88.10",
+            "role": "wild-mirror"
         }
     ]
 }
