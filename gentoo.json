@@ -10,6 +10,9 @@
             "name": "Tera-byte Dot Com Inc",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -17,6 +20,9 @@
             "name": "Tera-byte Dot Com Inc",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -24,6 +30,9 @@
             "name": "Tera-byte Dot Com Inc",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -31,6 +40,10 @@
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -38,6 +51,10 @@
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -45,6 +62,10 @@
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -52,6 +73,10 @@
             "name": "University of Waterloo",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -59,6 +84,9 @@
             "name": "Gossamer Threads",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -66,6 +94,9 @@
             "name": "Gossamer Threads",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -73,6 +104,10 @@
             "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -80,6 +115,10 @@
             "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -87,6 +126,10 @@
             "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -94,6 +137,10 @@
             "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -101,6 +148,10 @@
             "name": "LeaseWeb (Anycast: San Francisco; Dallas; Washington, D.C.; Miami)",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -108,6 +159,10 @@
             "name": "Georgia Tech",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -115,6 +170,10 @@
             "name": "Georgia Tech",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -122,6 +181,9 @@
             "name": "TDS Internet Services",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -129,6 +191,10 @@
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -136,6 +202,10 @@
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -143,6 +213,10 @@
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -150,6 +224,10 @@
             "name": "Rochester Institute of Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -157,6 +235,9 @@
             "name": "Pair Networks",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -164,6 +245,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -171,6 +255,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -178,6 +265,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -185,6 +275,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -192,6 +285,10 @@
             "name": "C3SL, Federal University of Paran\u00c3\u00a1",
             "description": "",
             "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -199,6 +296,10 @@
             "name": "C3SL, Federal University of Paran\u00c3\u00a1",
             "description": "",
             "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -206,6 +307,10 @@
             "name": "C3SL, Federal University of Paran\u00c3\u00a1",
             "description": "",
             "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -213,6 +318,9 @@
             "name": "Universidad de La Frontera",
             "description": "",
             "country-code": "CL",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -220,6 +328,9 @@
             "name": "Universidad de La Frontera",
             "description": "",
             "country-code": "CL",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -227,6 +338,9 @@
             "name": "Universidad de La Frontera",
             "description": "",
             "country-code": "CL",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -234,6 +348,10 @@
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -241,6 +359,10 @@
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -248,6 +370,10 @@
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -255,6 +381,10 @@
             "name": "Init7",
             "description": "",
             "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -262,6 +392,10 @@
             "name": "Init7",
             "description": "",
             "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -269,6 +403,10 @@
             "name": "Init7",
             "description": "",
             "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -276,6 +414,10 @@
             "name": "Masaryk University Brno",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -283,6 +425,10 @@
             "name": "Masaryk University Brno",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -290,6 +436,10 @@
             "name": "Masaryk University Brno",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -297,6 +447,10 @@
             "name": "Web4U Mirror",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -304,6 +458,10 @@
             "name": "Web4U Mirror",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -311,6 +469,10 @@
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -318,6 +480,10 @@
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -325,6 +491,10 @@
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -332,6 +502,10 @@
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -339,6 +513,10 @@
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -346,6 +524,10 @@
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -353,6 +535,10 @@
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -360,6 +546,10 @@
             "name": "dotsrc.org",
             "description": "",
             "country-code": "DK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -367,6 +557,10 @@
             "name": "OVH",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -374,6 +568,10 @@
             "name": "Free",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -381,6 +579,10 @@
             "name": "Free",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -388,6 +590,10 @@
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -395,6 +601,10 @@
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -402,6 +612,10 @@
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -409,6 +623,10 @@
             "name": "soeasyto.com",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -416,6 +634,10 @@
             "name": "soeasyto.com",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -423,6 +645,10 @@
             "name": "soeasyto.com",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -430,6 +656,9 @@
             "name": "modulix.net",
             "description": "",
             "country-code": "FR",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -437,6 +666,10 @@
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -444,6 +677,10 @@
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -451,6 +688,10 @@
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -458,6 +699,10 @@
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -465,6 +710,10 @@
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -472,6 +721,10 @@
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -479,6 +732,10 @@
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -486,6 +743,10 @@
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -493,6 +754,10 @@
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -500,6 +765,10 @@
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -507,6 +776,10 @@
             "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -514,6 +787,9 @@
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -521,6 +797,9 @@
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -528,6 +807,9 @@
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -535,6 +817,10 @@
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -542,6 +828,10 @@
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -549,6 +839,10 @@
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -556,6 +850,10 @@
             "name": "University of Applied Sciences, Esslingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -563,6 +861,10 @@
             "name": "1&1 Internet SE",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -570,6 +872,10 @@
             "name": "1&1 Internet SE",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -577,6 +883,10 @@
             "name": "1&1 Internet SE",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -584,6 +894,10 @@
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -591,6 +905,10 @@
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -598,6 +916,10 @@
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -605,6 +927,10 @@
             "name": "Netcologne",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -612,6 +938,10 @@
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -619,6 +949,10 @@
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -626,6 +960,10 @@
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -633,6 +971,10 @@
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -640,6 +982,10 @@
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -647,6 +993,10 @@
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -654,6 +1004,10 @@
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -661,6 +1015,10 @@
             "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -668,6 +1026,10 @@
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -675,6 +1037,10 @@
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -682,6 +1048,10 @@
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -689,6 +1059,10 @@
             "name": "TU Ilmenau",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -696,6 +1070,9 @@
             "name": "Leibniz Universit\u00c3\u00a4t Hannover",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -703,6 +1080,9 @@
             "name": "Leibniz Universit\u00c3\u00a4t Hannover",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -710,6 +1090,9 @@
             "name": "Leibniz Universit\u00c3\u00a4t Hannover",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -717,6 +1100,10 @@
             "name": "Ostbayerische Technische Hochschule Regensburg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -724,6 +1111,10 @@
             "name": "Ostbayerische Technische Hochschule Regensburg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -731,6 +1122,10 @@
             "name": "Ostbayerische Technische Hochschule Regensburg",
             "description": "",
             "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -738,6 +1133,10 @@
             "name": "National Technical University of Athens",
             "description": "",
             "country-code": "GR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -745,6 +1144,10 @@
             "name": "National Technical University of Athens",
             "description": "",
             "country-code": "GR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -752,6 +1155,10 @@
             "name": "GARR",
             "description": "",
             "country-code": "IT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -759,6 +1166,10 @@
             "name": "GARR",
             "description": "",
             "country-code": "IT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -766,6 +1177,10 @@
             "name": "root S.A.",
             "description": "",
             "country-code": "LU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -773,6 +1188,10 @@
             "name": "root S.A.",
             "description": "",
             "country-code": "LU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -780,6 +1199,10 @@
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -787,6 +1210,10 @@
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -794,6 +1221,10 @@
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -801,6 +1232,10 @@
             "name": "Universiteit Twente",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -808,6 +1243,10 @@
             "name": "LeaseWeb (Anycast: Amsterdam)",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -815,6 +1254,10 @@
             "name": "LeaseWeb (Anycast: Amsterdam)",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -822,6 +1265,10 @@
             "name": "LeaseWeb (Anycast: Amsterdam)",
             "description": "",
             "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -829,6 +1276,10 @@
             "name": "Vectranet",
             "description": "",
             "country-code": "PL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -836,6 +1287,10 @@
             "name": "Vectranet",
             "description": "",
             "country-code": "PL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -843,6 +1298,10 @@
             "name": "Vectranet",
             "description": "",
             "country-code": "PL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -850,6 +1309,10 @@
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -857,6 +1320,10 @@
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -864,6 +1331,10 @@
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -871,6 +1342,10 @@
             "name": "RNL - T\u00c3\u00a9cnico Lisboa",
             "description": "",
             "country-code": "PT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -878,6 +1353,9 @@
             "name": "University of Coimbra",
             "description": "",
             "country-code": "PT",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -885,6 +1363,9 @@
             "name": "University of Coimbra",
             "description": "",
             "country-code": "PT",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -892,6 +1373,9 @@
             "name": "xservers.ro Gazduire Web",
             "description": "",
             "country-code": "RO",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -899,6 +1383,10 @@
             "name": "Romanian Organization Network",
             "description": "",
             "country-code": "RO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -906,6 +1394,10 @@
             "name": "Wheel.sk",
             "description": "",
             "country-code": "SK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -913,6 +1405,10 @@
             "name": "Wheel.sk",
             "description": "",
             "country-code": "SK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -920,6 +1416,9 @@
             "name": "Rainside.sk",
             "description": "",
             "country-code": "SK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -927,6 +1426,9 @@
             "name": "Rainside.sk",
             "description": "",
             "country-code": "SK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -934,6 +1436,9 @@
             "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
             "description": "",
             "country-code": "TR",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -941,6 +1446,9 @@
             "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
             "description": "",
             "country-code": "TR",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -948,6 +1456,10 @@
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -955,6 +1467,10 @@
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -962,6 +1478,10 @@
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -969,6 +1489,10 @@
             "name": "Bytemark Hosting",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -976,6 +1500,9 @@
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -983,6 +1510,9 @@
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -990,6 +1520,9 @@
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -997,6 +1530,10 @@
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1004,6 +1541,10 @@
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1011,6 +1552,10 @@
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1018,6 +1563,10 @@
             "name": "The UK Mirror Service",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1025,6 +1574,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1032,6 +1584,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1039,6 +1594,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1046,6 +1604,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1053,6 +1614,10 @@
             "name": "AARnet",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1060,6 +1625,10 @@
             "name": "AARnet",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1067,6 +1636,10 @@
             "name": "AARnet",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1074,6 +1647,10 @@
             "name": "Swinburne University of Technology",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1081,6 +1658,10 @@
             "name": "Swinburne University of Technology",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1088,6 +1669,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1095,6 +1679,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1102,6 +1689,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1109,6 +1699,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1116,6 +1709,10 @@
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1123,6 +1720,10 @@
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1130,6 +1731,10 @@
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1137,6 +1742,10 @@
             "name": "Lagoon",
             "description": "",
             "country-code": "NC",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1144,6 +1753,9 @@
             "name": "Alibaba Cloud Computing",
             "description": "",
             "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1151,6 +1763,9 @@
             "name": "Alibaba Cloud Computing",
             "description": "",
             "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1158,6 +1773,9 @@
             "name": "Netease.com, Inc.",
             "description": "",
             "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1165,6 +1783,9 @@
             "name": "Netease.com, Inc.",
             "description": "",
             "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1172,6 +1793,10 @@
             "name": "Tsinghua University",
             "description": "",
             "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1179,6 +1804,9 @@
             "name": "aditsu.net",
             "description": "",
             "country-code": "HK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1186,6 +1814,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1193,6 +1824,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1200,6 +1834,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1207,6 +1844,9 @@
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1214,6 +1854,10 @@
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1221,6 +1865,10 @@
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1228,6 +1876,10 @@
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1235,6 +1887,10 @@
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1242,6 +1898,10 @@
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1249,6 +1909,10 @@
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1256,6 +1920,10 @@
             "name": "JAIST",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1263,6 +1931,9 @@
             "name": "RIKEN",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1270,6 +1941,9 @@
             "name": "RIKEN",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1277,6 +1951,9 @@
             "name": "RIKEN",
             "description": "",
             "country-code": "JP",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1284,6 +1961,9 @@
             "name": "RISE",
             "description": "",
             "country-code": "PH",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1291,6 +1971,9 @@
             "name": "RISE",
             "description": "",
             "country-code": "PH",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1298,6 +1981,9 @@
             "name": "KAIST",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1305,6 +1991,9 @@
             "name": "KAIST",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1312,6 +2001,10 @@
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1319,6 +2012,10 @@
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1326,6 +2023,10 @@
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1333,6 +2034,9 @@
             "name": "Daum Communications Corp",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1340,6 +2044,10 @@
             "name": "Yandex.ru",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1347,6 +2055,10 @@
             "name": "Yandex.ru",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1354,6 +2066,10 @@
             "name": "Yandex.ru",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1361,6 +2077,10 @@
             "name": "Alexxy.name",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1368,6 +2088,10 @@
             "name": "Alexxy.name",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1375,6 +2099,9 @@
             "name": "Bloodhost.ru",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1382,6 +2109,9 @@
             "name": "Bloodhost.ru",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1389,6 +2119,9 @@
             "name": "Bloodhost.ru",
             "description": "",
             "country-code": "RU",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1396,6 +2129,9 @@
             "name": "National University of Singapore",
             "description": "",
             "country-code": "SG",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1403,6 +2139,9 @@
             "name": "National University of Singapore",
             "description": "",
             "country-code": "SG",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1410,6 +2149,9 @@
             "name": "National University of Singapore",
             "description": "",
             "country-code": "SG",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1417,6 +2159,9 @@
             "name": "National Center for High-Performance Computing",
             "description": "",
             "country-code": "TW",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1424,6 +2169,9 @@
             "name": "National Center for High-Performance Computing",
             "description": "",
             "country-code": "TW",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1431,6 +2179,10 @@
             "name": "Hamakor FOSS Society",
             "description": "",
             "country-code": "IL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1438,6 +2190,10 @@
             "name": "Hamakor FOSS Society",
             "description": "",
             "country-code": "IL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1445,6 +2201,10 @@
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1452,6 +2212,10 @@
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1459,6 +2223,10 @@
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1466,6 +2234,10 @@
             "name": "Neo Lab's",
             "description": "",
             "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1473,6 +2245,9 @@
             "name": "Namibia University of Science and Technology",
             "description": "",
             "country-code": "NA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1480,6 +2255,9 @@
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1487,6 +2265,9 @@
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1494,6 +2275,9 @@
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1501,6 +2285,9 @@
             "name": "University of Cape Town",
             "description": "",
             "country-code": "ZA",
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -1522,8 +2309,7 @@
             "country-code": "CN",
             "full-mirror": true,
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "wild-mirror"
         },
@@ -1534,8 +2320,7 @@
             "country-code": "CN",
             "full-mirror": true,
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "wild-mirror"
         },
@@ -1586,6 +2371,26 @@
             "role": "wild-mirror"
         },
         {
+            "url": "http://mirror.bit.edu.cn/gentoo",
+            "name": "BIT",
+            "description": "Mirror site provided by Beijing Inistitute of Technology",
+            "country-code": "CN",
+            "address-families": [
+                "ip6"
+            ],
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://mirror.bit.edu.cn/gentoo",
+            "name": "BIT",
+            "description": "Mirror site provided by Beijing Inistitute of Technology",
+            "country-code": "CN",
+            "address-families": [
+                "ip6"
+            ],
+            "role": "wild-mirror"
+        },
+        {
             "url": "http://mirrors.sohu.com/gentoo",
             "name": "sohu",
             "description": "",
@@ -1599,17 +2404,6 @@
         {
             "url": "https://mirrors.sohu.com/gentoo",
             "name": "sohu",
-            "description": "",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "http://mirrors.yun-idc.com/gentoo",
-            "name": "yun-idc",
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
@@ -1642,10 +2436,10 @@
             "role": "wild-mirror"
         },
         {
-            "url": "http://www.mirrorservice.org/sites/distfiles.gentoo.org",
-            "name": "KU Mirror Service",
+            "url": "https://mirrors.neusoft.edu.cn/gentoo",
+            "name": "neusoft",
             "description": "",
-            "country-code": "GB",
+            "country-code": "CN",
             "full-mirror": true,
             "address-families": [
                 "ip",
@@ -1670,30 +2464,6 @@
             "name": "KU Mirror Service",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "http://mirrors.dotsrc.org/gentoo",
-            "name": "Dotsrc.org",
-            "description": "",
-            "country-code": "US",
-            "full-mirror": true,
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "rsync://mirrors.dotsrc.org/gentoo",
-            "name": "Dotsrc.org",
-            "description": "",
-            "country-code": "US",
             "full-mirror": true,
             "address-families": [
                 "ip",

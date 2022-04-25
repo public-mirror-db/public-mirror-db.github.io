@@ -6,467 +6,663 @@
     ],
     "mirrors": [
         {
-            "url": "rsync://rsync.ca.gentoo.org",
+            "url": "rsync://rsync.ca.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.ca.gentoo.org",
+            "url": "rsync://rsync1.ca.gentoo.org/gentoo-portage",
             "name": "Tera-byte Dot Com Inc - rsync1.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync2.ca.gentoo.org",
+            "url": "rsync://rsync2.ca.gentoo.org/gentoo-portage",
             "name": "Gossamer Threads",
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync3.ca.gentoo.org",
+            "url": "rsync://rsync3.ca.gentoo.org/gentoo-portage",
             "name": "Memorial University - rsync3.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync4.ca.gentoo.org",
+            "url": "rsync://rsync4.ca.gentoo.org/gentoo-portage",
             "name": "University of Waterloo - rsync4.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.us.gentoo.org",
+            "url": "rsync://rsync.us.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.us.gentoo.org",
             "description": "",
             "country-code": "US",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync3.us.gentoo.org",
+            "url": "rsync://rsync3.us.gentoo.org/gentoo-portage",
             "name": "Georgia Tech - rsync3.us.gentoo.org",
             "description": "",
             "country-code": "US",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync11.us.gentoo.org",
+            "url": "rsync://rsync11.us.gentoo.org/gentoo-portage",
             "name": "Steadfast Networks - rsync11.us.gentoo.org",
             "description": "",
             "country-code": "US",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync26.us.gentoo.org",
+            "url": "rsync://rsync26.us.gentoo.org/gentoo-portage",
             "name": "TDS Internet Services - rsync26.us.gentoo.org",
             "description": "",
             "country-code": "US",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync30.us.gentoo.org",
+            "url": "rsync://rsync30.us.gentoo.org/gentoo-portage",
             "name": "Silicon Valley Web Hosting - rsync30.us.gentoo.org",
             "description": "",
             "country-code": "US",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync31.us.gentoo.org",
+            "url": "rsync://rsync31.us.gentoo.org/gentoo-portage",
             "name": "Rackspace Technology - rsync31.us.gentoo.org",
             "description": "",
             "country-code": "US",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.br.gentoo.org",
+            "url": "rsync://rsync.br.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.br.gentoo.org",
             "description": "",
             "country-code": "BR",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.cz.gentoo.org",
+            "url": "rsync://rsync.cz.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.cz.gentoo.org",
             "description": "",
             "country-code": "CZ",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.cz.gentoo.org",
+            "url": "rsync://rsync1.cz.gentoo.org/gentoo-portage",
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s - rsync1.cz.gentoo.org.",
             "description": "",
             "country-code": "CZ",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.de.gentoo.org",
+            "url": "rsync://rsync.de.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.de.gentoo.org",
+            "url": "rsync://rsync1.de.gentoo.org/gentoo-portage",
             "name": "Gentoo e.V. - rsync1.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync5.de.gentoo.org",
+            "url": "rsync://rsync5.de.gentoo.org/gentoo-portage",
             "name": "I-Node - rsync5.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync7.de.gentoo.org",
+            "url": "rsync://rsync7.de.gentoo.org/gentoo-portage",
             "name": "stealer.net - rsync7.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync8.de.gentoo.org",
+            "url": "rsync://rsync8.de.gentoo.org/gentoo-portage",
             "name": "gentoo64.net - rsync8.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync9.de.gentoo.org",
+            "url": "rsync://rsync9.de.gentoo.org/gentoo-portage",
             "name": "University of Applied Sciences, Esslingen - rsync9.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync10.de.gentoo.org",
+            "url": "rsync://rsync10.de.gentoo.org/gentoo-portage",
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum - rsync10.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync12.de.gentoo.org",
+            "url": "rsync://rsync12.de.gentoo.org/gentoo-portage",
             "name": "mirror.amiconsult.de - rsync12.de.gentoo.org",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync15.de.gentoo.org",
+            "url": "rsync://rsync15.de.gentoo.org/gentoo-portage",
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.fr.gentoo.org",
+            "url": "rsync://rsync.fr.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.fr.gentoo.org",
             "description": "",
             "country-code": "FR",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.fr.gentoo.org",
+            "url": "rsync://rsync1.fr.gentoo.org/gentoo-portage",
             "name": "Linuxant.fr - rsync1.fr.gentoo.org",
             "description": "",
             "country-code": "FR",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.nl.gentoo.org",
+            "url": "rsync://rsync.nl.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.nl.gentoo.org",
             "description": "",
             "country-code": "NL",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync2.nl.gentoo.org",
+            "url": "rsync://rsync2.nl.gentoo.org/gentoo-portage",
             "name": "Universiteit Twente - rsync2.nl.gentoo.org",
             "description": "",
             "country-code": "NL",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.pl.gentoo.org",
+            "url": "rsync://rsync.pl.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.pl.gentoo.org",
             "description": "",
             "country-code": "PL",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.pl.gentoo.org",
+            "url": "rsync://rsync1.pl.gentoo.org/gentoo-portage",
             "name": "Institute of Theoretical Physics University of Wroclaw, Poland - rsync1.pl.gentoo.org",
             "description": "",
             "country-code": "PL",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync7.pl.gentoo.org",
+            "url": "rsync://rsync7.pl.gentoo.org/gentoo-portage",
             "name": "Vectranet - rsync7.pl.gentoo.org",
             "description": "",
             "country-code": "PL",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.pt.gentoo.org",
+            "url": "rsync://rsync.pt.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.pt.gentoo.org",
             "description": "",
             "country-code": "PT",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync2.pt.gentoo.org",
+            "url": "rsync://rsync2.pt.gentoo.org/gentoo-portage",
             "name": "Rede das Novas Licenciaturas - rsync2.pt.gentoo.org",
             "description": "",
             "country-code": "PT",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.ro.gentoo.org",
+            "url": "rsync://rsync.ro.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.ro.gentoo.org",
             "description": "",
             "country-code": "RO",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync3.ro.gentoo.org",
+            "url": "rsync://rsync3.ro.gentoo.org/gentoo-portage",
             "name": "Romanian Organization Network",
             "description": "",
             "country-code": "RO",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.sk.gentoo.org",
+            "url": "rsync://rsync.sk.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.sk.gentoo.org",
             "description": "",
             "country-code": "SK",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.sk.gentoo.org",
+            "url": "rsync://rsync1.sk.gentoo.org/gentoo-portage",
             "name": "Wheel.sk - rsync1.sk.gentoo.org",
             "description": "",
             "country-code": "SK",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync3.sk.gentoo.org",
+            "url": "rsync://rsync3.sk.gentoo.org/gentoo-portage",
             "name": "Rainside.sk - rsync3.sk.gentoo.org",
             "description": "",
             "country-code": "SK",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.uk.gentoo.org",
+            "url": "rsync://rsync.uk.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.uk.gentoo.org",
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync2.uk.gentoo.org",
+            "url": "rsync://rsync2.uk.gentoo.org/gentoo-portage",
             "name": "Bytemark Hosting - rsync2.uk.gentoo.org",
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync4.uk.gentoo.org",
+            "url": "rsync://rsync4.uk.gentoo.org/gentoo-portage",
             "name": "Rackspace Technology - rsync4.uk.gentoo.org",
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirrors.gethosted.online/gentoo",
+            "url": "rsync://mirrors.gethosted.online/gentoo/gentoo-portage",
             "name": "Get Hosted online - mirrors.gethosted.online/gentoo",
             "description": "",
             "country-code": "GB",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.au.gentoo.org",
+            "url": "rsync://rsync.au.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.au.gentoo.org",
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.au.gentoo.org",
+            "url": "rsync://rsync1.au.gentoo.org/gentoo-portage",
             "name": "Swinburne University of Technology - rsync1.au.gentoo.org",
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync2.au.gentoo.org",
+            "url": "rsync://rsync2.au.gentoo.org/gentoo-portage",
             "name": "Viktor Villafuerte",
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync3.au.gentoo.org",
+            "url": "rsync://rsync3.au.gentoo.org/gentoo-portage",
             "name": "Rackspace Technology - rsync3.au.gentoo.org",
             "description": "",
             "country-code": "AU",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.cn.gentoo.org",
+            "url": "rsync://rsync.cn.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.cn.gentoo.org",
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.cn.gentoo.org",
+            "url": "rsync://rsync1.cn.gentoo.org/gentoo-portage",
             "name": "Tsinghua University - rsync1.cn.gentoo.org",
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync3.cn.gentoo.org",
+            "url": "rsync://rsync3.cn.gentoo.org/gentoo-portage",
             "name": "Rackspace Technology - rsync3.cn.gentoo.org",
             "description": "",
             "country-code": "CN",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.jp.gentoo.org",
+            "url": "rsync://rsync.jp.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.jp.gentoo.org",
             "description": "",
             "country-code": "JP",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync5.jp.gentoo.org",
+            "url": "rsync://rsync5.jp.gentoo.org/gentoo-portage",
             "name": "wide.ad.jp - rsync5.jp.gentoo.org",
             "description": "",
             "country-code": "JP",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.kr.gentoo.org",
+            "url": "rsync://rsync.kr.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.kr.gentoo.org",
             "description": "",
             "country-code": "KR",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.kr.gentoo.org",
+            "url": "rsync://rsync1.kr.gentoo.org/gentoo-portage",
             "name": "KAIST - rsync1.kr.gentoo.org",
             "description": "",
             "country-code": "KR",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.ru.gentoo.org",
+            "url": "rsync://rsync.ru.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.ru.gentoo.org",
             "description": "",
             "country-code": "RU",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.ru.gentoo.org",
+            "url": "rsync://rsync1.ru.gentoo.org/gentoo-portage",
             "name": "bloodhost.ru - rsync1.ru.gentoo.org",
             "description": "",
             "country-code": "RU",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync2.ru.gentoo.org",
+            "url": "rsync://rsync2.ru.gentoo.org/gentoo-portage",
             "name": "Yandex.ru - rsync2.ru.gentoo.org",
             "description": "",
             "country-code": "RU",
             "full-mirror": true,
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.tw.gentoo.org",
+            "url": "rsync://rsync.tw.gentoo.org/gentoo-portage",
             "name": "Any available mirror - rsync.tw.gentoo.org",
             "description": "",
             "country-code": "TW",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync1.tw.gentoo.org",
+            "url": "rsync://rsync1.tw.gentoo.org/gentoo-portage",
             "name": "linux.cs.nctu.edu.tw - rsync1.tw.gentoo.org",
             "description": "",
             "country-code": "TW",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync6.tw.gentoo.org",
+            "url": "rsync://rsync6.tw.gentoo.org/gentoo-portage",
             "name": "National Center for High-Performance Computing - rsync6.tw.gentoo.org",
             "description": "",
             "country-code": "TW",
             "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
             "role": "official-mirror"
         },
         {
@@ -489,6 +685,17 @@
             "full-mirror": true,
             "address-families": [
                 "ip",
+                "ip6"
+            ],
+            "role": "wild-mirror"
+        },
+        {
+            "url": "rsync://mirror.bit.edu.cn/gentoo-portage",
+            "name": "BIT",
+            "description": "Mirror site provided by Beijing Inistitute of Technology",
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
                 "ip6"
             ],
             "role": "wild-mirror"
