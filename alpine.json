@@ -524,43 +524,43 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://sjc.edge.kernel.org/alpine/",
-            "name": "sjc.edge.kernel.org",
+            "url": "http://mirrors.edge.kernel.org/alpine/",
+            "name": "na.edge.kernel.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "https://sjc.edge.kernel.org/alpine/",
-            "name": "sjc.edge.kernel.org",
+            "url": "https://mirrors.edge.kernel.org/alpine/",
+            "name": "na.edge.kernel.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://ewr.edge.kernel.org/alpine/",
-            "name": "ewr.edge.kernel.org",
+            "url": "http://ap.edge.kernel.org/alpine/",
+            "name": "ap.edge.kernel.org",
             "description": "",
-            "country-code": "US",
+            "country-code": "JP",
             "role": "official-mirror"
         },
         {
-            "url": "https://ewr.edge.kernel.org/alpine/",
-            "name": "ewr.edge.kernel.org",
+            "url": "https://ap.edge.kernel.org/alpine/",
+            "name": "ap.edge.kernel.org",
             "description": "",
-            "country-code": "US",
+            "country-code": "JP",
             "role": "official-mirror"
         },
         {
-            "url": "http://ams.edge.kernel.org/alpine/",
-            "name": "ams.edge.kernel.org",
+            "url": "http://eu.edge.kernel.org/alpine/",
+            "name": "eu.edge.kernel.org",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "https://ams.edge.kernel.org/alpine/",
-            "name": "ams.edge.kernel.org",
+            "url": "https://eu.edge.kernel.org/alpine/",
+            "name": "eu.edge.kernel.org",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -678,10 +678,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.cs.nctu.edu.tw/",
-            "name": "NCTU CSCC",
+            "url": "http://alpine.cs.nycu.edu.tw/",
+            "name": "NYCU CSIT",
             "description": "",
-            "country-code": "US",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.cs.nycu.edu.tw/",
+            "name": "NYCU CSIT",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpine.cs.nycu.edu.tw/alpine/",
+            "name": "NYCU CSIT",
+            "description": "",
+            "country-code": "TW",
             "role": "official-mirror"
         },
         {
@@ -1172,6 +1186,34 @@
             "name": "ICSCoE",
             "description": "",
             "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpinelinux.mirror.garr.it/",
+            "name": "Consortium GARR",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpinelinux.mirror.garr.it/",
+            "name": "Consortium GARR",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.hostico.ro/alpinelinux/",
+            "name": "Hostico",
+            "description": "",
+            "country-code": "RO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.hostico.ro/alpinelinux/",
+            "name": "Hostico",
+            "description": "",
+            "country-code": "RO",
             "role": "official-mirror"
         }
     ]

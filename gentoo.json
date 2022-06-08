@@ -2303,28 +2303,6 @@
             "role": "wild-mirror"
         },
         {
-            "url": "http://mirrors.zju.edu.cn/gentoo",
-            "name": "ZJU",
-            "description": "Mirror site provided by Zhe Jiang University",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "https://mirrors.zju.edu.cn/gentoo",
-            "name": "ZJU",
-            "description": "Mirror site provided by Zhe Jiang University",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip"
-            ],
-            "role": "wild-mirror"
-        },
-        {
             "url": "http://mirrors.ustc.edu.cn/gentoo",
             "name": "USTC",
             "description": "Mirror site provided by University of Science and Technology of China",
@@ -2404,6 +2382,17 @@
         {
             "url": "https://mirrors.sohu.com/gentoo",
             "name": "sohu",
+            "description": "",
+            "country-code": "CN",
+            "full-mirror": true,
+            "address-families": [
+                "ip"
+            ],
+            "role": "wild-mirror"
+        },
+        {
+            "url": "http://mirrors.yun-idc.com/gentoo",
+            "name": "yun-idc",
             "description": "",
             "country-code": "CN",
             "full-mirror": true,

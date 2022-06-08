@@ -178,14 +178,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://alpha.de.repo.voidlinux.org/",
-            "name": "alpha.de.repo.voidlinux.org",
-            "description": "",
-            "country-code": "FI",
-            "tier": 1,
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirrors.servercentral.com/voidlinux/",
             "name": "mirrors.servercentral.com",
             "description": "",

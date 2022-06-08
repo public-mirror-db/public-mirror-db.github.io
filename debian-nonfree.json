@@ -16,13 +16,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.nju.edu.cn/debian-nonfree/",
-            "name": "mirror.nju.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
             "name": "mirrors.ocf.berkeley.edu",
             "description": "",

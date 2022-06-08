@@ -331,48 +331,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ipserverone.com/centos-altarch/",
-            "name": "IP Serverone Solution Sdn Bhd",
-            "description": "",
-            "country-code": "MY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.ipserverone.com/centos-altarch/",
-            "name": "IP Serverone Solution Sdn Bhd",
-            "description": "",
-            "country-code": "MY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.ipserverone.com/centos-altarch/",
-            "name": "IP Serverone Solution Sdn Bhd",
-            "description": "",
-            "country-code": "MY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.bangmod.cloud/centos-altarch/",
             "name": "Bangmod.Cloud",
             "description": "",
@@ -695,27 +653,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.wd6.net/centos-altarch/",
-            "name": "WD6.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.wd6.net/centos-altarch/",
-            "name": "WD6.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.wd6.net/centos-altarch/",
-            "name": "WD6.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://centos-altarch.mirror.liteserver.nl/",
             "name": "LiteServer",
             "description": "",
@@ -842,6 +779,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.surf/centos-altarch/",
+            "name": "Dmitry Shishkin",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.surf/centos-altarch/",
+            "name": "Dmitry Shishkin",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.surf/centos-altarch/",
+            "name": "Dmitry Shishkin",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.powernet.com.ru/centos-altarch/",
             "name": "POWERNET ISP",
             "description": "",
@@ -853,6 +811,13 @@
             "name": "POWERNET ISP",
             "description": "",
             "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.gadix.com/centos-altarch/",
+            "name": "Hospedados.com & GadIX.com",
+            "description": "",
+            "country-code": "ES",
             "role": "official-mirror"
         },
         {
@@ -881,6 +846,27 @@
             "name": "PremierDC",
             "description": "",
             "country-code": "TR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fastmirror.pp.ua/centos-altarch/",
+            "name": "",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fastmirror.pp.ua/centos-altarch/",
+            "name": "",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fastmirror.pp.ua/centos-altarch/",
+            "name": "",
+            "description": "",
+            "country-code": "UA",
             "role": "official-mirror"
         },
         {
@@ -1122,20 +1108,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://centos.vwtonline.net/centos-altarch/",
-            "name": "Virtual World Technologies",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://centos.vwtonline.net/centos-altarch/",
-            "name": "Virtual World Technologies",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.genesisadaptive.com/centos-altarch/",
             "name": "Genesis Adaptive",
             "description": "",
@@ -1145,6 +1117,27 @@
         {
             "url": "http://mirror.genesishosting.com/centos-altarch/",
             "name": "Genesis Hosting",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.usi.edu/pub/centos-altarch",
+            "name": "University of Southern Indiana",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.usi.edu/pub/centos-altarch",
+            "name": "University of Southern Indiana",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.usi.edu/centos-altarch",
+            "name": "University of Southern Indiana",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
