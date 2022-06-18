@@ -2349,26 +2349,6 @@
             "role": "wild-mirror"
         },
         {
-            "url": "http://mirror.bit.edu.cn/gentoo",
-            "name": "BIT",
-            "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN",
-            "address-families": [
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "https://mirror.bit.edu.cn/gentoo",
-            "name": "BIT",
-            "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN",
-            "address-families": [
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
             "url": "http://mirrors.sohu.com/gentoo",
             "name": "sohu",
             "description": "",

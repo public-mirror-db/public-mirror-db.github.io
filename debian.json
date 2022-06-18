@@ -419,13 +419,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.163.com/debian/",
-            "name": "mirrors.163.com",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.huaweicloud.com/debian/",
             "name": "mirrors.huaweicloud.com",
             "description": "",
@@ -1280,6 +1273,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.cse.iitk.ac.in/debian/",
+            "name": "mirror.cse.iitk.ac.in",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://debian.mirror.net.in/debian/",
             "name": "debian.mirror.net.in",
             "description": "",
@@ -1308,6 +1308,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://debian.parspack.com/debian/",
+            "name": "debian.parspack.com",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.is.debian.org/debian/",
             "name": "ftp.is.debian.org",
             "description": "",
@@ -1317,6 +1324,13 @@
         {
             "url": "http://debian.connesi.it/debian/",
             "name": "debian.connesi.it",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.dynamica.it/debian/",
+            "name": "debian.dynamica.it",
             "description": "",
             "country-code": "IT",
             "role": "official-mirror"
@@ -1448,6 +1462,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://debian.mirror.ac.ke/debian/",
+            "name": "debian.mirror.ac.ke",
+            "description": "",
+            "country-code": "KE",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.sabay.com.kh/debian/",
             "name": "mirror.sabay.com.kh",
             "description": "",
@@ -1464,6 +1485,13 @@
         {
             "url": "http://ftp.kaist.ac.kr/debian/",
             "name": "ftp.kaist.ac.kr",
+            "description": "",
+            "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.lanet.kr/debian/",
+            "name": "ftp.lanet.kr",
             "description": "",
             "country-code": "KP",
             "role": "official-mirror"
@@ -1534,13 +1562,6 @@
         {
             "url": "http://mirror.cloudhosting.lv/debian/",
             "name": "mirror.cloudhosting.lv",
-            "description": "",
-            "country-code": "LV",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.linux.edu.lv/debian/",
-            "name": "debian.linux.edu.lv",
             "description": "",
             "country-code": "LV",
             "role": "official-mirror"
@@ -1809,6 +1830,13 @@
             "name": "mirrors.up.pt",
             "description": "",
             "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://depot-debian.univ-reunion.fr/debian/",
+            "name": "depot-debian.univ-reunion.fr",
+            "description": "",
+            "country-code": "RE",
             "role": "official-mirror"
         },
         {
@@ -2332,6 +2360,13 @@
         {
             "url": "http://ftp.us.debian.org/debian/",
             "name": "ftp.us.debian.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.keystealth.org/debian/",
+            "name": "mirror.keystealth.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

@@ -296,20 +296,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
-            "name": "Yamagata University",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
-            "name": "Yamagata University",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.hoster.kz/centos-altarch/",
             "name": "LLP Kompaniya Hoster.KZ",
             "description": "",
@@ -653,6 +639,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.wd6.net/centos-altarch/",
+            "name": "WD6.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.wd6.net/centos-altarch/",
+            "name": "WD6.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.wd6.net/centos-altarch/",
+            "name": "WD6.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://centos-altarch.mirror.liteserver.nl/",
             "name": "LiteServer",
             "description": "",
@@ -811,13 +818,6 @@
             "name": "POWERNET ISP",
             "description": "",
             "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.gadix.com/centos-altarch/",
-            "name": "Hospedados.com & GadIX.com",
-            "description": "",
-            "country-code": "ES",
             "role": "official-mirror"
         },
         {

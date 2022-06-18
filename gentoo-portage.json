@@ -690,17 +690,6 @@
             "role": "wild-mirror"
         },
         {
-            "url": "rsync://mirror.bit.edu.cn/gentoo-portage",
-            "name": "BIT",
-            "description": "Mirror site provided by Beijing Inistitute of Technology",
-            "country-code": "CN",
-            "full-mirror": true,
-            "address-families": [
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
             "url": "rsync://mirrors.yun-idc.com/gentoo-portage",
             "name": "yun-idc",
             "description": "",

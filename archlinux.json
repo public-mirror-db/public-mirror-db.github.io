@@ -4847,7 +4847,8 @@
             "description": "",
             "country-code": "NZ",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -4858,7 +4859,8 @@
             "description": "",
             "country-code": "NZ",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -4869,7 +4871,8 @@
             "description": "",
             "country-code": "NZ",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -9829,7 +9832,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -9840,7 +9844,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -10569,30 +10574,6 @@
             "country-code": "SG",
             "address-families": [
                 "ip"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://archive.gamerparty.eu/arch/",
-            "name": "archive.gamerparty.eu",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://archive.gamerparty.eu/arch/",
-            "name": "archive.gamerparty.eu",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"

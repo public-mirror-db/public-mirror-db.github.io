@@ -5602,6 +5602,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ubuntu-mirror.magnetic-it.com/ubuntu/",
+            "name": "Magnetic IT Services",
+            "description": "",
+            "country-code": "RO",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ubuntu-mirror.magnetic-it.com/ubuntu/",
             "name": "Magnetic IT Services",
             "description": "",

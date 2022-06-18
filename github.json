@@ -1,0 +1,15 @@
+{
+    "sources": [
+        {
+            "url": "https://github.com"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://hub.fastgit.xyz",
+            "name": "FastGit",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        }
+    ]
+}

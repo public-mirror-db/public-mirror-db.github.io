@@ -93,13 +93,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.163.com/debian-cd/",
-            "name": "mirrors.163.com",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.ucr.ac.cr/debian-cd/",
             "name": "mirrors.ucr.ac.cr",
             "description": "",
@@ -436,6 +429,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.lanet.kr/debian-cd/",
+            "name": "ftp.lanet.kr",
+            "description": "",
+            "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.litnet.lt/debian-cd/",
             "name": "mirror.litnet.lt",
             "description": "",
@@ -454,13 +454,6 @@
             "name": "debian.mirror.root.lu",
             "description": "",
             "country-code": "LU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.linux.edu.lv/debian-cd/",
-            "name": "debian.linux.edu.lv",
-            "description": "",
-            "country-code": "LV",
             "role": "official-mirror"
         },
         {
@@ -704,6 +697,13 @@
         {
             "url": "http://mirror.steadfast.net/debian-cd/",
             "name": "mirror.steadfast.net",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.keystealth.org/debian-cd/",
+            "name": "mirror.keystealth.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

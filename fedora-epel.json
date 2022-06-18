@@ -184,27 +184,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://syd.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://syd.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://syd.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.hostart.az/Fedora_Epel",
             "name": "Hostart LLC",
             "description": "",
@@ -1416,6 +1395,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.01link.hk/epel",
+            "name": "01Link Network Services Ltd",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.01link.hk/epel",
+            "name": "01Link Network Services Ltd",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.bme.hu/epel",
             "name": "bme.hu",
             "description": "",
@@ -2064,27 +2057,6 @@
             "name": "UPR",
             "description": "",
             "country-code": "PR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.pt/epel",
-            "name": "edgoo networks",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.pt/epel",
-            "name": "edgoo networks",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.pt/epel",
-            "name": "edgoo networks",
-            "description": "",
-            "country-code": "PT",
             "role": "official-mirror"
         },
         {
@@ -3490,6 +3462,27 @@
         {
             "url": "rsync://repos.eggycrew.com/epel",
             "name": "EggyCrew",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ridgewireless.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ridgewireless.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ridgewireless.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
