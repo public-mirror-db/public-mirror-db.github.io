@@ -2,6 +2,13 @@
     "sources": [],
     "mirrors": [
         {
+            "url": "http://mirrors.asnet.am/debian-cd/",
+            "name": "mirrors.asnet.am",
+            "description": "",
+            "country-code": "AM",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://debian.xfree.com.ar/debian-cd/",
             "name": "debian.xfree.com.ar",
             "description": "",
@@ -25,13 +32,6 @@
         {
             "url": "http://mirror.overthewire.com.au/debian-cd/",
             "name": "mirror.overthewire.com.au",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.rackcentral.com.au/debian-cd/",
-            "name": "mirror.rackcentral.com.au",
             "description": "",
             "country-code": "AU",
             "role": "official-mirror"
@@ -436,13 +436,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.litnet.lt/debian-cd/",
-            "name": "mirror.litnet.lt",
-            "description": "",
-            "country-code": "LT",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.mirror.vu.lt/debian-cd/",
             "name": "debian.mirror.vu.lt",
             "description": "",
@@ -557,13 +550,6 @@
         {
             "url": "http://mirrors.pidginhost.com/debian-cd/",
             "name": "mirrors.pidginhost.com",
-            "description": "",
-            "country-code": "RO",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.xservers.ro/debian-cd/",
-            "name": "mirrors.xservers.ro",
             "description": "",
             "country-code": "RO",
             "role": "official-mirror"

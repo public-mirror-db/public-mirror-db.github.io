@@ -440,13 +440,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.42.fr/",
-            "name": "alpine.42.fr",
-            "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.math.princeton.edu/pub/alpinelinux/",
             "name": "mirror.math.princeton.edu",
             "description": "",
@@ -1214,6 +1207,34 @@
             "name": "Hostico",
             "description": "",
             "country-code": "RO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.serverion.com/alpine/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.serverion.com/alpine/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.serverion.com/alpine/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.serverion.com/alpine/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
             "role": "official-mirror"
         }
     ]

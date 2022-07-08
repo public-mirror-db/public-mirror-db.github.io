@@ -187,6 +187,16 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://gentoo-mirror.flux.utah.edu/",
+            "name": "University of Utah (Flux Group)",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.rit.edu/gentoo/",
             "name": "Rochester Institute of Technology",
             "description": "",
@@ -654,6 +664,16 @@
         {
             "url": "http://gentoo.modulix.net/gentoo/",
             "name": "modulix.net",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.orchid-linux.org/",
+            "name": "Orchid Linux",
             "description": "",
             "country-code": "FR",
             "address-families": [

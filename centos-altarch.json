@@ -212,48 +212,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.papua.go.id/centos-altarch/",
-            "name": "Pemerintah Provinsi Papua",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.papua.go.id/centos-altarch/",
-            "name": "Pemerintah Provinsi Papua",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.papua.go.id/centos-altarch/",
-            "name": "Pemerintah Provinsi Papua",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.gi.co.id/centos-altarch/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.gi.co.id/centos-altarch/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.gi.co.id/centos-altarch/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.repository.id/centos-altarch/",
             "name": "repository.id",
             "description": "",
@@ -296,24 +254,38 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.hoster.kz/centos-altarch/",
-            "name": "LLP Kompaniya Hoster.KZ",
+            "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
+            "name": "Yamagata University",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "JP",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.hoster.kz/centos-altarch/",
-            "name": "LLP Kompaniya Hoster.KZ",
+            "url": "rsync://ftp.yz.yamagata-u.ac.jp/pub/linux/centos-altarch/",
+            "name": "Yamagata University",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "JP",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.hoster.kz/centos-altarch/",
-            "name": "LLP Kompaniya Hoster.KZ",
+            "url": "http://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
+            "description": "",
+            "country-code": "SG",
             "role": "official-mirror"
         },
         {
@@ -681,22 +653,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.usenet.farm/centos-altarch/",
-            "name": "Usenet.Farm",
+            "url": "http://mirror.serverion.com/centos-altarch/",
+            "name": "serverion.com",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.usenet.farm/centos-altarch/",
-            "name": "Usenet.Farm",
+            "url": "https://mirror.serverion.com/centos-altarch/",
+            "name": "serverion.com",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.usenet.farm/centos-altarch/",
-            "name": "Usenet.Farm",
+            "url": "rsync://mirror.serverion.com/centos-altarch/",
+            "name": "serverion.com",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -818,6 +790,20 @@
             "name": "POWERNET ISP",
             "description": "",
             "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.airenetworks.es/CentOS-AltArch/",
+            "name": "AireNetworks",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.airenetworks.es/CentOS-AltArch/",
+            "name": "AireNetworks",
+            "description": "",
+            "country-code": "ES",
             "role": "official-mirror"
         },
         {

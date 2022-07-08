@@ -429,6 +429,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.lzu.edu.cn/fedora",
+            "name": "Lanzhou University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.lzu.edu.cn/fedora",
+            "name": "Lanzhou University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.163.com/fedora",
             "name": "163.com",
             "description": "",
@@ -457,22 +471,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirrors.neusoft.edu.cn/fedora",
-            "name": "Dalian Neusoft University of Information",
+            "url": "rsync://mirror.sjtu.edu.cn/fedora/linux",
+            "name": "SJTUG",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.neusoft.edu.cn/fedora",
-            "name": "Dalian Neusoft University of Information",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.neusoft.edu.cn/fedora",
-            "name": "Dalian Neusoft University of Information",
+            "url": "https://mirror.sjtu.edu.cn/fedora/linux",
+            "name": "SJTUG",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -1094,20 +1101,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mr.heru.id/fedora/linux",
-            "name": "heru.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mr.heru.id/fedora/linux",
-            "name": "heru.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.nonstop.co.il/fedora/linux",
             "name": "mirror.nonstop.co.il",
             "description": "",
@@ -1150,20 +1143,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
             "description": "",
@@ -1180,6 +1159,20 @@
         {
             "url": "https://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
@@ -1235,6 +1228,13 @@
         },
         {
             "url": "rsync://fedora.mirror.liquidtelecom.com/fedora-enchilada/linux",
+            "name": "Liquid Telecom",
+            "description": "",
+            "country-code": "KE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fedora.mirror.liquidtelecom.com/fedora/linux",
             "name": "Liquid Telecom",
             "description": "",
             "country-code": "KE",
@@ -1318,6 +1318,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://eu.edge.kernel.org/fedora",
+            "name": "mirrors.kernel.org",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://fedora.mirror.wearetriple.com/linux",
             "name": "Triple",
             "description": "",
@@ -1383,6 +1390,27 @@
         {
             "url": "http://mirror.nl.leaseweb.net/fedora/linux",
             "name": "LeaseWeb",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.serverion.com/fedora",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.serverion.com/fedora",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.serverion.com/fedora",
+            "name": "Serverion",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -1705,13 +1733,6 @@
         {
             "url": "rsync://coresite.mm.fcix.net/fedora-enchilada/linux",
             "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://da.mirrors.kernel.org/fedora",
-            "name": "mirrors.kernel.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2270,7 +2291,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mnvoip.mm.fcix.net/fedora-enchilada/linux",
+            "url": "http://mnvoip.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
@@ -2284,8 +2305,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mnvoip.mm.fcix.net/fedora/linux",
+            "url": "rsync://mnvoip.mm.fcix.net/fedora-enchilada/linux",
             "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://na.edge.kernel.org/fedora",
+            "name": "mirrors.kernel.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2342,6 +2370,27 @@
         {
             "url": "rsync://packages.oit.ncsu.edu/fedora/linux",
             "name": "NC State University",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://paducahix.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://paducahix.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://paducahix.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

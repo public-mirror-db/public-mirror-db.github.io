@@ -583,22 +583,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.neusoft.edu.cn/epel",
-            "name": "Dalian Neusoft University of Information",
+            "url": "rsync://mirror.sjtu.edu.cn/fedora/epel",
+            "name": "SJTUG",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.neusoft.edu.cn/epel",
-            "name": "Dalian Neusoft University of Information",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.neusoft.edu.cn/epel",
-            "name": "Dalian Neusoft University of Information",
+            "url": "https://mirror.sjtu.edu.cn/fedora/epel",
+            "name": "SJTUG",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -1031,27 +1024,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.cspacehostings.com/epel",
-            "name": "CSpace Hostings",
-            "description": "",
-            "country-code": "EE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.cspacehostings.com/epel",
-            "name": "CSpace Hostings",
-            "description": "",
-            "country-code": "EE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.cspacehostings.com/epel",
-            "name": "CSpace Hostings",
-            "description": "",
-            "country-code": "EE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.uma.es/mirror/epel",
             "name": "Universidad de Malaga",
             "description": "",
@@ -1215,20 +1187,6 @@
         {
             "url": "rsync://mirror.freethought-internet.co.uk/epel",
             "name": "Freethought Internet",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.netweaver.uk/epel",
-            "name": "NetWeaver",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.netweaver.uk/epel",
-            "name": "NetWeaver",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -1521,20 +1479,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mr.heru.id/epel",
-            "name": "heru.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mr.heru.id/epel",
-            "name": "heru.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.nonstop.co.il/epel",
             "name": "mirror.nonstop.co.il",
             "description": "",
@@ -1619,6 +1563,34 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://it1.mirror.vhosting-it.com/epel",
+            "name": "VHosting Solution (IT1 - Milan)",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://it1.mirror.vhosting-it.com/epel",
+            "name": "VHosting Solution (IT1 - Milan)",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://it2.mirror.vhosting-it.com/epel",
+            "name": "VHosting Solution (IT2 - Turin)",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://it2.mirror.vhosting-it.com/epel",
+            "name": "VHosting Solution (IT2 - Turin)",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/epel",
             "name": "Internet Initiative Japan Inc.",
             "description": "",
@@ -1683,6 +1655,13 @@
         },
         {
             "url": "rsync://epel.mirror.liquidtelecom.com/fedora-epel",
+            "name": "Liquid Telecom",
+            "description": "",
+            "country-code": "KE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://epel.mirror.liquidtelecom.com/epel",
             "name": "Liquid Telecom",
             "description": "",
             "country-code": "KE",
@@ -1927,6 +1906,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://eu.edge.kernel.org/fedora-epel",
+            "name": "mirrors.kernel.org",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://ftp.nluug.nl/fedora-epel",
             "name": "NLUUG-SURFnet",
             "description": "",
@@ -1985,6 +1971,27 @@
         {
             "url": "rsync://mirror.nl.leaseweb.net/epel",
             "name": "LeaseWeb",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.serverion.com/epel",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.serverion.com/epel",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.serverion.com/epel",
+            "name": "Serverion",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -2615,13 +2622,6 @@
         {
             "url": "rsync://coresite.mm.fcix.net/fedora-epel",
             "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://da.mirrors.kernel.org/fedora-epel",
-            "name": "mirrors.kernel.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -3320,6 +3320,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://na.edge.kernel.org/fedora-epel",
+            "name": "mirrors.kernel.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://nnenix.mm.fcix.net/epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -3371,6 +3378,27 @@
         {
             "url": "rsync://packages.oit.ncsu.edu/epel",
             "name": "NC State University",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://paducahix.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://paducahix.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://paducahix.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

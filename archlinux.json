@@ -234,7 +234,8 @@
             "description": "",
             "country-code": "TR",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -3430,7 +3431,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -6616,7 +6618,8 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -6627,7 +6630,8 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -7729,7 +7733,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -7740,7 +7745,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -8152,18 +8158,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://phinau.de/arch/",
-            "name": "phinau.de",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.anquan.cl/archlinux/",
             "name": "mirror.anquan.cl",
             "description": "",
@@ -8234,39 +8228,6 @@
             "name": "mirror.satis-faction.de",
             "description": "",
             "country-code": "DE",
-            "address-families": [
-                "ip"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.sfinae.tech/pub/mirrors/archlinux/",
-            "name": "mirror.sfinae.tech",
-            "description": "",
-            "country-code": "PL",
-            "address-families": [
-                "ip"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.sfinae.tech/pub/mirrors/archlinux/",
-            "name": "mirror.sfinae.tech",
-            "description": "",
-            "country-code": "PL",
-            "address-families": [
-                "ip"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.sfinae.tech/archlinux/",
-            "name": "mirror.sfinae.tech",
-            "description": "",
-            "country-code": "PL",
             "address-families": [
                 "ip"
             ],
@@ -8453,39 +8414,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://opnmirror.co.za/archlinux/",
-            "name": "opnmirror.co.za",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://opnmirror.co.za/archlinux/",
-            "name": "opnmirror.co.za",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://opnmirror.co.za/archlinux/",
-            "name": "opnmirror.co.za",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -11197,6 +11125,18 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://coresite.mm.fcix.net/archlinux/",
+            "name": "coresite.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.fcix.net/archlinux/",
             "name": "mirror.fcix.net",
             "description": "",
@@ -11209,8 +11149,43 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mnvoip.mm.fcix.net/archlinux/",
+            "name": "mnvoip.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ridgewireless.mm.fcix.net/archlinux/",
+            "name": "ridgewireless.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
             "url": "https://codingflyboy.mm.fcix.net/archlinux/",
             "name": "codingflyboy.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://coresite.mm.fcix.net/archlinux/",
+            "name": "coresite.mm.fcix.net",
             "description": "",
             "country-code": "US",
             "address-families": [
@@ -11233,6 +11208,29 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mnvoip.mm.fcix.net/archlinux/",
+            "name": "mnvoip.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ridgewireless.mm.fcix.net/archlinux/",
+            "name": "ridgewireless.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://codingflyboy.mm.fcix.net/archlinux/",
             "name": "codingflyboy.mm.fcix.net",
             "description": "",
@@ -11240,6 +11238,41 @@
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://coresite.mm.fcix.net/archlinux/",
+            "name": "coresite.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mnvoip.mm.fcix.net/archlinux/",
+            "name": "mnvoip.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ridgewireless.mm.fcix.net/archlinux/",
+            "name": "ridgewireless.mm.fcix.net",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -11334,7 +11367,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.sahil.world/",
+            "url": "http://mirror.sahil.world/archlinux/",
             "name": "mirror.sahil.world",
             "description": "",
             "country-code": "IN",
@@ -11346,24 +11379,13 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.sahil.world/",
+            "url": "https://mirror.sahil.world/archlinux/",
             "name": "mirror.sahil.world",
             "description": "",
             "country-code": "IN",
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "full-mirror": true,
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.mirror.sahil.world/arch/",
-            "name": "rsync.mirror.sahil.world",
-            "description": "",
-            "country-code": "IN",
-            "address-families": [
-                "ip"
             ],
             "full-mirror": true,
             "role": "official-mirror"
@@ -11512,6 +11534,75 @@
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fastmirror.pp.ua/archlinux/",
+            "name": "fastmirror.pp.ua",
+            "description": "",
+            "country-code": "UA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fastmirror.pp.ua/archlinux/",
+            "name": "fastmirror.pp.ua",
+            "description": "",
+            "country-code": "UA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fastmirror.pp.ua/archlinux/",
+            "name": "fastmirror.pp.ua",
+            "description": "",
+            "country-code": "UA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.mangohost.net/archlinux/",
+            "name": "mirror.mangohost.net",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.mangohost.net/archlinux/",
+            "name": "mirror.mangohost.net",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip"
+            ],
+            "full-mirror": true,
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.mangohost.net/archlinux/",
+            "name": "mirror.mangohost.net",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip"
             ],
             "full-mirror": true,
             "role": "official-mirror"

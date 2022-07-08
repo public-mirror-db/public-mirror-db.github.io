@@ -2,31 +2,27 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "https://ftp.vim.org/kiwix",
-            "name": "ZJU",
+            "url": "https://cdimage.debian.org/mirror/kiwix.org",
+            "name": "Debian",
             "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
-            "url": "http://ftp.vim.org/kiwix",
-            "name": "ZJU",
+            "url": "http://cdimage.debian.org/mirror/kiwix.org",
+            "name": "Debian",
             "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
-            "url": "ftp://ftp.vim.org/kiwix",
-            "name": "ZJU",
+            "url": "ftp://cdimage.debian.org/mirror/kiwix.org",
+            "name": "Debian",
             "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
-            "url": "rsync://ftp.vim.org/kiwix",
-            "name": "ZJU",
+            "url": "rsync://cdimage.debian.org/mirror/kiwix.org",
+            "name": "Debian",
             "description": "",
-            "country-code": "CN",
             "role": "wild-mirror"
         },
         {
@@ -137,6 +133,34 @@
         {
             "url": "rsync://ftp.acc.umu.se/mirror/kiwix.org",
             "name": "ACC UMU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "http://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "ftp://ftp.vim.org/kiwix",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "rsync://ftp.vim.org/kiwix",
+            "name": "ZJU",
             "description": "",
             "country-code": "CN",
             "role": "wild-mirror"

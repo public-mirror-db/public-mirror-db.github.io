@@ -90,6 +90,14 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.puzzle.ch/voidlinux/",
+            "name": "mirror.puzzle.ch",
+            "description": "",
+            "country-code": "CH",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.sjtu.edu.cn/voidlinux/",
             "name": "mirror.sjtu.edu.cn",
             "description": "",
