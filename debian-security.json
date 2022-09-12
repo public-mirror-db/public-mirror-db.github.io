@@ -9,17 +9,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.overthewire.com.au/debian-security/",
-            "name": "mirror.overthewire.com.au",
+            "url": "http://debian.anexia.at/debian-security/",
+            "name": "debian.anexia.at",
             "description": "",
-            "country-code": "AU",
+            "country-code": "AT",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.as35701.net/debian-security/",
-            "name": "mirror.as35701.net",
+            "url": "http://debian.mnet.bg/debian-security/",
+            "name": "debian.mnet.bg",
             "description": "",
-            "country-code": "BE",
+            "country-code": "BG",
             "role": "official-mirror"
         },
         {
@@ -30,31 +30,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.anexia.at/debian-security/",
-            "name": "debian.anexia.at",
+            "url": "http://mirror.as35701.net/debian-security/",
+            "name": "mirror.as35701.net",
             "description": "",
-            "country-code": "AT",
+            "country-code": "BE",
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.byfly.by/debian-security/",
-            "name": "ftp.byfly.by",
+            "url": "http://ftp.uni-sofia.bg/debian-security/",
+            "name": "ftp.uni-sofia.bg",
             "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.br.debian.org/debian-security/",
-            "name": "ftp.br.debian.org",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.csclub.uwaterloo.ca/debian-security/",
-            "name": "mirror.csclub.uwaterloo.ca",
-            "description": "",
-            "country-code": "CA",
+            "country-code": "BG",
             "role": "official-mirror"
         },
         {
@@ -65,31 +51,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://pkg.adfinis-sygroup.ch/debian-security/",
-            "name": "pkg.adfinis-sygroup.ch",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.datacenter.by/debian-security/",
-            "name": "mirror.datacenter.by",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.mirror.iweb.ca/debian-security/",
-            "name": "debian.mirror.iweb.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.c3sl.ufpr.br/debian-security/",
             "name": "debian.c3sl.ufpr.br",
             "description": "",
             "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.br.debian.org/debian-security/",
+            "name": "ftp.br.debian.org",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.mirror.rafal.ca/debian-security/",
+            "name": "debian.mirror.rafal.ca",
+            "description": "",
+            "country-code": "CA",
             "role": "official-mirror"
         },
         {
@@ -100,10 +79,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.bfsu.edu.cn/debian-security/",
-            "name": "mirrors.bfsu.edu.cn",
+            "url": "http://debian.mirror.iweb.ca/debian-security/",
+            "name": "debian.mirror.iweb.ca",
             "description": "",
-            "country-code": "CN",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pkg.adfinis-sygroup.ch/debian-security/",
+            "name": "pkg.adfinis-sygroup.ch",
+            "description": "",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {
@@ -114,22 +100,43 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.init7.net/debian-security/",
-            "name": "mirror.init7.net",
+            "url": "http://mirror.sinavps.ch/debian-security/",
+            "name": "mirror.sinavps.ch",
             "description": "",
             "country-code": "CH",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-security/",
-            "name": "mirrors.tuna.tsinghua.edu.cn",
+            "url": "http://debian.ethz.ch/debian-security/",
+            "name": "debian.ethz.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror1.infomaniak.com/debian-security/",
+            "name": "mirror1.infomaniak.com",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror2.infomaniak.com/debian-security/",
+            "name": "mirror2.infomaniak.com",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.bfsu.edu.cn/debian-security/",
+            "name": "mirrors.bfsu.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.huaweicloud.com/debian-security/",
-            "name": "mirrors.huaweicloud.com",
+            "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-security/",
+            "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -149,59 +156,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror1.infomaniak.com/debian-security/",
-            "name": "mirror1.infomaniak.com",
+            "url": "http://mirrors.huaweicloud.com/debian-security/",
+            "name": "mirrors.huaweicloud.com",
             "description": "",
-            "country-code": "CH",
+            "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror2.infomaniak.com/debian-security/",
-            "name": "mirror2.infomaniak.com",
+            "url": "http://ftp.cvut.cz/debian-security/",
+            "name": "ftp.cvut.cz",
             "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.sinavps.ch/debian-security/",
-            "name": "mirror.sinavps.ch",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.uni-sofia.bg/debian-security/",
-            "name": "ftp.uni-sofia.bg",
-            "description": "",
-            "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.mirror.rafal.ca/debian-security/",
-            "name": "debian.mirror.rafal.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.ethz.ch/debian-security/",
-            "name": "debian.ethz.ch",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.by.debian.org/debian-security/",
-            "name": "ftp.by.debian.org",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.ch.debian.org/debian-security/",
-            "name": "ftp.ch.debian.org",
-            "description": "",
-            "country-code": "CH",
+            "country-code": "CZ",
             "role": "official-mirror"
         },
         {
@@ -212,10 +177,38 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.cvut.cz/debian-security/",
-            "name": "ftp.cvut.cz",
+            "url": "http://debian.superhosting.cz/debian-security/",
+            "name": "debian.superhosting.cz",
             "description": "",
             "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.init7.net/debian-security/",
+            "name": "mirror.init7.net",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ustc.edu.cn/debian-security/",
+            "name": "mirrors.ustc.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.dogado.de/debian-security/",
+            "name": "mirror.dogado.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.ch.debian.org/debian-security/",
+            "name": "ftp.ch.debian.org",
+            "description": "",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {
@@ -233,29 +226,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.dogado.de/debian-security/",
-            "name": "mirror.dogado.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.gwdg.de/debian-security/",
             "name": "ftp.gwdg.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.superhosting.cz/debian-security/",
-            "name": "debian.superhosting.cz",
-            "description": "",
-            "country-code": "CZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.intergenia.de/debian-security/",
-            "name": "debian.intergenia.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -268,50 +240,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ustc.edu.cn/debian-security/",
-            "name": "mirrors.ustc.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.netcologne.de/debian-security/",
-            "name": "debian.netcologne.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.uni-stuttgart.de/debian-security/",
-            "name": "ftp.uni-stuttgart.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.uni-kl.de/debian-security/",
-            "name": "ftp.uni-kl.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.xtom.de/debian-security/",
-            "name": "mirrors.xtom.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.inf.tu-dresden.de/debian-security/",
-            "name": "debian.inf.tu-dresden.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.wtnet.de/debian-security/",
-            "name": "mirror.wtnet.de",
+            "url": "http://debian.intergenia.de/debian-security/",
+            "name": "debian.intergenia.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -324,8 +254,29 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.uni-mainz.de/debian-security/",
-            "name": "ftp.uni-mainz.de",
+            "url": "http://debian.netcologne.de/debian-security/",
+            "name": "debian.netcologne.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.tu-bs.de/debian-security/",
+            "name": "debian.tu-bs.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.inf.tu-dresden.de/debian-security/",
+            "name": "debian.inf.tu-dresden.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.xtom.de/debian-security/",
+            "name": "mirrors.xtom.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -338,8 +289,29 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.de.debian.org/debian-security/",
-            "name": "ftp.de.debian.org",
+            "url": "http://mirror.wtnet.de/debian-security/",
+            "name": "mirror.wtnet.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.uni-kl.de/debian-security/",
+            "name": "ftp.uni-kl.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.uni-mainz.de/debian-security/",
+            "name": "ftp.uni-mainz.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.eu.oneandone.net/debian-security/",
+            "name": "mirror.eu.oneandone.net",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -352,36 +324,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://pubmirror.plutex.de/debian-security/",
-            "name": "pubmirror.plutex.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.dotsrc.org/debian-security/",
-            "name": "mirrors.dotsrc.org",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.eu.oneandone.net/debian-security/",
-            "name": "mirror.eu.oneandone.net",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.dk.debian.org/debian-security/",
-            "name": "ftp.dk.debian.org",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.tu-bs.de/debian-security/",
-            "name": "debian.tu-bs.de",
+            "url": "http://ftp.de.debian.org/debian-security/",
+            "name": "ftp.de.debian.org",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -394,8 +338,29 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://pubmirror.plutex.de/debian-security/",
+            "name": "pubmirror.plutex.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.one.com/debian-security/",
             "name": "mirror.one.com",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.dk.debian.org/debian-security/",
+            "name": "ftp.dk.debian.org",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.dotsrc.org/debian-security/",
+            "name": "mirrors.dotsrc.org",
             "description": "",
             "country-code": "DK",
             "role": "official-mirror"
@@ -408,8 +373,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.cica.es/debian-security/",
-            "name": "ftp.cica.es",
+            "url": "http://repo.ifca.es/debian-security/",
+            "name": "repo.ifca.es",
             "description": "",
             "country-code": "ES",
             "role": "official-mirror"
@@ -429,22 +394,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.obspm.fr/debian-security/",
-            "name": "debian.obspm.fr",
+            "url": "http://debian.polytech-lille.fr/debian-security/",
+            "name": "debian.polytech-lille.fr",
             "description": "",
             "country-code": "FR",
             "role": "official-mirror"
         },
         {
-            "url": "http://repo.ifca.es/debian-security/",
-            "name": "repo.ifca.es",
-            "description": "",
-            "country-code": "ES",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://apt.tetaneutral.net/debian-security/",
-            "name": "apt.tetaneutral.net",
+            "url": "http://debian.obspm.fr/debian-security/",
+            "name": "debian.obspm.fr",
             "description": "",
             "country-code": "FR",
             "role": "official-mirror"
@@ -464,17 +422,17 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://apt.tetaneutral.net/debian-security/",
+            "name": "apt.tetaneutral.net",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.ticklers.org/debian-security/",
             "name": "ftp.ticklers.org",
             "description": "",
             "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://kartolo.sby.datautama.net.id/debian-security/",
-            "name": "kartolo.sby.datautama.net.id",
-            "description": "",
-            "country-code": "ID",
             "role": "official-mirror"
         },
         {
@@ -485,22 +443,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.polytech-lille.fr/debian-security/",
-            "name": "debian.polytech-lille.fr",
+            "url": "http://ftp.bme.hu/debian-security/",
+            "name": "ftp.bme.hu",
             "description": "",
-            "country-code": "FR",
+            "country-code": "HU",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.unair.ac.id/debian-security/",
-            "name": "mirror.unair.ac.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.dewabiz.com/debian-security/",
-            "name": "mirror.dewabiz.com",
+            "url": "http://kartolo.sby.datautama.net.id/debian-security/",
+            "name": "kartolo.sby.datautama.net.id",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -520,17 +471,31 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.bme.hu/debian-security/",
-            "name": "ftp.bme.hu",
+            "url": "http://debian.dynamica.it/debian-security/",
+            "name": "debian.dynamica.it",
             "description": "",
-            "country-code": "HU",
+            "country-code": "IT",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.anigil.com/debian-security/",
-            "name": "mirror.anigil.com",
+            "url": "http://debian.mirror.garr.it/debian-security/",
+            "name": "debian.mirror.garr.it",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.misakamikoto.network/debian-security/",
+            "name": "mirror.misakamikoto.network",
             "description": "",
             "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.sabay.com.kh/debian-security/",
+            "name": "mirror.sabay.com.kh",
+            "description": "",
+            "country-code": "KH",
             "role": "official-mirror"
         },
         {
@@ -548,38 +513,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.sabay.com.kh/debian-security/",
-            "name": "mirror.sabay.com.kh",
-            "description": "",
-            "country-code": "KH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.dynamica.it/debian-security/",
-            "name": "debian.dynamica.it",
-            "description": "",
-            "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.misakamikoto.network/debian-security/",
-            "name": "mirror.misakamikoto.network",
-            "description": "",
-            "country-code": "KP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.mivocloud.com/debian-security/",
-            "name": "mirrors.mivocloud.com",
-            "description": "",
-            "country-code": "MD",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.mirror.vu.lt/debian-security/",
             "name": "debian.mirror.vu.lt",
             "description": "",
             "country-code": "LT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.litnet.lt/debian-security/",
+            "name": "mirror.litnet.lt",
+            "description": "",
+            "country-code": "LT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.asis.ai/debian-security/",
+            "name": "debian.asis.ai",
+            "description": "",
+            "country-code": "IR",
             "role": "official-mirror"
         },
         {
@@ -590,6 +541,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://debian.mirror.ac.ke/debian-security/",
+            "name": "debian.mirror.ac.ke",
+            "description": "",
+            "country-code": "KE",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.md.debian.org/debian-security/",
             "name": "ftp.md.debian.org",
             "description": "",
@@ -597,10 +555,31 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.lagoon.nc/debian-security/",
-            "name": "mirror.lagoon.nc",
+            "url": "http://mirror.anigil.com/debian-security/",
+            "name": "mirror.anigil.com",
             "description": "",
-            "country-code": "NC",
+            "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.as43289.net/debian-security/",
+            "name": "mirror.as43289.net",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.mivocloud.com/debian-security/",
+            "name": "mirrors.mivocloud.com",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.nl.datapacket.com/debian-security/",
+            "name": "mirror.nl.datapacket.com",
+            "description": "",
+            "country-code": "NL",
             "role": "official-mirror"
         },
         {
@@ -611,24 +590,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xtom.nl/debian-security/",
-            "name": "mirrors.xtom.nl",
+            "url": "http://debian.nautile.nc/debian-security/",
+            "name": "debian.nautile.nc",
             "description": "",
-            "country-code": "NL",
+            "country-code": "NC",
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.mirror.garr.it/debian-security/",
-            "name": "debian.mirror.garr.it",
+            "url": "http://mirror.lagoon.nc/debian-security/",
+            "name": "mirror.lagoon.nc",
             "description": "",
-            "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.nl.debian.org/debian-security/",
-            "name": "ftp.nl.debian.org",
-            "description": "",
-            "country-code": "NL",
+            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -646,15 +618,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.as43289.net/debian-security/",
-            "name": "mirror.as43289.net",
+            "url": "http://mirrors.xtom.nl/debian-security/",
+            "name": "mirrors.xtom.nl",
             "description": "",
-            "country-code": "MD",
+            "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.nl.datapacket.com/debian-security/",
-            "name": "mirror.nl.datapacket.com",
+            "url": "http://debian.mirror.cambrium.nl/debian-security/",
+            "name": "debian.mirror.cambrium.nl",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.nl.debian.org/debian-security/",
+            "name": "ftp.nl.debian.org",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -664,20 +643,6 @@
             "name": "mirror.fsmg.org.nz",
             "description": "",
             "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/debian-security/",
-            "name": "ftp.rnl.tecnico.ulisboa.pt",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.mirror.ac.ke/debian-security/",
-            "name": "debian.mirror.ac.ke",
-            "description": "",
-            "country-code": "KE",
             "role": "official-mirror"
         },
         {
@@ -695,17 +660,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.truenetwork.ru/debian-security/",
-            "name": "mirror.truenetwork.ru",
+            "url": "http://ftp.psn.ru/debian-security/",
+            "name": "ftp.psn.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.asis.ai/debian-security/",
-            "name": "debian.asis.ai",
+            "url": "http://mirror.truenetwork.ru/debian-security/",
+            "name": "mirror.truenetwork.ru",
             "description": "",
-            "country-code": "IR",
+            "country-code": "RU",
             "role": "official-mirror"
         },
         {
@@ -716,15 +681,36 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.corbina.net/debian-security/",
-            "name": "mirror.corbina.net",
+            "url": "http://debian.mithril.re/debian-security/",
+            "name": "debian.mithril.re",
+            "description": "",
+            "country-code": "RE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.mephi.ru/debian-security/",
+            "name": "mirror.mephi.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.psn.ru/debian-security/",
-            "name": "ftp.psn.ru",
+            "url": "http://debian.uevora.pt/debian-security/",
+            "name": "debian.uevora.pt",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftpmirror1.infania.net/debian-security/",
+            "name": "ftpmirror1.infania.net",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.corbina.net/debian-security/",
+            "name": "mirror.corbina.net",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
@@ -744,45 +730,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.uevora.pt/debian-security/",
-            "name": "debian.uevora.pt",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.ru.debian.org/debian-security/",
             "name": "ftp.ru.debian.org",
             "description": "",
             "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.mephi.ru/debian-security/",
-            "name": "mirror.mephi.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftpmirror1.infania.net/debian-security/",
-            "name": "ftpmirror1.infania.net",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.mirror.cambrium.nl/debian-security/",
-            "name": "debian.mirror.cambrium.nl",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.nautile.nc/debian-security/",
-            "name": "debian.nautile.nc",
-            "description": "",
-            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -800,15 +751,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.mithril.re/debian-security/",
-            "name": "debian.mithril.re",
+            "url": "http://ftp.tw.debian.org/debian-security/",
+            "name": "ftp.tw.debian.org",
             "description": "",
-            "country-code": "RE",
+            "country-code": "TW",
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.tw.debian.org/debian-security/",
-            "name": "ftp.tw.debian.org",
+            "url": "http://debian.csie.ncku.edu.tw/debian-security/",
+            "name": "debian.csie.ncku.edu.tw",
             "description": "",
             "country-code": "TW",
             "role": "official-mirror"
@@ -835,29 +786,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ocf.berkeley.edu/debian-security/",
-            "name": "mirrors.ocf.berkeley.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.cc.lehigh.edu/debian-security/",
             "name": "debian.cc.lehigh.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.accretive-networks.net/debian-security/",
-            "name": "mirrors.accretive-networks.net",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian-archive.trafficmanager.net/debian-security/",
-            "name": "debian-archive.trafficmanager.net",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -870,13 +800,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.bjtu.edu.cn/debian-security/",
-            "name": "mirror.bjtu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.us.oneandone.net/debian-security/",
             "name": "mirror.us.oneandone.net",
             "description": "",
@@ -884,10 +807,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.mythic-beasts.com/debian-security/",
-            "name": "mirror.mythic-beasts.com",
+            "url": "http://debian-archive.trafficmanager.net/debian-security/",
+            "name": "debian-archive.trafficmanager.net",
             "description": "",
-            "country-code": "GB",
+            "country-code": "US",
             "role": "official-mirror"
         },
         {
@@ -898,10 +821,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://hanzubon.jp/debian-security/",
-            "name": "hanzubon.jp",
+            "url": "http://mirrors.accretive-networks.net/debian-security/",
+            "name": "mirrors.accretive-networks.net",
             "description": "",
-            "country-code": "JP",
+            "country-code": "US",
             "role": "official-mirror"
         },
         {
@@ -909,20 +832,6 @@
             "name": "debian.uvigo.es",
             "description": "",
             "country-code": "ES",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.cn.debian.org/debian-security/",
-            "name": "ftp.cn.debian.org",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.csie.ncku.edu.tw/debian-security/",
-            "name": "debian.csie.ncku.edu.tw",
-            "description": "",
-            "country-code": "TW",
             "role": "official-mirror"
         }
     ]

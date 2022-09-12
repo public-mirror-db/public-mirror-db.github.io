@@ -106,10 +106,26 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.vofr.net/voidlinux/",
+            "name": "mirror.vofr.net",
+            "description": "",
+            "country-code": "US",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.yandex.ru/mirrors/voidlinux/",
             "name": "mirror.yandex.ru",
             "description": "",
             "country-code": "RU",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror2.sandyriver.net/pub/voidlinux/",
+            "name": "mirror2.sandyriver.net",
+            "description": "",
+            "country-code": "US",
             "tier": 2,
             "role": "official-mirror"
         },

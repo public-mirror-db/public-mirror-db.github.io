@@ -4,12 +4,5 @@
             "url": "https://github.githubassets.com"
         }
     ],
-    "mirrors": [
-        {
-            "url": "https://assets.fastgit.org",
-            "name": "FastGit",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        }
-    ]
+    "mirrors": []
 }

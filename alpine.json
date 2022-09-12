@@ -41,20 +41,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://dl-4.alpinelinux.org/alpine/",
-            "name": "dl-4.alpinelinux.org",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://dl-5.alpinelinux.org/alpine/",
-            "name": "dl-5.alpinelinux.org",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.yandex.ru/mirrors/alpine/",
             "name": "mirror.yandex.ru",
             "description": "",
@@ -1235,6 +1221,48 @@
             "name": "Serverion",
             "description": "",
             "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpinelinux.qontinuum.space/alpine",
+            "name": "Q Continuum",
+            "description": "",
+            "country-code": "MC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpinelinux.qontinuum.space/alpine",
+            "name": "Q Continuum",
+            "description": "",
+            "country-code": "MC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpinelinux.qontinuum.space/alpine",
+            "name": "Q Continuum",
+            "description": "",
+            "country-code": "MC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.kyberorg.fi/",
+            "name": "Kyberorg",
+            "description": "",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.kyberorg.fi/",
+            "name": "Kyberorg",
+            "description": "",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://rsync.kyberorg.fi/alpine",
+            "name": "Kyberorg",
+            "description": "",
+            "country-code": "FI",
             "role": "official-mirror"
         }
     ]

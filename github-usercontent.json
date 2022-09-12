@@ -4,12 +4,5 @@
             "url": "https://raw.githubusercontent.com"
         }
     ],
-    "mirrors": [
-        {
-            "url": "https://raw.fastgit.org",
-            "name": "FastGit",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        }
-    ]
+    "mirrors": []
 }

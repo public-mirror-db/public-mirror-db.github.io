@@ -2,6 +2,13 @@
     "sources": [],
     "mirrors": [
         {
+            "url": "https://packagist.pages.dev/",
+            "name": "packagist.pages.dev",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://packagist.co.za",
             "name": "packagist.co.za",
             "description": "",

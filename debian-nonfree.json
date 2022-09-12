@@ -21,20 +21,6 @@
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
-            "name": "mirrors.ocf.berkeley.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://hanzubon.jp/debian-nonfree/",
-            "name": "hanzubon.jp",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
         }
     ]
 }

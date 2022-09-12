@@ -198,15 +198,43 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.labkom.id/centos-altarch/",
-            "name": "Laboratorium Komputer ID",
+            "url": "http://mirror.papua.go.id/centos-altarch/",
+            "name": "Pemerintah Provinsi Papua",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.labkom.id/centos-altarch/",
-            "name": "Laboratorium Komputer ID",
+            "url": "https://mirror.papua.go.id/centos-altarch/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.papua.go.id/centos-altarch/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.gi.co.id/centos-altarch/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.gi.co.id/centos-altarch/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.gi.co.id/centos-altarch/",
+            "name": "PT Global Intermedia Nusantara",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -268,64 +296,29 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
+            "url": "http://mirror.hoster.kz/centos-altarch/",
+            "name": "LLP Kompaniya Hoster.KZ",
             "description": "",
-            "country-code": "SG",
+            "country-code": "KZ",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
+            "url": "https://mirror.hoster.kz/centos-altarch/",
+            "name": "LLP Kompaniya Hoster.KZ",
             "description": "",
-            "country-code": "SG",
+            "country-code": "KZ",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
+            "url": "rsync://mirror.hoster.kz/centos-altarch/",
+            "name": "LLP Kompaniya Hoster.KZ",
             "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bangmod.cloud/centos-altarch/",
-            "name": "Bangmod.Cloud",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.bangmod.cloud/centos-altarch/",
-            "name": "Bangmod.Cloud",
-            "description": "",
-            "country-code": "TH",
+            "country-code": "KZ",
             "role": "official-mirror"
         },
         {
             "url": "http://mirror.esecuredata.com/centos-altarch/",
             "name": "eSecureData Inc.",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.0xem.ma/centos-altarch/",
-            "name": "0xEmma",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.0xem.ma/centos-altarch/",
-            "name": "0xEmma",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.0xem.ma/centos-altarch/",
-            "name": "0xEmma",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
@@ -426,20 +419,6 @@
             "name": "xTom OU",
             "description": "",
             "country-code": "EE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://centos-altarch.reloumirrors.net/",
-            "name": "RelouFR and Hivane networks",
-            "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://centos-altarch.reloumirrors.net/centos-altarch/",
-            "name": "RelouFR and Hivane networks",
-            "description": "",
-            "country-code": "FR",
             "role": "official-mirror"
         },
         {
@@ -1017,6 +996,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.fcix.net/centos-altarch/",
+            "name": "Fremont Cabal Internet Exchange (FCIX)",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.xtom.com/centos-altarch/",
             "name": "xTom",
             "description": "",
@@ -1026,13 +1012,6 @@
         {
             "url": "https://mirrors.xtom.com/centos-altarch/",
             "name": "xTom",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.fcix.net/centos-altarch/",
-            "name": "Fremont Cabal Internet Exchange (FCIX)",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

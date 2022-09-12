@@ -803,7 +803,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
+            "url": "http://ftp.agdsn.de/gentoo",
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
@@ -813,7 +813,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://ftp.wh2.tu-dresden.de/pub/mirrors/gentoo",
+            "url": "https://ftp.agdsn.de/gentoo",
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
@@ -823,7 +823,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ftp.wh2.tu-dresden.de/gentoo",
+            "url": "rsync://ftp.agdsn.de/gentoo",
             "name": "Dresden University of Technology/AG DSN",
             "description": "",
             "country-code": "DE",
