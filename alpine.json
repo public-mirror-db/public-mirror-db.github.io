@@ -1243,27 +1243,6 @@
             "description": "",
             "country-code": "MC",
             "role": "official-mirror"
-        },
-        {
-            "url": "http://alpine.kyberorg.fi/",
-            "name": "Kyberorg",
-            "description": "",
-            "country-code": "FI",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.kyberorg.fi/",
-            "name": "Kyberorg",
-            "description": "",
-            "country-code": "FI",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.kyberorg.fi/alpine",
-            "name": "Kyberorg",
-            "description": "",
-            "country-code": "FI",
-            "role": "official-mirror"
         }
     ]
 }

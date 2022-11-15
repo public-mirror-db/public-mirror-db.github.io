@@ -16,10 +16,31 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.nju.edu.cn/debian-nonfree/",
-            "name": "mirror.nju.edu.cn",
+            "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
+            "name": "mirrors.ocf.berkeley.edu",
             "description": "",
-            "country-code": "CN",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.sg.gs/debian-nonfree/",
+            "name": "mirror.sg.gs",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://hanzubon.jp/debian-nonfree/",
+            "name": "hanzubon.jp",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.koyanet.lv/debian-nonfree/",
+            "name": "debian.koyanet.lv",
+            "description": "",
+            "country-code": "LV",
             "role": "official-mirror"
         }
     ]

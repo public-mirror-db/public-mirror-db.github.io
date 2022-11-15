@@ -18,32 +18,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://cdimage.debian.org/mirror/voidlinux/",
-            "name": "cdimage.debian.org",
-            "description": "",
-            "country-code": "SE",
-            "tier": 2,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.acc.umu.se/mirror/voidlinux/",
-            "name": "ftp.acc.umu.se",
-            "description": "",
-            "country-code": "SE",
-            "tier": 2,
-            "role": "official-mirror"
-        },
-        {
             "url": "https://ftp.lysator.liu.se/pub/voidlinux/",
             "name": "ftp.lysator.liu.se",
-            "description": "",
-            "country-code": "SE",
-            "tier": 2,
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.sunet.se/mirror/voidlinux/",
-            "name": "ftp.sunet.se",
             "description": "",
             "country-code": "SE",
             "tier": 2,
@@ -66,6 +42,14 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.accum.se/mirror/voidlinux/",
+            "name": "mirror.accum.se",
+            "description": "",
+            "country-code": "SE",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.clarkson.edu/voidlinux/",
             "name": "mirror.clarkson.edu",
             "description": "",
@@ -78,6 +62,14 @@
             "name": "mirror.fit.cvut.cz",
             "description": "",
             "country-code": "CZ",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.nju.edu.cn/voidlinux/",
+            "name": "mirror.nju.edu.cn",
+            "description": "",
+            "country-code": "CN",
             "tier": 2,
             "role": "official-mirror"
         },
@@ -206,6 +198,14 @@
             "name": "mirrors.servercentral.com",
             "description": "",
             "country-code": "US",
+            "tier": 1,
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo-de.voidlinux.org/",
+            "name": "repo-de.voidlinux.org",
+            "description": "",
+            "country-code": "DE",
             "tier": 1,
             "role": "official-mirror"
         },

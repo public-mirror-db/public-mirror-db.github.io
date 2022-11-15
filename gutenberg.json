@@ -2,13 +2,6 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
-            "name": "UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
             "url": "ftp://ftp.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
             "name": "UK Mirror Service",
             "description": "",
@@ -23,14 +16,21 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://eremita.di.uminho.pt/pub/gutenberg/",
+            "url": "http://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/",
+            "name": "UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://eremita.di.uminho.pt/gutenberg/",
             "name": "Universidade do Minho",
             "description": "",
             "country-code": "PT",
             "role": "official-mirror"
         },
         {
-            "url": "http://eremita.di.uminho.pt/gutenberg/",
+            "url": "ftp://eremita.di.uminho.pt/pub/gutenberg/",
             "name": "Universidade do Minho",
             "description": "",
             "country-code": "PT",
@@ -58,6 +58,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror2.sandyriver.net/pub/gutenberg",
+            "name": "SandyRiver.NET",
+            "description": "High speed mirror on a 10Gb network connection. Also available by http, and by rsync to rsync://mirror2.sandyriver.net/pub/gutenberg",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "ftp://mirrors.xmission.com/gutenberg/",
             "name": "Xmission ISP - FTP",
             "description": "",
@@ -72,14 +79,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://aleph.gutenberg.org/",
-            "name": "Project Gutenberg",
-            "description": "High-speed mirror. As of October 2021, does not include cache/generated files.",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://gutenberg.pglaf.org/",
+            "url": "rsync://gutenberg.pglaf.org/gutenberg",
             "name": "Project Gutenberg",
             "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
             "country-code": "US",
@@ -93,21 +93,21 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://aleph.gutenberg.org/",
+            "url": "gopher://gopher.pglaf.org/",
             "name": "Project Gutenberg",
-            "description": "High-speed mirror. As of October 2021, does not include cache/generated files.",
+            "description": "Gopher server.",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://aleph.gutenberg.org/gutenberg/",
+            "url": "https://aleph.gutenberg.org/",
             "name": "Project Gutenberg",
-            "description": "High-speed mirror. As of October 2021, does not include cache/generated files.",
+            "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.). Also available via rsync and ftp.",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://gutenberg.pglaf.org/gutenberg",
+            "url": "https://gutenberg.pglaf.org/",
             "name": "Project Gutenberg",
             "description": "High-speed mirror. Includes cache/generated files (epub, mobi, etc.).",
             "country-code": "US",

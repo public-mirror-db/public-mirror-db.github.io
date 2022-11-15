@@ -72,6 +72,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.nju.edu.cn/centos-altarch/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.nju.edu.cn/centos-altarch/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.nju.edu.cn/centos-altarch/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.huaweicloud.com/centos-altarch/",
             "name": "HUAWEI CLOUD",
             "description": "",
@@ -198,6 +219,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.labkom.id/centos-altarch/",
+            "name": "Laboratorium Komputer ID",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.labkom.id/centos-altarch/",
+            "name": "Laboratorium Komputer ID",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.papua.go.id/centos-altarch/",
             "name": "Pemerintah Provinsi Papua",
             "description": "",
@@ -314,6 +349,41 @@
             "name": "LLP Kompaniya Hoster.KZ",
             "description": "",
             "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.bangmod.cloud/centos-altarch/",
+            "name": "Bangmod.Cloud",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.bangmod.cloud/centos-altarch/",
+            "name": "Bangmod.Cloud",
+            "description": "",
+            "country-code": "TH",
             "role": "official-mirror"
         },
         {
@@ -590,27 +660,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.wd6.net/centos-altarch/",
-            "name": "WD6.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.wd6.net/centos-altarch/",
-            "name": "WD6.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.wd6.net/centos-altarch/",
-            "name": "WD6.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://centos-altarch.mirror.liteserver.nl/",
             "name": "LiteServer",
             "description": "",
@@ -800,20 +849,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.sh.com.tr/centos-altarch/",
-            "name": "PremierDC",
-            "description": "",
-            "country-code": "TR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.sh.com.tr/centos-altarch/",
-            "name": "PremierDC",
-            "description": "",
-            "country-code": "TR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://fastmirror.pp.ua/centos-altarch/",
             "name": "",
             "description": "",
@@ -846,34 +881,6 @@
             "name": "Coreix",
             "description": "",
             "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.freethought-internet.co.uk/centos-altarch/",
-            "name": "Freethought Internet",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.freethought-internet.co.uk/centos-altarch/",
-            "name": "Freethought Internet",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.freethought-internet.co.uk/centos-altarch/",
-            "name": "Freethought Internet",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.nsw.coloau.com.au/centos-altarch/",
-            "name": "Colocation Australia Pty Ltd",
-            "description": "",
-            "country-code": "AU",
             "role": "official-mirror"
         },
         {
@@ -1108,6 +1115,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.stjschools.org/centos-altarch/",
+            "name": "St. James R-1 School District",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.stjschools.org/centos-altarch/",
+            "name": "St. James R-1 School District",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.math.princeton.edu/pub/centos-altarch/",
             "name": "Princeton University Department of Mathematics",
             "description": "",
@@ -1138,20 +1159,6 @@
         {
             "url": "rsync://mirror.siena.edu/centos-altarch/",
             "name": "Siena College",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.pit.teraswitch.com/centos-altarch/",
-            "name": "TeraSwitch Networks Inc.",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
-            "name": "TeraSwitch Networks Inc.",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

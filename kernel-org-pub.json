@@ -1,7 +1,10 @@
 {
     "sources": [
         {
-            "url": "https://www.kernel.org/pub/linux/kernel"
+            "url": "https://www.kernel.org/pub"
+        },
+        {
+            "url": "rsync://rsync.kernel.org/pub"
         }
     ],
     "mirrors": [
@@ -10,6 +13,7 @@
             "name": "Tuna",
             "description": "",
             "country-code": "CN",
+            "chroot": "/linux/kernel",
             "role": "wild-mirror"
         }
     ]
