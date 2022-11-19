@@ -79,6 +79,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.netspace.net.au/pub/ubuntu/releases/",
+            "name": "Netspace Online Systems",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.netspace.net.au/pub/ubuntu/releases/",
+            "name": "Netspace Online Systems",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.overthewire.com.au/pub/ubuntu-releases/",
             "name": "Over The Wire",
             "description": "",
@@ -88,27 +102,6 @@
         {
             "url": "ftp://mirror.overthewire.com.au/pub/ubuntu-releases/",
             "name": "Over The Wire",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.rackcentral.com.au/ubuntu-releases/",
-            "name": "RackCentral",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.rackcentral.com.au/ubuntu-releases/",
-            "name": "RackCentral",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.rackcentral.com.au/ubuntu-releases/",
-            "name": "RackCentral",
             "description": "",
             "country-code": "AU",
             "role": "official-mirror"
@@ -130,6 +123,27 @@
         {
             "url": "http://ubuntu.mirror.serversaustralia.com.au/ubuntu-releases/",
             "name": "Servers Australia",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.internode.on.net/pub/ubuntu/releases/",
+            "name": "Internode",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.internode.on.net/pub/ubuntu/releases/",
+            "name": "Internode",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.internode.on.net/ubuntu-releases/",
+            "name": "Internode",
             "description": "",
             "country-code": "AU",
             "role": "official-mirror"
@@ -604,27 +618,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://lesnet.mm.fcix.net/ubuntu-releases/",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://lesnet.mm.fcix.net/ubuntu-releases/",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://lesnet.mm.fcix.net/ubuntu-releases/",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.ca-tr.kamatera.com/ubuntu-releases/",
             "name": "Kamatera Inc.",
             "description": "",
@@ -947,6 +940,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.hit.edu.cn/ubuntu-releases/",
+            "name": "Harbin Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.hit.edu.cn/ubuntu-releases/",
+            "name": "Harbin Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.hit.edu.cn/ubuntu-releases/",
+            "name": "Harbin Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.njupt.edu.cn/ubuntu-releases/",
             "name": "NjuptMirrorsGroup",
             "description": "",
@@ -977,6 +991,20 @@
         {
             "url": "rsync://mirrors.ustc.edu.cn/ubuntu-releases/",
             "name": "USTC Linux User Group",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.xjtu.edu.cn/ubuntu-releases/",
+            "name": "Xi'an Jiaotong University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.xjtu.edu.cn/ubuntu-releases/",
+            "name": "Xi'an Jiaotong University",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -1026,6 +1054,13 @@
         {
             "url": "http://mirror.lzu.edu.cn/ubuntu-releases/",
             "name": "Lanzhou University Open Source Society",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.nwafu.edu.cn/ubuntu-releases/",
+            "name": "Northwest A&F University",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -1621,27 +1656,6 @@
         {
             "url": "rsync://ftp-stud.hs-esslingen.de/ubuntu.releases/",
             "name": "Esslingen University of Applied Sciences",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.stw-bonn.de/ubuntu-cd/",
-            "name": "StudNet Bonn",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.stw-bonn.de/ubuntu-cd/",
-            "name": "StudNet Bonn",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.stw-bonn.de/ubuntu-cd/",
-            "name": "StudNet Bonn",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -2256,20 +2270,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.niif.hu/ubuntu-releases/",
-            "name": "Governmental Agency for IT Development, Hungary",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.niif.hu/ubuntu-releases/",
-            "name": "Governmental Agency for IT Development, Hungary",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://quantum-mirror.hu/mirrors/pub/ubuntu-releases/",
             "name": "Quantum Mirror",
             "description": "",
@@ -2487,6 +2487,48 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.repository.id/ubuntu-cd/",
+            "name": "repository.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.repository.id/ubuntu-cd/",
+            "name": "repository.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.repository.id/ubuntu-cd/",
+            "name": "repository.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.webmaster.my.id/ubuntu-cd/",
+            "name": "webmaster.my.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.webmaster.my.id/ubuntu-cd/",
+            "name": "webmaster.my.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.webmaster.my.id/ubuntu-cd/",
+            "name": "webmaster.my.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mr.heru.id/ubuntu-release/",
             "name": "heru.id",
             "description": "",
@@ -2496,6 +2538,20 @@
         {
             "url": "http://mr.heru.id/ubuntu-release/",
             "name": "heru.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.cloudweeb.com/ubuntu-cd/",
+            "name": "Cloudweeb",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.cloudweeb.com/ubuntu-cd/",
+            "name": "Cloudweeb",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -2566,6 +2622,13 @@
         {
             "url": "rsync://mirror.dewabiz.com/ubuntu-release/",
             "name": "DewaBiz",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.freeware.id/ubuntu-releases/",
+            "name": "FREEware.iD",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -2704,29 +2767,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.famaserver.com/ubuntu-cd/",
-            "name": "FamaServer",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.famaserver.com/ubuntu-cd/",
-            "name": "FamaServer",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.famaserver.com/ubuntu-cdimage/",
-            "name": "FamaServer",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.ubuntu.asiatech.ir/",
             "name": "Asiatech",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.pardisco.co/ubuntu-cd/",
+            "name": "Pardis Co.",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.pardisco.co/ubuntu-cd/",
+            "name": "Pardis Co.",
             "description": "",
             "country-code": "IR",
             "role": "official-mirror"
@@ -2774,20 +2830,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.rasanegar.com/ubuntu-cd/",
-            "name": "Rasanegar ",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.rasanegar.com/ubuntu-cd/",
-            "name": "Rasanegar ",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://releases.ubuntu.petiak.ir/",
             "name": "Petiak",
             "description": "",
@@ -2825,41 +2867,6 @@
         {
             "url": "http://ubuntu-cd.hostiran.ir/",
             "name": "HostIran",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.aminidc.com/ubuntu-releases/",
-            "name": "Amin IDC",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.aminidc.com/ubuntu-releases/",
-            "name": "Amin IDC",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.aminidc.com/ubuntu-releases/",
-            "name": "Amin IDC",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ubuntu.bonyan.co/",
-            "name": "Bonyan Co.",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu.bonyan.co/",
-            "name": "Bonyan Co.",
             "description": "",
             "country-code": "IR",
             "role": "official-mirror"
@@ -3609,6 +3616,34 @@
         {
             "url": "http://mirror.nl.datapacket.com/ubuntu-releases/",
             "name": "datapacket.com",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.serverion.com/ubuntu-releases/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.serverion.com/ubuntu-releases/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.serverion.com/ubuntu-releases/",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.serverion.com/ubuntu-releases/",
+            "name": "Serverion",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -5735,55 +5770,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ubuntu-releases.ip-connect.vn.ua/",
-            "name": "IP-Connect LLC",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu-releases.ip-connect.vn.ua/",
-            "name": "IP-Connect LLC",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ubuntu-releases.ip-connect.vn.ua/mirror/ubuntu-releases/",
-            "name": "IP-Connect LLC",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ubuntu-releases.ip-connect.vn.ua/ubuntu-releases/",
-            "name": "IP-Connect LLC",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ubuntu.astra.in.ua/iso/",
-            "name": "Astra ISP",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu.astra.in.ua/iso/",
-            "name": "Astra ISP",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ubuntu.astra.in.ua/iso/",
-            "name": "Astra ISP",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ubuntu.colocall.net/ubuntu-releases/",
             "name": "Colocall Datacenter",
             "description": "",
@@ -5842,6 +5828,27 @@
         {
             "url": "ftp://ubuntu.mirrors.omnilance.com/ubuntu/releases/",
             "name": "Omnilance Ltd.",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fastmirror.pp.ua/ubuntu-releases/",
+            "name": "FastMirror",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fastmirror.pp.ua/ubuntu-releases/",
+            "name": "FastMirror",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fastmirror.pp.ua/ubuntu-releases/",
+            "name": "FastMirror",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
@@ -5945,6 +5952,34 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://www.mirrorservice.org/sites/releases.ubuntu.com/",
+            "name": "University Of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://www.mirrorservice.org/sites/releases.ubuntu.com/",
+            "name": "University Of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.mirrorservice.org/sites/releases.ubuntu.com/",
+            "name": "University Of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://rsync.mirrorservice.org/releases.ubuntu.com/",
+            "name": "University Of Kent UK Mirror Service",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.as29550.net/releases.ubuntu.com/",
             "name": "XILO Communications Ltd.",
             "description": "",
@@ -5961,6 +5996,34 @@
         {
             "url": "http://mirror.eu-lo.kamatera.com/ubuntu-releases/",
             "name": "Kamatera Inc.",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.freethought-internet.co.uk/ubuntu-releases/",
+            "name": "Freethought Internet",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.freethought-internet.co.uk/ubuntu-releases/",
+            "name": "Freethought Internet",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.freethought-internet.co.uk/ubuntu-releases/",
+            "name": "Freethought Internet",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.freethought-internet.co.uk/ubuntu-releases/",
+            "name": "Freethought Internet",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -6337,6 +6400,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.iu13.net/ubuntu-releases/",
+            "name": "Lancaster-Lebanon IU13",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.iu13.net/ubuntu-releases/",
+            "name": "Lancaster-Lebanon IU13",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.rit.edu/ubuntu-releases/",
             "name": "Rochester Institute of Technology",
             "description": "",
@@ -6471,6 +6548,27 @@
         },
         {
             "url": "rsync://uvermont.mm.fcix.net/ubuntu-releases/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ziply.mm.fcix.net/ubuntu-releases/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ziply.mm.fcix.net/ubuntu-releases/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ziply.mm.fcix.net/ubuntu-releases/",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
@@ -6624,6 +6722,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://irltoolkit.mm.fcix.net/ubuntu-releases/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://irltoolkit.mm.fcix.net/ubuntu-releases/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://irltoolkit.mm.fcix.net/ubuntu-releases/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.clarkson.edu/ubuntu-releases/",
             "name": "Clarkson University",
             "description": "",
@@ -6766,6 +6885,27 @@
         {
             "url": "rsync://mirror.steadfastnet.com/ubuntu-releases/",
             "name": "Steadfast Networks",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.tcpdiag.net/ubuntu-releases/",
+            "name": "TCPDIAG",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.tcpdiag.net/ubuntu-releases/",
+            "name": "TCPDIAG",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.tcpdiag.net/ubuntu-releases/",
+            "name": "TCPDIAG",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

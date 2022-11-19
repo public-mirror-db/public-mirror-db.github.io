@@ -310,27 +310,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://lesnet.mm.fcix.net/fedora/linux",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://lesnet.mm.fcix.net/fedora-enchilada/linux",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://lesnet.mm.fcix.net/fedora/linux",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.csclub.uwaterloo.ca/fedora/linux",
             "name": "Computer Science Club of the University of Waterloo",
             "description": "",
@@ -982,27 +961,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://fedora.mirrorservice.org/fedora/linux",
-            "name": "University of Kent UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://fedora.mirrorservice.org/fedora/linux",
-            "name": "University of Kent UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.mirrorservice.org/dl.fedoraproject.org/pub/fedora/linux",
-            "name": "University of Kent UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://lon.mirror.rackspace.com/fedora",
             "name": "Rackspace",
             "description": "",
@@ -1129,6 +1087,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
             "description": "",
@@ -1145,20 +1117,6 @@
         {
             "url": "https://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
@@ -1649,27 +1607,6 @@
         {
             "url": "rsync://fedora.ip-connect.info/fedora/linux",
             "name": "IP-Connect.info",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://fedora.ip-connect.vn.ua/linux",
-            "name": "fedora.ip-connect.vn.ua",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://fedora.ip-connect.vn.ua/linux",
-            "name": "fedora.ip-connect.vn.ua",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://fedora.ip-connect.vn.ua/fedora/linux",
-            "name": "fedora.ip-connect.vn.ua",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
@@ -2369,14 +2306,21 @@
         },
         {
             "url": "http://mirror.web-ster.com/fedora",
-            "name": "Canby Telcom",
+            "name": "DirectLink",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.web-ster.com/fedora",
-            "name": "Canby Telcom",
+            "name": "DirectLink",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.web-ster.com/fedora",
+            "name": "DirectLink",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2572,6 +2516,27 @@
         },
         {
             "url": "http://ridgewireless.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://southfront.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://southfront.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://southfront.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",

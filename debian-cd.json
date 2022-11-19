@@ -317,13 +317,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrorservice.org/sites/cdimage.debian.org/debian-cd/",
-            "name": "mirrorservice.org",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.ticklers.org/debian-cd/",
             "name": "ftp.ticklers.org",
             "description": "",

@@ -394,27 +394,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://lesnet.mm.fcix.net/fedora-epel",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://lesnet.mm.fcix.net/epel",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://lesnet.mm.fcix.net/epel",
-            "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.csclub.uwaterloo.ca/fedora/epel",
             "name": "Computer Science Club of the University of Waterloo",
             "description": "",
@@ -1157,27 +1136,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://fedora.mirrorservice.org/epel",
-            "name": "University of Kent UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://fedora.mirrorservice.org/epel",
-            "name": "University of Kent UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.mirrorservice.org/dl.fedoraproject.org/pub/epel",
-            "name": "University of Kent UK Mirror Service",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://lon.mirror.rackspace.com/epel",
             "name": "Rackspace",
             "description": "",
@@ -1481,20 +1439,6 @@
         {
             "url": "rsync://mirror.nevacloud.com/fedora/fedora-epel",
             "name": "Mirror NevaCloud",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.telkomuniversity.ac.id/epel",
-            "name": "telkomuniversity",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.telkomuniversity.ac.id/epel",
-            "name": "telkomuniversity",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -2494,22 +2438,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://epel.ip-connect.vn.ua",
-            "name": "epel.ip-connect.vn.ua",
+            "url": "http://fastmirror.pp.ua/fedora/epel",
+            "name": "fastmirror",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
         },
         {
-            "url": "https://epel.ip-connect.vn.ua",
-            "name": "epel.ip-connect.vn.ua",
+            "url": "https://fastmirror.pp.ua/fedora/epel",
+            "name": "fastmirror",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://epel.ip-connect.vn.ua/fedora-epel",
-            "name": "epel.ip-connect.vn.ua",
+            "url": "rsync://fastmirror.pp.ua/fedora/epel",
+            "name": "fastmirror",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
@@ -3608,6 +3552,27 @@
         },
         {
             "url": "https://ridgewireless.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://southfront.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://southfront.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://southfront.mm.fcix.net/epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",

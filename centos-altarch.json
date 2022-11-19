@@ -219,20 +219,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.labkom.id/centos-altarch/",
-            "name": "Laboratorium Komputer ID",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.labkom.id/centos-altarch/",
-            "name": "Laboratorium Komputer ID",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.papua.go.id/centos-altarch/",
             "name": "Pemerintah Provinsi Papua",
             "description": "",
@@ -391,20 +377,6 @@
             "name": "eSecureData Inc.",
             "description": "",
             "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.yer.az/CentOS-AltArch/",
-            "name": "YER Hosting",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.yer.az/CentOS-AltArch/",
-            "name": "YER Hosting",
-            "description": "",
-            "country-code": "AZ",
             "role": "official-mirror"
         },
         {
@@ -660,6 +632,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.wd6.net/centos-altarch/",
+            "name": "WD6.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.wd6.net/centos-altarch/",
+            "name": "WD6.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.wd6.net/centos-altarch/",
+            "name": "WD6.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://centos-altarch.mirror.liteserver.nl/",
             "name": "LiteServer",
             "description": "",
@@ -879,6 +872,27 @@
         {
             "url": "rsync://mirrors.coreix.net/centos-altarch/",
             "name": "Coreix",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.freethought-internet.co.uk/centos-altarch/",
+            "name": "Freethought Internet",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.freethought-internet.co.uk/centos-altarch/",
+            "name": "Freethought Internet",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.freethought-internet.co.uk/centos-altarch/",
+            "name": "Freethought Internet",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -1110,20 +1124,6 @@
         {
             "url": "rsync://mirror.usi.edu/centos-altarch",
             "name": "University of Southern Indiana",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.stjschools.org/centos-altarch/",
-            "name": "St. James R-1 School District",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.stjschools.org/centos-altarch/",
-            "name": "St. James R-1 School District",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

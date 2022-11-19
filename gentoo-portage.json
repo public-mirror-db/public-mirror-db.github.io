@@ -10,7 +10,6 @@
             "name": "Any available mirror - rsync.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -21,7 +20,6 @@
             "name": "Tera-byte Dot Com Inc - rsync1.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -32,7 +30,6 @@
             "name": "Gossamer Threads",
             "description": "",
             "country-code": "CA",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -43,7 +40,6 @@
             "name": "Memorial University - rsync3.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -54,7 +50,6 @@
             "name": "University of Waterloo - rsync4.ca.gentoo.org",
             "description": "",
             "country-code": "CA",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -65,7 +60,6 @@
             "name": "Any available mirror - rsync.us.gentoo.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -77,7 +71,6 @@
             "name": "Georgia Tech - rsync3.us.gentoo.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -88,7 +81,6 @@
             "name": "Steadfast Networks - rsync11.us.gentoo.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -100,7 +92,6 @@
             "name": "TDS Internet Services - rsync26.us.gentoo.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -111,7 +102,6 @@
             "name": "Silicon Valley Web Hosting - rsync30.us.gentoo.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -123,7 +113,6 @@
             "name": "Rackspace Technology - rsync31.us.gentoo.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -134,7 +123,6 @@
             "name": "Any available mirror - rsync.br.gentoo.org",
             "description": "",
             "country-code": "BR",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -145,7 +133,6 @@
             "name": "Any available mirror - rsync.cz.gentoo.org",
             "description": "",
             "country-code": "CZ",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -156,7 +143,6 @@
             "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s - rsync1.cz.gentoo.org.",
             "description": "",
             "country-code": "CZ",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -167,7 +153,6 @@
             "name": "Any available mirror - rsync.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -179,7 +164,6 @@
             "name": "Gentoo e.V. - rsync1.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -191,7 +175,6 @@
             "name": "I-Node - rsync5.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -202,7 +185,6 @@
             "name": "stealer.net - rsync7.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -213,7 +195,6 @@
             "name": "gentoo64.net - rsync8.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -225,7 +206,6 @@
             "name": "University of Applied Sciences, Esslingen - rsync9.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -236,7 +216,6 @@
             "name": "Ruhr-Universit\u00c3\u00a4t Bochum - rsync10.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -248,7 +227,6 @@
             "name": "mirror.amiconsult.de - rsync12.de.gentoo.org",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -259,7 +237,6 @@
             "name": "RWTH Aachen University",
             "description": "",
             "country-code": "DE",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -271,7 +248,6 @@
             "name": "Any available mirror - rsync.fr.gentoo.org",
             "description": "",
             "country-code": "FR",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -283,7 +259,6 @@
             "name": "Linuxant.fr - rsync1.fr.gentoo.org",
             "description": "",
             "country-code": "FR",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -295,7 +270,6 @@
             "name": "Any available mirror - rsync.nl.gentoo.org",
             "description": "",
             "country-code": "NL",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -306,7 +280,6 @@
             "name": "Universiteit Twente - rsync2.nl.gentoo.org",
             "description": "",
             "country-code": "NL",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -317,7 +290,6 @@
             "name": "Any available mirror - rsync.pl.gentoo.org",
             "description": "",
             "country-code": "PL",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -329,7 +301,6 @@
             "name": "Institute of Theoretical Physics University of Wroclaw, Poland - rsync1.pl.gentoo.org",
             "description": "",
             "country-code": "PL",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -341,7 +312,6 @@
             "name": "Vectranet - rsync7.pl.gentoo.org",
             "description": "",
             "country-code": "PL",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -352,7 +322,6 @@
             "name": "Any available mirror - rsync.pt.gentoo.org",
             "description": "",
             "country-code": "PT",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -364,7 +333,6 @@
             "name": "Rede das Novas Licenciaturas - rsync2.pt.gentoo.org",
             "description": "",
             "country-code": "PT",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -376,7 +344,6 @@
             "name": "Any available mirror - rsync.ro.gentoo.org",
             "description": "",
             "country-code": "RO",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -388,7 +355,6 @@
             "name": "Romanian Organization Network",
             "description": "",
             "country-code": "RO",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -400,7 +366,6 @@
             "name": "Any available mirror - rsync.sk.gentoo.org",
             "description": "",
             "country-code": "SK",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -411,7 +376,6 @@
             "name": "Wheel.sk - rsync1.sk.gentoo.org",
             "description": "",
             "country-code": "SK",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -422,7 +386,6 @@
             "name": "Rainside.sk - rsync3.sk.gentoo.org",
             "description": "",
             "country-code": "SK",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -433,7 +396,6 @@
             "name": "Any available mirror - rsync.uk.gentoo.org",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -445,7 +407,6 @@
             "name": "Bytemark Hosting - rsync2.uk.gentoo.org",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -457,7 +418,6 @@
             "name": "Rackspace Technology - rsync4.uk.gentoo.org",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -468,7 +428,6 @@
             "name": "Get Hosted online - mirrors.gethosted.online/gentoo",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -479,7 +438,6 @@
             "name": "Any available mirror - rsync.au.gentoo.org",
             "description": "",
             "country-code": "AU",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -490,7 +448,6 @@
             "name": "Swinburne University of Technology - rsync1.au.gentoo.org",
             "description": "",
             "country-code": "AU",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -501,7 +458,6 @@
             "name": "Viktor Villafuerte",
             "description": "",
             "country-code": "AU",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -513,7 +469,6 @@
             "name": "Rackspace Technology - rsync3.au.gentoo.org",
             "description": "",
             "country-code": "AU",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -524,7 +479,6 @@
             "name": "Any available mirror - rsync.cn.gentoo.org",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -535,7 +489,6 @@
             "name": "Tsinghua University - rsync1.cn.gentoo.org",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -547,7 +500,6 @@
             "name": "Rackspace Technology - rsync3.cn.gentoo.org",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -558,7 +510,6 @@
             "name": "Any available mirror - rsync.jp.gentoo.org",
             "description": "",
             "country-code": "JP",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -569,7 +520,6 @@
             "name": "wide.ad.jp - rsync5.jp.gentoo.org",
             "description": "",
             "country-code": "JP",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -580,7 +530,6 @@
             "name": "Any available mirror - rsync.kr.gentoo.org",
             "description": "",
             "country-code": "KR",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -591,7 +540,6 @@
             "name": "KAIST - rsync1.kr.gentoo.org",
             "description": "",
             "country-code": "KR",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -602,7 +550,6 @@
             "name": "Any available mirror - rsync.ru.gentoo.org",
             "description": "",
             "country-code": "RU",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -614,7 +561,6 @@
             "name": "bloodhost.ru - rsync1.ru.gentoo.org",
             "description": "",
             "country-code": "RU",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -625,7 +571,6 @@
             "name": "Yandex.ru - rsync2.ru.gentoo.org",
             "description": "",
             "country-code": "RU",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -637,7 +582,6 @@
             "name": "Any available mirror - rsync.tw.gentoo.org",
             "description": "",
             "country-code": "TW",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -648,7 +592,6 @@
             "name": "linux.cs.nctu.edu.tw - rsync1.tw.gentoo.org",
             "description": "",
             "country-code": "TW",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -659,7 +602,6 @@
             "name": "National Center for High-Performance Computing - rsync6.tw.gentoo.org",
             "description": "",
             "country-code": "TW",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -670,7 +612,7 @@
             "name": "",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
+            "partial": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -682,7 +624,7 @@
             "name": "",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
+            "partial": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -694,7 +636,7 @@
             "name": "BIT",
             "description": "Mirror site provided by Beijing Inistitute of Technology",
             "country-code": "CN",
-            "full-mirror": true,
+            "partial": true,
             "address-families": [
                 "ip6"
             ],
@@ -705,7 +647,7 @@
             "name": "yun-idc",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
+            "partial": true,
             "address-families": [
                 "ip"
             ],
@@ -716,7 +658,7 @@
             "name": "Dotsrc.org",
             "description": "",
             "country-code": "US",
-            "full-mirror": true,
+            "partial": true,
             "address-families": [
                 "ip",
                 "ip6"

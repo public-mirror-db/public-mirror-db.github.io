@@ -2315,7 +2315,6 @@
             "name": "",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -2349,7 +2348,6 @@
             "name": "SJTU",
             "description": "Mirror site provided by Shanghai Jiao Tong University",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -2361,7 +2359,6 @@
             "name": "SJTU",
             "description": "Mirror site provided by Shanghai Jiao Tong University",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -2393,7 +2390,6 @@
             "name": "sohu",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -2404,7 +2400,6 @@
             "name": "sohu",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -2415,7 +2410,6 @@
             "name": "yun-idc",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -2426,7 +2420,6 @@
             "name": "yun-idc",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -2437,7 +2430,6 @@
             "name": "neusoft",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -2449,7 +2441,6 @@
             "name": "neusoft",
             "description": "",
             "country-code": "CN",
-            "full-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -2461,10 +2452,8 @@
             "name": "KU Mirror Service",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "wild-mirror"
         },
@@ -2473,10 +2462,8 @@
             "name": "KU Mirror Service",
             "description": "",
             "country-code": "GB",
-            "full-mirror": true,
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "wild-mirror"
         }
