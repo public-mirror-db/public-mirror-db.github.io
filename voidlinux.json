@@ -58,14 +58,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.fit.cvut.cz/voidlinux/",
-            "name": "mirror.fit.cvut.cz",
-            "description": "",
-            "country-code": "CZ",
-            "tier": 2,
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.nju.edu.cn/voidlinux/",
             "name": "mirror.nju.edu.cn",
             "description": "",

@@ -1794,20 +1794,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.klid.dk/ftp/ubuntu/",
-            "name": "KLID",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.klid.dk/ubuntu/",
-            "name": "KLID",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.espol.edu.ec/ubuntu/",
             "name": "Escuela Superior Polit\u00e9cnica del Litoral (ESPOL)",
             "description": "",
@@ -3343,6 +3329,27 @@
         {
             "url": "rsync://mirror.nevacloud.com/ubuntu/ubuntu-archive/",
             "name": "NevaCloud",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.repository.id/ubuntu/",
+            "name": "repository.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.repository.id/ubuntu/",
+            "name": "repository.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.repository.id/ubuntu/",
+            "name": "repository.id",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"

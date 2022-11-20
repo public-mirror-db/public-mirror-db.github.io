@@ -2270,6 +2270,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.niif.hu/ubuntu-releases/",
+            "name": "Governmental Agency for IT Development, Hungary",
+            "description": "",
+            "country-code": "HU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.niif.hu/ubuntu-releases/",
+            "name": "Governmental Agency for IT Development, Hungary",
+            "description": "",
+            "country-code": "HU",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://quantum-mirror.hu/mirrors/pub/ubuntu-releases/",
             "name": "Quantum Mirror",
             "description": "",
@@ -2538,6 +2552,27 @@
         {
             "url": "http://mr.heru.id/ubuntu-release/",
             "name": "heru.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://vpsmurah.jagoanhosting.com/ubuntu-cd/",
+            "name": "jagoanhosting.com",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://vpsmurah.jagoanhosting.com/ubuntu-cd/",
+            "name": "jagoanhosting.com",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://vpsmurah.jagoanhosting.com/ubuntu-cd/",
+            "name": "jagoanhosting.com",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -3198,20 +3233,6 @@
             "name": "KENET",
             "description": "",
             "country-code": "KE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.amuksa.com/ubuntu-releases/",
-            "name": "DAXNET",
-            "description": "",
-            "country-code": "KP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.amuksa.com/ubuntu-releases/",
-            "name": "DAXNET",
-            "description": "",
-            "country-code": "KP",
             "role": "official-mirror"
         },
         {

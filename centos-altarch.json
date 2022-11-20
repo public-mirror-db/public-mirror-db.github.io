@@ -380,6 +380,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.yer.az/CentOS-AltArch/",
+            "name": "YER Hosting",
+            "description": "",
+            "country-code": "AZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.yer.az/CentOS-AltArch/",
+            "name": "YER Hosting",
+            "description": "",
+            "country-code": "AZ",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.daticum.com/centos-altarch/",
             "name": "Daticum",
             "description": "",
@@ -895,20 +909,6 @@
             "name": "Freethought Internet",
             "description": "",
             "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lagoon.nc/centos-altarch/",
-            "name": "OFFRATEL / LAGOON",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.lagoon.nc/centos-altarch/",
-            "name": "OFFRATEL / LAGOON",
-            "description": "",
-            "country-code": "NC",
             "role": "official-mirror"
         },
         {

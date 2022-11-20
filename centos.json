@@ -261,20 +261,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.njupt.edu.cn/centos/",
-            "name": "Nanjing University of Posts and Telecommunications",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.njupt.edu.cn/centos/",
-            "name": "Nanjing University of Posts and Telecommunications",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.163.com/centos/",
             "name": "NetEase",
             "description": "",
@@ -919,13 +905,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.rise.ph/centos/",
-            "name": "RISE",
-            "description": "",
-            "country-code": "PH",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.isu.net.sa/centos/",
             "name": "MAEEN NETWORK",
             "description": "",
@@ -1210,13 +1189,6 @@
             "name": "Datacenter Uzinfocom",
             "description": "",
             "country-code": "UZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://centos-hcm.viettelidc.com.vn/",
-            "name": "Viettel IDC",
-            "description": "",
-            "country-code": "VN",
             "role": "official-mirror"
         },
         {
@@ -1518,6 +1490,20 @@
             "name": "Technische Universit\u00e4t Graz",
             "description": "",
             "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.yer.az/CentOS/",
+            "name": "YER Hosting",
+            "description": "",
+            "country-code": "AZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.yer.az/CentOS/",
+            "name": "YER Hosting",
+            "description": "",
+            "country-code": "AZ",
             "role": "official-mirror"
         },
         {
@@ -3768,6 +3754,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.awanti.com/centos/",
+            "name": "Awanti ISP",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.axelname.ru/centos/",
             "name": "Axelname",
             "description": "",
@@ -4664,6 +4657,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.pulsant.com/sites/centos/",
+            "name": "Pulsant Ltd",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.pulsant.com/sites/centos/",
+            "name": "Pulsant Ltd",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.cov.ukservers.com/centos/",
             "name": "UK Dedicated Servers",
             "description": "",
@@ -4825,27 +4832,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.aarnet.edu.au/pub/centos/",
-            "name": "AARNet",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.aarnet.edu.au/pub/centos/",
-            "name": "AARNet",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.aarnet.edu.au/centos/",
-            "name": "AARNet",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://centos.mirror.digitalpacific.com.au/",
             "name": "Digital Pacific",
             "description": "",
@@ -4862,20 +4848,6 @@
         {
             "url": "http://mirror.internode.on.net/pub/centos/",
             "name": "Internode",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.overthewire.com.au/pub/centos/",
-            "name": "Over The Wire",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.overthewire.com.au/centos/",
-            "name": "Over The Wire",
             "description": "",
             "country-code": "AU",
             "role": "official-mirror"
@@ -4927,20 +4899,6 @@
             "name": "VentraIP Australia",
             "description": "",
             "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lagoon.nc/centos/",
-            "name": "OFFRATEL / LAGOON",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.lagoon.nc/centos/",
-            "name": "OFFRATEL / LAGOON",
-            "description": "",
-            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -5226,6 +5184,20 @@
         {
             "url": "rsync://mirror.cedia.org.ec/centos/",
             "name": "Consorcio Ecuatoriano para el Desarrollo de Internet Avanzado",
+            "description": "",
+            "country-code": "EC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.epn.edu.ec/centos/",
+            "name": "Escuela Polit\u00e9cnica Nacional",
+            "description": "",
+            "country-code": "EC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.epn.edu.ec/centos/",
+            "name": "Escuela Polit\u00e9cnica Nacional",
             "description": "",
             "country-code": "EC",
             "role": "official-mirror"

@@ -5554,6 +5554,7 @@
             "description": "",
             "country-code": "PY",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -9833,7 +9834,8 @@
             "description": "",
             "country-code": "AU",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -9843,7 +9845,8 @@
             "description": "",
             "country-code": "AU",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
