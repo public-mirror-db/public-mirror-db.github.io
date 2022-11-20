@@ -1217,13 +1217,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.dewabiz.com/debian/",
-            "name": "mirror.dewabiz.com",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://kebo.pens.ac.id/debian/",
             "name": "kebo.pens.ac.id",
             "description": "",
@@ -1233,13 +1226,6 @@
         {
             "url": "http://mirror.poliwangi.ac.id/debian/",
             "name": "mirror.poliwangi.ac.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mr.heru.id/debian/",
-            "name": "mr.heru.id",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"

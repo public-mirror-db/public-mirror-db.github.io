@@ -79,20 +79,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.netspace.net.au/pub/ubuntu/releases/",
-            "name": "Netspace Online Systems",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.netspace.net.au/pub/ubuntu/releases/",
-            "name": "Netspace Online Systems",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.overthewire.com.au/pub/ubuntu-releases/",
             "name": "Over The Wire",
             "description": "",
@@ -6514,20 +6500,6 @@
         {
             "url": "rsync://ubuntu.cs.utah.edu/ubuntu-releases/",
             "name": "University of Utah",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.stjschools.org/ubuntu-releases/",
-            "name": "St. James R-1 School District",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.stjschools.org/ubuntu-releases/",
-            "name": "St. James R-1 School District",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

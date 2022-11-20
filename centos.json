@@ -905,6 +905,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.rise.ph/centos/",
+            "name": "RISE",
+            "description": "",
+            "country-code": "PH",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.isu.net.sa/centos/",
             "name": "MAEEN NETWORK",
             "description": "",
@@ -1189,6 +1196,13 @@
             "name": "Datacenter Uzinfocom",
             "description": "",
             "country-code": "UZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://centos-hcm.viettelidc.com.vn/",
+            "name": "Viettel IDC",
+            "description": "",
+            "country-code": "VN",
             "role": "official-mirror"
         },
         {
@@ -4832,6 +4846,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.aarnet.edu.au/pub/centos/",
+            "name": "AARNet",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.aarnet.edu.au/pub/centos/",
+            "name": "AARNet",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.aarnet.edu.au/centos/",
+            "name": "AARNet",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://centos.mirror.digitalpacific.com.au/",
             "name": "Digital Pacific",
             "description": "",
@@ -4848,6 +4883,20 @@
         {
             "url": "http://mirror.internode.on.net/pub/centos/",
             "name": "Internode",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.overthewire.com.au/pub/centos/",
+            "name": "Over The Wire",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.overthewire.com.au/centos/",
+            "name": "Over The Wire",
             "description": "",
             "country-code": "AU",
             "role": "official-mirror"
@@ -4899,6 +4948,20 @@
             "name": "VentraIP Australia",
             "description": "",
             "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lagoon.nc/centos/",
+            "name": "OFFRATEL / LAGOON",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.lagoon.nc/centos/",
+            "name": "OFFRATEL / LAGOON",
+            "description": "",
+            "country-code": "NC",
             "role": "official-mirror"
         },
         {

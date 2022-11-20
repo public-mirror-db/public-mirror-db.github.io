@@ -1031,20 +1031,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.szerverem.hu/fedora/linux",
-            "name": "szerverem",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.szerverem.hu/fedora/linux",
-            "name": "szerverem",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://fedora.mirror.angkasa.id/fedora-enchilada/linux",
             "name": "mirror.angkasa.id",
             "description": "",
@@ -1348,6 +1334,20 @@
         {
             "url": "rsync://mirror.serverion.com/fedora",
             "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.theory7.net/fedora/fedora",
+            "name": "Theory7.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.theory7.net/fedora/fedora",
+            "name": "Theory7.net",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -2216,6 +2216,20 @@
         {
             "url": "https://mirror.steadfastnet.com/fedora",
             "name": "Steadfast Networks",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.stjschools.org/fedora/linux",
+            "name": "mirror.stjschools.org",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.stjschools.org/fedora/linux",
+            "name": "mirror.stjschools.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

@@ -912,6 +912,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.lagoon.nc/centos-altarch/",
+            "name": "OFFRATEL / LAGOON",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.lagoon.nc/centos-altarch/",
+            "name": "OFFRATEL / LAGOON",
+            "description": "",
+            "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.fsmg.org.nz/centos-altarch/",
             "name": "Free Software Mirror Group",
             "description": "",
