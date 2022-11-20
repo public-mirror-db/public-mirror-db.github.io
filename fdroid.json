@@ -1,4 +1,40 @@
 {
     "sources": [],
-    "mirrors": []
+    "mirrors": [
+        {
+            "url": "rsync://mirrors.tuna.tsinghua.edu.cn/fdroid",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.agdsn.de/fdroid",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.fau.de/fdroid",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://plug-mirror.rcac.purdue.edu/fdroid",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.lysator.liu.se/fdroid",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ossplanet.net/fdroid",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fdroid.astra.in.ua/fdroid",
+            "country-code": "UA",
+            "role": "official-mirror"
+        }
+    ]
 }

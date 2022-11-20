@@ -16,17 +16,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
-            "name": "mirrors.ocf.berkeley.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.sg.gs/debian-nonfree/",
             "name": "mirror.sg.gs",
             "description": "",
             "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
+            "name": "mirrors.ocf.berkeley.edu",
+            "description": "",
+            "country-code": "US",
             "role": "official-mirror"
         },
         {
