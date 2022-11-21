@@ -612,7 +612,6 @@
             "name": "",
             "description": "",
             "country-code": "CN",
-            "partial-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -624,7 +623,6 @@
             "name": "",
             "description": "",
             "country-code": "CN",
-            "partial-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"
@@ -636,7 +634,6 @@
             "name": "BIT",
             "description": "Mirror site provided by Beijing Inistitute of Technology",
             "country-code": "CN",
-            "partial-mirror": true,
             "address-families": [
                 "ip6"
             ],
@@ -647,7 +644,6 @@
             "name": "yun-idc",
             "description": "",
             "country-code": "CN",
-            "partial-mirror": true,
             "address-families": [
                 "ip"
             ],
@@ -658,7 +654,6 @@
             "name": "Dotsrc.org",
             "description": "",
             "country-code": "US",
-            "partial-mirror": true,
             "address-families": [
                 "ip",
                 "ip6"

@@ -177,6 +177,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.aliyun.com/centos/",
+            "name": "Alibaba Cloud Computing",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.bfsu.edu.cn/centos/",
             "name": "Beijing Foreign Studies University",
             "description": "",
@@ -788,41 +795,6 @@
         {
             "url": "rsync://mirror.hoster.kz/centos/",
             "name": "LLP Kompaniya Hoster.KZ",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.neolabs.kz/centos/",
-            "name": "Neolabs LLP",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.neolabs.kz/centos/",
-            "name": "Neolabs LLP",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ps.kz/centos/",
-            "name": "PS Internet Company LLC",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ps.kz/centos/",
-            "name": "PS Internet Company LLC",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ps.kz/centos/",
-            "name": "PS Internet Company LLC",
             "description": "",
             "country-code": "KZ",
             "role": "official-mirror"
@@ -6479,6 +6451,20 @@
         {
             "url": "http://linux.cc.lehigh.edu/centos/",
             "name": "Lehigh University",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.pit.teraswitch.com/centos/",
+            "name": "TeraSwitch Networks Inc.",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.pit.teraswitch.com/centos/",
+            "name": "TeraSwitch Networks Inc.",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

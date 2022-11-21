@@ -1028,20 +1028,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.arvancloud.com/alpine",
-            "name": "ArvanCloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.arvancloud.com/alpine",
-            "name": "ArvanCloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.0-1.cloud/alpine/",
             "name": "0-1.cloud",
             "description": "",

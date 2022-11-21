@@ -3684,20 +3684,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.arvancloud.com/ubuntu/",
-            "name": "ArvanCloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.arvancloud.com/ubuntu/",
-            "name": "ArvanCloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.iranserver.com/ubuntu/",
             "name": "Iranserver",
             "description": "",
@@ -4274,34 +4260,6 @@
         {
             "url": "ftp://ftp.daum.net/ubuntu/",
             "name": "Daum Communications Corp.",
-            "description": "",
-            "country-code": "KP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.lanet.kr/ubuntu/",
-            "name": "LANET",
-            "description": "",
-            "country-code": "KP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.lanet.kr/ubuntu/",
-            "name": "LANET",
-            "description": "",
-            "country-code": "KP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.lanet.kr/ubuntu/",
-            "name": "LANET",
-            "description": "",
-            "country-code": "KP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.lanet.kr/ubuntu/",
-            "name": "LANET",
             "description": "",
             "country-code": "KP",
             "role": "official-mirror"
@@ -5336,6 +5294,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ftp.ps.pl/pub/Linux/ubuntu/archive/",
+            "name": "West Pomeranian University of Technology",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.ps.pl/pub/Linux/ubuntu/archive/",
+            "name": "West Pomeranian University of Technology",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.ps.pl/pub/Linux/ubuntu/archive/",
+            "name": "West Pomeranian University of Technology",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.agh.edu.pl/ubuntu/",
             "name": "AGH University of Science and Technology",
             "description": "",
@@ -5869,6 +5848,13 @@
         },
         {
             "url": "http://mirrors.isu.net.sa/apt-mirror/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.isu.net.sa/apt-mirror/",
             "name": "Maeen Network",
             "description": "",
             "country-code": "SA",

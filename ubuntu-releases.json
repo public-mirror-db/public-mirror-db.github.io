@@ -751,27 +751,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.ufro.cl/ubuntu-releases/",
-            "name": "Universidad de La Frontera",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ufro.cl/ubuntu-releases/",
-            "name": "Universidad de La Frontera",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ufro.cl/ubuntu-releases/",
-            "name": "Universidad de La Frontera",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.nju.edu.cn/ubuntu-releases/",
             "name": "eScience Center, Nanjing University",
             "description": "",
@@ -2060,27 +2039,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://releases.ubuntu.repulsive.eu/",
-            "name": "Releases.ubuntu.repulsive.eu",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://releases.ubuntu.repulsive.eu/",
-            "name": "Releases.ubuntu.repulsive.eu",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://releases.ubuntu.repulsive.eu/releases/",
-            "name": "Releases.ubuntu.repulsive.eu",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.tu-clausthal.de/ftp/mirror/ubuntu/releases/",
             "name": "Technische Universitaet Clausthal",
             "description": "",
@@ -2893,6 +2851,41 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.aminidc.com/ubuntu-releases/",
+            "name": "Amin IDC",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.aminidc.com/ubuntu-releases/",
+            "name": "Amin IDC",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.aminidc.com/ubuntu-releases/",
+            "name": "Amin IDC",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ubuntu.bonyan.co/",
+            "name": "Bonyan Co.",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ubuntu.bonyan.co/",
+            "name": "Bonyan Co.",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ubuntu.hostiran.ir/CD/",
             "name": "Host Iran",
             "description": "",
@@ -3499,20 +3492,6 @@
             "name": "Putrajaya Open Innovation Terminal",
             "description": "",
             "country-code": "MY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ubuntu-releases.cloud.mu/",
-            "name": "cloud.mu",
-            "description": "",
-            "country-code": "MU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu-releases.cloud.mu/",
-            "name": "cloud.mu",
-            "description": "",
-            "country-code": "MU",
             "role": "official-mirror"
         },
         {
@@ -4770,6 +4749,13 @@
         },
         {
             "url": "http://mirrors.isu.net.sa/apt-mirror-releases/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.isu.net.sa/apt-mirror-releases/",
             "name": "Maeen Network",
             "description": "",
             "country-code": "SA",
@@ -6878,27 +6864,6 @@
         {
             "url": "rsync://mirror.steadfastnet.com/ubuntu-releases/",
             "name": "Steadfast Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.tcpdiag.net/ubuntu-releases/",
-            "name": "TCPDIAG",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.tcpdiag.net/ubuntu-releases/",
-            "name": "TCPDIAG",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.tcpdiag.net/ubuntu-releases/",
-            "name": "TCPDIAG",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

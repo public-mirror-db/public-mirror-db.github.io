@@ -1178,6 +1178,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.pit.teraswitch.com/centos-altarch/",
+            "name": "TeraSwitch Networks Inc.",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
+            "name": "TeraSwitch Networks Inc.",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://repos.eggycrew.com/centos-altarch/",
             "name": "eggycrew",
             "description": "",

@@ -415,6 +415,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.kaist.ac.kr/debian-cd/",
+            "name": "ftp.kaist.ac.kr",
+            "description": "",
+            "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.lanet.kr/debian-cd/",
             "name": "ftp.lanet.kr",
             "description": "",
@@ -671,6 +678,13 @@
             "name": "mirror.keystealth.org",
             "description": "",
             "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.saix.net/debian-cd/",
+            "name": "debian.saix.net",
+            "description": "",
+            "country-code": "ZA",
             "role": "official-mirror"
         },
         {

@@ -1063,6 +1063,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ukdebian.mirror.anlx.net/debian/",
+            "name": "ukdebian.mirror.anlx.net",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://uk.mirrors.clouvider.net/debian/",
             "name": "uk.mirrors.clouvider.net",
             "description": "",
@@ -1280,13 +1287,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.dynamica.it/debian/",
-            "name": "debian.dynamica.it",
-            "description": "",
-            "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.mirror.garr.it/debian/",
             "name": "debian.mirror.garr.it",
             "description": "",
@@ -1441,6 +1441,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.kaist.ac.kr/debian/",
+            "name": "ftp.kaist.ac.kr",
+            "description": "",
+            "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.lanet.kr/debian/",
             "name": "ftp.lanet.kr",
             "description": "",
@@ -1450,6 +1457,13 @@
         {
             "url": "http://mirror.misakamikoto.network/debian/",
             "name": "mirror.misakamikoto.network",
+            "description": "",
+            "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.kr.debian.org/debian/",
+            "name": "ftp.kr.debian.org",
             "description": "",
             "country-code": "KP",
             "role": "official-mirror"
@@ -2199,13 +2213,6 @@
         {
             "url": "http://plug-mirror.rcac.purdue.edu/debian/",
             "name": "plug-mirror.rcac.purdue.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.siena.edu/debian/",
-            "name": "mirror.siena.edu",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
