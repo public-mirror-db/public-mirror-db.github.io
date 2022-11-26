@@ -178,6 +178,14 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://voidlinux.com.br/repo/",
+            "name": "voidlinux.com.br",
+            "description": "",
+            "country-code": "BR",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
             "url": "https://voidlinux.mirror.garr.it/",
             "name": "voidlinux.mirror.garr.it",
             "description": "",

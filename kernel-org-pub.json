@@ -13,6 +13,9 @@
             "name": "Tuna",
             "description": "",
             "country-code": "CN",
+            "partial-mirror": [
+                "/linux/kernel/***"
+            ],
             "chroot": "/linux/kernel",
             "role": "wild-mirror"
         }

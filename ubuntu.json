@@ -268,20 +268,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.alwyzon.net/ubuntu/",
-            "name": "Alwyzon",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.alwyzon.net/ubuntu/",
-            "name": "Alwyzon",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ubuntu.anexia.at/ubuntu/",
             "name": "ANEXIA Internetdienstleistungs GmbH",
             "description": "",
@@ -795,13 +781,6 @@
         {
             "url": "http://mirror.sabay.com.kh/ubuntu/",
             "name": "Sabay",
-            "description": "",
-            "country-code": "KH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.telcotech.com.kh/Linux/ubuntu-releases/",
-            "name": "TELCOTECH",
             "description": "",
             "country-code": "KH",
             "role": "official-mirror"
@@ -1647,6 +1626,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.it4i.cz/ubuntu/",
+            "name": "IT4Innovations National Supercomputing Center",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.it4i.cz/ubuntu/",
+            "name": "IT4Innovations National Supercomputing Center",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.it4i.cz/ubuntu/",
+            "name": "IT4Innovations National Supercomputing Center",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.dkm.cz/ubuntu/",
             "name": "Vodafone Czech Republic a. s.",
             "description": "",
@@ -1789,6 +1789,20 @@
         {
             "url": "rsync://mirror.one.com/ubuntu/",
             "name": "One.com",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.klid.dk/ftp/ubuntu/",
+            "name": "KLID",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.klid.dk/ubuntu/",
+            "name": "KLID",
             "description": "",
             "country-code": "DK",
             "role": "official-mirror"
@@ -2293,6 +2307,27 @@
         {
             "url": "http://debian.charite.de/ubuntu/",
             "name": "Charite Berlin",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.stw-bonn.de/ubuntu/",
+            "name": "StudNet Bonn",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.stw-bonn.de/ubuntu/",
+            "name": "StudNet Bonn",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.stw-bonn.de/ubuntu/",
+            "name": "StudNet Bonn",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -3490,6 +3525,27 @@
         {
             "url": "rsync://mirror.dewabiz.com/ubuntu/",
             "name": "DewaBiz",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.gi.co.id/ubuntu/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.gi.co.id/ubuntu/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.gi.co.id/ubuntu/",
+            "name": "PT Global Intermedia Nusantara",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -5840,27 +5896,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.isu.net.sa/apt-mirror/",
-            "name": "Maeen Network",
-            "description": "",
-            "country-code": "SA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.isu.net.sa/apt-mirror/",
-            "name": "Maeen Network",
-            "description": "",
-            "country-code": "SA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.isu.net.sa/apt-mirror/",
-            "name": "Maeen Network",
-            "description": "",
-            "country-code": "SA",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://rs.mirror.kumi.systems/ubuntu/",
             "name": "Kumi Systems e.U.",
             "description": "",
@@ -7044,6 +7079,34 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ubuntu.ip-connect.vn.ua/",
+            "name": "IP-Connect LLC",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ubuntu.ip-connect.vn.ua/",
+            "name": "IP-Connect LLC",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ubuntu.ip-connect.vn.ua/mirror/ubuntu/",
+            "name": "IP-Connect LLC",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ubuntu.ip-connect.vn.ua/ubuntu/",
+            "name": "IP-Connect LLC",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ubuntu.colocall.net/ubuntu/",
             "name": "Colocall Datacenter",
             "description": "",
@@ -7879,6 +7942,20 @@
         {
             "url": "http://repos.forethought.net/ubuntu/",
             "name": "FORETHOUGHT.net",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.stjschools.org/ubuntu/",
+            "name": "St. James R-1 School District",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.stjschools.org/ubuntu/",
+            "name": "St. James R-1 School District",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

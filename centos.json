@@ -268,6 +268,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.njupt.edu.cn/centos/",
+            "name": "Nanjing University of Posts and Telecommunications",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.njupt.edu.cn/centos/",
+            "name": "Nanjing University of Posts and Telecommunications",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.163.com/centos/",
             "name": "NetEase",
             "description": "",
@@ -480,20 +494,6 @@
         {
             "url": "rsync://mirror.cloudweeb.com/centos/",
             "name": "cloudweeb.com",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mr.heru.id/centos/",
-            "name": "heru.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mr.heru.id/centos/",
-            "name": "heru.id",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -800,6 +800,41 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.neolabs.kz/centos/",
+            "name": "Neolabs LLP",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.neolabs.kz/centos/",
+            "name": "Neolabs LLP",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ps.kz/centos/",
+            "name": "PS Internet Company LLC",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ps.kz/centos/",
+            "name": "PS Internet Company LLC",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ps.kz/centos/",
+            "name": "PS Internet Company LLC",
+            "description": "",
+            "country-code": "KZ",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://my.mirrors.thegigabit.com/centos/",
             "name": "Gigabit Hosting",
             "description": "",
@@ -881,20 +916,6 @@
             "name": "RISE",
             "description": "",
             "country-code": "PH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.isu.net.sa/centos/",
-            "name": "MAEEN NETWORK",
-            "description": "",
-            "country-code": "SA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.isu.net.sa/centos/",
-            "name": "MAEEN NETWORK",
-            "description": "",
-            "country-code": "SA",
             "role": "official-mirror"
         },
         {
@@ -1196,6 +1217,27 @@
             "name": "VHost",
             "description": "",
             "country-code": "VN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://lesnet.mm.fcix.net/centos/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://lesnet.mm.fcix.net/centos/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://lesnet.mm.fcix.net/centos/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CA",
             "role": "official-mirror"
         },
         {
@@ -1532,20 +1574,6 @@
             "name": "RUE Beltelecom, ByFly ISP.",
             "description": "",
             "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.belnet.be/mirror/ftp.centos.org/",
-            "name": "Belnet",
-            "description": "",
-            "country-code": "BE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.belnet.be/centos/",
-            "name": "Belnet",
-            "description": "",
-            "country-code": "BE",
             "role": "official-mirror"
         },
         {
@@ -4643,20 +4671,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.pulsant.com/sites/centos/",
-            "name": "Pulsant Ltd",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.pulsant.com/sites/centos/",
-            "name": "Pulsant Ltd",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.cov.ukservers.com/centos/",
             "name": "UK Dedicated Servers",
             "description": "",
@@ -5049,27 +5063,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.uepg.br/centos/",
-            "name": "Universidade Estadual de Ponta Grossa",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.uepg.br/centos/",
-            "name": "Universidade Estadual de Ponta Grossa",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.uepg.br/centos/",
-            "name": "Universidade Estadual de Ponta Grossa",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.ufam.edu.br/centos/",
             "name": "Universidade Federal do Amazonas",
             "description": "",
@@ -5147,27 +5140,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.inf.utfsm.cl/pub/Linux/CentOS/",
-            "name": "Universidad Tecnica Federico Santa Maria",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.edgeuno.net/centos/",
-            "name": "EdgeUNO",
-            "description": "",
-            "country-code": "CO",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.edgeuno.net/centos/",
-            "name": "EdgeUNO",
-            "description": "",
-            "country-code": "CO",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.unimagdalena.edu.co/centos/",
             "name": "Universidad del Magdalena",
             "description": "",
@@ -5219,20 +5191,6 @@
         {
             "url": "rsync://mirror.cedia.org.ec/centos/",
             "name": "Consorcio Ecuatoriano para el Desarrollo de Internet Avanzado",
-            "description": "",
-            "country-code": "EC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.epn.edu.ec/centos/",
-            "name": "Escuela Polit\u00e9cnica Nacional",
-            "description": "",
-            "country-code": "EC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.epn.edu.ec/centos/",
-            "name": "Escuela Polit\u00e9cnica Nacional",
             "description": "",
             "country-code": "EC",
             "role": "official-mirror"
@@ -5723,27 +5681,6 @@
         {
             "url": "rsync://mirror.ette.biz/CentOS",
             "name": "ETTE.biz",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.mia11.us.leaseweb.net/centos/",
-            "name": "Leaseweb",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.mia11.us.leaseweb.net/centos/",
-            "name": "Leaseweb",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.mia11.us.leaseweb.net/centos/",
-            "name": "Leaseweb",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -6456,20 +6393,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.pit.teraswitch.com/centos/",
-            "name": "TeraSwitch Networks Inc.",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.pit.teraswitch.com/centos/",
-            "name": "TeraSwitch Networks Inc.",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.wcupa.edu/centos/",
             "name": "West Chester University",
             "description": "",
@@ -6533,27 +6456,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.dal10.us.leaseweb.net/centos/",
-            "name": "Leaseweb",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.dal10.us.leaseweb.net/centos/",
-            "name": "Leaseweb",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.dal10.us.leaseweb.net/centos/",
-            "name": "Leaseweb",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://repos.eggycrew.com/centos/",
             "name": "eggycrew",
             "description": "",
@@ -6570,20 +6472,6 @@
         {
             "url": "rsync://repos.eggycrew.com/centos/",
             "name": "eggycrew",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://repos.hou.layerhost.com/centos/",
-            "name": "LayerHost",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://repos.hou.layerhost.com/centos/",
-            "name": "LayerHost",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -6661,6 +6549,27 @@
         {
             "url": "rsync://mirror.vacares.com/centos/",
             "name": "Vacares",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://southfront.mm.fcix.net/centos/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://southfront.mm.fcix.net/centos/",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://southfront.mm.fcix.net/centos/",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

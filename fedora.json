@@ -310,6 +310,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://lesnet.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://lesnet.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://lesnet.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.csclub.uwaterloo.ca/fedora/linux",
             "name": "Computer Science Club of the University of Waterloo",
             "description": "",
@@ -1334,6 +1355,20 @@
         {
             "url": "rsync://mirror.serverion.com/fedora",
             "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.theory7.net/fedora/fedora",
+            "name": "Theory7.net",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.theory7.net/fedora/fedora",
+            "name": "Theory7.net",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -2391,27 +2426,6 @@
         {
             "url": "https://paducahix.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://pubmirror1.math.uh.edu/fedora-buffet/fedora/linux",
-            "name": "UH Mathematics",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://pubmirror1.math.uh.edu/fedora-enchilada/linux",
-            "name": "UH Mathematics",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://pubmirror1.math.uh.edu/fedora-buffet/fedora/linux",
-            "name": "UH Mathematics",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

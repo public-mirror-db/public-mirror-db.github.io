@@ -618,13 +618,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.advancedhosters.com/debian-cd/",
-            "name": "mirrors.advancedhosters.com",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.cogentco.com/debian-cd/",
             "name": "mirror.cogentco.com",
             "description": "",
