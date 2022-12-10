@@ -23,27 +23,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.im.jku.at/mirror/fedora/linux",
-            "name": "Johannes Kepler University (JKU)",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.im.jku.at/mirror/fedora/linux",
-            "name": "Johannes Kepler University (JKU)",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.im.jku.at/fedora/linux",
-            "name": "Johannes Kepler University (JKU)",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://ap.edge.kernel.org/fedora",
             "name": "mirrors.kernel.org",
             "description": "",
@@ -1619,6 +1598,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://fedora.ip-connect.vn.ua/linux",
+            "name": "fedora.ip-connect.vn.ua",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fedora.ip-connect.vn.ua/linux",
+            "name": "fedora.ip-connect.vn.ua",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fedora.ip-connect.vn.ua/fedora/linux",
+            "name": "fedora.ip-connect.vn.ua",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://abqix.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -2383,6 +2383,27 @@
         },
         {
             "url": "http://ohioix.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://opencolo.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://opencolo.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://opencolo.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",

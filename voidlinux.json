@@ -18,6 +18,14 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://void.chililinux.com/voidlinux/",
+            "name": "void.chililinux.com",
+            "description": "",
+            "country-code": "BR",
+            "tier": 2,
+            "role": "official-mirror"
+        },
+        {
             "url": "https://ftp.lysator.liu.se/pub/voidlinux/",
             "name": "ftp.lysator.liu.se",
             "description": "",

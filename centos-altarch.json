@@ -184,20 +184,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.cloudweeb.com/centos-altarch/",
-            "name": "cloudweeb.com",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.cloudweeb.com/centos-altarch/",
-            "name": "cloudweeb.com",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://vpsmurah.jagoanhosting.com/centos-altarch/",
             "name": "Jagoanhosting.com",
             "description": "",
@@ -709,6 +695,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.ps.pl/pub/Linux/CentOS-alt",
+            "name": "West Pomeranian University of Technology in Szczecin",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.ps.pl/pub/Linux/CentOS-alt",
+            "name": "West Pomeranian University of Technology in Szczecin",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.up.pt/pub/centos-altarch/",
             "name": "University of Porto",
             "description": "",
@@ -825,20 +825,6 @@
             "name": "POWERNET ISP",
             "description": "",
             "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.airenetworks.es/CentOS-AltArch/",
-            "name": "AireNetworks",
-            "description": "",
-            "country-code": "ES",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.airenetworks.es/CentOS-AltArch/",
-            "name": "AireNetworks",
-            "description": "",
-            "country-code": "ES",
             "role": "official-mirror"
         },
         {
@@ -1173,6 +1159,20 @@
         {
             "url": "rsync://mirror.siena.edu/centos-altarch/",
             "name": "Siena College",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.pit.teraswitch.com/centos-altarch/",
+            "name": "TeraSwitch Networks Inc.",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
+            "name": "TeraSwitch Networks Inc.",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

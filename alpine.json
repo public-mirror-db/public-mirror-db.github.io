@@ -391,20 +391,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.operationtulip.com/alpine/",
-            "name": "mirror.operationtulip.com",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.operationtulip.com/alpine/",
-            "name": "mirror.operationtulip.com",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.ircam.fr/pub/alpine/",
             "name": "mirrors.ircam.fr",
             "description": "",
@@ -1025,20 +1011,6 @@
             "name": "2degrees.nz",
             "description": "",
             "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.0-1.cloud/alpine/",
-            "name": "0-1.cloud",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.0-1.cloud/alpine/",
-            "name": "0-1.cloud",
-            "description": "",
-            "country-code": "IR",
             "role": "official-mirror"
         },
         {

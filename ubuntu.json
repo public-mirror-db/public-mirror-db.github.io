@@ -339,21 +339,21 @@
         },
         {
             "url": "http://ubuntu.lagis.at/ubuntu/",
-            "name": "lagis Internet Serviceprovider GmbH",
+            "name": "Linz Strom Gas W\u00e4rme GmbH",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
         },
         {
             "url": "ftp://ubuntu.lagis.at/ubuntu/",
-            "name": "lagis Internet Serviceprovider GmbH",
+            "name": "Linz Strom Gas W\u00e4rme GmbH",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
         },
         {
             "url": "rsync://ubuntu.lagis.at/ubuntu/",
-            "name": "lagis Internet Serviceprovider GmbH",
+            "name": "Linz Strom Gas W\u00e4rme GmbH",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
@@ -452,6 +452,20 @@
         {
             "url": "http://mirror.xeonbd.com/ubuntu-archive/",
             "name": "XeonBD",
+            "description": "",
+            "country-code": "BD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.exid.us/ubuntu-archive/",
+            "name": "EXID",
+            "description": "",
+            "country-code": "BD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.exid.us/ubuntu-archive/",
+            "name": "EXID",
             "description": "",
             "country-code": "BD",
             "role": "official-mirror"
@@ -786,6 +800,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.telcotech.com.kh/Linux/ubuntu-releases/",
+            "name": "TELCOTECH",
+            "description": "",
+            "country-code": "KH",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.layeronline.com/ubuntu/",
             "name": "LayerOnline",
             "description": "",
@@ -1081,6 +1102,13 @@
         },
         {
             "url": "http://mirror.hnd.cl/ubuntu/",
+            "name": "Hostednode SpA",
+            "description": "",
+            "country-code": "CL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.hnd.cl/ubuntu/",
             "name": "Hostednode SpA",
             "description": "",
             "country-code": "CL",
@@ -1481,13 +1509,6 @@
         {
             "url": "http://mirror.lzu.edu.cn/ubuntu/",
             "name": "Lanzhou University Open Source Society",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.cqu.edu.cn/ubuntu/",
-            "name": "Chongqing University",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -2347,6 +2368,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.creoline.net/ubuntu/",
+            "name": "creoline GmbH",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.creoline.net/ubuntu/",
+            "name": "creoline GmbH",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.creoline.net/ubuntu/",
+            "name": "creoline GmbH",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.de.leaseweb.net/ubuntu/",
             "name": "LeaseWeb Germany GmbH",
             "description": "",
@@ -2642,35 +2684,21 @@
         },
         {
             "url": "https://mirror.23m.com/ubuntu/",
-            "name": "23media GmbH",
+            "name": "23M GmbH",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
         },
         {
             "url": "http://mirror.23m.com/ubuntu/",
-            "name": "23media GmbH",
+            "name": "23M GmbH",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.23m.com/ubuntu/",
-            "name": "23media GmbH",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.stw-aachen.de/ubuntu/",
-            "name": "FH-Aachen",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.stw-aachen.de/ubuntu/",
-            "name": "FH-Aachen",
+            "name": "23M GmbH",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -3215,6 +3243,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.cse.iitk.ac.in/ubuntu/",
+            "name": "Indian Institute of Technology, Kanpur",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.cse.iitk.ac.in/ubuntu/",
+            "name": "Indian Institute of Technology, Kanpur",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.nxtgen.com/ubuntu-mirror/ubuntu/",
             "name": "NxtGen DataCenter & Cloud Technologies",
             "description": "",
@@ -3481,13 +3523,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.biznetgio.com/ubuntu/",
-            "name": "PT. Biznet Gio Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.cepatcloud.id/ubuntu/",
             "name": "cepatcloud.id",
             "description": "",
@@ -3525,27 +3560,6 @@
         {
             "url": "rsync://mirror.dewabiz.com/ubuntu/",
             "name": "DewaBiz",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.gi.co.id/ubuntu/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.gi.co.id/ubuntu/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.gi.co.id/ubuntu/",
-            "name": "PT Global Intermedia Nusantara",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -3658,13 +3672,6 @@
         {
             "url": "http://repo.usk.ac.id/ubuntu/",
             "name": "Universitas Syiah Kuala",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.telkomuniversity.ac.id/ubuntu/",
-            "name": "Telkom University",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -4017,27 +4024,6 @@
             "name": "University of Genoa",
             "description": "",
             "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.udx.icscoe.jp/Linux/ubuntu/",
-            "name": "ICSCoE",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.udx.icscoe.jp/Linux/ubuntu/",
-            "name": "ICSCoE",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.udx.icscoe.jp/ubuntu/",
-            "name": "ICSCoE",
-            "description": "",
-            "country-code": "JP",
             "role": "official-mirror"
         },
         {
@@ -4675,13 +4661,6 @@
             "name": "MARWAN",
             "description": "",
             "country-code": "MA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download.nust.na/pub/ubuntu/ubuntu/",
-            "name": "Namibia University of Science and Technology",
-            "description": "",
-            "country-code": "NA",
             "role": "official-mirror"
         },
         {
@@ -5350,27 +5329,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.ps.pl/pub/Linux/ubuntu/archive/",
-            "name": "West Pomeranian University of Technology",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.ps.pl/pub/Linux/ubuntu/archive/",
-            "name": "West Pomeranian University of Technology",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.ps.pl/pub/Linux/ubuntu/archive/",
-            "name": "West Pomeranian University of Technology",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.agh.edu.pl/ubuntu/",
             "name": "AGH University of Science and Technology",
             "description": "",
@@ -5609,21 +5567,21 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ubuntu.mirrors.orange.ro/ubuntu-archive/",
+            "url": "https://ubuntu.mirrors.orange.ro/ubuntu/",
             "name": "Orange Romania Communications",
             "description": "",
             "country-code": "RO",
             "role": "official-mirror"
         },
         {
-            "url": "http://ubuntu.mirrors.orange.ro/ubuntu-archive/",
+            "url": "http://ubuntu.mirrors.orange.ro/ubuntu/",
             "name": "Orange Romania Communications",
             "description": "",
             "country-code": "RO",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ubuntu.mirrors.orange.ro/ubuntu-archive/",
+            "url": "rsync://ubuntu.mirrors.orange.ro/ubuntu/",
             "name": "Orange Romania Communications",
             "description": "",
             "country-code": "RO",
@@ -5893,6 +5851,27 @@
             "name": "Logol Hosting",
             "description": "",
             "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.isu.net.sa/apt-mirror/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.isu.net.sa/apt-mirror/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.isu.net.sa/apt-mirror/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
             "role": "official-mirror"
         },
         {
@@ -6484,6 +6463,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.infomaniak.ch/ubuntu/",
+            "name": "Infomaniak Network SA",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.infomaniak.ch/ubuntu/",
+            "name": "Infomaniak Network SA",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.init7.net/ubuntu/",
             "name": "Init7 (Schweiz) AG",
             "description": "",
@@ -6661,13 +6654,6 @@
         {
             "url": "rsync://mirror.ossplanet.net/ubuntu/",
             "name": "OSSPlanet",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.tc.edu.tw/Linux/ubuntu/",
-            "name": "TaiChung City Education Network Center",
             "description": "",
             "country-code": "TW",
             "role": "official-mirror"
@@ -7102,6 +7088,27 @@
         {
             "url": "rsync://ubuntu.ip-connect.vn.ua/ubuntu/",
             "name": "IP-Connect LLC",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ubuntu.astra.in.ua/ubuntu/",
+            "name": "Astra ISP",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ubuntu.astra.in.ua/ubuntu/",
+            "name": "Astra ISP",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ubuntu.astra.in.ua/ubuntu/",
+            "name": "Astra ISP",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
@@ -7849,6 +7856,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://mirrors.iu13.net/ubuntu/",
+            "name": "Lancaster-Lebanon IU13",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.rit.edu/ubuntu/",
             "name": "Rochester Institute of Technology",
             "description": "",
@@ -8068,27 +8082,6 @@
         {
             "url": "http://mirror.ubuntu.serverforge.org/",
             "name": "ServerForge",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.advancedhosters.com/ubuntu/",
-            "name": "AdvancedHosters",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirrors.advancedhosters.com/ubuntu/",
-            "name": "AdvancedHosters",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.advancedhosters.com/ubuntu/",
-            "name": "AdvancedHosters",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

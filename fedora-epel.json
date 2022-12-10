@@ -72,27 +72,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.im.jku.at/mirror/epel",
-            "name": "Johannes Kepler University (JKU)",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.im.jku.at/mirror/epel",
-            "name": "Johannes Kepler University (JKU)",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.im.jku.at/epel",
-            "name": "Johannes Kepler University (JKU)",
-            "description": "",
-            "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://ap.edge.kernel.org/fedora-epel",
             "name": "mirrors.kernel.org",
             "description": "",
@@ -219,20 +198,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://epel.uni-sofia.bg",
-            "name": "Sofia University St. Kliment Ohridski",
-            "description": "",
-            "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://epel.uni-sofia.bg/EPEL",
-            "name": "Sofia University St. Kliment Ohridski",
-            "description": "",
-            "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://fedora.ipacct.com/epel",
             "name": "IPACCT",
             "description": "",
@@ -328,27 +293,6 @@
             "name": "mirror.telepoint.bg",
             "description": "",
             "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.uepg.br/fedora-epel",
-            "name": "Universidade Estadual de Ponta Grossa",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.uepg.br/fedora-epel",
-            "name": "Universidade Estadual de Ponta Grossa",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.uepg.br/fedora-epel",
-            "name": "Universidade Estadual de Ponta Grossa",
-            "description": "",
-            "country-code": "BR",
             "role": "official-mirror"
         },
         {
@@ -570,6 +514,13 @@
         },
         {
             "url": "http://mirror.hnd.cl/epel",
+            "name": "Hostednode SpA",
+            "description": "",
+            "country-code": "CL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.hnd.cl/epel",
             "name": "Hostednode SpA",
             "description": "",
             "country-code": "CL",
@@ -2459,6 +2410,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://fastmirror.pp.ua/fedora/epel",
+            "name": "fastmirror",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fastmirror.pp.ua/fedora/epel",
+            "name": "fastmirror",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fastmirror.pp.ua/fedora/epel",
+            "name": "fastmirror",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.lanet.network/epel",
             "name": "Lanet Network LTD",
             "description": "",
@@ -3384,6 +3356,27 @@
         },
         {
             "url": "rsync://ohioix.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://opencolo.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://opencolo.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://opencolo.mm.fcix.net/fedora-epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
