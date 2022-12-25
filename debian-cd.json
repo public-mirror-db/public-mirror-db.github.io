@@ -191,13 +191,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.uni-stuttgart.de/debian-cd/",
-            "name": "ftp.uni-stuttgart.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.daniel-jost.net/debian-cd/",
             "name": "mirror.daniel-jost.net",
             "description": "",
@@ -359,13 +352,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://kartolo.sby.datautama.net.id/debian-cd/",
-            "name": "kartolo.sby.datautama.net.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://giano.com.dist.unige.it/debian-cd/",
             "name": "giano.com.dist.unige.it",
             "description": "",
@@ -459,13 +445,6 @@
         {
             "url": "http://debian.lagoon.nc/debian-cd/",
             "name": "debian.lagoon.nc",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.nautile.nc/debian-cd/",
-            "name": "debian.nautile.nc",
             "description": "",
             "country-code": "NC",
             "role": "official-mirror"
@@ -655,6 +634,13 @@
         {
             "url": "http://mirror.steadfast.net/debian-cd/",
             "name": "mirror.steadfast.net",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.keystealth.org/debian-cd/",
+            "name": "mirror.keystealth.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

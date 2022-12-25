@@ -37,20 +37,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.hostart.az/AltArch/",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.hostart.az/AltArch/",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.bfsu.edu.cn/centos-altarch/",
             "name": "Beijing Foreign Studies University",
             "description": "",
@@ -67,27 +53,6 @@
         {
             "url": "rsync://mirrors.bfsu.edu.cn/centos-altarch/",
             "name": "Beijing Foreign Studies University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.nju.edu.cn/centos-altarch/",
-            "name": "eScience Center, Nanjing University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.nju.edu.cn/centos-altarch/",
-            "name": "eScience Center, Nanjing University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.nju.edu.cn/centos-altarch/",
-            "name": "eScience Center, Nanjing University",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -653,6 +618,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.nl.datapacket.com/centos-altarch/",
+            "name": "DataPacket",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://centos-altarch.mirror.liteserver.nl/",
             "name": "LiteServer",
             "description": "",
@@ -825,6 +797,20 @@
             "name": "POWERNET ISP",
             "description": "",
             "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.airenetworks.es/CentOS-AltArch/",
+            "name": "AireNetworks",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.airenetworks.es/CentOS-AltArch/",
+            "name": "AireNetworks",
+            "description": "",
+            "country-code": "ES",
             "role": "official-mirror"
         },
         {
@@ -1124,6 +1110,20 @@
         {
             "url": "rsync://mirror.usi.edu/centos-altarch",
             "name": "University of Southern Indiana",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.stjschools.org/centos-altarch/",
+            "name": "St. James R-1 School District",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.stjschools.org/centos-altarch/",
+            "name": "St. James R-1 School District",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

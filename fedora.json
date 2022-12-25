@@ -499,6 +499,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://edgeuno-bog2.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://edgeuno-bog2.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://edgeuno-bog2.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "CO",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.library.ucy.ac.cy/linux/fedora/linux",
             "name": "University of Cyprus, Library",
             "description": "",
@@ -1334,20 +1355,6 @@
         {
             "url": "rsync://mirror.serverion.com/fedora",
             "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.theory7.net/fedora/fedora",
-            "name": "Theory7.net",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.theory7.net/fedora/fedora",
-            "name": "Theory7.net",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -2596,6 +2603,27 @@
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://espejito.fder.edu.uy/fedora/fedora/linux",
+            "name": "espejito",
+            "description": "",
+            "country-code": "UY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://espejito.fder.edu.uy/fedora/fedora/linux",
+            "name": "espejito",
+            "description": "",
+            "country-code": "UY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://espejito.fder.edu.uy/fedora/fedora/linux",
+            "name": "espejito",
+            "description": "",
+            "country-code": "UY",
             "role": "official-mirror"
         }
     ]

@@ -7,7 +7,6 @@
             "description": "",
             "country-code": "AU",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -29,6 +28,7 @@
             "description": "",
             "country-code": "FR",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -115,7 +115,8 @@
             "description": "",
             "country-code": "IE",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -277,7 +278,7 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip"
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -423,7 +424,8 @@
             "description": "",
             "country-code": "IL",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -499,6 +501,7 @@
             "description": "",
             "country-code": "RU",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -698,7 +701,8 @@
             "description": "",
             "country-code": "GR",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -781,6 +785,7 @@
             "description": "",
             "country-code": "PT",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -802,6 +807,7 @@
             "description": "",
             "country-code": "PT",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -823,8 +829,7 @@
             "description": "",
             "country-code": "DK",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -886,7 +891,8 @@
             "description": "",
             "country-code": "JP",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -896,7 +902,6 @@
             "description": "",
             "country-code": "JP",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -962,7 +967,8 @@
             "description": "",
             "country-code": "BY",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1152,7 +1158,6 @@
             "description": "",
             "country-code": "UA",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -1174,8 +1179,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1196,6 +1200,7 @@
             "description": "",
             "country-code": "SE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -1217,8 +1222,7 @@
             "description": "",
             "country-code": "SE",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1239,6 +1243,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -1326,8 +1331,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1348,8 +1352,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1413,7 +1416,8 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1456,7 +1460,8 @@
             "description": "",
             "country-code": "CZ",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1509,8 +1514,7 @@
             "description": "",
             "country-code": "JP",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1520,8 +1524,7 @@
             "description": "",
             "country-code": "SK",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1564,7 +1567,6 @@
             "description": "",
             "country-code": "KZ",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -1597,6 +1599,7 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -1800,22 +1803,12 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip6"
             ],
             "role": "official-mirror"
         },
         {
             "url": "https://mirrors.neusoft.edu.cn/archlinux/",
-            "name": "mirrors.neusoft.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.neusoft.edu.cn/archlinux/",
             "name": "mirrors.neusoft.edu.cn",
             "description": "",
             "country-code": "CN",
@@ -1826,12 +1819,23 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://mirrors.neusoft.edu.cn/archlinux/",
+            "name": "mirrors.neusoft.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://www.mirrorservice.org/sites/ftp.archlinux.org/",
             "name": "www.mirrorservice.org",
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1841,7 +1845,8 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1851,7 +1856,8 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1872,6 +1878,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -1882,7 +1889,6 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -2348,7 +2354,6 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -2599,7 +2604,8 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -2642,6 +2648,7 @@
             "description": "",
             "country-code": "CZ",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -2769,7 +2776,8 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -2779,6 +2787,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3035,7 +3044,7 @@
             "description": "",
             "country-code": "FR",
             "address-families": [
-                "ip"
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3067,7 +3076,6 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3088,7 +3096,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -3108,7 +3116,8 @@
             "description": "",
             "country-code": "LV",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3118,7 +3127,7 @@
             "description": "",
             "country-code": "LV",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -3180,7 +3189,8 @@
             "description": "",
             "country-code": "BG",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3223,8 +3233,7 @@
             "description": "",
             "country-code": "FR",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -3372,7 +3381,6 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3383,6 +3391,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3404,7 +3413,8 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3513,7 +3523,8 @@
             "description": "",
             "country-code": "SE",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3710,7 +3721,6 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3721,6 +3731,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3753,7 +3764,6 @@
             "description": "",
             "country-code": "CH",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3819,7 +3829,6 @@
             "description": "",
             "country-code": "HK",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -3870,7 +3879,8 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3902,7 +3912,8 @@
             "description": "",
             "country-code": "SG",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3956,7 +3967,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -3966,7 +3977,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -3998,7 +4009,7 @@
             "description": "",
             "country-code": "FI",
             "address-families": [
-                "ip"
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4008,6 +4019,7 @@
             "description": "",
             "country-code": "FI",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4040,7 +4052,6 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4237,6 +4248,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4393,8 +4405,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -4458,7 +4469,7 @@
             "description": "",
             "country-code": "SE",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -4520,8 +4531,7 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -4562,6 +4572,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4727,8 +4738,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -4760,7 +4770,6 @@
             "description": "",
             "country-code": "HK",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4771,7 +4780,6 @@
             "description": "",
             "country-code": "HK",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4812,6 +4820,7 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4822,6 +4831,7 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -4843,7 +4853,8 @@
             "description": "",
             "country-code": "HK",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4897,7 +4908,8 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4929,7 +4941,8 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4949,8 +4962,7 @@
             "description": "",
             "country-code": "BR",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -4981,6 +4993,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -5013,8 +5026,7 @@
             "description": "",
             "country-code": "BD",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -5024,8 +5036,7 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -5046,6 +5057,7 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -5078,7 +5090,8 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -5150,8 +5163,7 @@
             "description": "",
             "country-code": "TR",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -5387,7 +5399,8 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -5576,8 +5589,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -5598,6 +5610,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -5956,7 +5969,8 @@
             "description": "",
             "country-code": "GB",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -6021,7 +6035,8 @@
             "description": "",
             "country-code": "KR",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -6083,8 +6098,7 @@
             "description": "",
             "country-code": "SG",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -6179,7 +6193,7 @@
             "description": "",
             "country-code": "PL",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -6199,6 +6213,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6524,7 +6539,6 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6704,7 +6718,6 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6726,7 +6739,6 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6797,8 +6809,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -6808,6 +6819,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7031,7 +7043,6 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7042,8 +7053,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -7053,6 +7063,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7063,7 +7074,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -7199,7 +7211,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -7231,7 +7244,8 @@
             "description": "",
             "country-code": "CL",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -7241,8 +7255,7 @@
             "description": "",
             "country-code": "CL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -7450,8 +7463,7 @@
             "description": "",
             "country-code": "ID",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -7607,8 +7619,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -7751,7 +7762,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -7761,7 +7773,6 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7824,6 +7835,7 @@
             "description": "",
             "country-code": "AU",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7884,7 +7896,8 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -8020,6 +8033,7 @@
             "description": "",
             "country-code": "EE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -8136,7 +8150,8 @@
             "description": "",
             "country-code": "IT",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -8521,8 +8536,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -8609,7 +8623,6 @@
             "description": "",
             "country-code": "NZ",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -8673,8 +8686,7 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -8684,7 +8696,8 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -8745,8 +8758,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -8756,7 +8768,6 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -8930,7 +8941,6 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -8994,8 +9004,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9005,8 +9014,7 @@
             "description": "",
             "country-code": "NL",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9112,6 +9120,7 @@
             "description": "",
             "country-code": "IR",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -9199,7 +9208,8 @@
             "description": "",
             "country-code": "NZ",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -9273,7 +9283,6 @@
             "description": "",
             "country-code": "FR",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -9284,6 +9293,7 @@
             "description": "",
             "country-code": "KR",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -9387,7 +9397,8 @@
             "description": "",
             "country-code": "FR",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -9427,6 +9438,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -9437,8 +9449,7 @@
             "description": "",
             "country-code": "DE",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9459,7 +9470,8 @@
             "description": "",
             "country-code": "PL",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -9771,7 +9783,8 @@
             "description": "",
             "country-code": "AU",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -9781,8 +9794,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9916,7 +9928,8 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -9958,8 +9971,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9980,8 +9992,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -10056,7 +10067,8 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -10088,8 +10100,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -10207,6 +10218,7 @@
             "description": "",
             "country-code": "KR",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -10298,7 +10310,7 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -10308,6 +10320,7 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -10329,7 +10342,7 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip"
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -10484,7 +10497,8 @@
             "description": "",
             "country-code": "UA",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -10557,8 +10571,7 @@
             "description": "",
             "country-code": "FI",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -10568,8 +10581,7 @@
             "description": "",
             "country-code": "FI",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -10661,8 +10673,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },

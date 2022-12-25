@@ -23,13 +23,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.koyanet.lv/debian-nonfree/",
-            "name": "debian.koyanet.lv",
-            "description": "",
-            "country-code": "LV",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.ocf.berkeley.edu/debian-nonfree/",
             "name": "mirrors.ocf.berkeley.edu",
             "description": "",
@@ -48,6 +41,13 @@
             "name": "hanzubon.jp",
             "description": "",
             "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.koyanet.lv/debian-nonfree/",
+            "name": "debian.koyanet.lv",
+            "description": "",
+            "country-code": "LV",
             "role": "official-mirror"
         }
     ]
