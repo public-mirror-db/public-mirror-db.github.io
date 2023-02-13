@@ -58,6 +58,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.nju.edu.cn/centos-altarch/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.nju.edu.cn/centos-altarch/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.nju.edu.cn/centos-altarch/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.huaweicloud.com/centos-altarch/",
             "name": "HUAWEI CLOUD",
             "description": "",
@@ -170,48 +191,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.papua.go.id/centos-altarch/",
-            "name": "Pemerintah Provinsi Papua",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.papua.go.id/centos-altarch/",
-            "name": "Pemerintah Provinsi Papua",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.papua.go.id/centos-altarch/",
-            "name": "Pemerintah Provinsi Papua",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.gi.co.id/centos-altarch/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.gi.co.id/centos-altarch/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.gi.co.id/centos-altarch/",
-            "name": "PT Global Intermedia Nusantara",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.repository.id/centos-altarch/",
             "name": "repository.id",
             "description": "",
@@ -307,20 +286,6 @@
             "name": "-",
             "description": "",
             "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bangmod.cloud/centos-altarch/",
-            "name": "Bangmod.Cloud",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.bangmod.cloud/centos-altarch/",
-            "name": "Bangmod.Cloud",
-            "description": "",
-            "country-code": "TH",
             "role": "official-mirror"
         },
         {
@@ -464,27 +429,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
-            "name": "University of Applied Sciences Esslingen 2",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
-            "name": "University of Applied Sciences Esslingen 2",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror1.hs-esslingen.de/centos-altarch/",
-            "name": "University of Applied Sciences Esslingen 2",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.xtom.de/centos-altarch/",
             "name": "xTom GmbH",
             "description": "",
@@ -550,20 +494,6 @@
         {
             "url": "https://centos.mirror.garr.it/centos-altarch/",
             "name": "GARR",
-            "description": "",
-            "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://centos-altarch.mirror.server24.net/",
-            "name": "Server24",
-            "description": "",
-            "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://centos-altarch.mirror.server24.net/",
-            "name": "Server24",
             "description": "",
             "country-code": "IT",
             "role": "official-mirror"
@@ -916,27 +846,6 @@
             "name": "Free Software Mirror Group",
             "description": "",
             "country-code": "NZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror1.cl.netactuate.com/centos-altarch/",
-            "name": "NetActuate",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror1.cl.netactuate.com/centos-altarch/",
-            "name": "NetActuate",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror1.cl.netactuate.com/centos-altarch/",
-            "name": "NetActuate",
-            "description": "",
-            "country-code": "CL",
             "role": "official-mirror"
         },
         {

@@ -100,6 +100,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ephort.dk/packagist",
+            "name": "ephort.dk",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://packagist.fi",
             "name": "packagist.fi",
             "description": "",

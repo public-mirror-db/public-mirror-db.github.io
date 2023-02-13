@@ -4,12 +4,5 @@
             "url": "https://github.com/archives"
         }
     ],
-    "mirrors": [
-        {
-            "url": "https://archive.fastgit.org",
-            "name": "FastGit",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        }
-    ]
+    "mirrors": []
 }
