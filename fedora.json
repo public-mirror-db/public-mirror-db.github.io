@@ -2,21 +2,21 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "http://mirror.alwyzon.net/fedora",
+            "url": "http://centos.mirror.alwyzon.net/fedora",
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.alwyzon.net/fedora",
+            "url": "https://centos.mirror.alwyzon.net/fedora",
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.alwyzon.net/fedora",
+            "url": "rsync://centos.mirror.alwyzon.net/fedora",
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
@@ -996,6 +996,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://creeperhost.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://creeperhost.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://creeperhost.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://lon.mirror.rackspace.com/fedora",
             "name": "Rackspace",
             "description": "",
@@ -1045,20 +1066,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.szerverem.hu/fedora/linux",
-            "name": "szerverem",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.szerverem.hu/fedora/linux",
-            "name": "szerverem",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://fedora.mirror.angkasa.id/fedora-enchilada/linux",
             "name": "mirror.angkasa.id",
             "description": "",
@@ -1101,20 +1108,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
             "description": "",
@@ -1131,6 +1124,20 @@
         {
             "url": "https://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
@@ -1357,20 +1364,6 @@
             "name": "Theory7.net",
             "description": "",
             "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.centos.no/fedora/fedora",
-            "name": "mirror.centos.no",
-            "description": "",
-            "country-code": "NO",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.centos.no/fedora/fedora",
-            "name": "mirror.centos.no",
-            "description": "",
-            "country-code": "NO",
             "role": "official-mirror"
         },
         {

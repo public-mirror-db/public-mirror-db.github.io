@@ -839,6 +839,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.vpsnet.com/debian/",
+            "name": "mirror.vpsnet.com",
+            "description": "",
+            "country-code": "LT",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://debian.mirror.vu.lt/debian/",
             "name": "debian.mirror.vu.lt",
             "description": "",

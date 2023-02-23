@@ -191,6 +191,48 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.papua.go.id/centos-altarch/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.papua.go.id/centos-altarch/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.papua.go.id/centos-altarch/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.gi.co.id/centos-altarch/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.gi.co.id/centos-altarch/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.gi.co.id/centos-altarch/",
+            "name": "PT Global Intermedia Nusantara",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.repository.id/centos-altarch/",
             "name": "repository.id",
             "description": "",
@@ -424,6 +466,27 @@
         {
             "url": "rsync://ftp.rz.uni-frankfurt.de/centos-altarch/",
             "name": "Goethe University Frankfurt, Computing Center",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
+            "name": "University of Applied Sciences Esslingen 2",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror1.hs-esslingen.de/pub/Mirrors/centos-altarch/",
+            "name": "University of Applied Sciences Esslingen 2",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror1.hs-esslingen.de/centos-altarch/",
+            "name": "University of Applied Sciences Esslingen 2",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"

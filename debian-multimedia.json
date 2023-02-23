@@ -9,22 +9,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.bfsu.edu.cn/debian-multimedia/",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
-            "name": "mirrors.tuna.tsinghua.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
             "name": "debian.c3sl.ufpr.br",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.br.debian.org/debian-multimedia/",
+            "name": "ftp.br.debian.org",
             "description": "",
             "country-code": "BR",
             "role": "official-mirror"
@@ -44,24 +37,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.br.debian.org/debian-multimedia/",
-            "name": "ftp.br.debian.org",
+            "url": "http://mirrors.bfsu.edu.cn/debian-multimedia/",
+            "name": "mirrors.bfsu.edu.cn",
             "description": "",
-            "country-code": "BR",
+            "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.obspm.fr/debian-multimedia/",
-            "name": "debian.obspm.fr",
+            "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
+            "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.dk.debian.org/debian-multimedia/",
-            "name": "ftp.dk.debian.org",
-            "description": "",
-            "country-code": "DK",
+            "country-code": "CN",
             "role": "official-mirror"
         },
         {
@@ -72,10 +58,38 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.dk.debian.org/debian-multimedia/",
+            "name": "ftp.dk.debian.org",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.obspm.fr/debian-multimedia/",
+            "name": "debian.obspm.fr",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.anigil.com/debian-multimedia/",
             "name": "mirror.anigil.com",
             "description": "",
             "country-code": "KP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.koyanet.lv/debian-multimedia/",
+            "name": "debian.koyanet.lv",
+            "description": "",
+            "country-code": "LV",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lagoon.nc/debian-multimedia/",
+            "name": "mirror.lagoon.nc",
+            "description": "",
+            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -93,24 +107,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
-            "name": "mirror.truenetwork.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.up.pt/debian-multimedia/",
             "name": "mirrors.up.pt",
             "description": "",
             "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lagoon.nc/debian-multimedia/",
-            "name": "mirror.lagoon.nc",
-            "description": "",
-            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -121,15 +121,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.accretive-networks.net/debian-multimedia/",
-            "name": "mirrors.accretive-networks.net",
+            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
+            "name": "mirror.truenetwork.ru",
             "description": "",
-            "country-code": "US",
+            "country-code": "RU",
             "role": "official-mirror"
         },
         {
             "url": "http://ftp.ru.debian.org/debian-multimedia/",
             "name": "ftp.ru.debian.org",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.mephi.ru/debian-multimedia/",
+            "name": "mirror.mephi.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
@@ -142,17 +149,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.mephi.ru/debian-multimedia/",
-            "name": "mirror.mephi.ru",
+            "url": "http://mirrors.accretive-networks.net/debian-multimedia/",
+            "name": "mirrors.accretive-networks.net",
             "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://hanzubon.jp/debian-multimedia/",
-            "name": "hanzubon.jp",
-            "description": "",
-            "country-code": "JP",
+            "country-code": "US",
             "role": "official-mirror"
         },
         {
@@ -163,10 +163,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.koyanet.lv/debian-multimedia/",
-            "name": "debian.koyanet.lv",
+            "url": "http://hanzubon.jp/debian-multimedia/",
+            "name": "hanzubon.jp",
             "description": "",
-            "country-code": "LV",
+            "country-code": "JP",
             "role": "official-mirror"
         }
     ]

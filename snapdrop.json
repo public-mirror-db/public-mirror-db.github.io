@@ -1,0 +1,49 @@
+{
+    "sources": [
+        {
+            "url": "https://snapdrop.net/"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://pairdrop.net/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://snapdrop.k26.ch/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://snapdrop.9pfs.repl.co/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://filedrop.codext.de/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://s.hoothin.com/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://www.wulingate.com/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://snapdrop.fairysoft.net/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://airtransferer.web.app/",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://drop.wuyuan.dev",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://share.jck.cx",
+            "role": "wild-mirror"
+        }
+    ]
+}

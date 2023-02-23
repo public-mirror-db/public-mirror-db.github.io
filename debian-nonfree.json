@@ -16,6 +16,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://debian.koyanet.lv/debian-nonfree/",
+            "name": "debian.koyanet.lv",
+            "description": "",
+            "country-code": "LV",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.sg.gs/debian-nonfree/",
             "name": "mirror.sg.gs",
             "description": "",
@@ -27,13 +34,6 @@
             "name": "hanzubon.jp",
             "description": "",
             "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.koyanet.lv/debian-nonfree/",
-            "name": "debian.koyanet.lv",
-            "description": "",
-            "country-code": "LV",
             "role": "official-mirror"
         }
     ]

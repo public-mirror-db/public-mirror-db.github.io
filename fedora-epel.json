@@ -44,21 +44,21 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.alwyzon.net/epel",
+            "url": "http://centos.mirror.alwyzon.net/epel",
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.alwyzon.net/epel",
+            "url": "https://centos.mirror.alwyzon.net/epel",
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.alwyzon.net/epel",
+            "url": "rsync://centos.mirror.alwyzon.net/epel",
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
@@ -1129,6 +1129,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://creeperhost.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://creeperhost.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://creeperhost.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://lon.mirror.rackspace.com/epel",
             "name": "Rackspace",
             "description": "",
@@ -1306,20 +1327,6 @@
         {
             "url": "https://mirror.niif.hu/epel",
             "name": "Governmental Agency for IT Development, Hungary",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.szerverem.hu/epel",
-            "name": "szerverem",
-            "description": "",
-            "country-code": "HU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.szerverem.hu/epel",
-            "name": "szerverem",
             "description": "",
             "country-code": "HU",
             "role": "official-mirror"
@@ -2944,20 +2951,6 @@
         {
             "url": "rsync://mirror.genesisadaptive.com/epel",
             "name": "Adaptive Data Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lshiy.com/epel",
-            "name": "LSHIY LLC",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.lshiy.com/epel",
-            "name": "LSHIY LLC",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
