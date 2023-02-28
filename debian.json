@@ -237,6 +237,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://debian.redlibre.cl/debian/",
+            "name": "debian.redlibre.cl",
+            "description": "",
+            "country-code": "CL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.ufro.cl/debian/",
             "name": "mirror.ufro.cl",
             "description": "",
@@ -358,6 +365,13 @@
         {
             "url": "http://debian.inf.tu-dresden.de/debian/",
             "name": "debian.inf.tu-dresden.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.uni-kl.de/debian/",
+            "name": "ftp.uni-kl.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -596,13 +610,6 @@
         {
             "url": "http://ftp.ticklers.org/debian/",
             "name": "ftp.ticklers.org",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.bytemark.co.uk/debian/",
-            "name": "mirror.bytemark.co.uk",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -878,6 +885,13 @@
             "name": "debian.koyanet.lv",
             "description": "",
             "country-code": "LV",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.qontinuum.space/debian/",
+            "name": "debian.qontinuum.space",
+            "description": "",
+            "country-code": "MC",
             "role": "official-mirror"
         },
         {

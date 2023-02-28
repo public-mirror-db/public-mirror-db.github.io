@@ -268,6 +268,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.alwyzon.net/ubuntu/",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.alwyzon.net/ubuntu/",
+            "name": "Alwyzon",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ubuntu.anexia.at/ubuntu/",
             "name": "ANEXIA Internetdienstleistungs GmbH",
             "description": "",
@@ -375,20 +389,6 @@
         {
             "url": "http://mirror.datacenter.az/ubuntu/",
             "name": "Delta Telecom",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.hostart.az/Ubuntu/",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.hostart.az/Ubuntu/",
-            "name": "Hostart LLC",
             "description": "",
             "country-code": "AZ",
             "role": "official-mirror"
@@ -578,6 +578,27 @@
         {
             "url": "http://mirror.ufscar.br/ubuntu/",
             "name": "UFSCar - Federal University of Sao Carlos",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sft.if.usp.br/ubuntu/",
+            "name": "University of Sao Paulo",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://sft.if.usp.br/ubuntu/",
+            "name": "University of Sao Paulo",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://sft.if.usp.br:/ubuntu/",
+            "name": "University of Sao Paulo",
             "description": "",
             "country-code": "BR",
             "role": "official-mirror"
@@ -877,6 +898,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ubuntu.mirror.iweb.ca/",
+            "name": "iWeb Technologies Inc.",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ubuntu.mirror.iweb.ca/",
+            "name": "iWeb Technologies Inc.",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ubuntu.mirror.iweb.ca/ubuntu/",
+            "name": "iWeb Technologies Inc.",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://archive.ubuntu.mirror.rafal.ca/ubuntu/",
             "name": "Rafa\u0142 Rzeczkowski",
             "description": "",
@@ -1026,13 +1068,6 @@
         {
             "url": "ftp://gpl.savoirfairelinux.net/pub/mirrors/ubuntu/",
             "name": "Savoir-faire Linux",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.cedille.club/ubuntu/",
-            "name": "Club CEDILLE",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
@@ -1304,13 +1339,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.dlut.edu.cn/ubuntu/",
-            "name": "Dalian University of Technology",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.cn99.com/ubuntu/",
             "name": "CN99",
             "description": "",
@@ -1416,6 +1444,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.xjtu.edu.cn/ubuntu/",
+            "name": "Xi'an Jiaotong University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.xjtu.edu.cn/ubuntu/",
+            "name": "Xi'an Jiaotong University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.yun-idc.com/ubuntu/",
             "name": "Capital Online Data Service",
             "description": "",
@@ -1446,13 +1488,6 @@
         {
             "url": "http://mirrors.cqu.edu.cn/ubuntu/",
             "name": "Chongqing University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.dgut.edu.cn/ubuntu/",
-            "name": "Dongguan University of Technology GNU/Linux Association",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -3019,20 +3054,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror-hk.koddos.net/ubuntu/",
-            "name": "KoDDoS",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror-hk.koddos.net/ubuntu/",
-            "name": "KoDDoS",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.as.kamatera.com/ubuntu/",
             "name": "Kamatera Inc.",
             "description": "",
@@ -3187,6 +3208,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ubuntu-ports.mirror.net.in/",
+            "name": "Digital Dreams Consulting Pvt Ltd",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ubuntu-ports.mirror.net.in/",
+            "name": "Digital Dreams Consulting Pvt Ltd",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://in.mirror.coganng.com/ubuntu/",
             "name": "TI Mirrors India - Ubuntu",
             "description": "",
@@ -3327,6 +3362,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://linux.domainesia.com/ubuntu/ubuntu-archive/",
+            "name": "DomaiNesia",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://linux.domainesia.com/ubuntu/ubuntu-archive/",
+            "name": "DomaiNesia",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://linux.domainesia.com/ubuntu/ubuntu-archive/",
+            "name": "DomaiNesia",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.amscloud.co.id/ubuntu/",
             "name": "PT. Awan Media Semesta",
             "description": "",
@@ -3343,27 +3399,6 @@
         {
             "url": "rsync://mirror.amscloud.co.id/ubuntu/",
             "name": "PT. Awan Media Semesta",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.faizuladib.com/ubuntu/",
-            "name": "faizuladib.com",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.faizuladib.com/ubuntu/",
-            "name": "faizuladib.com",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.faizuladib.com/ubuntu/",
-            "name": "faizuladib.com",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -3532,6 +3567,27 @@
         {
             "url": "rsync://mirror.labkom.id/ubuntu/",
             "name": "Laboratorium Komputer ID",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.papua.go.id/ubuntu/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.papua.go.id/ubuntu/",
+            "name": "Pemerintah Provinsi Papua",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.papua.go.id/ubuntu/",
+            "name": "Pemerintah Provinsi Papua",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -5287,6 +5343,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ftp.ps.pl/pub/Linux/ubuntu/archive/",
+            "name": "West Pomeranian University of Technology",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.ps.pl/pub/Linux/ubuntu/archive/",
+            "name": "West Pomeranian University of Technology",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.ps.pl/pub/Linux/ubuntu/archive/",
+            "name": "West Pomeranian University of Technology",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.agh.edu.pl/ubuntu/",
             "name": "AGH University of Science and Technology",
             "description": "",
@@ -5805,7 +5882,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirrors.isu.net.sa/apt-mirror/",
+            "url": "rsync://mirrors.isu.net.sa/ubuntu/",
             "name": "Maeen Network",
             "description": "",
             "country-code": "SA",
@@ -6451,20 +6528,6 @@
         {
             "url": "rsync://mirror.solnet.ch/ubuntu/",
             "name": "BSE Software GmbH, SolNet",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ubuntu.ch.altushost.com/",
-            "name": "AltusHost B.V.",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu.ch.altushost.com/",
-            "name": "AltusHost B.V.",
             "description": "",
             "country-code": "CH",
             "role": "official-mirror"

@@ -9,10 +9,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
-            "name": "debian.c3sl.ufpr.br",
+            "url": "http://ftp.byfly.by/debian-multimedia/",
+            "name": "ftp.byfly.by",
             "description": "",
-            "country-code": "BR",
+            "country-code": "BY",
             "role": "official-mirror"
         },
         {
@@ -23,10 +23,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.byfly.by/debian-multimedia/",
-            "name": "ftp.byfly.by",
+            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
+            "name": "debian.c3sl.ufpr.br",
             "description": "",
-            "country-code": "BY",
+            "country-code": "BR",
             "role": "official-mirror"
         },
         {
@@ -48,6 +48,13 @@
             "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
             "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.uni-kl.de/debian-multimedia/",
+            "name": "ftp.uni-kl.de",
+            "description": "",
+            "country-code": "DE",
             "role": "official-mirror"
         },
         {
@@ -121,13 +128,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
-            "name": "mirror.truenetwork.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.ru.debian.org/debian-multimedia/",
             "name": "ftp.ru.debian.org",
             "description": "",
@@ -137,6 +137,13 @@
         {
             "url": "http://mirror.mephi.ru/debian-multimedia/",
             "name": "mirror.mephi.ru",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
+            "name": "mirror.truenetwork.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"

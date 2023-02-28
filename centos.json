@@ -3257,13 +3257,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://centos.hitme.net.pl/",
-            "name": "HitMe.net.pl",
-            "description": "",
-            "country-code": "PL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://centos1.hti.pl/",
             "name": "Horyzont Technologie Internetowe Sp. z o.o.",
             "description": "",
@@ -4981,20 +4974,6 @@
         {
             "url": "rsync://edgeuno-bog2.mm.fcix.net/centos/",
             "name": "Fremont Cabal Internet Exchange",
-            "description": "",
-            "country-code": "CO",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.unimagdalena.edu.co/centos/",
-            "name": "Universidad del Magdalena",
-            "description": "",
-            "country-code": "CO",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.unimagdalena.edu.co/centos/",
-            "name": "Universidad del Magdalena",
             "description": "",
             "country-code": "CO",
             "role": "official-mirror"

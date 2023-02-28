@@ -212,20 +212,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.hostart.az/Fedora_Epel",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.hostart.az/Fedora_Epel",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.yer.az/fedora-epel",
             "name": "YER Hosting",
             "description": "",
@@ -1150,6 +1136,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://epel.starbursthosting.co.uk",
+            "name": "Starburst Hosting",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://epel.starbursthosting.co.uk",
+            "name": "Starburst Hosting",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://lon.mirror.rackspace.com/epel",
             "name": "Rackspace",
             "description": "",
@@ -1367,50 +1367,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://linux.domainesia.com/fedora/fedora-epel",
-            "name": "Linux DomaiNesia",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://linux.domainesia.com/fedora/fedora-epel",
-            "name": "Linux DomaiNesia",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://linux.domainesia.com/fedora/fedora-epel",
-            "name": "Linux DomaiNesia",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.dimensi.cloud/epel",
             "name": "PT Media Sarana Data",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.nevacloud.com/fedora/fedora-epel",
-            "name": "Mirror Nevacloud",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.nevacloud.com/fedora/fedora-epel",
-            "name": "Mirror Nevacloud",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.nevacloud.com/fedora/fedora-epel",
-            "name": "Mirror Nevacloud",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -1952,20 +1910,6 @@
             "name": "wd6",
             "description": "",
             "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.centos.no/fedora/epel",
-            "name": "mirror.centos.no",
-            "description": "",
-            "country-code": "NO",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.centos.no/fedora/epel",
-            "name": "mirror.centos.no",
-            "description": "",
-            "country-code": "NO",
             "role": "official-mirror"
         },
         {
@@ -3147,20 +3091,6 @@
         {
             "url": "https://mirror.steadfastnet.com/epel",
             "name": "Steadfast Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.stjschools.org/fedora-epel",
-            "name": "mirror.stjschools.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.stjschools.org/fedora-epel",
-            "name": "mirror.stjschools.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

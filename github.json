@@ -4,12 +4,5 @@
             "url": "https://github.com"
         }
     ],
-    "mirrors": [
-        {
-            "url": "https://gitclone.com/github.com",
-            "name": "GitClone",
-            "country-code": "CN",
-            "role": "wild-mirror"
-        }
-    ]
+    "mirrors": []
 }
