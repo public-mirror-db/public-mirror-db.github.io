@@ -37,6 +37,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.hostart.az/centos-altarch/",
+            "name": "Hostart LLC",
+            "description": "",
+            "country-code": "AZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.hostart.az/centos-altarch/",
+            "name": "Hostart LLC",
+            "description": "",
+            "country-code": "AZ",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.bfsu.edu.cn/centos-altarch/",
             "name": "Beijing Foreign Studies University",
             "description": "",
@@ -153,6 +167,34 @@
             "name": "xTom",
             "description": "",
             "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://centos.mirror.net.in/centos-altarch/",
+            "name": "Digital Dreams Consulting Pvt Ltd",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://centos.mirror.net.in/centos-altarch/",
+            "name": "Digital Dreams Consulting Pvt Ltd",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://centos-altarch.excellmedia.net/",
+            "name": "Excell Media",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://centos-altarch.excellmedia.net/",
+            "name": "Excell Media",
+            "description": "",
+            "country-code": "IN",
             "role": "official-mirror"
         },
         {
@@ -307,34 +349,6 @@
             "name": "LLP Kompaniya Hoster.KZ",
             "description": "",
             "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.aktkn.sg/centos-altarch/",
-            "name": "-",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.esecuredata.com/centos-altarch/",
-            "name": "eSecureData Inc.",
-            "description": "",
-            "country-code": "CA",
             "role": "official-mirror"
         },
         {
@@ -737,27 +751,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.truenetwork.ru/centos-altarch/",
-            "name": "Truenetwork",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.truenetwork.ru/centos-altarch/",
-            "name": "Truenetwork",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.truenetwork.ru/centos-altarch/",
-            "name": "Truenetwork",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.surf/centos-altarch/",
             "name": "Dmitry Shishkin",
             "description": "",
@@ -790,20 +783,6 @@
             "name": "POWERNET ISP",
             "description": "",
             "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.airenetworks.es/CentOS-AltArch/",
-            "name": "AireNetworks",
-            "description": "",
-            "country-code": "ES",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.airenetworks.es/CentOS-AltArch/",
-            "name": "AireNetworks",
-            "description": "",
-            "country-code": "ES",
             "role": "official-mirror"
         },
         {
@@ -1066,41 +1045,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.usi.edu/pub/centos-altarch",
-            "name": "University of Southern Indiana",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.usi.edu/pub/centos-altarch",
-            "name": "University of Southern Indiana",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.usi.edu/centos-altarch",
-            "name": "University of Southern Indiana",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.stjschools.org/centos-altarch/",
-            "name": "St. James R-1 School District",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.stjschools.org/centos-altarch/",
-            "name": "St. James R-1 School District",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.math.princeton.edu/pub/centos-altarch/",
             "name": "Princeton University Department of Mathematics",
             "description": "",
@@ -1145,13 +1089,6 @@
         {
             "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
             "name": "TeraSwitch Networks Inc.",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://repos.eggycrew.com/centos-altarch/",
-            "name": "eggycrew",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

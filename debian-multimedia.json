@@ -9,8 +9,29 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.bfsu.edu.cn/debian-multimedia/",
+            "name": "mirrors.bfsu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
+            "name": "mirrors.tuna.tsinghua.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.byfly.by/debian-multimedia/",
             "name": "ftp.byfly.by",
+            "description": "",
+            "country-code": "BY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.by.debian.org/debian-multimedia/",
+            "name": "ftp.by.debian.org",
             "description": "",
             "country-code": "BY",
             "role": "official-mirror"
@@ -23,31 +44,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
-            "name": "debian.c3sl.ufpr.br",
+            "url": "http://mirrors.ucr.ac.cr/debian-multimedia/",
+            "name": "mirrors.ucr.ac.cr",
             "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.by.debian.org/debian-multimedia/",
-            "name": "ftp.by.debian.org",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bfsu.edu.cn/debian-multimedia/",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
-            "name": "mirrors.tuna.tsinghua.edu.cn",
-            "description": "",
-            "country-code": "CN",
+            "country-code": "CR",
             "role": "official-mirror"
         },
         {
@@ -86,52 +86,31 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.koyanet.lv/debian-multimedia/",
-            "name": "debian.koyanet.lv",
+            "url": "http://ftp.kaist.ac.kr/debian-multimedia/",
+            "name": "ftp.kaist.ac.kr",
             "description": "",
-            "country-code": "LV",
+            "country-code": "KP",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.lagoon.nc/debian-multimedia/",
-            "name": "mirror.lagoon.nc",
+            "url": "http://ftp.kr.debian.org/debian-multimedia/",
+            "name": "ftp.kr.debian.org",
             "description": "",
-            "country-code": "NC",
+            "country-code": "KP",
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.nc.debian.org/debian-multimedia/",
-            "name": "ftp.nc.debian.org",
+            "url": "http://kebo.pens.ac.id/debian-multimedia/",
+            "name": "kebo.pens.ac.id",
             "description": "",
-            "country-code": "NC",
+            "country-code": "ID",
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.nautile.nc/debian-multimedia/",
-            "name": "debian.nautile.nc",
+            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
+            "name": "debian.c3sl.ufpr.br",
             "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.up.pt/debian-multimedia/",
-            "name": "mirrors.up.pt",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.uevora.pt/debian-multimedia/",
-            "name": "debian.uevora.pt",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.ru.debian.org/debian-multimedia/",
-            "name": "ftp.ru.debian.org",
-            "description": "",
-            "country-code": "RU",
+            "country-code": "BR",
             "role": "official-mirror"
         },
         {
@@ -149,10 +128,59 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.up.pt/debian-multimedia/",
+            "name": "mirrors.up.pt",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ustc.edu.cn/debian-multimedia/",
+            "name": "mirrors.ustc.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.ru.debian.org/debian-multimedia/",
+            "name": "ftp.ru.debian.org",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://debian.lth.se/debian-multimedia/",
             "name": "debian.lth.se",
             "description": "",
             "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.tw.debian.org/debian-multimedia/",
+            "name": "ftp.tw.debian.org",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.bjtu.edu.cn/debian-multimedia/",
+            "name": "mirror.bjtu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://opensource.nchc.org.tw/debian-multimedia/",
+            "name": "opensource.nchc.org.tw",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.volia.net/debian-multimedia/",
+            "name": "debian.volia.net",
+            "description": "",
+            "country-code": "UA",
             "role": "official-mirror"
         },
         {
@@ -163,17 +191,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.cn.debian.org/debian-multimedia/",
-            "name": "ftp.cn.debian.org",
+            "url": "http://debian.mirror.garr.it/debian-multimedia/",
+            "name": "debian.mirror.garr.it",
             "description": "",
-            "country-code": "CN",
+            "country-code": "IT",
             "role": "official-mirror"
         },
         {
-            "url": "http://hanzubon.jp/debian-multimedia/",
-            "name": "hanzubon.jp",
+            "url": "http://debian.koyanet.lv/debian-multimedia/",
+            "name": "debian.koyanet.lv",
             "description": "",
-            "country-code": "JP",
+            "country-code": "LV",
             "role": "official-mirror"
         }
     ]

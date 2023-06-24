@@ -177,8 +177,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo.mirrors.tds.net/gentoo",
-            "name": "TDS Internet Services",
+            "url": "http://gentoo-mirror.flux.utah.edu/",
+            "name": "University of Utah (Flux Group)",
             "description": "",
             "country-code": "US",
             "address-families": [
@@ -187,8 +187,28 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo-mirror.flux.utah.edu/",
-            "name": "University of Utah (Flux Group)",
+            "url": "https://mirrors.mit.edu/gentoo-distfiles/",
+            "name": "Massachusetts Institute of Technology",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.mit.edu/gentoo-distfiles/",
+            "name": "Massachusetts Institute of Technology",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.mit.edu/gentoo-distfiles/",
+            "name": "Massachusetts Institute of Technology",
             "description": "",
             "country-code": "US",
             "address-families": [
@@ -241,16 +261,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo.mirrors.pair.com/",
-            "name": "Pair Networks",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
@@ -271,16 +281,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://mirror.rackspace.com/gentoo/",
-            "name": "Rackspace Technology",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
@@ -291,8 +291,61 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.clarkson.edu/gentoo/",
+            "name": "Clarkson University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.clarkson.edu/gentoo/",
+            "name": "Clarkson University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.clarkson.edu/gentoo/",
+            "name": "Clarkson University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo.ialab.dsu.edu/gentoo/",
+            "name": "Dakota State University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://repo.ialab.dsu.edu/gentoo/",
+            "name": "Dakota State University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://gentoo.c3sl.ufpr.br/",
-            "name": "C3SL, Federal University of Paran\u00c3\u00a1",
+            "name": "C3SL, Federal University of Paran\u00e1",
             "description": "",
             "country-code": "BR",
             "address-families": [
@@ -303,7 +356,7 @@
         },
         {
             "url": "http://gentoo.c3sl.ufpr.br/",
-            "name": "C3SL, Federal University of Paran\u00c3\u00a1",
+            "name": "C3SL, Federal University of Paran\u00e1",
             "description": "",
             "country-code": "BR",
             "address-families": [
@@ -314,42 +367,12 @@
         },
         {
             "url": "rsync://gentoo.c3sl.ufpr.br/gentoo/",
-            "name": "C3SL, Federal University of Paran\u00c3\u00a1",
+            "name": "C3SL, Federal University of Paran\u00e1",
             "description": "",
             "country-code": "BR",
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ufro.cl/gentoo/",
-            "name": "Universidad de La Frontera",
-            "description": "",
-            "country-code": "CL",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ufro.cl/gentoo/",
-            "name": "Universidad de La Frontera",
-            "description": "",
-            "country-code": "CL",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://gentoo.ufro.cl/gentoo/",
-            "name": "Universidad de La Frontera",
-            "description": "",
-            "country-code": "CL",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -475,30 +498,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.dkm.cz/gentoo/",
-            "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
-            "description": "",
-            "country-code": "CZ",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.dkm.cz/gentoo/",
-            "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
-            "description": "",
-            "country-code": "CZ",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.dkm.cz/gentoo/",
-            "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
+            "name": "UPC \u010cesk\u00e1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
             "address-families": [
@@ -509,7 +510,7 @@
         },
         {
             "url": "rsync://mirror.dkm.cz/gentoo/",
-            "name": "UPC \u00c4\u008cesk\u00c3\u00a1 republika, a.s.",
+            "name": "UPC \u010cesk\u00e1 republika, a.s.",
             "description": "",
             "country-code": "CZ",
             "address-families": [
@@ -662,26 +663,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo.modulix.net/gentoo/",
-            "name": "modulix.net",
-            "description": "",
-            "country-code": "FR",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.orchid-linux.org/",
-            "name": "Orchid Linux",
-            "description": "",
-            "country-code": "FR",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.leaseweb.com/gentoo/",
             "name": "LeaseWeb (Anycast: Frankfurt)",
             "description": "",
@@ -716,7 +697,7 @@
         },
         {
             "url": "https://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
-            "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
+            "name": "Ruhr-Universit\u00e4t Bochum",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -727,7 +708,7 @@
         },
         {
             "url": "http://linux.rz.ruhr-uni-bochum.de/download/gentoo-mirror/",
-            "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
+            "name": "Ruhr-Universit\u00e4t Bochum",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -738,7 +719,7 @@
         },
         {
             "url": "ftp://linux.rz.ruhr-uni-bochum.de/gentoo-mirror/",
-            "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
+            "name": "Ruhr-Universit\u00e4t Bochum",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -749,7 +730,7 @@
         },
         {
             "url": "rsync://linux.rz.ruhr-uni-bochum.de/gentoo",
-            "name": "Ruhr-Universit\u00c3\u00a4t Bochum",
+            "name": "Ruhr-Universit\u00e4t Bochum",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -760,7 +741,7 @@
         },
         {
             "url": "https://ftp.fau.de/gentoo",
-            "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
+            "name": "Uni Erlangen-N\u00fcrnberg",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -771,7 +752,7 @@
         },
         {
             "url": "http://ftp.fau.de/gentoo",
-            "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
+            "name": "Uni Erlangen-N\u00fcrnberg",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -782,7 +763,7 @@
         },
         {
             "url": "ftp://ftp.fau.de/gentoo",
-            "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
+            "name": "Uni Erlangen-N\u00fcrnberg",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -793,7 +774,7 @@
         },
         {
             "url": "rsync://ftp.fau.de/gentoo",
-            "name": "Uni Erlangen-N\u00c3\u00bcrnberg",
+            "name": "Uni Erlangen-N\u00fcrnberg",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -999,7 +980,7 @@
         },
         {
             "url": "https://ftp.gwdg.de/pub/linux/gentoo/",
-            "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
+            "name": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung G\u00f6ttingen",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1010,7 +991,7 @@
         },
         {
             "url": "http://ftp.gwdg.de/pub/linux/gentoo/",
-            "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
+            "name": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung G\u00f6ttingen",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1021,7 +1002,7 @@
         },
         {
             "url": "ftp://ftp.gwdg.de/pub/linux/gentoo/",
-            "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
+            "name": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung G\u00f6ttingen",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1032,7 +1013,7 @@
         },
         {
             "url": "rsync://ftp.gwdg.de/gentoo/",
-            "name": "Gesellschaft f\u00c3\u00bcr wissenschaftliche Datenverarbeitung G\u00c3\u00b6ttingen",
+            "name": "Gesellschaft f\u00fcr wissenschaftliche Datenverarbeitung G\u00f6ttingen",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1064,17 +1045,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://ftp.tu-ilmenau.de/mirror/gentoo/",
-            "name": "TU Ilmenau",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://ftp.tu-ilmenau.de/gentoo/",
             "name": "TU Ilmenau",
             "description": "",
@@ -1087,7 +1057,7 @@
         },
         {
             "url": "https://ftp.uni-hannover.de/gentoo/",
-            "name": "Leibniz Universit\u00c3\u00a4t Hannover",
+            "name": "Leibniz Universit\u00e4t Hannover",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1097,7 +1067,7 @@
         },
         {
             "url": "http://ftp.uni-hannover.de/gentoo/",
-            "name": "Leibniz Universit\u00c3\u00a4t Hannover",
+            "name": "Leibniz Universit\u00e4t Hannover",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1107,7 +1077,7 @@
         },
         {
             "url": "ftp://ftp.uni-hannover.de/gentoo/",
-            "name": "Leibniz Universit\u00c3\u00a4t Hannover",
+            "name": "Leibniz Universit\u00e4t Hannover",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1138,8 +1108,82 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://packages.hs-regensburg.de/gentoo-distfiles/",
-            "name": "Ostbayerische Technische Hochschule Regensburg",
+            "url": "https://ftp.uni-stuttgart.de/gentoo-distfiles/",
+            "name": "Universit\u00e4t Stuttgart",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.uni-stuttgart.de/gentoo-distfiles/",
+            "name": "Universit\u00e4t Stuttgart",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.uni-stuttgart.de/gentoo-distfiles/",
+            "name": "Universit\u00e4t Stuttgart",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/",
+            "name": "Freie Universit\u00e4t Berlin - Spline",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/",
+            "name": "Freie Universit\u00e4t Berlin - Spline",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.spline.inf.fu-berlin.de/gentoo-distfiles/",
+            "name": "Freie Universit\u00e4t Berlin - Spline",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.netzwerge.de/gentoo/",
+            "name": "Netzwerge GmbH",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.netzwerge.de/gentoo/",
+            "name": "Netzwerge GmbH",
             "description": "",
             "country-code": "DE",
             "address-families": [
@@ -1167,6 +1211,46 @@
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.fsn.hu/mirrors/gentoo/",
+            "name": "Free Software Network Hungary",
+            "description": "",
+            "country-code": "HU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.fsn.hu/mirrors/gentoo/",
+            "name": "Free Software Network Hungary",
+            "description": "",
+            "country-code": "HU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.fsn.hu/mirrors/gentoo/",
+            "name": "Free Software Network Hungary",
+            "description": "",
+            "country-code": "HU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.fsn.hu/linux/gentoo/",
+            "name": "Free Software Network Hungary",
+            "description": "",
+            "country-code": "HU",
+            "address-families": [
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1204,10 +1288,21 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://mirror.root.lu/gentoo/",
-            "name": "root S.A.",
+            "url": "http://mirror.as43289.net/gentoo",
+            "name": "Trabia Network",
             "description": "",
-            "country-code": "LU",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.as43289.net/gentoo",
+            "name": "Trabia Network",
+            "description": "",
+            "country-code": "MD",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1326,7 +1421,7 @@
         },
         {
             "url": "https://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-            "name": "RNL - T\u00c3\u00a9cnico Lisboa",
+            "name": "RNL - T\u00e9cnico Lisboa",
             "description": "",
             "country-code": "PT",
             "address-families": [
@@ -1337,7 +1432,7 @@
         },
         {
             "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-            "name": "RNL - T\u00c3\u00a9cnico Lisboa",
+            "name": "RNL - T\u00e9cnico Lisboa",
             "description": "",
             "country-code": "PT",
             "address-families": [
@@ -1348,7 +1443,7 @@
         },
         {
             "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-            "name": "RNL - T\u00c3\u00a9cnico Lisboa",
+            "name": "RNL - T\u00e9cnico Lisboa",
             "description": "",
             "country-code": "PT",
             "address-families": [
@@ -1359,22 +1454,12 @@
         },
         {
             "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/gentoo/gentoo-distfiles/",
-            "name": "RNL - T\u00c3\u00a9cnico Lisboa",
+            "name": "RNL - T\u00e9cnico Lisboa",
             "description": "",
             "country-code": "PT",
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.dei.uc.pt/pub/linux/gentoo/",
-            "name": "University of Coimbra",
-            "description": "",
-            "country-code": "PT",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1389,20 +1474,54 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xservers.ro/gentoo/",
-            "name": "xservers.ro Gazduire Web",
-            "description": "",
-            "country-code": "RO",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.romnet.org/gentoo/",
             "name": "Romanian Organization Network",
             "description": "",
             "country-code": "RO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.lysator.liu.se/gentoo/",
+            "name": "Link\u00f6ping University - Lysator",
+            "description": "",
+            "country-code": "SE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.lysator.liu.se/gentoo/",
+            "name": "Link\u00f6ping University - Lysator",
+            "description": "",
+            "country-code": "SE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.lysator.liu.se/gentoo/",
+            "name": "Link\u00f6ping University - Lysator",
+            "description": "",
+            "country-code": "SE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.lysator.liu.se/gentoo/",
+            "name": "Link\u00f6ping University - Lysator",
+            "description": "",
+            "country-code": "SE",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1472,17 +1591,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://mirror.bytemark.co.uk/gentoo/",
-            "name": "Bytemark Hosting",
-            "description": "",
-            "country-code": "GB",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.bytemark.co.uk/gentoo/",
             "name": "Bytemark Hosting",
             "description": "",
@@ -1512,16 +1620,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirrors.gethosted.online/gentoo",
-            "name": "Get Hosted online",
-            "description": "",
-            "country-code": "GB",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1601,16 +1699,6 @@
         },
         {
             "url": "http://mirror.rackspace.com/gentoo/",
-            "name": "Rackspace Technology",
-            "description": "",
-            "country-code": "GB",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "GB",
@@ -2007,6 +2095,16 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ftp.kaist.ac.kr/pub/gentoo/",
+            "name": "KAIST",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "ftp://ftp.kaist.ac.kr/gentoo/",
             "name": "KAIST",
             "description": "",
@@ -2017,13 +2115,12 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.lanet.kr/pub/gentoo/",
-            "name": "lanet.kr",
+            "url": "rsync://ftp.kaist.ac.kr/gentoo/",
+            "name": "KAIST",
             "description": "",
             "country-code": "KR",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -2035,27 +2132,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.lanet.kr/pub/gentoo/",
-            "name": "lanet.kr",
-            "description": "",
-            "country-code": "KR",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.daum.net/gentoo/",
-            "name": "Daum Communications Corp",
-            "description": "",
-            "country-code": "KR",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -2115,8 +2191,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo.bloodhost.ru/",
-            "name": "Bloodhost.ru",
+            "url": "http://mirror.mephi.ru/gentoo-distfiles/",
+            "name": "National Research Nuclear University - MEPhI",
             "description": "",
             "country-code": "RU",
             "address-families": [
@@ -2125,8 +2201,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://gentoo.bloodhost.ru/",
-            "name": "Bloodhost.ru",
+            "url": "ftp://mirror.mephi.ru/gentoo-distfiles/",
+            "name": "National Research Nuclear University - MEPhI",
             "description": "",
             "country-code": "RU",
             "address-families": [
@@ -2135,40 +2211,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://gentoo.bloodhost.ru/gentoo-distfiles",
-            "name": "Bloodhost.ru",
+            "url": "rsync://mirror.mephi.ru/gentoo-distfiles/",
+            "name": "National Research Nuclear University - MEPhI",
             "description": "",
             "country-code": "RU",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://download.nus.edu.sg/mirror/gentoo/",
-            "name": "National University of Singapore",
-            "description": "",
-            "country-code": "SG",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download.nus.edu.sg/mirror/gentoo/",
-            "name": "National University of Singapore",
-            "description": "",
-            "country-code": "SG",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://download.nus.edu.sg/gentoo/",
-            "name": "National University of Singapore",
-            "description": "",
-            "country-code": "SG",
             "address-families": [
                 "ip"
             ],
@@ -2206,17 +2252,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.isoc.org.il/pub/gentoo/",
-            "name": "Hamakor FOSS Society",
-            "description": "",
-            "country-code": "IL",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.ps.kz/gentoo/pub",
             "name": "Neo Lab's",
             "description": "",
@@ -2239,17 +2274,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://mirror.ps.kz/gentoo/pub",
-            "name": "Neo Lab's",
-            "description": "",
-            "country-code": "KZ",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://mirror.ps.kz/gentoo",
             "name": "Neo Lab's",
             "description": "",
@@ -2257,56 +2281,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download.nust.na/pub/gentoo/",
-            "name": "Namibia University of Science and Technology",
-            "description": "",
-            "country-code": "NA",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.leg.uct.ac.za/pub/linux/gentoo/",
-            "name": "University of Cape Town",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.leg.uct.ac.za/pub/linux/gentoo/",
-            "name": "University of Cape Town",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftp.leg.uct.ac.za/pub/linux/gentoo/",
-            "name": "University of Cape Town",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.leg.uct.ac.za/pub/linux/gentoo/",
-            "name": "University of Cape Town",
-            "description": "",
-            "country-code": "ZA",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },

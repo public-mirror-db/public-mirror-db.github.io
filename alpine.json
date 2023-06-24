@@ -76,15 +76,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.fit.cvut.cz/alpine/",
-            "name": "FIT CTU in Prague",
+            "url": "https://mirror.fel.cvut.cz/alpine/",
+            "name": "FEE CTU in Prague",
             "description": "",
             "country-code": "CZ",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.fit.cvut.cz/alpine/",
-            "name": "FIT CTU in Prague",
+            "url": "http://mirror.fel.cvut.cz/alpine/",
+            "name": "FEE CTU in Prague",
             "description": "",
             "country-code": "CZ",
             "role": "official-mirror"
@@ -832,14 +832,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.bardia.tech",
-            "name": "Bardia",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.bardia.tech",
+            "url": "https://mirror.bardia.tech/alpine/",
             "name": "Bardia",
             "description": "",
             "country-code": "IR",
@@ -1154,49 +1147,21 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://alpinelinux.qontinuum.space/alpine",
+            "url": "http://mirrors.qontinuum.space/alpinelinux",
             "name": "Q Continuum",
             "description": "",
             "country-code": "MC",
             "role": "official-mirror"
         },
         {
-            "url": "https://alpinelinux.qontinuum.space/alpine",
+            "url": "https://mirrors.qontinuum.space/alpinelinux",
             "name": "Q Continuum",
             "description": "",
             "country-code": "MC",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://alpinelinux.qontinuum.space/alpine",
+            "url": "rsync://mirrors.qontinuum.space/alpinelinux",
             "name": "Q Continuum",
             "description": "",
             "country-code": "MC",
@@ -1228,6 +1193,97 @@
             "name": "Lysator ACS",
             "description": "",
             "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.zju.edu.cn/alpine/",
+            "name": "Zhejiang University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.zju.edu.cn/alpine/",
+            "name": "Zhejiang University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.mangohost.net/alpine/",
+            "name": "mangohost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.mangohost.net/alpine/",
+            "name": "mangohost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.mangohost.net/alpine/",
+            "name": "mangohost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.bahnhof.net/pub/alpinelinux/",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.bahnhof.net/pub/alpinelinux/",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.bahnhof.net/pub/alpinelinux/",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.bahnhof.net/alpinelinux/",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.vinehost.net/alpine/",
+            "name": "Vinehost",
+            "description": "",
+            "country-code": "UG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.vinehost.net/alpine/",
+            "name": "Vinehost",
+            "description": "",
+            "country-code": "UG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.vinehost.net/alpine/",
+            "name": "Vinehost",
+            "description": "",
+            "country-code": "UG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.vinehost.net/alpine/",
+            "name": "Vinehost",
+            "description": "",
+            "country-code": "UG",
             "role": "official-mirror"
         }
     ]

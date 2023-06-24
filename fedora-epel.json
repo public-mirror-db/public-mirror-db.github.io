@@ -2,27 +2,6 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "https://mirrors.eze.sysarmy.com/epel",
-            "name": "sysarmy",
-            "description": "",
-            "country-code": "AR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.eze.sysarmy.com/epel",
-            "name": "sysarmy",
-            "description": "",
-            "country-code": "AR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.eze.sysarmy.com/fedora-epel",
-            "name": "sysarmy",
-            "description": "",
-            "country-code": "AR",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://centos.anexia.at/epel",
             "name": "ANEXIA Internetdienstleistungs GmbH",
             "description": "",
@@ -74,6 +53,20 @@
         {
             "url": "https://ap.edge.kernel.org/fedora-epel",
             "name": "mirrors.kernel.org",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://epel.au.ssimn.org",
+            "name": "Starburst Services",
+            "description": "",
+            "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://epel.au.ssimn.org",
+            "name": "Starburst Services",
             "description": "",
             "country-code": "AU",
             "role": "official-mirror"
@@ -209,6 +202,20 @@
             "name": "Real World Group",
             "description": "",
             "country-code": "AU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.hostart.az/fedora-epel",
+            "name": "Hostart",
+            "description": "",
+            "country-code": "AZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.hostart.az/fedora-epel",
+            "name": "Hostart",
+            "description": "",
+            "country-code": "AZ",
             "role": "official-mirror"
         },
         {
@@ -368,13 +375,6 @@
         {
             "url": "rsync://fedora-epel.mirror.iweb.com/fedora-epel",
             "name": "iWeb inc.",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://fedora.westmancom.com/epel",
-            "name": "Westman Communications Group",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
@@ -583,6 +583,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.cqu.edu.cn/epel",
+            "name": "Chongqing university open source mirror site",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.cqu.edu.cn/epel",
+            "name": "Chongqing university open source mirror site",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.tuna.tsinghua.edu.cn/epel",
             "name": "TUNA",
             "description": "",
@@ -751,20 +765,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.uni-bayreuth.de/fedora-epel",
-            "name": "Uni Bayreuth",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.uni-bayreuth.de/linux/fedora-epel",
-            "name": "Uni Bayreuth",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.uni-stuttgart.de/epel",
             "name": "Fedora Mirror",
             "description": "",
@@ -774,6 +774,27 @@
         {
             "url": "rsync://ftp.uni-stuttgart.de/epel",
             "name": "Fedora Mirror",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://level66.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://level66.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://level66.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -989,20 +1010,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.ec/epel",
-            "name": "mirror.ec",
-            "description": "",
-            "country-code": "EC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ec/epel",
-            "name": "mirror.ec",
-            "description": "",
-            "country-code": "EC",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.cspacehostings.com/epel",
             "name": "CSpace Hostings",
             "description": "",
@@ -1115,6 +1122,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ask4.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ask4.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ask4.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://creeperhost.mm.fcix.net/epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -1136,15 +1164,36 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://epel.starbursthosting.co.uk",
-            "name": "Starburst Hosting",
+            "url": "https://divergentnetworks.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
         },
         {
-            "url": "https://epel.starbursthosting.co.uk",
-            "name": "Starburst Hosting",
+            "url": "http://divergentnetworks.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://divergentnetworks.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://epel.gb.ssimn.org",
+            "name": "Starburst Services",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://epel.gb.ssimn.org",
+            "name": "Starburst Services",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -1276,27 +1325,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://hkg.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://hkg.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://hkg.mirror.rackspace.com/epel",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "HK",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.01link.hk/epel",
             "name": "01Link Network Services Ltd",
             "description": "",
@@ -1332,20 +1360,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://epel.mirror.angkasa.id/fedora-epel",
-            "name": "mirror.angkasa.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://epel.mirror.angkasa.id/pub/epel",
-            "name": "mirror.angkasa.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://kartolo.sby.datautama.net.id/EPEL",
             "name": "DATAUTAMA-NET-ID",
             "description": "",
@@ -1367,8 +1381,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.dimensi.cloud/epel",
-            "name": "PT Media Sarana Data",
+            "url": "http://repo.ugm.ac.id/epel",
+            "name": "Repo UGM",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://repo.ugm.ac.id/all/epel",
+            "name": "Repo UGM",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -1390,6 +1411,13 @@
         {
             "url": "http://epel.excellmedia.net",
             "name": "EPEL @ Excell Media, India",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://epel.mirror.net.in/epel",
+            "name": "Fedora-DDCPL",
             "description": "",
             "country-code": "IN",
             "role": "official-mirror"
@@ -1462,6 +1490,27 @@
             "name": "Nyherji",
             "description": "",
             "country-code": "IS",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fedora.mirror.garr.it/epel",
+            "name": "Consortium GARR",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fedora.mirror.garr.it/epel",
+            "name": "Consortium GARR",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://it1.mirror.vhosting-it.com/epel",
+            "name": "VHosting Solution (IT1 - Milan)",
+            "description": "",
+            "country-code": "IT",
             "role": "official-mirror"
         },
         {
@@ -1549,22 +1598,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror-jp.misakamikoto.network/fedora-epel",
-            "name": "Misaka Mikoto Network",
+            "url": "https://mirror-hnd.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror-jp.misakamikoto.network/fedora-epel",
-            "name": "Misaka Mikoto Network",
+            "url": "http://mirror-hnd.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror-jp.misakamikoto.network/fedora-epel",
-            "name": "Misaka Mikoto Network",
+            "url": "rsync://rsync-hnd.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
@@ -1591,59 +1640,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.sabay.com.kh/epel",
-            "name": "Sabay",
-            "description": "",
-            "country-code": "KH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.sabay.com.kh/epel",
-            "name": "Sabay",
-            "description": "",
-            "country-code": "KH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror-kr.misakamikoto.network/fedora-epel",
-            "name": "Misaka Mikoto Network",
+            "url": "https://mirror-icn.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "KR",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror-kr.misakamikoto.network/fedora-epel",
-            "name": "Misaka Mikoto Network",
+            "url": "http://mirror-icn.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "KR",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror-kr.misakamikoto.network/fedora-epel",
-            "name": "Misaka Mikoto Network",
+            "url": "rsync://rsync-icn.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "KR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ps.kz/fedora-epel",
-            "name": "mirror.ps.kz",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ps.kz/epel",
-            "name": "mirror.ps.kz",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.ps.kz/epel",
-            "name": "mirror.ps.kz",
-            "description": "",
-            "country-code": "KZ",
             "role": "official-mirror"
         },
         {
@@ -1752,6 +1766,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.mangohost.net/fedora-epel",
+            "name": "MangoHost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.mangohost.net/fedora-epel",
+            "name": "MangoHost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.mangohost.net/fedora-epel",
+            "name": "MangoHost",
+            "description": "",
+            "country-code": "MD",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.mivocloud.com/epel",
             "name": "MivoCloud",
             "description": "",
@@ -1805,6 +1840,20 @@
             "name": "Makedonski Telekom",
             "description": "",
             "country-code": "mk",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fedora-mirror.cloud.mu/fedora/fedora-epel",
+            "name": "cloud.mu",
+            "description": "",
+            "country-code": "MU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fedora-mirror.cloud.mu/fedora/fedora-epel",
+            "name": "cloud.mu",
+            "description": "",
+            "country-code": "MU",
             "role": "official-mirror"
         },
         {
@@ -1910,6 +1959,41 @@
             "name": "wd6",
             "description": "",
             "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://cdn.centos.no/epel",
+            "name": "Centos.no",
+            "description": "",
+            "country-code": "NO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://cdn.centos.no/epel",
+            "name": "Centos.no",
+            "description": "",
+            "country-code": "NO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.centos.no/epel",
+            "name": "Centos.no",
+            "description": "",
+            "country-code": "NO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.centos.no/epel",
+            "name": "Centos.no",
+            "description": "",
+            "country-code": "NO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.centos.no/fedora-epel",
+            "name": "Centos.no",
+            "description": "",
+            "country-code": "NO",
             "role": "official-mirror"
         },
         {
@@ -2060,6 +2144,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://fedora-mirror02.rbc.ru/pub/epel",
+            "name": "fedora-mirror.rbc.ru",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fedora-mirror02.rbc.ru/fedora-epel",
+            "name": "fedora-mirror.rbc.ru",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.nsc.ru/pub/epel",
             "name": "FRC ICT",
             "description": "",
@@ -2179,6 +2277,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.bahnhof.net/pub/epel",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.bahnhof.net/pub/epel",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.bahnhof.net/epel",
+            "name": "Bahnhof",
+            "description": "",
+            "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.nsc.liu.se/fedora-epel",
             "name": "NSC",
             "description": "",
@@ -2204,27 +2323,6 @@
             "name": "GleSYS",
             "description": "",
             "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://download.nus.edu.sg/epel",
-            "name": "Download@NUS",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://download.nus.edu.sg/mirror/epel",
-            "name": "Download@NUS",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download.nus.edu.sg/mirror/epel",
-            "name": "Download@NUS",
-            "description": "",
-            "country-code": "SG",
             "role": "official-mirror"
         },
         {
@@ -2337,13 +2435,6 @@
             "name": "THZ Hosting",
             "description": "",
             "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://repo.boun.edu.tr/epel",
-            "name": "Bogazici University",
-            "description": "",
-            "country-code": "TR",
             "role": "official-mirror"
         },
         {
@@ -2466,6 +2557,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://bungi.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://bungi.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://bungi.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://codingflyboy.mm.fcix.net/fedora-epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -2503,48 +2615,6 @@
         {
             "url": "rsync://dfw.mirror.rackspace.com/epel",
             "name": "Rackspace",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://download-cc-rdu01.fedoraproject.org/pub/epel",
-            "name": "Red Hat",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://download-cc-rdu01.fedoraproject.org/fedora-epel",
-            "name": "Red Hat",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download-cc-rdu01.fedoraproject.org/pub/epel",
-            "name": "Red Hat",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://download-ib01.fedoraproject.org/pub/epel",
-            "name": "Red Hat",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://download-ib01.fedoraproject.org/fedora-epel",
-            "name": "Red Hat",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://download-ib01.fedoraproject.org/pub/epel",
-            "name": "Red Hat",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2732,6 +2802,62 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ix-denver.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ix-denver.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ix-denver.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://lolhost.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://lolhost.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://lolhost.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://epel.mcn.us.ssimn.org",
+            "name": "Starburst Services",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://epel.mcn.us.ssimn.org",
+            "name": "Starburst Services",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.arizona.edu/fedora-epel",
             "name": "University of Arizona",
             "description": "",
@@ -2748,34 +2874,6 @@
         {
             "url": "rsync://mirror.arizona.edu/fedora-epel",
             "name": "University of Arizona",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.atl.genesisadaptive.com/epel",
-            "name": "Adaptive Data Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.atl.genesisadaptive.com/epel",
-            "name": "Adaptive Data Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.atl.genesisadaptive.com/epel",
-            "name": "Adaptive Data Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.coastal.edu/epel",
-            "name": "Coastal Carolina University",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2886,20 +2984,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.genesisadaptive.com/epel",
-            "name": "Adaptive Data Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.genesisadaptive.com/epel",
-            "name": "Adaptive Data Networks",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.lstn.net/fedora-epel",
             "name": "Limestone Networks",
             "description": "",
@@ -2916,6 +3000,27 @@
         {
             "url": "rsync://mirror.lstn.net/fedora-epel",
             "name": "Limestone Networks",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror-mci.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror-mci.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://rsync-mci.yuki.net.uk/fedora-epel",
+            "name": "Yuki Network",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2949,6 +3054,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.servaxnet.com/epel",
+            "name": "ServaxNet, LLC.",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.servaxnet.com/epel",
+            "name": "ServaxNet, LLC.",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.sfo12.us.leaseweb.net/epel",
             "name": "LeaseWeb",
             "description": "",
@@ -2965,6 +3084,27 @@
         {
             "url": "http://mirror.siena.edu/epel",
             "name": "Siena College",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.iu13.net/epel",
+            "name": "Lancaster-Lebanon IU13",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.iu13.net/epel",
+            "name": "Lancaster-Lebanon IU13",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.iu13.net/epel",
+            "name": "Lancaster-Lebanon IU13",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -3152,6 +3292,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.team-cymru.com/epel",
+            "name": "https://mirror.team-cymru.com/centos-stream",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.team-cymru.com/epel",
             "name": "Team Cymru",
             "description": "",
@@ -3166,15 +3313,29 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.team-cymru.com/epel",
-            "name": "https://mirror.team-cymru.com/centos-stream",
+            "url": "http://mirror.tornadovps.com/pub/epel",
+            "name": "prgmr.com, Inc.",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.tornadovps.com/pub/epel",
-            "name": "prgmr.com, Inc.",
+            "url": "rsync://mirror.umd.edu/fedora/epel",
+            "name": "U. of Maryland",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.umd.edu/fedora/epel",
+            "name": "U. of Maryland",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.umd.edu/fedora/epel",
+            "name": "U. of Maryland",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -3244,6 +3405,48 @@
         },
         {
             "url": "rsync://nnenix.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://nocix.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://nocix.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://nocix.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://nullroute.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://nullroute.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://nullroute.mm.fcix.net/fedora-epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
@@ -3334,6 +3537,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://pubmirror1.math.uh.edu/fedora-epel",
+            "name": "UH Mathematics",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://pubmirror1.math.uh.edu/fedora-buffet/epel",
+            "name": "UH Mathematics",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pubmirror1.math.uh.edu/fedora-buffet/epel",
+            "name": "UH Mathematics",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://pubmirror2.math.uh.edu/fedora-buffet/epel",
             "name": "UH Mathematics",
             "description": "",
@@ -3398,6 +3622,13 @@
         },
         {
             "url": "rsync://repos.eggycrew.com/epel",
+            "name": "EggyCrew",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://repos.eggycrew.com/epel",
             "name": "EggyCrew",
             "description": "",
             "country-code": "US",
@@ -3482,6 +3713,27 @@
         },
         {
             "url": "rsync://veronanetworks.mm.fcix.net/fedora-epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://volico.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://volico.mm.fcix.net/epel",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://volico.mm.fcix.net/fedora-epel",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
