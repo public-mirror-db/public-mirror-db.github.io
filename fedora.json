@@ -65,20 +65,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ftp.swin.edu.au/fedora",
-            "name": "Fedora Mirror",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.swin.edu.au/fedora",
-            "name": "Fedora Mirror",
-            "description": "",
-            "country-code": "AU",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://gsl-syd.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -163,31 +149,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.hostart.az/fedora-linux/linux",
-            "name": "Hostart",
+            "url": "https://mirror.xeonbd.com/fedora/linux",
+            "name": "XeonBD",
             "description": "",
-            "country-code": "AZ",
+            "country-code": "BD",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.hostart.az/fedora-linux/linux",
-            "name": "Hostart",
+            "url": "http://mirror.xeonbd.com/fedora/linux",
+            "name": "XeonBD",
             "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.yer.az/fedora",
-            "name": "YER Hosting",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.yer.az/fedora",
-            "name": "YER Hosting",
-            "description": "",
-            "country-code": "AZ",
+            "country-code": "BD",
             "role": "official-mirror"
         },
         {
@@ -366,22 +338,43 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.csclub.uwaterloo.ca/fedora/linux",
-            "name": "Computer Science Club of the University of Waterloo",
+            "url": "https://mirror.0xem.ma/fedora",
+            "name": "0xEmma",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.csclub.uwaterloo.ca/fedora/linux",
-            "name": "Computer Science Club of the University of Waterloo",
+            "url": "http://mirror.0xem.ma/fedora",
+            "name": "0xEmma",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.csclub.uwaterloo.ca/fedora-enchilada/linux",
-            "name": "Computer Science Club of the University of Waterloo",
+            "url": "rsync://mirror.0xem.ma/fedora",
+            "name": "0xEmma",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.cpsc.ucalgary.ca/fedora/linux",
+            "name": "University of Calgary",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.cpsc.ucalgary.ca/mirror/fedora/linux",
+            "name": "University of Calgary",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.cpsc.ucalgary.ca/mirror/fedora/linux",
+            "name": "University of Calgary",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
@@ -429,24 +422,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://muug.ca/mirror/fedora/linux",
-            "name": "Manitoba Unix User Group",
+            "url": "https://ipng.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
-            "country-code": "CA",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://muug.ca/fedora",
-            "name": "Manitoba Unix User Group",
+            "url": "rsync://ipng.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
-            "country-code": "CA",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {
-            "url": "http://muug.ca/mirror/fedora/linux",
-            "name": "Manitoba Unix User Group",
+            "url": "http://ipng.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
-            "country-code": "CA",
+            "country-code": "CH",
             "role": "official-mirror"
         },
         {
@@ -485,15 +478,43 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.lzu.edu.cn/fedora",
-            "name": "Lanzhou University",
+            "url": "http://mirror.nju.edu.cn/fedora",
+            "name": "eScience Center, Nanjing University",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.lzu.edu.cn/fedora",
-            "name": "Lanzhou University",
+            "url": "https://mirror.nju.edu.cn/fedora",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.nju.edu.cn/fedora",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.nyist.edu.cn/fedora",
+            "name": "Nanyang Institute of Technology Open Source Mirror",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.nyist.edu.cn/fedora",
+            "name": "Nanyang Institute of Technology Open Source Mirror",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.nyist.edu.cn/fedora",
+            "name": "Nanyang Institute of Technology Open Source Mirror",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -522,20 +543,6 @@
         {
             "url": "http://mirrors.bfsu.edu.cn/fedora",
             "name": "Beijing Foreign Studies University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.cqu.edu.cn/fedora",
-            "name": "Chongqing university open source mirror site",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.cqu.edu.cn/fedora",
-            "name": "Chongqing university open source mirror site",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -604,6 +611,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.library.ucy.ac.cy/linux/fedora/linux",
+            "name": "University of Cyprus, Library",
+            "description": "",
+            "country-code": "CY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.library.ucy.ac.cy/fedora/linux",
+            "name": "University of Cyprus, Library",
+            "description": "",
+            "country-code": "CY",
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://ftp.fi.muni.cz/pub/linux/fedora/linux",
             "name": "Masaryk University, Brno",
             "description": "",
@@ -613,6 +634,27 @@
         {
             "url": "http://ftp.fi.muni.cz/pub/linux/fedora/linux",
             "name": "Masaryk University, Brno",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.it4i.cz/fedora/linux",
+            "name": "IT4Innovations",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.it4i.cz/fedora/linux",
+            "name": "IT4Innovations",
+            "description": "",
+            "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.it4i.cz/fedora/linux",
+            "name": "IT4Innovations",
             "description": "",
             "country-code": "CZ",
             "role": "official-mirror"
@@ -664,6 +706,41 @@
             "name": "CZ.NIC-Mirrors",
             "description": "",
             "country-code": "CZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fedora.tu-chemnitz.de/ftp/pub/linux/fedora/linux",
+            "name": "fedora.tu-chemnitz.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fedora.tu-chemnitz.de/pub/linux/fedora/linux",
+            "name": "fedora.tu-chemnitz.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.agdsn.de/fedora",
+            "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.agdsn.de/fedora",
+            "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.agdsn.de/fedora",
+            "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
+            "description": "",
+            "country-code": "DE",
             "role": "official-mirror"
         },
         {
@@ -725,6 +802,27 @@
         {
             "url": "http://ftp.plusline.net/fedora/linux",
             "name": "Plus.line AG",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp-stud.hs-esslingen.de/pub/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp-stud.hs-esslingen.de/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp-stud.hs-esslingen.de/pub/fedora/linux",
+            "name": "ftp-stud.hs-esslingen.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -864,21 +962,21 @@
         },
         {
             "url": "https://mirrors.xtom.de/fedora",
-            "name": "xTom",
+            "name": "xTom Germany",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
         },
         {
             "url": "http://mirrors.xtom.de/fedora",
-            "name": "xTom",
+            "name": "xTom Germany",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
         },
         {
             "url": "rsync://mirrors.xtom.de/fedora",
-            "name": "xTom",
+            "name": "xTom Germany",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -905,6 +1003,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://mirrors.dotsrc.org/fedora-enchilada/linux",
+            "name": "Dotsrc.org",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.dotsrc.org/fedora-enchilada/linux",
+            "name": "Dotsrc.org",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.dotsrc.org/fedora-enchilada/linux",
+            "name": "Dotsrc.org",
+            "description": "",
+            "country-code": "DK",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.cedia.org.ec/fedora/linux",
             "name": "CEDIA",
             "description": "",
@@ -926,10 +1045,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.udl.es/pub/fedora/linux",
-            "name": "Universitat de Lleida",
+            "url": "https://mirrors.xtom.ee/fedora",
+            "name": "xTom Estonia",
             "description": "",
-            "country-code": "ES",
+            "country-code": "EE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.xtom.ee/fedora",
+            "name": "xTom Estonia",
+            "description": "",
+            "country-code": "EE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.xtom.ee/fedora",
+            "name": "xTom Estonia",
+            "description": "",
+            "country-code": "EE",
             "role": "official-mirror"
         },
         {
@@ -1059,6 +1192,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://b4sh.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://b4sh.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://b4sh.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://creeperhost.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -1101,22 +1255,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://lon.mirror.rackspace.com/fedora",
-            "name": "Rackspace",
+            "url": "https://fedora.mirrorservice.org/fedora/linux",
+            "name": "University of Kent UK Mirror Service",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://lon.mirror.rackspace.com/fedora",
-            "name": "Rackspace",
+            "url": "http://fedora.mirrorservice.org/fedora/linux",
+            "name": "University of Kent UK Mirror Service",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
         },
         {
-            "url": "https://lon.mirror.rackspace.com/fedora",
-            "name": "Rackspace",
+            "url": "rsync://rsync.mirrorservice.org/dl.fedoraproject.org/pub/fedora/linux",
+            "name": "University of Kent UK Mirror Service",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -1126,6 +1280,20 @@
             "name": "OTENET",
             "description": "",
             "country-code": "GR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.xtom.hk/fedora",
+            "name": "xTom Hong Kong",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.xtom.hk/fedora",
+            "name": "xTom Hong Kong",
+            "description": "",
+            "country-code": "HK",
             "role": "official-mirror"
         },
         {
@@ -1157,20 +1325,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
-            "name": "Internet Initiative Japan Inc.",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
             "description": "",
@@ -1187,6 +1341,20 @@
         {
             "url": "https://ftp.iij.ad.jp/pub/linux/Fedora",
             "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.iij.ad.jp/pub/linux/Fedora/fedora/linux",
+            "name": "Internet Initiative Japan Inc.",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
@@ -1234,6 +1402,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://repo.jing.rocks/fedora-buffet/fedora/linux",
+            "name": "repo.jing.rocks",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://repo.jing.rocks/fedora-buffet/fedora/linux",
+            "name": "repo.jing.rocks",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://repo.jing.rocks/fedora-enchilada",
+            "name": "repo.jing.rocks",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://fedora.mirror.liquidtelecom.com/fedora/linux",
             "name": "Liquid Telecom",
             "description": "",
@@ -1255,6 +1444,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://ftp.kaist.ac.kr/fedora-enchilada",
+            "name": "KAIST MIRROR (SPARCS)",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.kaist.ac.kr/pub/fedora",
+            "name": "KAIST MIRROR (SPARCS)",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.kaist.ac.kr/pub/fedora",
+            "name": "KAIST MIRROR (SPARCS)",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.vpsnet.com/fedora/linux",
             "name": "mirror.vpsnet.com",
             "description": "",
@@ -1266,6 +1476,27 @@
             "name": "mirror.vpsnet.com",
             "description": "",
             "country-code": "LT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.marwan.ma/fedora/fedora/linux",
+            "name": "MARWAN",
+            "description": "",
+            "country-code": "MA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.marwan.ma/fedora/fedora/linux",
+            "name": "MARWAN",
+            "description": "",
+            "country-code": "MA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.marwan.ma/fedora",
+            "name": "MARWAN",
+            "description": "",
+            "country-code": "MA",
             "role": "official-mirror"
         },
         {
@@ -1301,27 +1532,6 @@
             "name": "FedoraMD",
             "description": "",
             "country-code": "MD",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://fedora-mirror.cloud.mu/fedora/linux",
-            "name": "cloud.mu",
-            "description": "",
-            "country-code": "MU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://fedora-mirror.cloud.mu/fedora/linux",
-            "name": "cloud.mu",
-            "description": "",
-            "country-code": "MU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://eu.edge.kernel.org/fedora",
-            "name": "mirrors.kernel.org",
-            "description": "",
-            "country-code": "NL",
             "role": "official-mirror"
         },
         {
@@ -1374,15 +1584,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.theory7.net/fedora/fedora",
-            "name": "Theory7.net",
+            "url": "http://mirror.serverion.com/fedora",
+            "name": "Serverion",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.theory7.net/fedora/fedora",
-            "name": "Theory7.net",
+            "url": "https://mirror.serverion.com/fedora",
+            "name": "Serverion",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.serverion.com/fedora",
+            "name": "Serverion",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -1409,6 +1626,41 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ucmirror.canterbury.ac.nz/linux/fedora/linux",
+            "name": "University of Canterbury",
+            "description": "",
+            "country-code": "NZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ucmirror.canterbury.ac.nz/mirror/fedora/linux",
+            "name": "University of Canterbury",
+            "description": "",
+            "country-code": "NZ",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.icm.edu.pl/pub/Linux/fedora/linux",
+            "name": "ICM UW",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.icm.edu.pl/pub/Linux/fedora/linux",
+            "name": "ICM UW",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.icm.edu.pl/pub/Linux/fedora/linux",
+            "name": "ICM UW",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirroronet.pl/pub/mirrors/fedora/linux",
             "name": "Grupa Onet.pl S.A.",
             "description": "",
@@ -1417,6 +1669,13 @@
         },
         {
             "url": "rsync://mirroronet.pl/pub/mirrors/fedora/linux",
+            "name": "Grupa Onet.pl S.A.",
+            "description": "",
+            "country-code": "PL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirroronet.pl/pub/mirrors/fedora/linux",
             "name": "Grupa Onet.pl S.A.",
             "description": "",
             "country-code": "PL",
@@ -1486,21 +1745,35 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.linux-ia64.org/fedora/linux",
+            "url": "https://mirror.hyperdedic.ru/fedora/linux",
+            "name": "HyperDedic",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.hyperdedic.ru/fedora/linux",
+            "name": "HyperDedic",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.hyperdedic.ru/fedora-linux",
+            "name": "HyperDedic",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.linux-ia64.org/fedora/fedora/linux",
             "name": "ia64-linux.org",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://rsync.mirror.linux-ia64.org/fedora",
-            "name": "ia64-linux.org",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.linux-ia64.org/fedora/linux",
+            "url": "https://mirror.linux-ia64.org/fedora/fedora/linux",
             "name": "ia64-linux.org",
             "description": "",
             "country-code": "RU",
@@ -1525,27 +1798,6 @@
             "name": "Yandex",
             "description": "",
             "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.lysator.liu.se/pub/fedora/linux",
-            "name": "Lysator",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.lysator.liu.se/pub/fedora/linux",
-            "name": "Lysator",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.lysator.liu.se/pub/fedora/linux",
-            "name": "Lysator",
-            "description": "",
-            "country-code": "SE",
             "role": "official-mirror"
         },
         {
@@ -1626,10 +1878,52 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://ftp.linux.org.tr/fedora-linux",
+            "name": "LKD - linux.org.tr",
+            "description": "",
+            "country-code": "TR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.linux.org.tr/fedora",
+            "name": "LKD - linux.org.tr",
+            "description": "",
+            "country-code": "TR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.linux.org.tr/fedora",
+            "name": "LKD - linux.org.tr",
+            "description": "",
+            "country-code": "TR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://linus.iyte.edu.tr/linux/fedora/linux",
             "name": "Izmir Yuksek Teknoloji Enstitusu",
             "description": "",
             "country-code": "TR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.twds.com.tw/fedora/fedora/linux",
+            "name": "TWDS-TPE",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.twds.com.tw/fedora/fedora/linux",
+            "name": "TWDS-TPE",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.twds.com.tw/fedora/linux",
+            "name": "TWDS-TPE",
+            "description": "",
+            "country-code": "TW",
             "role": "official-mirror"
         },
         {
@@ -1649,6 +1943,34 @@
         {
             "url": "rsync://fedora.ip-connect.info/fedora/linux",
             "name": "IP-Connect.info",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fedora.ip-connect.vn.ua/linux",
+            "name": "IP-Connect.vn.ua VDS",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://fedora.ip-connect.vn.ua/fedora/linux",
+            "name": "IP-Connect.vn.ua VDS",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fedora.ip-connect.vn.ua/linux",
+            "name": "IP-Connect.vn.ua VDS",
+            "description": "",
+            "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo.hyron.dev/fedora/linux",
+            "name": "hyron",
             "description": "",
             "country-code": "UA",
             "role": "official-mirror"
@@ -1794,50 +2116,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp-chi.osuosl.org/pub/fedora/linux",
-            "name": "Oregon State University Open Source Lab",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp-chi.osuosl.org/pub/fedora/linux",
-            "name": "Oregon State University Open Source Lab",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp-chi.osuosl.org/fedora/linux",
-            "name": "Oregon State University Open Source Lab",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.cse.buffalo.edu/pub/fedora/linux",
             "name": "cse.buffalo.edu",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp-nyc.osuosl.org/fedora/linux",
-            "name": "Oregon State University Open Source Lab",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp-nyc.osuosl.org/pub/fedora/linux",
-            "name": "Oregon State University Open Source Lab",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp-nyc.osuosl.org/pub/fedora/linux",
-            "name": "Oregon State University Open Source Lab",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -1887,6 +2167,27 @@
         {
             "url": "rsync://iad.mirror.rackspace.com/fedora",
             "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ima.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ima.mm.fcix.net/fedora/linux",
+            "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ima.mm.fcix.net/fedora-enchilada/linux",
+            "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -1969,15 +2270,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.datto.com/fedora-primary",
-            "name": "Datto, Inc. (West Chester, PA, US)",
+            "url": "rsync://mirror.cs.siue.edu/fedora",
+            "name": "SIU Edwardsville",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.datto.com/fedora/primary",
-            "name": "Datto, Inc. (West Chester, PA, US)",
+            "url": "http://mirror.cs.siue.edu/fedora",
+            "name": "SIU Edwardsville",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.cs.siue.edu/fedora",
+            "name": "SIU Edwardsville",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2039,6 +2347,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.lstn.net/fedora",
+            "name": "Limestone Networks",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.lstn.net/fedora",
+            "name": "Limestone Networks",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.lstn.net/fedora",
+            "name": "Limestone Networks",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.metrocast.net/fedora/linux",
             "name": "mirror.metrocast.net",
             "description": "",
@@ -2048,20 +2377,6 @@
         {
             "url": "rsync://mirror.metrocast.net/Fedora/linux",
             "name": "mirror.metrocast.net",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.rnet.missouri.edu/fedora-enchilada",
-            "name": "University of Missouri",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.rnet.missouri.edu/fedora/linux",
-            "name": "University of Missouri",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2102,20 +2417,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.liquidweb.com/fedora",
-            "name": "liquidweb.com",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.liquidweb.com/fedora",
-            "name": "liquidweb.com",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://mirrors.lug.mtu.edu/fedora",
             "name": "MTU Linux/UNIX Users' Group",
             "description": "",
@@ -2146,27 +2447,6 @@
         {
             "url": "http://mirrors.mit.edu/fedora/linux",
             "name": "MIT SIPB",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.ocf.berkeley.edu/fedora/fedora/linux",
-            "name": "OCF",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.ocf.berkeley.edu/fedora/fedora/linux",
-            "name": "OCF",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.ocf.berkeley.edu/fedora-enchilada/linux",
-            "name": "OCF",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2286,27 +2566,6 @@
         {
             "url": "http://mirror.umd.edu/fedora/linux",
             "name": "U. of Maryland",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.usi.edu/pub/fedora/linux",
-            "name": "University of Southern Indiana",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.usi.edu/pub/fedora/linux",
-            "name": "University of Southern Indiana",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.usi.edu/fedora-enchilada/linux",
-            "name": "University of Southern Indiana",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2445,27 +2704,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ord.mirror.rackspace.com/fedora",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ord.mirror.rackspace.com/fedora",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ord.mirror.rackspace.com/fedora",
-            "name": "Rackspace",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://paducahix.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
@@ -2550,7 +2788,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://repos.eggycrew.com/fedora",
+            "url": "rsync://repos.eggycrew.com/fedora",
             "name": "EggyCrew",
             "description": "",
             "country-code": "US",
@@ -2564,7 +2802,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://repos.eggycrew.com/fedora",
+            "url": "https://repos.eggycrew.com/fedora",
             "name": "EggyCrew",
             "description": "",
             "country-code": "US",
@@ -2587,6 +2825,27 @@
         {
             "url": "http://ridgewireless.mm.fcix.net/fedora/linux",
             "name": "Fremont Cabal Internet Exchange",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://sjc.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sjc.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://sjc.mirror.rackspace.com/fedora",
+            "name": "Rackspace",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2694,27 +2953,6 @@
             "name": "Fremont Cabal Internet Exchange",
             "description": "",
             "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://espejito.fder.edu.uy/fedora/fedora/linux",
-            "name": "espejito",
-            "description": "",
-            "country-code": "UY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://espejito.fder.edu.uy/fedora/fedora/linux",
-            "name": "espejito",
-            "description": "",
-            "country-code": "UY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://espejito.fder.edu.uy/fedora/fedora/linux",
-            "name": "espejito",
-            "description": "",
-            "country-code": "UY",
             "role": "official-mirror"
         },
         {

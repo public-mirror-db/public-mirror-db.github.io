@@ -100,6 +100,48 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.reenigne.net/gentoo/",
+            "name": "Reenigne",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.reenigne.net/gentoo/",
+            "name": "Reenigne",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Beauharnois)",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Beauharnois)",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://gentoo.osuosl.org/",
             "name": "OSU Open Source Lab (Corvallis; New York; Chicago)",
             "description": "",
@@ -160,8 +202,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -171,8 +212,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -324,22 +364,46 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://repo.ialab.dsu.edu/gentoo/",
-            "name": "Dakota State University",
+            "url": "https://mirror.servaxnet.com/gentoo/",
+            "name": "ServaxNet, LLC",
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
         {
-            "url": "http://repo.ialab.dsu.edu/gentoo/",
-            "name": "Dakota State University",
+            "url": "http://mirror.servaxnet.com/gentoo/",
+            "name": "ServaxNet, LLC",
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.zero.com.ar/gentoo/",
+            "name": "www.zero.com.ar",
+            "description": "",
+            "country-code": "AR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://gentoo.zero.com.ar/gentoo",
+            "name": "www.zero.com.ar",
+            "description": "",
+            "country-code": "AR",
+            "address-families": [
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -377,10 +441,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.belnet.be/pub/rsync.gentoo.org/gentoo/",
-            "name": "Belnet",
+            "url": "https://mirror.kumi.systems/gentoo/",
+            "name": "Kumi Systems e.U.",
             "description": "",
-            "country-code": "BE",
+            "country-code": "AT",
             "address-families": [
                 "ip",
                 "ip6"
@@ -388,7 +452,29 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.belnet.be/pub/rsync.gentoo.org/gentoo/",
+            "url": "http://mirror.kumi.systems/gentoo/",
+            "name": "Kumi Systems e.U.",
+            "description": "",
+            "country-code": "AT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.kumi.systems/gentoo/",
+            "name": "Kumi Systems e.U.",
+            "description": "",
+            "country-code": "AT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.belnet.be/pub/rsync.gentoo.org/gentoo/",
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
@@ -403,6 +489,50 @@
             "name": "Belnet",
             "description": "",
             "country-code": "BE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.telepoint.bg/gentoo",
+            "name": "Telepoint Ltd",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.telepoint.bg/gentoo",
+            "name": "Telepoint Ltd",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.telepoint.bg/gentoo",
+            "name": "Telepoint Ltd",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.telepoint.bg/gentoo",
+            "name": "Telepoint Ltd",
+            "description": "",
+            "country-code": "BG",
             "address-families": [
                 "ip",
                 "ip6"
@@ -520,6 +650,39 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.it4i.cz/gentoo",
+            "name": "IT4Innovations / Technical University of Ostrava",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.it4i.cz/gentoo",
+            "name": "IT4Innovations / Technical University of Ostrava",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.it4i.cz/gentoo",
+            "name": "IT4Innovations / Technical University of Ostrava",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.dotsrc.org/gentoo/",
             "name": "dotsrc.org",
             "description": "",
@@ -564,13 +727,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
-            "name": "OVH",
+            "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Gravelines; Roubaix; Strasbourg)",
             "description": "",
             "country-code": "FR",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Gravelines; Roubaix; Strasbourg)",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -597,7 +769,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.ircam.fr/pub/gentoo-distfiles/",
+            "url": "http://mirrors.ircam.fr/pub/gentoo-distfiles/",
             "name": "Ircam",
             "description": "",
             "country-code": "FR",
@@ -1086,28 +1258,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://packages.hs-regensburg.de/gentoo-distfiles/",
-            "name": "Ostbayerische Technische Hochschule Regensburg",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://packages.hs-regensburg.de/gentoo-distfiles/",
-            "name": "Ostbayerische Technische Hochschule Regensburg",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://ftp.uni-stuttgart.de/gentoo-distfiles/",
             "name": "Universit\u00e4t Stuttgart",
             "description": "",
@@ -1193,6 +1343,28 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://mirror.netzwerge.de/gentoo",
+            "name": "Netzwerge GmbH",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.dogado.de/gentoo",
+            "name": "dogado GmbH",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
             "name": "National Technical University of Athens",
             "description": "",
@@ -1215,8 +1387,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.fsn.hu/mirrors/gentoo/",
-            "name": "Free Software Network Hungary",
+            "url": "https://quantum-mirror.hu/mirrors/pub/gentoo",
+            "name": "Quantum Mirror",
             "description": "",
             "country-code": "HU",
             "address-families": [
@@ -1225,8 +1397,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.fsn.hu/mirrors/gentoo/",
-            "name": "Free Software Network Hungary",
+            "url": "http://quantum-mirror.hu/mirrors/pub/gentoo",
+            "name": "Quantum Mirror",
             "description": "",
             "country-code": "HU",
             "address-families": [
@@ -1235,8 +1407,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://ftp.fsn.hu/mirrors/gentoo/",
-            "name": "Free Software Network Hungary",
+            "url": "rsync://quantum-mirror.hu/gentoo",
+            "name": "Quantum Mirror",
             "description": "",
             "country-code": "HU",
             "address-families": [
@@ -1245,12 +1417,65 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ftp.fsn.hu/linux/gentoo/",
-            "name": "Free Software Network Hungary",
+            "url": "https://gentoo.jss.hu",
+            "name": "JSS & Hayer",
             "description": "",
             "country-code": "HU",
             "address-families": [
                 "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.jss.hu",
+            "name": "JSS & Hayer",
+            "description": "",
+            "country-code": "HU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://gentoo.jss.hu/mirror",
+            "name": "JSS & Hayer",
+            "description": "",
+            "country-code": "HU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.heanet.ie/mirrors/gentoo.org/",
+            "name": "HEAnet - Ireland's National Education and Research Network",
+            "description": "",
+            "country-code": "IE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.heanet.ie/mirrors/gentoo.org/",
+            "name": "HEAnet - Ireland's National Education and Research Network",
+            "description": "",
+            "country-code": "IE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.heanet.ie/mirrors/gentoo.org/",
+            "name": "HEAnet - Ireland's National Education and Research Network",
+            "description": "",
+            "country-code": "IE",
+            "address-families": [
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1387,6 +1612,26 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.evoluso.com/gentoo/",
+            "name": "evoluso.com",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.evoluso.com/gentoo/",
+            "name": "evoluso.com",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://ftp.vectranet.pl/gentoo/",
             "name": "Vectranet",
             "description": "",
@@ -1474,10 +1719,65 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.ptisp.pt/gentoo/",
+            "name": "PTISP",
+            "description": "",
+            "country-code": "PT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ptisp.pt/gentoo/",
+            "name": "PTISP",
+            "description": "",
+            "country-code": "PT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.romnet.org/gentoo/",
             "name": "Romanian Organization Network",
             "description": "",
             "country-code": "RO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror1.sox.rs/gentoo/",
+            "name": "Serbian Open eXchange",
+            "description": "",
+            "country-code": "RS",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror1.sox.rs/gentoo/",
+            "name": "Serbian Open eXchange",
+            "description": "",
+            "country-code": "RS",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror1.sox.rs/gentoo/",
+            "name": "Serbian Open eXchange",
+            "description": "",
+            "country-code": "RS",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1507,7 +1807,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.lysator.liu.se/gentoo/",
+            "url": "ftp://ftp.lysator.liu.se/gentoo/",
             "name": "Link\u00f6ping University - Lysator",
             "description": "",
             "country-code": "SE",
@@ -1518,8 +1818,30 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.lysator.liu.se/gentoo/",
+            "url": "rsync://ftp.lysator.liu.se/gentoo/",
             "name": "Link\u00f6ping University - Lysator",
+            "description": "",
+            "country-code": "SE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.tnonline.net/gentoo/gentoo-distfiles/",
+            "name": "tnonline.net",
+            "description": "",
+            "country-code": "SE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.tnonline.net/gentoo-distfiles",
+            "name": "tnonline.net",
             "description": "",
             "country-code": "SE",
             "address-families": [
@@ -1567,6 +1889,39 @@
             "country-code": "SK",
             "address-families": [
                 "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://repo.ifca.es/gentoo-distfiles",
+            "name": "Institute of Physics of Cantabria (CSIC-UC)",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://repo.ifca.es/gentoo-distfiles",
+            "name": "Institute of Physics of Cantabria (CSIC-UC)",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://repo.ifca.es/gentoo-distfiles",
+            "name": "Institute of Physics of Cantabria (CSIC-UC)",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -1624,7 +1979,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.gethosted.online/gentoo",
+            "url": "https://mirrors.gethosted.online/gentoo/",
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
@@ -1634,7 +1989,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.gethosted.online/gentoo",
+            "url": "http://mirrors.gethosted.online/gentoo/",
             "name": "Get Hosted online",
             "description": "",
             "country-code": "GB",
@@ -1793,16 +2148,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://mirror.rackspace.com/gentoo/",
-            "name": "Rackspace Technology",
-            "description": "",
-            "country-code": "AU",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
@@ -1908,6 +2253,105 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.zju.edu.cn/gentoo/",
+            "name": "Zhejiang University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.zju.edu.cn/gentoo/",
+            "name": "Zhejiang University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.zju.edu.cn/gentoo/",
+            "name": "Zhejiang University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.ustc.edu.cn/gentoo/",
+            "name": "University of Science and Technology of China",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://rsync.mirrors.ustc.edu.cn/gentoo/",
+            "name": "University of Science and Technology of China",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.nju.edu.cn/gentoo/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.nju.edu.cn/gentoo/",
+            "name": "eScience Center, Nanjing University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.lzu.edu.cn/gentoo",
+            "name": "Lanzhou University Open Source Society",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lzu.edu.cn/gentoo",
+            "name": "Lanzhou University Open Source Society",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://gentoo.aditsu.net:8000/",
             "name": "aditsu.net",
             "description": "",
@@ -1938,7 +2382,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://mirror.rackspace.com/gentoo/",
+            "url": "rsync://mirror.rackspace.com/gentoo/",
             "name": "Rackspace Technology",
             "description": "",
             "country-code": "HK",
@@ -1948,10 +2392,20 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.rackspace.com/gentoo/",
-            "name": "Rackspace Technology",
+            "url": "https://mirrors.nxtgen.com/gentoo-mirror/gentoo-source/",
+            "name": "NxtGen",
             "description": "",
-            "country-code": "HK",
+            "country-code": "IN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.nxtgen.com/gentoo-mirror/gentoo-source/",
+            "name": "NxtGen",
+            "description": "",
+            "country-code": "IN",
             "address-families": [
                 "ip"
             ],
@@ -2065,6 +2519,72 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://repo.jing.rocks/gentoo",
+            "name": "Jing Luo",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://repo.jing.rocks/gentoo",
+            "name": "Jing Luo",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://repo.jing.rocks/gentoo",
+            "name": "Jing Luo",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ps.kz/gentoo/pub",
+            "name": "PS Internet Company LLC",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ps.kz/gentoo/pub",
+            "name": "PS Internet Company LLC",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ps.kz/gentoo",
+            "name": "PS Internet Company LLC",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "ftp://mirror.rise.ph/gentoo",
             "name": "RISE",
             "description": "",
@@ -2132,6 +2652,36 @@
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.byfly.by/pub/gentoo-distfiles/",
+            "name": "ftp.byfly.by",
+            "description": "",
+            "country-code": "BY",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.byfly.by/pub/gentoo-distfiles/",
+            "name": "ftp.byfly.by",
+            "description": "",
+            "country-code": "BY",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.byfly.by/gentoo/",
+            "name": "ftp.byfly.by",
+            "description": "",
+            "country-code": "BY",
+            "address-families": [
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -2252,10 +2802,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.ps.kz/gentoo/pub",
-            "name": "Neo Lab's",
+            "url": "https://gentoo.dimensiondata.com/",
+            "name": "Dimension Data",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "ZA",
             "address-families": [
                 "ip",
                 "ip6"
@@ -2263,21 +2813,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.ps.kz/gentoo/pub",
-            "name": "Neo Lab's",
+            "url": "https://gentoo.uls.co.za/",
+            "name": "Ultimate Linux Solutions",
             "description": "",
-            "country-code": "KZ",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ps.kz/gentoo",
-            "name": "Neo Lab's",
-            "description": "",
-            "country-code": "KZ",
+            "country-code": "ZA",
             "address-families": [
                 "ip",
                 "ip6"
@@ -2297,17 +2836,6 @@
         },
         {
             "url": "http://mirrors.ustc.edu.cn/gentoo",
-            "name": "USTC",
-            "description": "Mirror site provided by University of Science and Technology of China",
-            "country-code": "CN",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "wild-mirror"
-        },
-        {
-            "url": "https://mirrors.ustc.edu.cn/gentoo",
             "name": "USTC",
             "description": "Mirror site provided by University of Science and Technology of China",
             "country-code": "CN",

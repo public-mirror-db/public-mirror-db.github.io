@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "url": "https://huggingface.co"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://hf-mirror.com",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        }
+    ]
+}

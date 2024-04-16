@@ -30,13 +30,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://php.cnpkg.org",
-            "name": "php.cnpkg.org",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://packagist.phpcomposer.com",
             "name": "packagist.phpcomposer.com",
             "description": "",

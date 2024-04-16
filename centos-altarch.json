@@ -37,20 +37,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.hostart.az/centos-altarch/",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.hostart.az/centos-altarch/",
-            "name": "Hostart LLC",
-            "description": "",
-            "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.bfsu.edu.cn/centos-altarch/",
             "name": "Beijing Foreign Studies University",
             "description": "",
@@ -102,6 +88,27 @@
         {
             "url": "https://mirrors.huaweicloud.com/centos-altarch/",
             "name": "HUAWEI CLOUD",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.nyist.edu.cn/centos-altarch/",
+            "name": "Nanyang Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.nyist.edu.cn/centos-altarch/",
+            "name": "Nanyang Institute of Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.nyist.edu.cn/centos-altarch",
+            "name": "Nanyang Institute of Technology",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -331,24 +338,38 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.hoster.kz/centos-altarch/",
-            "name": "LLP Kompaniya Hoster.KZ",
+            "url": "http://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "SG",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.hoster.kz/centos-altarch/",
-            "name": "LLP Kompaniya Hoster.KZ",
+            "url": "https://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "SG",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.hoster.kz/centos-altarch/",
-            "name": "LLP Kompaniya Hoster.KZ",
+            "url": "rsync://mirror.aktkn.sg/centos-altarch/",
+            "name": "-",
             "description": "",
-            "country-code": "KZ",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.bangmod.cloud/centos-altarch/",
+            "name": "Bangmod.Cloud",
+            "description": "",
+            "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.bangmod.cloud/centos-altarch/",
+            "name": "Bangmod.Cloud",
+            "description": "",
+            "country-code": "TH",
             "role": "official-mirror"
         },
         {
@@ -363,27 +384,6 @@
             "name": "YER Hosting",
             "description": "",
             "country-code": "AZ",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.daticum.com/centos-altarch/",
-            "name": "Daticum",
-            "description": "",
-            "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.daticum.com/centos-altarch/",
-            "name": "Daticum",
-            "description": "",
-            "country-code": "BG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.daticum.com/centos-altarch/",
-            "name": "Daticum",
-            "description": "",
-            "country-code": "BG",
             "role": "official-mirror"
         },
         {
@@ -447,27 +447,6 @@
             "name": "xTom OU",
             "description": "",
             "country-code": "EE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.agdsn.de/pub/mirrors/centos-altarch/",
-            "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.agdsn.de/pub/mirrors/centos-altarch/",
-            "name": "Arbeitsgemeinschaft Dresdner Studentennetz",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://linux.darkpenguin.net/distros/CentOS-AltArch/",
-            "name": "Dark Penguin Network",
-            "description": "",
-            "country-code": "DE",
             "role": "official-mirror"
         },
         {
@@ -571,6 +550,20 @@
         {
             "url": "https://centos.mirror.garr.it/centos-altarch/",
             "name": "GARR",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://centos-altarch.mirror.server24.net/",
+            "name": "Server24",
+            "description": "",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://centos-altarch.mirror.server24.net/",
+            "name": "Server24",
             "description": "",
             "country-code": "IT",
             "role": "official-mirror"
@@ -751,22 +744,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.surf/centos-altarch/",
-            "name": "Dmitry Shishkin",
+            "url": "http://mirror.truenetwork.ru/centos-altarch/",
+            "name": "Truenetwork",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.surf/centos-altarch/",
-            "name": "Dmitry Shishkin",
+            "url": "https://mirror.truenetwork.ru/centos-altarch/",
+            "name": "Truenetwork",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.surf/centos-altarch/",
-            "name": "Dmitry Shishkin",
+            "url": "rsync://mirror.truenetwork.ru/centos-altarch/",
+            "name": "Truenetwork",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
@@ -797,27 +790,6 @@
             "name": "Init7 (Schweiz) AG",
             "description": "",
             "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://fastmirror.pp.ua/centos-altarch/",
-            "name": "",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://fastmirror.pp.ua/centos-altarch/",
-            "name": "",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://fastmirror.pp.ua/centos-altarch/",
-            "name": "",
-            "description": "",
-            "country-code": "UA",
             "role": "official-mirror"
         },
         {
@@ -912,20 +884,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.cedia.org.ec/centos-altarch/",
-            "name": "Consorcio Ecuatoriano para el Desarrollo de Internet Avanzado",
-            "description": "",
-            "country-code": "EC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.cedia.org.ec/centos-altarch/",
-            "name": "Consorcio Ecuatoriano para el Desarrollo de Internet Avanzado",
-            "description": "",
-            "country-code": "EC",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.facebook.net/centos-altarch/",
             "name": "Facebook",
             "description": "",
@@ -1010,41 +968,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.atl.genesisadaptive.com/centos-altarch/",
-            "name": "Genesis Adaptive Hosting",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.atl.genesisadaptive.com/centos-altarch/",
-            "name": "Genesis Adaptive Hosting",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.atl.genesisadaptive.com/centos-altarch/",
-            "name": "Genesis Adaptive Hosting",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.genesisadaptive.com/centos-altarch/",
-            "name": "Genesis Adaptive",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.genesishosting.com/centos-altarch/",
-            "name": "Genesis Hosting",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.math.princeton.edu/pub/centos-altarch/",
             "name": "Princeton University Department of Mathematics",
             "description": "",
@@ -1089,27 +1012,6 @@
         {
             "url": "rsync://mirror.pit.teraswitch.com/centos-altarch",
             "name": "TeraSwitch Networks Inc.",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.dal.nexril.net/centos-altarch/",
-            "name": "Nexril",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.dal.nexril.net/centos-altarch/",
-            "name": "Nexril",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.dal.nexril.net/centos-altarch/",
-            "name": "Nexril",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"

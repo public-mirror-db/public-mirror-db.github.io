@@ -93,13 +93,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://planet.centos.org/",
-            "name": "planet.centos.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://wiki.centos.org/ReportBugs",
             "name": "wiki.centos.org",
             "description": "",
