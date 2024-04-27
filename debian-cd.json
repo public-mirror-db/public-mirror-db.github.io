@@ -44,20 +44,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.byfly.by/debian-cd/",
-            "name": "ftp.byfly.by",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.datacenter.by/debian-cd/",
-            "name": "mirror.datacenter.by",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.mirror.iweb.ca/debian-cd/",
             "name": "debian.mirror.iweb.ca",
             "description": "",
@@ -555,13 +541,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.tku.edu.tw/debian-cd/",
-            "name": "ftp.tku.edu.tw",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.netforce.hosting/debian-cd/",
             "name": "debian.netforce.hosting",
             "description": "",
@@ -573,6 +552,13 @@
             "name": "debian.volia.net",
             "description": "",
             "country-code": "UA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.advancedhosters.com/debian-cd/",
+            "name": "mirrors.advancedhosters.com",
+            "description": "",
+            "country-code": "US",
             "role": "official-mirror"
         },
         {

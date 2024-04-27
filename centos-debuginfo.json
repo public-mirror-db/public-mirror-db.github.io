@@ -23,14 +23,14 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://wiki.centos.org/FAQ",
+            "url": "https://wiki.centos.org/FAQ.html",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "https://wiki.centos.org/SpecialInterestGroups",
+            "url": "https://wiki.centos.org/SpecialInterestGroup.html",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
@@ -58,7 +58,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://wiki.centos.org/Contribute",
+            "url": "https://wiki.centos.org/Contribute.html",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
@@ -72,14 +72,14 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://wiki.centos.org/GettingHelp/ListInfo",
-            "name": "wiki.centos.org",
+            "url": "https://lists.centos.org/hyperkitty/",
+            "name": "lists.centos.org",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "https://wiki.centos.org/irc",
+            "url": "https://wiki.centos.org/irc.html",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",
@@ -93,7 +93,7 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://wiki.centos.org/ReportBugs",
+            "url": "https://wiki.centos.org/ReportBugs.html",
             "name": "wiki.centos.org",
             "description": "",
             "country-code": "US",

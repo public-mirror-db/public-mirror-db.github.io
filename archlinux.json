@@ -3553,6 +3553,16 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.onet.pl/pub/mirrors/archlinux/",
+            "name": "mirror.onet.pl",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://mirror.onet.pl/pub/mirrors/archlinux/",
             "name": "mirror.onet.pl",
             "description": "",
@@ -4173,7 +4183,8 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4205,7 +4216,8 @@
             "description": "",
             "country-code": "JP",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4259,7 +4271,8 @@
             "description": "",
             "country-code": "CA",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -4291,7 +4304,8 @@
             "description": "",
             "country-code": "JP",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -5043,6 +5057,17 @@
         },
         {
             "url": "http://mirror.xeonbd.com/archlinux/",
+            "name": "mirror.xeonbd.com",
+            "description": "",
+            "country-code": "BD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.xeonbd.com/archlinux/",
             "name": "mirror.xeonbd.com",
             "description": "",
             "country-code": "BD",
@@ -6900,7 +6925,6 @@
             "description": "",
             "country-code": "ZA",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6911,7 +6935,8 @@
             "description": "",
             "country-code": "ZA",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -7418,8 +7443,7 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -7429,8 +7453,7 @@
             "description": "",
             "country-code": "RO",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -11575,8 +11598,7 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -11586,8 +11608,7 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -11597,8 +11618,7 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },

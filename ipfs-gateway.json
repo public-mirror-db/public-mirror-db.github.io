@@ -1,0 +1,33 @@
+{
+    "sources": [
+        {
+            "url": "https://ipfs.io"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://ipfs.runfission.com",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://hardbin.com",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://dweb.link",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://trustless-gateway.link",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://gateway.pinata.cloud",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://4everland.io",
+            "role": "wild-mirror"
+        }
+    ]
+}
