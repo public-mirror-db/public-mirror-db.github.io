@@ -80,26 +80,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://gentoo.gossamerhost.com",
-            "name": "Gossamer Threads",
-            "description": "",
-            "country-code": "CA",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://gentoo.gossamerhost.com/gentoo-distfiles/",
-            "name": "Gossamer Threads",
-            "description": "",
-            "country-code": "CA",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.reenigne.net/gentoo/",
             "name": "Reenigne",
             "description": "",

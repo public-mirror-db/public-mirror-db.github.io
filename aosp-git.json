@@ -1,0 +1,22 @@
+{
+    "sources": [
+        {
+            "url": "https://android.googlesource.com"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP",
+            "name": "Tuna",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://github.com/aosp-mirror",
+            "name": "Github",
+            "description": "",
+            "role": "wild-mirror"
+        }
+    ]
+}

@@ -463,6 +463,17 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://archlinux.c3sl.ufpr.br/",
+            "name": "archlinux.c3sl.ufpr.br",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://archlinux.c3sl.ufpr.br/archlinux/",
             "name": "archlinux.c3sl.ufpr.br",
             "description": "",
@@ -2271,16 +2282,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://suro.ubaya.ac.id/archlinux/",
-            "name": "suro.ubaya.ac.id",
-            "description": "",
-            "country-code": "ID",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/",
             "name": "piotrkosoft.net",
             "description": "",
@@ -2297,6 +2298,28 @@
             "country-code": "PL",
             "address-families": [
                 "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.hust.edu.cn/archlinux/",
+            "name": "mirrors.hust.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.hust.edu.cn/archlinux/",
+            "name": "mirrors.hust.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -3296,39 +3319,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.f4st.host/archlinux/",
-            "name": "mirror.f4st.host",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.f4st.host/archlinux/",
-            "name": "mirror.f4st.host",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.f4st.host/archlinux/",
-            "name": "mirror.f4st.host",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://linorg.usp.br/archlinux/",
             "name": "linorg.usp.br",
             "description": "",
@@ -3384,8 +3374,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.acc.umu.se/mirror/archlinux/",
-            "name": "ftp.acc.umu.se",
+            "url": "http://mirror.accum.se/mirror/archlinux/",
+            "name": "mirror.accum.se",
             "description": "",
             "country-code": "SE",
             "address-families": [
@@ -3395,8 +3385,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.acc.umu.se/mirror/archlinux/",
-            "name": "ftp.acc.umu.se",
+            "url": "https://mirror.accum.se/mirror/archlinux/",
+            "name": "mirror.accum.se",
             "description": "",
             "country-code": "SE",
             "address-families": [
@@ -3406,8 +3396,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ftp.acc.umu.se/mirror/archlinux/",
-            "name": "ftp.acc.umu.se",
+            "url": "rsync://mirror.accum.se/mirror/archlinux/",
+            "name": "mirror.accum.se",
             "description": "",
             "country-code": "SE",
             "address-families": [
@@ -3543,8 +3533,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.onet.pl/pub/mirrors/archlinux/",
-            "name": "mirror.onet.pl",
+            "url": "http://mirroronet.pl/pub/mirrors/archlinux/",
+            "name": "mirroronet.pl",
             "description": "",
             "country-code": "PL",
             "address-families": [
@@ -3553,18 +3543,18 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.onet.pl/pub/mirrors/archlinux/",
-            "name": "mirror.onet.pl",
+            "url": "https://mirroronet.pl/pub/mirrors/archlinux/",
+            "name": "mirroronet.pl",
             "description": "",
-            "country-code": "US",
+            "country-code": "PL",
             "address-families": [
                 "ip"
             ],
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.onet.pl/pub/mirrors/archlinux/",
-            "name": "mirror.onet.pl",
+            "url": "rsync://mirroronet.pl/pub/mirrors/archlinux/",
+            "name": "mirroronet.pl",
             "description": "",
             "country-code": "PL",
             "address-families": [
@@ -4113,36 +4103,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://archimonde.ts.si/archlinux/",
-            "name": "archimonde.ts.si",
-            "description": "",
-            "country-code": "SI",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://archimonde.ts.si/archlinux/",
-            "name": "archimonde.ts.si",
-            "description": "",
-            "country-code": "SI",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://archimonde.ts.si/archlinux/",
-            "name": "archimonde.ts.si",
-            "description": "",
-            "country-code": "SI",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -5600,39 +5560,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://archlinux.mirror.pcextreme.nl/",
-            "name": "archlinux.mirror.pcextreme.nl",
-            "description": "",
-            "country-code": "NL",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://archlinux.mirror.pcextreme.nl/",
-            "name": "archlinux.mirror.pcextreme.nl",
-            "description": "",
-            "country-code": "NL",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.pcextreme.nl/archlinux/",
-            "name": "mirror.pcextreme.nl",
-            "description": "",
-            "country-code": "NL",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.onevip.mk/archlinux/",
             "name": "mirror.onevip.mk",
             "description": "",
@@ -6925,6 +6852,7 @@
             "description": "",
             "country-code": "ZA",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7021,7 +6949,6 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7032,7 +6959,6 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -7043,38 +6969,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirroir.wptheme.fr/archlinux/",
-            "name": "mirroir.wptheme.fr",
-            "description": "",
-            "country-code": "FR",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirroir.wptheme.fr/archlinux/",
-            "name": "mirroir.wptheme.fr",
-            "description": "",
-            "country-code": "FR",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirroir.wptheme.fr/archlinux/",
-            "name": "mirroir.wptheme.fr",
-            "description": "",
-            "country-code": "FR",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -7623,28 +7518,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://archmirror.it/repos/",
-            "name": "archmirror.it",
-            "description": "",
-            "country-code": "IT",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://archmirror.it/repos/",
-            "name": "archmirror.it",
-            "description": "",
-            "country-code": "IT",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.siwoo.org/archlinux/",
             "name": "mirror.siwoo.org",
             "description": "",
@@ -8081,39 +7954,6 @@
             "country-code": "PL",
             "address-families": [
                 "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.erickochen.nl/archlinux/",
-            "name": "mirror.erickochen.nl",
-            "description": "",
-            "country-code": "NL",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.erickochen.nl/archlinux/",
-            "name": "mirror.erickochen.nl",
-            "description": "",
-            "country-code": "NL",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.erickochen.nl/archlinux/",
-            "name": "mirror.erickochen.nl",
-            "description": "",
-            "country-code": "NL",
-            "address-families": [
-                "ip",
-                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -8707,13 +8547,23 @@
             "role": "official-mirror"
         },
         {
+            "url": "rsync://mirrors.wsyu.edu.cn/archlinux/",
+            "name": "mirrors.wsyu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.radwebhosting.com/archlinux/",
             "name": "mirrors.radwebhosting.com",
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -8723,8 +8573,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -8734,8 +8583,7 @@
             "description": "",
             "country-code": "US",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9286,8 +9134,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9297,8 +9144,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -9402,7 +9248,7 @@
             "url": "http://mirrors.janbruckner.de/archlinux/",
             "name": "mirrors.janbruckner.de",
             "description": "",
-            "country-code": "DE",
+            "country-code": "FI",
             "address-families": [
                 "ip",
                 "ip6"
@@ -9413,7 +9259,7 @@
             "url": "https://mirrors.janbruckner.de/archlinux/",
             "name": "mirrors.janbruckner.de",
             "description": "",
-            "country-code": "DE",
+            "country-code": "FI",
             "address-families": [
                 "ip",
                 "ip6"
@@ -9424,7 +9270,7 @@
             "url": "rsync://mirrors.janbruckner.de/archlinux/",
             "name": "mirrors.janbruckner.de",
             "description": "",
-            "country-code": "DE",
+            "country-code": "FI",
             "address-families": [
                 "ip",
                 "ip6"
@@ -10460,8 +10306,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -10789,39 +10634,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://arch.kyberorg.fi/",
-            "name": "arch.kyberorg.fi",
-            "description": "",
-            "country-code": "FI",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://arch.kyberorg.fi/",
-            "name": "arch.kyberorg.fi",
-            "description": "",
-            "country-code": "FI",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://rsync.kyberorg.fi/arch/",
-            "name": "rsync.kyberorg.fi",
-            "description": "",
-            "country-code": "FI",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.evoluso.com/archlinux/",
             "name": "mirrors.evoluso.com",
             "description": "",
@@ -10875,26 +10687,6 @@
         {
             "url": "rsync://mirror.fossable.org/mirror/archlinux/",
             "name": "mirror.fossable.org",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.the-repo.org/ArchMirror/",
-            "name": "mirror.the-repo.org",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.the-repo.org/ArchMirror/",
-            "name": "mirror.the-repo.org",
             "description": "",
             "country-code": "US",
             "address-families": [
@@ -11598,7 +11390,8 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -11608,7 +11401,8 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -11618,7 +11412,8 @@
             "description": "",
             "country-code": "IN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -12302,8 +12097,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://dl.ptse.host/archlinux/",
-            "name": "dl.ptse.host",
+            "url": "https://mirror.qctronics.com/archlinux/",
+            "name": "mirror.qctronics.com",
             "description": "",
             "country-code": "CA",
             "address-families": [
@@ -12312,8 +12107,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://dl.ptse.host/archlinux/",
-            "name": "dl.ptse.host",
+            "url": "rsync://rsync.qctronics.com/archlinux/",
+            "name": "rsync.qctronics.com",
             "description": "",
             "country-code": "CA",
             "address-families": [
@@ -12516,36 +12311,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.elightcap.com/archlinux/",
-            "name": "mirror.elightcap.com",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.elightcap.com/archlinux/",
-            "name": "mirror.elightcap.com",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.elightcap.com/archlinux/",
-            "name": "mirror.elightcap.com",
-            "description": "",
-            "country-code": "US",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.qvq.net.cn/archlinux/",
             "name": "mirrors.qvq.net.cn",
             "description": "",
@@ -12690,6 +12455,347 @@
             "country-code": "GB",
             "address-families": [
                 "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.colonelhosting.com/archlinux/",
+            "name": "mirror.colonelhosting.com",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.colonelhosting.com/archlinux/",
+            "name": "mirror.colonelhosting.com",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pkg.adfinis-on-exoscale.ch/archlinux-pkgbuild/",
+            "name": "pkg.adfinis-on-exoscale.ch",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pkg.adfinis-on-exoscale.ch/archlinux/",
+            "name": "pkg.adfinis-on-exoscale.ch",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://pkg.adfinis-on-exoscale.ch/archlinux-pkgbuild/",
+            "name": "pkg.adfinis-on-exoscale.ch",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://pkg.adfinis-on-exoscale.ch/archlinux/",
+            "name": "pkg.adfinis-on-exoscale.ch",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.rznet.fr/archlinux/",
+            "name": "mirror.rznet.fr",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.rznet.fr/archlinux/",
+            "name": "mirror.rznet.fr",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://www.miraa.jp/archlinux/",
+            "name": "www.miraa.jp",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://www.miraa.jp/archlinux/",
+            "name": "www.miraa.jp",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://www.miraa.jp/archlinux/",
+            "name": "www.miraa.jp",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.eto.dev/arch/",
+            "name": "mirror.eto.dev",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.jcut.edu.cn/archlinux/",
+            "name": "mirrors.jcut.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.jcut.edu.cn/archlinux/",
+            "name": "mirrors.jcut.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.timtal.com.tr/archlinux/",
+            "name": "mirror.timtal.com.tr",
+            "description": "",
+            "country-code": "TR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.timtal.com.tr/archlinux/",
+            "name": "mirror.timtal.com.tr",
+            "description": "",
+            "country-code": "TR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.timtal.com.tr/archlinux/",
+            "name": "mirror.timtal.com.tr",
+            "description": "",
+            "country-code": "TR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirrors.neterra.net/archlinux/",
+            "name": "mirrors.neterra.net",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.neterra.net/archlinux/",
+            "name": "mirrors.neterra.net",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.neterra.net/archlinux/",
+            "name": "mirrors.neterra.net",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.neterra.net/archlinux/",
+            "name": "mirrors.neterra.net",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://lidsol.fi-b.unam.mx/archlinux/",
+            "name": "lidsol.fi-b.unam.mx",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://lidsol.fi-b.unam.mx/archlinux/",
+            "name": "lidsol.fi-b.unam.mx",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://lidsol.fi-b.unam.mx/archlinux/",
+            "name": "lidsol.fi-b.unam.mx",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://arch.niranjan.co/",
+            "name": "arch.niranjan.co",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://arch.niranjan.co/",
+            "name": "arch.niranjan.co",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://arch.niranjan.co/archlinux/",
+            "name": "arch.niranjan.co",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://linuxromania.ro/archlinux/",
+            "name": "linuxromania.ro",
+            "description": "",
+            "country-code": "RO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://linuxromania.ro/archlinux/",
+            "name": "linuxromania.ro",
+            "description": "",
+            "country-code": "RO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://linuxromania.ro/archlinux/",
+            "name": "linuxromania.ro",
+            "description": "",
+            "country-code": "RO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.pablonara.com/archlinux/",
+            "name": "mirrors.pablonara.com",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.pablonara.com/archlinux/",
+            "name": "mirrors.pablonara.com",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         }

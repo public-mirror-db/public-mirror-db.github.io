@@ -251,22 +251,22 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.acc.umu.se/mirror/alpinelinux.org/",
-            "name": "ftp.acc.umu.se",
+            "url": "http://mirror.accum.se/mirror/alpinelinux.org/",
+            "name": "mirror.accum.se",
             "description": "",
             "country-code": "SE",
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.acc.umu.se/mirror/alpinelinux.org/",
-            "name": "ftp.acc.umu.se",
+            "url": "https://mirror.accum.se/mirror/alpinelinux.org/",
+            "name": "mirror.accum.se",
             "description": "",
             "country-code": "SE",
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ftp.acc.umu.se/mirror/alpinelinux.org/",
-            "name": "ftp.acc.umu.se",
+            "url": "rsync://mirror.accum.se/mirror/alpinelinux.org/",
+            "name": "mirror.accum.se",
             "description": "",
             "country-code": "SE",
             "role": "official-mirror"
@@ -1452,6 +1452,48 @@
             "name": "mirrors.lax.silicloud.com",
             "description": "",
             "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.crifo.org/alpine/",
+            "name": "ftp.crifo.org",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.crifo.org/alpine/",
+            "name": "ftp.crifo.org",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.neterra.net/alpine/",
+            "name": "Neterra",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.neterra.net/alpine/",
+            "name": "Neterra",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirrors.neterra.net/alpine/",
+            "name": "Neterra",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.neterra.net/alpine/",
+            "name": "Neterra",
+            "description": "",
+            "country-code": "BG",
             "role": "official-mirror"
         }
     ]
