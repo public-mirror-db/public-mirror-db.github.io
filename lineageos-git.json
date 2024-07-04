@@ -1,0 +1,23 @@
+{
+    "sources": [
+        {
+            "url": "https://github.com/LineageOS"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/LineageOS",
+            "name": "Tuna",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        },
+        {
+            "url": "https://mirrors.cernet.edu.cn/lineageOS/LineageOS",
+            "name": "MirrorZ",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        }
+    ]
+}
