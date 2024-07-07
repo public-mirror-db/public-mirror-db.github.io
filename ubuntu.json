@@ -366,6 +366,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ubuntu.uni-klu.ac.at/ubuntu/",
+            "name": "University of Klagenfurt",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ubuntu.uni-klu.ac.at/linux/ubuntu/",
+            "name": "University of Klagenfurt",
+            "description": "",
+            "country-code": "AT",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.datacenter.az/ubuntu/",
             "name": "Delta Telecom",
             "description": "",
@@ -417,6 +431,20 @@
         {
             "url": "http://mirror.xeonbd.com/ubuntu-archive/",
             "name": "XeonBD",
+            "description": "",
+            "country-code": "BD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.exid.us/ubuntu-archive/",
+            "name": "EXID",
+            "description": "",
+            "country-code": "BD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.exid.us/ubuntu-archive/",
+            "name": "EXID",
             "description": "",
             "country-code": "BD",
             "role": "official-mirror"
@@ -1362,20 +1390,6 @@
         {
             "url": "rsync://mirrors.jlu.edu.cn/ubuntu/",
             "name": "Jilin University",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.jxust.edu.cn/ubuntu/",
-            "name": "Jaingxi University of Science and Technology",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.jxust.edu.cn/ubuntu/",
-            "name": "Jaingxi University of Science and Technology",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -3047,6 +3061,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ubuntu.hysing.is/ubuntu/",
+            "name": "Advania",
+            "description": "",
+            "country-code": "IS",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ubuntu.hysing.is/ubuntu/",
             "name": "Advania",
             "description": "",
@@ -3189,6 +3210,20 @@
         {
             "url": "rsync://mirror.bharatdatacenter.com/ubuntu/",
             "name": "Bharat Datacenter",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.cse.iitk.ac.in/ubuntu/",
+            "name": "Indian Institute of Technology, Kanpur",
+            "description": "",
+            "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.cse.iitk.ac.in/ubuntu/",
+            "name": "Indian Institute of Technology, Kanpur",
             "description": "",
             "country-code": "IN",
             "role": "official-mirror"
@@ -3341,6 +3376,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.faizuladib.com/ubuntu/",
+            "name": "faizuladib.com",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.faizuladib.com/ubuntu/",
+            "name": "faizuladib.com",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.faizuladib.com/ubuntu/",
+            "name": "faizuladib.com",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.herza.id/ubuntu/",
             "name": "PT Herza Digital Indonesia",
             "description": "",
@@ -3406,6 +3462,20 @@
         {
             "url": "http://mr.heru.id/ubuntu/",
             "name": "heru.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://sby.mirror.bignet.id/ubuntu/",
+            "name": "BIGNET.ID",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sby.mirror.bignet.id/ubuntu/",
+            "name": "BIGNET.ID",
             "description": "",
             "country-code": "ID",
             "role": "official-mirror"
@@ -4857,6 +4927,13 @@
             "name": "Tuxuri",
             "description": "",
             "country-code": "MY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.nerdmilio.com/ubuntu/",
+            "name": "Nerdmilio",
+            "description": "",
+            "country-code": "MX",
             "role": "official-mirror"
         },
         {
@@ -7095,20 +7172,6 @@
         {
             "url": "http://mirror.nwlab.tk/ubuntu/",
             "name": "National Central University, Mobile Broadband Network Lab",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ubuntu.ccns.ncku.edu.tw/ubuntu/",
-            "name": "NCKU CCNS",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu.ccns.ncku.edu.tw/ubuntu/",
-            "name": "NCKU CCNS",
             "description": "",
             "country-code": "TW",
             "role": "official-mirror"

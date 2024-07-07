@@ -16,6 +16,20 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.by.debian.org/debian-multimedia/",
+            "name": "ftp.by.debian.org",
+            "description": "",
+            "country-code": "BY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
+            "name": "debian.c3sl.ufpr.br",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
             "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
@@ -30,13 +44,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.nyist.edu.cn/debian-multimedia/",
-            "name": "mirror.nyist.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.jlu.edu.cn/debian-multimedia/",
             "name": "mirrors.jlu.edu.cn",
             "description": "",
@@ -44,17 +51,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.by.debian.org/debian-multimedia/",
-            "name": "ftp.by.debian.org",
+            "url": "http://mirror.nyist.edu.cn/debian-multimedia/",
+            "name": "mirror.nyist.edu.cn",
             "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
-            "name": "debian.c3sl.ufpr.br",
-            "description": "",
-            "country-code": "BR",
+            "country-code": "CN",
             "role": "official-mirror"
         },
         {
@@ -72,6 +72,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.ustc.edu.cn/debian-multimedia/",
+            "name": "mirrors.ustc.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.dk.debian.org/debian-multimedia/",
             "name": "ftp.dk.debian.org",
             "description": "",
@@ -86,24 +93,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ustc.edu.cn/debian-multimedia/",
-            "name": "mirrors.ustc.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.mirror.garr.it/debian-multimedia/",
             "name": "debian.mirror.garr.it",
             "description": "",
             "country-code": "IT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.kaist.ac.kr/debian-multimedia/",
-            "name": "ftp.kaist.ac.kr",
-            "description": "",
-            "country-code": "KP",
             "role": "official-mirror"
         },
         {
@@ -114,17 +107,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.mirror.ac.ke/debian-multimedia/",
-            "name": "debian.mirror.ac.ke",
-            "description": "",
-            "country-code": "KE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://kebo.pens.ac.id/debian-multimedia/",
             "name": "kebo.pens.ac.id",
             "description": "",
             "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.mirror.ac.ke/debian-multimedia/",
+            "name": "debian.mirror.ac.ke",
+            "description": "",
+            "country-code": "KE",
             "role": "official-mirror"
         },
         {
@@ -149,15 +142,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.mephi.ru/debian-multimedia/",
-            "name": "mirror.mephi.ru",
+            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
+            "name": "mirror.truenetwork.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
-            "name": "mirror.truenetwork.ru",
+            "url": "http://mirror.mephi.ru/debian-multimedia/",
+            "name": "mirror.mephi.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
@@ -167,6 +160,13 @@
             "name": "debian.lth.se",
             "description": "",
             "country-code": "SE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.volia.net/debian-multimedia/",
+            "name": "debian.volia.net",
+            "description": "",
+            "country-code": "UA",
             "role": "official-mirror"
         },
         {
@@ -184,24 +184,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.cn.debian.org/debian-multimedia/",
-            "name": "ftp.cn.debian.org",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.volia.net/debian-multimedia/",
-            "name": "debian.volia.net",
-            "description": "",
-            "country-code": "UA",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.nautile.nc/debian-multimedia/",
             "name": "debian.nautile.nc",
             "description": "",
             "country-code": "NC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.cn.debian.org/debian-multimedia/",
+            "name": "ftp.cn.debian.org",
+            "description": "",
+            "country-code": "CN",
             "role": "official-mirror"
         },
         {

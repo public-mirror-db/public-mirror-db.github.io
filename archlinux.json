@@ -6949,6 +6949,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6959,6 +6960,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -6969,6 +6971,7 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
+                "ip",
                 "ip6"
             ],
             "role": "official-mirror"
@@ -11335,8 +11338,7 @@
             "description": "",
             "country-code": "MU",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -11346,8 +11348,7 @@
             "description": "",
             "country-code": "MU",
             "address-families": [
-                "ip",
-                "ip6"
+                "ip"
             ],
             "role": "official-mirror"
         },

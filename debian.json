@@ -762,13 +762,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xtom.de/debian/",
-            "name": "mirrors.xtom.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://debian.mirror.iphh.net/debian/",
             "name": "debian.mirror.iphh.net",
             "description": "",
@@ -853,13 +846,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xtom.ee/debian/",
-            "name": "mirrors.xtom.ee",
-            "description": "",
-            "country-code": "EE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.caliu.cat/debian/",
             "name": "ftp.caliu.cat",
             "description": "",
@@ -925,6 +911,13 @@
         {
             "url": "http://ftp.es.debian.org/debian/",
             "name": "ftp.es.debian.org",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.librelabucm.org/debian/",
+            "name": "mirror.librelabucm.org",
             "description": "",
             "country-code": "ES",
             "role": "official-mirror"
@@ -1434,13 +1427,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xtom.jp/debian/",
-            "name": "mirrors.xtom.jp",
-            "description": "",
-            "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.jp.debian.org/debian/",
             "name": "ftp.jp.debian.org",
             "description": "",
@@ -1480,13 +1466,6 @@
             "name": "debian.mirror.ac.ke",
             "description": "",
             "country-code": "KE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.sabay.com.kh/debian/",
-            "name": "mirror.sabay.com.kh",
-            "description": "",
-            "country-code": "KH",
             "role": "official-mirror"
         },
         {
@@ -1693,13 +1672,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xtom.nl/debian/",
-            "name": "mirrors.xtom.nl",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.nl.debian.org/debian/",
             "name": "ftp.nl.debian.org",
             "description": "",
@@ -1718,6 +1690,13 @@
             "name": "ftp.no.debian.org",
             "description": "",
             "country-code": "NO",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://linux.purple-cat.net/debian/",
+            "name": "linux.purple-cat.net",
+            "description": "",
+            "country-code": "NZ",
             "role": "official-mirror"
         },
         {
@@ -1966,20 +1945,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.coganng.com/debian/",
-            "name": "mirror.coganng.com",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.sg.gs/debian/",
-            "name": "mirror.sg.gs",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ossmirror.mycloud.services/debian/",
             "name": "ossmirror.mycloud.services",
             "description": "",
@@ -2155,13 +2120,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.xtom.com/debian/",
-            "name": "mirrors.xtom.com",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.ocf.berkeley.edu/debian/",
             "name": "mirrors.ocf.berkeley.edu",
             "description": "",
@@ -2283,13 +2241,6 @@
         {
             "url": "http://mirrors.wikimedia.org/debian/",
             "name": "mirrors.wikimedia.org",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.timkevin.us/debian/",
-            "name": "mirror.timkevin.us",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
