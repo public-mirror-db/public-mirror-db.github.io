@@ -6,14 +6,14 @@
     ],
     "mirrors": [
         {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS/LineageOS",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/git/lineageOS",
             "name": "Tuna",
             "description": "",
             "country-code": "CN",
             "role": "wild-mirror"
         },
         {
-            "url": "https://mirrors.cernet.edu.cn/lineageOS/LineageOS",
+            "url": "https://mirrors.cernet.edu.cn/lineageOS",
             "name": "MirrorZ",
             "description": "",
             "country-code": "CN",
