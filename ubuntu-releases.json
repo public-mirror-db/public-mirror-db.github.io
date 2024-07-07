@@ -674,27 +674,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.hep.gg/ubuntu-releases/",
-            "name": "Team Hydra",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.hep.gg/ubuntu-releases/",
-            "name": "Team Hydra",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.hep.gg/ubuntu-releases/",
-            "name": "Team Hydra",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://gpl.savoirfairelinux.net/pub/mirrors/ubuntu-releases/",
             "name": "Savoir-faire Linux",
             "description": "",
@@ -5819,20 +5798,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ubuntu.ccns.ncku.edu.tw/ubuntu-cd/",
-            "name": "NCKU CCNS",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ubuntu.ccns.ncku.edu.tw/ubuntu-cd/",
-            "name": "NCKU CCNS",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ubuntu.cs.nctu.edu.tw/ubuntu-release/",
             "name": "NCTUCSCC",
             "description": "",
@@ -7935,13 +7900,6 @@
         {
             "url": "http://vn-mirrors.vhost.vn/ubuntu-release/",
             "name": "vHost",
-            "description": "",
-            "country-code": "VN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.clearsky.vn/ubuntu-releases/",
-            "name": "clearsky.vn",
             "description": "",
             "country-code": "VN",
             "role": "official-mirror"

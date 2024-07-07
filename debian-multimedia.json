@@ -16,29 +16,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.by.debian.org/debian-multimedia/",
-            "name": "ftp.by.debian.org",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
-            "name": "debian.c3sl.ufpr.br",
-            "description": "",
-            "country-code": "BR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-multimedia/",
             "name": "mirrors.tuna.tsinghua.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.lzu.edu.cn/debian-multimedia/",
-            "name": "mirror.lzu.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -51,8 +30,36 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.lzu.edu.cn/debian-multimedia/",
+            "name": "mirror.lzu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.nyist.edu.cn/debian-multimedia/",
             "name": "mirror.nyist.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.c3sl.ufpr.br/debian-multimedia/",
+            "name": "debian.c3sl.ufpr.br",
+            "description": "",
+            "country-code": "BR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.by.debian.org/debian-multimedia/",
+            "name": "ftp.by.debian.org",
+            "description": "",
+            "country-code": "BY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.ustc.edu.cn/debian-multimedia/",
+            "name": "mirrors.ustc.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -72,13 +79,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ustc.edu.cn/debian-multimedia/",
-            "name": "mirrors.ustc.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.dk.debian.org/debian-multimedia/",
             "name": "ftp.dk.debian.org",
             "description": "",
@@ -93,10 +93,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.mirror.garr.it/debian-multimedia/",
-            "name": "debian.mirror.garr.it",
+            "url": "http://kebo.pens.ac.id/debian-multimedia/",
+            "name": "kebo.pens.ac.id",
             "description": "",
-            "country-code": "IT",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.kaist.ac.kr/debian-multimedia/",
+            "name": "ftp.kaist.ac.kr",
+            "description": "",
+            "country-code": "KP",
             "role": "official-mirror"
         },
         {
@@ -107,10 +114,17 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://kebo.pens.ac.id/debian-multimedia/",
-            "name": "kebo.pens.ac.id",
+            "url": "http://debian.mirror.garr.it/debian-multimedia/",
+            "name": "debian.mirror.garr.it",
             "description": "",
-            "country-code": "ID",
+            "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.nc.debian.org/debian-multimedia/",
+            "name": "ftp.nc.debian.org",
+            "description": "",
+            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -128,22 +142,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.nc.debian.org/debian-multimedia/",
-            "name": "ftp.nc.debian.org",
-            "description": "",
-            "country-code": "NC",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.ru.debian.org/debian-multimedia/",
             "name": "ftp.ru.debian.org",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
-            "name": "mirror.truenetwork.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
@@ -156,17 +156,17 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.truenetwork.ru/debian-multimedia/",
+            "name": "mirror.truenetwork.ru",
+            "description": "",
+            "country-code": "RU",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://debian.lth.se/debian-multimedia/",
             "name": "debian.lth.se",
             "description": "",
             "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.volia.net/debian-multimedia/",
-            "name": "debian.volia.net",
-            "description": "",
-            "country-code": "UA",
             "role": "official-mirror"
         },
         {
@@ -181,6 +181,13 @@
             "name": "opensource.nchc.org.tw",
             "description": "",
             "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.volia.net/debian-multimedia/",
+            "name": "debian.volia.net",
+            "description": "",
+            "country-code": "UA",
             "role": "official-mirror"
         },
         {

@@ -6939,20 +6939,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://archive.ubuntu.csg.uzh.ch/ubuntu/",
-            "name": "Communication Systems Group (CSG@UZH)",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://archive.ubuntu.csg.uzh.ch/ubuntu/archive/",
-            "name": "Communication Systems Group (CSG@UZH)",
-            "description": "",
-            "country-code": "CH",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.solnet.ch/ubuntu/",
             "name": "BSE Software GmbH, SolNet",
             "description": "",
