@@ -2,6 +2,13 @@
     "sources": [],
     "mirrors": [
         {
+            "url": "http://mirrors.bfsu.edu.cn/debian-nonfree/",
+            "name": "mirrors.bfsu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.tuna.tsinghua.edu.cn/debian-nonfree/",
             "name": "mirrors.tuna.tsinghua.edu.cn",
             "description": "",
@@ -9,15 +16,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.nyist.edu.cn/debian-nonfree/",
-            "name": "mirror.nyist.edu.cn",
+            "url": "http://mirror.lzu.edu.cn/debian-nonfree/",
+            "name": "mirror.lzu.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.lzu.edu.cn/debian-nonfree/",
-            "name": "mirror.lzu.edu.cn",
+            "url": "http://mirror.nyist.edu.cn/debian-nonfree/",
+            "name": "mirror.nyist.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"

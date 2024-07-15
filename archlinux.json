@@ -4127,10 +4127,32 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://at.mirrors.cicku.me/archlinux/",
+            "name": "at.mirrors.cicku.me",
+            "description": "",
+            "country-code": "AT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://au.mirrors.cicku.me/archlinux/",
             "name": "au.mirrors.cicku.me",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://br.mirrors.cicku.me/archlinux/",
+            "name": "br.mirrors.cicku.me",
+            "description": "",
+            "country-code": "BR",
             "address-families": [
                 "ip",
                 "ip6"
@@ -4149,6 +4171,17 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ch.mirrors.cicku.me/archlinux/",
+            "name": "ch.mirrors.cicku.me",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://de.mirrors.cicku.me/archlinux/",
             "name": "de.mirrors.cicku.me",
             "description": "",
@@ -4160,10 +4193,54 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://es.mirrors.cicku.me/archlinux/",
+            "name": "es.mirrors.cicku.me",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fr.mirrors.cicku.me/archlinux/",
+            "name": "fr.mirrors.cicku.me",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gb.mirrors.cicku.me/archlinux/",
+            "name": "gb.mirrors.cicku.me",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://in.mirrors.cicku.me/archlinux/",
             "name": "in.mirrors.cicku.me",
             "description": "",
             "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://it.mirrors.cicku.me/archlinux/",
+            "name": "it.mirrors.cicku.me",
+            "description": "",
+            "country-code": "IT",
             "address-families": [
                 "ip",
                 "ip6"
@@ -4193,10 +4270,54 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://nl.mirrors.cicku.me/archlinux/",
+            "name": "nl.mirrors.cicku.me",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ru.mirrors.cicku.me/archlinux/",
+            "name": "ru.mirrors.cicku.me",
+            "description": "",
+            "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sa.mirrors.cicku.me/archlinux/",
+            "name": "sa.mirrors.cicku.me",
+            "description": "",
+            "country-code": "SA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://sg.mirrors.cicku.me/archlinux/",
             "name": "sg.mirrors.cicku.me",
             "description": "",
             "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://tw.mirrors.cicku.me/archlinux/",
+            "name": "tw.mirrors.cicku.me",
+            "description": "",
+            "country-code": "TW",
             "address-families": [
                 "ip",
                 "ip6"
@@ -4215,10 +4336,43 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://za.mirrors.cicku.me/archlinux/",
+            "name": "za.mirrors.cicku.me",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://at.mirrors.cicku.me/archlinux/",
+            "name": "at.mirrors.cicku.me",
+            "description": "",
+            "country-code": "AT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://au.mirrors.cicku.me/archlinux/",
             "name": "au.mirrors.cicku.me",
             "description": "",
             "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://br.mirrors.cicku.me/archlinux/",
+            "name": "br.mirrors.cicku.me",
+            "description": "",
+            "country-code": "BR",
             "address-families": [
                 "ip",
                 "ip6"
@@ -4237,6 +4391,17 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ch.mirrors.cicku.me/archlinux/",
+            "name": "ch.mirrors.cicku.me",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://de.mirrors.cicku.me/archlinux/",
             "name": "de.mirrors.cicku.me",
             "description": "",
@@ -4248,10 +4413,54 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://es.mirrors.cicku.me/archlinux/",
+            "name": "es.mirrors.cicku.me",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fr.mirrors.cicku.me/archlinux/",
+            "name": "fr.mirrors.cicku.me",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gb.mirrors.cicku.me/archlinux/",
+            "name": "gb.mirrors.cicku.me",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://in.mirrors.cicku.me/archlinux/",
             "name": "in.mirrors.cicku.me",
             "description": "",
             "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://it.mirrors.cicku.me/archlinux/",
+            "name": "it.mirrors.cicku.me",
+            "description": "",
+            "country-code": "IT",
             "address-families": [
                 "ip",
                 "ip6"
@@ -4281,6 +4490,39 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://nl.mirrors.cicku.me/archlinux/",
+            "name": "nl.mirrors.cicku.me",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ru.mirrors.cicku.me/archlinux/",
+            "name": "ru.mirrors.cicku.me",
+            "description": "",
+            "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://sa.mirrors.cicku.me/archlinux/",
+            "name": "sa.mirrors.cicku.me",
+            "description": "",
+            "country-code": "SA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://sg.mirrors.cicku.me/archlinux/",
             "name": "sg.mirrors.cicku.me",
             "description": "",
@@ -4292,10 +4534,32 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://tw.mirrors.cicku.me/archlinux/",
+            "name": "tw.mirrors.cicku.me",
+            "description": "",
+            "country-code": "TW",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://us.mirrors.cicku.me/archlinux/",
             "name": "us.mirrors.cicku.me",
             "description": "",
             "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://za.mirrors.cicku.me/archlinux/",
+            "name": "za.mirrors.cicku.me",
+            "description": "",
+            "country-code": "ZA",
             "address-families": [
                 "ip",
                 "ip6"
@@ -11705,7 +11969,8 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip"
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -12723,10 +12988,32 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://us.arch.niranjan.co/",
+            "name": "us.arch.niranjan.co",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://arch.niranjan.co/",
             "name": "arch.niranjan.co",
             "description": "",
             "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://us.arch.niranjan.co/",
+            "name": "us.arch.niranjan.co",
+            "description": "",
+            "country-code": "US",
             "address-families": [
                 "ip",
                 "ip6"
@@ -12793,6 +13080,50 @@
             "name": "mirrors.pablonara.com",
             "description": "",
             "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.raiolanetworks.com/archlinux/",
+            "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.raiolanetworks.com/archlinux/",
+            "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.raiolanetworks.com/pub/archlinux/",
+            "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.huongnguyen.dev/arch/",
+            "name": "mirrors.huongnguyen.dev",
+            "description": "",
+            "country-code": "VN",
             "address-families": [
                 "ip",
                 "ip6"

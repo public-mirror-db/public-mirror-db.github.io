@@ -1297,6 +1297,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirrors.sdu.edu.cn/ubuntu/",
+            "name": "SDU Mirrors",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.sdu.edu.cn/ubuntu/",
+            "name": "SDU Mirrors",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.sdu.edu.cn/ubuntu/",
+            "name": "SDU Mirrors",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
             "url": "https://repo.huaweicloud.com/ubuntu/",
             "name": "Huawei Cloud",
             "description": "",
@@ -1353,20 +1374,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirrors.hust.edu.cn/ubuntu/",
-            "name": "Huazhong University of Science and Technology",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.hust.edu.cn/ubuntu/",
-            "name": "Huazhong University of Science and Technology",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.jcut.edu.cn/ubuntu/",
             "name": "Jingchu University of Technology",
             "description": "",
@@ -1390,6 +1397,20 @@
         {
             "url": "rsync://mirrors.jlu.edu.cn/ubuntu/",
             "name": "Jilin University",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.jxust.edu.cn/ubuntu/",
+            "name": "Jaingxi University of Science and Technology",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.jxust.edu.cn/ubuntu/",
+            "name": "Jaingxi University of Science and Technology",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -2998,6 +3019,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://hk.mirrors.thegigabit.com/ubuntu/",
+            "name": "Gigabit Hosting Sdn Bhd",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror-hk.koddos.net/ubuntu/",
             "name": "KoDDoS",
             "description": "",
@@ -3056,6 +3084,27 @@
         {
             "url": "rsync://quantum-mirror.hu/ubuntu/",
             "name": "Quantum Mirror",
+            "description": "",
+            "country-code": "HU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.sth.sze.hu/ubuntu/",
+            "name": "Szechenyi Istvan University",
+            "description": "",
+            "country-code": "HU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.sth.sze.hu/ubuntu/",
+            "name": "Szechenyi Istvan University",
+            "description": "",
+            "country-code": "HU",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.sth.sze.hu/ubuntu/",
+            "name": "Szechenyi Istvan University",
             "description": "",
             "country-code": "HU",
             "role": "official-mirror"
@@ -4923,6 +4972,27 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ubuntu.mirror.thegigabit.com/",
+            "name": "Gigabit Hosting Sdn Bhd",
+            "description": "",
+            "country-code": "MY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ubuntu.mirror.thegigabit.com/",
+            "name": "Gigabit Hosting Sdn Bhd",
+            "description": "",
+            "country-code": "MY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ubuntu.mirror.thegigabit.com/",
+            "name": "Gigabit Hosting Sdn Bhd",
+            "description": "",
+            "country-code": "MY",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ubuntu.tuxuri.com/ubuntu/",
             "name": "Tuxuri",
             "description": "",
@@ -5905,6 +5975,27 @@
         {
             "url": "ftp://archive.ubuntumirror.dei.uc.pt/ubuntu/",
             "name": "University of Coimbra, Dep. Informatics Engineering",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/",
+            "name": "Rede das Novas Licenciaturas - Instituto Superior T\u00e9cnico",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/",
+            "name": "Rede das Novas Licenciaturas - Instituto Superior T\u00e9cnico",
+            "description": "",
+            "country-code": "PT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ftp.rnl.tecnico.ulisboa.pt/pub/ubuntu/archive/",
+            "name": "Rede das Novas Licenciaturas - Instituto Superior T\u00e9cnico",
             "description": "",
             "country-code": "PT",
             "role": "official-mirror"
@@ -7002,20 +7093,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://free.nchc.org.tw/ubuntu/",
-            "name": "NCHC, Taiwan",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://free.nchc.org.tw/ubuntu",
-            "name": "NCHC, Taiwan",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://mirror.twds.com.tw/ubuntu/",
             "name": "Taiwan Digital Streaming Co.",
             "description": "",
@@ -7053,6 +7130,20 @@
         {
             "url": "rsync://mirror.twds.com.tw/ubuntu-ports/",
             "name": "Taiwan Digital Streaming Co.",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://free.nchc.org.tw/ubuntu/",
+            "name": "NCHC, Taiwan",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://free.nchc.org.tw/ubuntu",
+            "name": "NCHC, Taiwan",
             "description": "",
             "country-code": "TW",
             "role": "official-mirror"
@@ -7107,34 +7198,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.ossplanet.net/ubuntu/",
-            "name": "OSSPlanet",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.ossplanet.net/ubuntu/",
-            "name": "OSSPlanet",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.ossplanet.net/ubuntu/",
-            "name": "OSSPlanet",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.ossplanet.net/ubuntu/",
-            "name": "OSSPlanet",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://ftp.tc.edu.tw/Linux/ubuntu/",
             "name": "TaiChung City Education Network Center",
             "description": "",
@@ -7158,6 +7221,20 @@
         {
             "url": "http://mirror.nwlab.tk/ubuntu/",
             "name": "National Central University, Mobile Broadband Network Lab",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://tw1.mirror.blendbyte.net/ubuntu/",
+            "name": "Blendbyte Inc.",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://tw1.mirror.blendbyte.net/ubuntu/",
+            "name": "Blendbyte Inc.",
             "description": "",
             "country-code": "TW",
             "role": "official-mirror"
@@ -8871,20 +8948,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.ecvps.com/ubuntu/",
-            "name": "EcVps Technology",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirrors.ecvps.com/ubuntu/",
-            "name": "EcVps Technology",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.liquidweb.com/ubuntu/",
             "name": "LiquidWeb",
             "description": "",
@@ -9384,6 +9447,13 @@
         {
             "url": "http://vn-mirrors.vhost.vn/ubuntu/",
             "name": "vHost",
+            "description": "",
+            "country-code": "VN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.clearsky.vn/ubuntu/",
+            "name": "clearsky.vn",
             "description": "",
             "country-code": "VN",
             "role": "official-mirror"
