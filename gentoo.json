@@ -103,7 +103,7 @@
         },
         {
             "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
-            "name": "OVHcloud (Anycast: Beauharnois)",
+            "name": "OVHcloud (Anycast: Beauharnois, Toronto)",
             "description": "",
             "country-code": "CA",
             "address-families": [
@@ -113,7 +113,83 @@
         },
         {
             "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
-            "name": "OVHcloud (Anycast: Beauharnois)",
+            "name": "OVHcloud (Anycast: Beauharnois, Toronto)",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ca.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ca.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://elara.ca.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://elara.ca.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://elara.ca.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://elara.ca.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.iro.umontreal.ca/gentoo/",
+            "name": "Diro",
             "description": "",
             "country-code": "CA",
             "address-families": [
@@ -366,6 +442,199 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks (Anycast: Global)",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks (Anycast: Global)",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks (Anycast: Global)",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks (Anycast: Global)",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.cs.odu.edu/",
+            "name": "Old Dominion University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.cs.odu.edu/",
+            "name": "Old Dominion University",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://us.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://us.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.umd.edu/gentoo/",
+            "name": "University of Maryland",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.umd.edu/gentoo/",
+            "name": "University of Maryland",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.umd.edu/gentoo/",
+            "name": "University of Maryland",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.kernel.org/gentoo/",
+            "name": "kernel.org",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.kernel.org/gentoo/",
+            "name": "kernel.org",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.kernel.org/mirrors/gentoo/",
+            "name": "kernel.org",
+            "description": "",
+            "country-code": "US",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://triton.mx.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://triton.mx.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://triton.mx.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://triton.mx.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MX",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://gentoo.zero.com.ar/gentoo/",
             "name": "www.zero.com.ar",
             "description": "",
@@ -421,6 +690,149 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://br.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://br.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://umbriel.br.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://umbriel.br.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://umbriel.br.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://umbriel.br.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mimas.co.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mimas.co.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mimas.co.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mimas.co.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "CO",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://elmirror.cl/gentoo/",
+            "name": "ElMirror.cl Team",
+            "description": "",
+            "country-code": "CL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://elmirror.cl/gentoo/",
+            "name": "ElMirror.cl Team",
+            "description": "",
+            "country-code": "CL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://elmirror.cl/gentoo/",
+            "name": "ElMirror.cl Team",
+            "description": "",
+            "country-code": "CL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.kumi.systems/gentoo/",
             "name": "Kumi Systems e.U.",
             "description": "",
@@ -454,6 +866,28 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://at.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "AT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://at.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "AT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://ftp.belnet.be/pub/rsync.gentoo.org/gentoo/",
             "name": "Belnet",
             "description": "",
@@ -467,6 +901,28 @@
         {
             "url": "rsync://ftp.belnet.be/gentoo/gentoo/",
             "name": "Belnet",
+            "description": "",
+            "country-code": "BE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.mirror-services.net/gentoo-distfiles/",
+            "name": "BOINC Team Belgium (boinc.teambelgium.net)",
+            "description": "",
+            "country-code": "BE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror-services.net/gentoo-distfiles/",
+            "name": "BOINC Team Belgium (boinc.teambelgium.net)",
             "description": "",
             "country-code": "BE",
             "address-families": [
@@ -520,6 +976,50 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://phoebe.bg.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://phoebe.bg.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://phoebe.bg.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://phoebe.bg.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "BG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.init7.net/gentoo/",
             "name": "Init7",
             "description": "",
@@ -544,6 +1044,50 @@
         {
             "url": "rsync://mirror.init7.net/gentoo/",
             "name": "Init7",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://pkg.adfinis-on-exoscale.ch/gentoo/",
+            "name": "Adfinis & Exoscale",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pkg.adfinis-on-exoscale.ch/gentoo/",
+            "name": "Adfinis & Exoscale",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ch.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "CH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ch.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
             "description": "",
             "country-code": "CH",
             "address-families": [
@@ -663,6 +1207,72 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://gluttony.sin.cvut.cz/gentoo/",
+            "name": "Sincoolka Mirror - Club Sincoolka, Czech Technical University in Prague",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gluttony.sin.cvut.cz/gentoo/",
+            "name": "Sincoolka Mirror - Club Sincoolka, Czech Technical University in Prague",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.vpsfree.cz/gentoo/",
+            "name": "vpsFree.cz",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.vpsfree.cz/gentoo/",
+            "name": "vpsFree.cz",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.nic.cz/source/",
+            "name": "CZ.NIC",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://gentoo.nic.cz/gentoo-source",
+            "name": "CZ.NIC",
+            "description": "",
+            "country-code": "CZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.dotsrc.org/gentoo/",
             "name": "dotsrc.org",
             "description": "",
@@ -708,7 +1318,7 @@
         },
         {
             "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
-            "name": "OVHcloud (Anycast: Gravelines; Roubaix; Strasbourg)",
+            "name": "OVHcloud (Anycast: Gravelines, Paris, Roubaix, Strasbourg)",
             "description": "",
             "country-code": "FR",
             "address-families": [
@@ -718,7 +1328,7 @@
         },
         {
             "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
-            "name": "OVHcloud (Anycast: Gravelines; Roubaix; Strasbourg)",
+            "name": "OVHcloud (Anycast: Gravelines, Paris, Roubaix, Strasbourg)",
             "description": "",
             "country-code": "FR",
             "address-families": [
@@ -806,6 +1416,103 @@
         {
             "url": "ftp://mirrors.soeasyto.com/distfiles.gentoo.org/",
             "name": "soeasyto.com",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://fr.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://fr.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://nereid.fr.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://nereid.fr.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://nereid.fr.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://nereid.fr.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://elda.asgardius.company/gentoo",
+            "name": "Page Asgardius",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://elda.asgardius.company/gentoo",
+            "name": "Page Asgardius",
+            "description": "",
+            "country-code": "FR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ibcp.fr/pub/gentoo",
+            "name": "CNRS IBCP",
             "description": "",
             "country-code": "FR",
             "address-families": [
@@ -1260,17 +1967,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://ftp.uni-stuttgart.de/gentoo-distfiles/",
-            "name": "Universit\u00e4t Stuttgart",
-            "description": "",
-            "country-code": "DE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://ftp.spline.inf.fu-berlin.de/mirrors/gentoo/",
             "name": "Freie Universit\u00e4t Berlin - Spline",
             "description": "",
@@ -1345,6 +2041,186 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://de.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://de.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://oberon.de.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://oberon.de.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://oberon.de.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://oberon.de.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.kurdy.org/",
+            "name": "kurdy.org",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.kurdy.org/",
+            "name": "kurdy.org",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://kurdy.org/gentoo",
+            "name": "kurdy.org",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.diyarciftci.xyz/gentoo/",
+            "name": "Diyar Ciftci",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.diyarciftci.xyz/gentoo/",
+            "name": "Diyar Ciftci",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.diyarciftci.xyz/gentoo/",
+            "name": "Diyar Ciftci",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.rabisu.com/mirrors/gentoo/",
+            "name": "Rabisu",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.rabisu.com/mirrors/gentoo/",
+            "name": "Rabisu",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.rabisu.com/mirrors/gentoo/",
+            "name": "Rabisu",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.wcgw.art/",
+            "name": "aemailhost.com",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.wcgw.art/",
+            "name": "aemailhost.com",
+            "description": "",
+            "country-code": "DE",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "ftp://ftp.ntua.gr/pub/linux/gentoo/",
             "name": "National Technical University of Athens",
             "description": "",
@@ -1363,36 +2239,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://quantum-mirror.hu/mirrors/pub/gentoo",
-            "name": "Quantum Mirror",
-            "description": "",
-            "country-code": "HU",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://quantum-mirror.hu/mirrors/pub/gentoo",
-            "name": "Quantum Mirror",
-            "description": "",
-            "country-code": "HU",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://quantum-mirror.hu/gentoo",
-            "name": "Quantum Mirror",
-            "description": "",
-            "country-code": "HU",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1427,39 +2273,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://ftp.heanet.ie/mirrors/gentoo.org/",
-            "name": "HEAnet - Ireland's National Education and Research Network",
-            "description": "",
-            "country-code": "IE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.heanet.ie/mirrors/gentoo.org/",
-            "name": "HEAnet - Ireland's National Education and Research Network",
-            "description": "",
-            "country-code": "IE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.heanet.ie/mirrors/gentoo.org/",
-            "name": "HEAnet - Ireland's National Education and Research Network",
-            "description": "",
-            "country-code": "IE",
-            "address-families": [
-                "ip",
-                "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "https://gentoo.mirror.garr.it/",
             "name": "GARR",
             "description": "",
@@ -1478,6 +2291,48 @@
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://it.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "IT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://it.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "IT",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Milan)",
+            "description": "",
+            "country-code": "IT",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Milan)",
+            "description": "",
+            "country-code": "IT",
+            "address-families": [
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1506,6 +2361,92 @@
         {
             "url": "ftp://mirror.as43289.net/gentoo",
             "name": "Trabia Network",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.hosthink.net/gentoo/",
+            "name": "Hosthink Dedicated Servers",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.hosthink.net/gentoo/",
+            "name": "Hosthink Dedicated Servers",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://belinda.it.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://belinda.it.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://belinda.it.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://belinda.it.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.as43289.net/gentoo",
+            "name": "Trabia-Network",
+            "description": "",
+            "country-code": "MD",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.as43289.net/gentoo",
+            "name": "Trabia-Network",
             "description": "",
             "country-code": "MD",
             "address-families": [
@@ -1612,10 +2553,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://ftp.vectranet.pl/gentoo/",
-            "name": "Vectranet",
+            "url": "https://mirrors.hostiserver.com/gentoo/",
+            "name": "IT Services Company s.r.o.",
             "description": "",
-            "country-code": "PL",
+            "country-code": "NL",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1623,10 +2564,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.vectranet.pl/gentoo/",
-            "name": "Vectranet",
+            "url": "http://mirrors.hostiserver.com/gentoo/",
+            "name": "IT Services Company s.r.o.",
             "description": "",
-            "country-code": "PL",
+            "country-code": "NL",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1634,13 +2575,126 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://ftp.vectranet.pl/gentoo/",
-            "name": "Vectranet",
+            "url": "ftp://mirrors.hostiserver.com/gentoo/",
+            "name": "IT Services Company s.r.o.",
             "description": "",
-            "country-code": "PL",
+            "country-code": "NL",
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirrors.hostiserver.com/gentoo/",
+            "name": "IT Services Company s.r.o.",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://nl.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://nl.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.vulnseeker.org/pub/gentoo/",
+            "name": "Vuln Seeker",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.vulnseeker.org/pub/gentoo/",
+            "name": "Vuln Seeker",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.vulnseeker.org/gentoo",
+            "name": "Vuln Seeker",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.lyrahosting.com/gentoo/",
+            "name": "Lyrahosting.com",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lyrahosting.com/gentoo/",
+            "name": "Lyrahosting.com",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.lyrahosting.com/gentoo",
+            "name": "Lyrahosting.com",
+            "description": "",
+            "country-code": "NL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.alldaydev.com/gentoo",
+            "name": "All-Day Developer Marcin Wawrzk\u00f3w",
+            "description": "",
+            "country-code": "PL",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.alldaydev.com/gentoo",
+            "name": "All-Day Developer Marcin Wawrzk\u00f3w",
+            "description": "",
+            "country-code": "PL",
+            "address-families": [
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1685,16 +2739,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.dei.uc.pt/pub/linux/gentoo/",
-            "name": "University of Coimbra",
-            "description": "",
-            "country-code": "PT",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1761,6 +2805,36 @@
             "address-families": [
                 "ip",
                 "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.sbb.rs/gentoo/",
+            "name": "sbb.rs",
+            "description": "",
+            "country-code": "RS",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.sbb.rs/gentoo/",
+            "name": "sbb.rs",
+            "description": "",
+            "country-code": "RS",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.sbb.rs/gentoo/",
+            "name": "sbb.rs",
+            "description": "",
+            "country-code": "RS",
+            "address-families": [
+                "ip"
             ],
             "role": "official-mirror"
         },
@@ -1906,8 +2980,83 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://mirror.javier.eu.org/gentoo-distfiles/",
+            "name": "Javier Garc\u00eda",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.javier.eu.org/gentoo-distfiles/",
+            "name": "Javier Garc\u00eda",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://es.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://es.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.raiolanetworks.com/gentoo/",
+            "name": "Raiola Networks (raiolanetworks.com)",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.raiolanetworks.com/gentoo/",
+            "name": "Raiola Networks (raiolanetworks.com)",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.raiolanetworks.com/gentoo",
+            "name": "Raiola Networks (raiolanetworks.com)",
+            "description": "",
+            "country-code": "ES",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://ftp.linux.org.tr/gentoo/",
-            "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
+            "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi (LKD)",
             "description": "",
             "country-code": "TR",
             "address-families": [
@@ -1917,7 +3066,7 @@
         },
         {
             "url": "rsync://ftp.linux.org.tr/gentoo-distfiles/",
-            "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi(LKD)",
+            "name": "Turkish Linux Users Group - Linux Kullanicilari Dernegi (LKD)",
             "description": "",
             "country-code": "TR",
             "address-families": [
@@ -1926,10 +3075,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://mirror.bytemark.co.uk/gentoo/",
-            "name": "Bytemark Hosting",
+            "url": "https://mirror.hostiko.network/gentoo",
+            "name": "Hostiko",
             "description": "",
-            "country-code": "GB",
+            "country-code": "UA",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1937,10 +3086,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.bytemark.co.uk/gentoo/",
-            "name": "Bytemark Hosting",
+            "url": "http://mirror.hostiko.network/gentoo",
+            "name": "Hostiko",
             "description": "",
-            "country-code": "GB",
+            "country-code": "UA",
             "address-families": [
                 "ip",
                 "ip6"
@@ -1948,10 +3097,43 @@
             "role": "official-mirror"
         },
         {
-            "url": "rsync://mirror.bytemark.co.uk/gentoo/",
-            "name": "Bytemark Hosting",
+            "url": "https://himalia.ua.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
             "description": "",
-            "country-code": "GB",
+            "country-code": "UA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://himalia.ua.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "UA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://himalia.ua.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "UA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://himalia.ua.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "UA",
             "address-families": [
                 "ip",
                 "ip6"
@@ -2053,6 +3235,72 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://gb.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gb.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://callisto.gb.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://callisto.gb.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://callisto.gb.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://callisto.gb.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "GB",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.aarnet.edu.au/pub/gentoo/",
             "name": "AARnet",
             "description": "",
@@ -2138,6 +3386,92 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://au.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://au.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://metis.au.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://metis.au.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://metis.au.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://metis.au.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Sydney)",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Sydney)",
+            "description": "",
+            "country-code": "AU",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.lagoon.nc/gentoo/",
             "name": "Lagoon",
             "description": "",
@@ -2178,46 +3512,6 @@
             "address-families": [
                 "ip",
                 "ip6"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.aliyun.com/gentoo/",
-            "name": "Alibaba Cloud Computing",
-            "description": "",
-            "country-code": "CN",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.aliyun.com/gentoo/",
-            "name": "Alibaba Cloud Computing",
-            "description": "",
-            "country-code": "CN",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.163.com/gentoo/",
-            "name": "Netease.com, Inc.",
-            "description": "",
-            "country-code": "CN",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.163.com/gentoo/",
-            "name": "Netease.com, Inc.",
-            "description": "",
-            "country-code": "CN",
-            "address-families": [
-                "ip"
             ],
             "role": "official-mirror"
         },
@@ -2372,6 +3666,72 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://hk.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "HK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://hk.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "HK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://hippocamp.cn.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "HK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://hippocamp.cn.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "HK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://hippocamp.cn.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "HK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://hippocamp.cn.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "HK",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirrors.nxtgen.com/gentoo-mirror/gentoo-source/",
             "name": "NxtGen",
             "description": "",
@@ -2392,6 +3752,92 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://in.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://in.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ariel.in.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ariel.in.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://ariel.in.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://ariel.in.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Mumbai)",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://gentoo.mirrors.ovh.net/gentoo-distfiles/",
+            "name": "OVHcloud (Anycast: Mumbai)",
+            "description": "",
+            "country-code": "IN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "rsync://ftp.iij.ad.jp/pub/linux/gentoo/",
             "name": "Internet Initiative Japan",
             "description": "",
@@ -2404,6 +3850,17 @@
         },
         {
             "url": "http://ftp.iij.ad.jp/pub/linux/gentoo/",
+            "name": "Internet Initiative Japan",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.iij.ad.jp/pub/linux/gentoo/",
             "name": "Internet Initiative Japan",
             "description": "",
             "country-code": "JP",
@@ -2532,6 +3989,94 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://jp.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://jp.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://kale.jp.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://kale.jp.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://kale.jp.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://kale.jp.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.hashy0917.net/gentoo/",
+            "name": "hashy10G",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.hashy0917.net/gentoo/",
+            "name": "hashy10G",
+            "description": "",
+            "country-code": "JP",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.ps.kz/gentoo/pub",
             "name": "PS Internet Company LLC",
             "description": "",
@@ -2565,6 +4110,50 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://rhea.kz.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://rhea.kz.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://rhea.kz.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://rhea.kz.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "KZ",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "ftp://mirror.rise.ph/gentoo",
             "name": "RISE",
             "description": "",
@@ -2581,6 +4170,50 @@
             "country-code": "PH",
             "address-families": [
                 "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://prospero.qa.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "QA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://prospero.qa.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "QA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://prospero.qa.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "QA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://prospero.qa.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "QA",
+            "address-families": [
+                "ip",
+                "ip6"
             ],
             "role": "official-mirror"
         },
@@ -2605,16 +4238,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "ftp://ftp.kaist.ac.kr/gentoo/",
-            "name": "KAIST",
-            "description": "",
-            "country-code": "KR",
-            "address-families": [
-                "ip"
-            ],
-            "role": "official-mirror"
-        },
-        {
             "url": "rsync://ftp.kaist.ac.kr/gentoo/",
             "name": "KAIST",
             "description": "",
@@ -2629,6 +4252,146 @@
             "name": "lanet.kr",
             "description": "",
             "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.keiminem.com/gentoo/",
+            "name": "Keiverse",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.keiminem.com/gentoo/",
+            "name": "Keiverse",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.keiminem.com/gentoo/",
+            "name": "Keiverse",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://kr.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://kr.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.keiminem.com/gentoo/",
+            "name": "Keiverse",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.keiminem.com/gentoo/",
+            "name": "Keiverse",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror2.keiminem.com/gentoo/",
+            "name": "Keiverse 2",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror2.keiminem.com/gentoo/",
+            "name": "Keiverse 2",
+            "description": "",
+            "country-code": "KR",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://dione.th.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "TH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://dione.th.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "TH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://dione.th.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "TH",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://dione.th.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "TH",
             "address-families": [
                 "ip",
                 "ip6"
@@ -2751,6 +4514,149 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://ru.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ru.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "RU",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://sa.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "SA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sa.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "SA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.freedif.org/gentoo",
+            "name": "Freedif",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.freedif.org/gentoo",
+            "name": "Freedif",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.freedif.org/gentoo",
+            "name": "Freedif",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://sg.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://sg.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://enceladus.sg.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://enceladus.sg.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://enceladus.sg.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://enceladus.sg.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "SG",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "http://ftp.twaren.net/Linux/Gentoo/",
             "name": "National Center for High-Performance Computing",
             "description": "",
@@ -2771,8 +4677,96 @@
             "role": "official-mirror"
         },
         {
+            "url": "https://tw.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "TW",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://tw.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "TW",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.meowsmp.net/gentoo/",
+            "name": "MeowIce",
+            "description": "",
+            "country-code": "VN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.meowsmp.net/gentoo/",
+            "name": "MeowIce",
+            "description": "",
+            "country-code": "VN",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
             "url": "https://mirror.isoc.org.il/pub/gentoo/",
             "name": "Hamakor FOSS Society",
+            "description": "",
+            "country-code": "IL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://tethys.il.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://tethys.il.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://tethys.il.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "IL",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://tethys.il.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
             "description": "",
             "country-code": "IL",
             "address-families": [
@@ -2795,6 +4789,105 @@
         {
             "url": "https://gentoo.uls.co.za/",
             "name": "Ultimate Linux Solutions",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://za.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://za.mirrors.cicku.me/gentoo/",
+            "name": "CICKU",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://setebos.za.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://setebos.za.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://setebos.za.ext.planetunix.net/pub/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://setebos.za.ext.planetunix.net/gentoo/",
+            "name": "PlanetUnix Networks",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.ufs.ac.za/gentoo/",
+            "name": "University of the Free State",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.ufs.ac.za/gentoo/",
+            "name": "University of the Free State",
+            "description": "",
+            "country-code": "ZA",
+            "address-families": [
+                "ip",
+                "ip6"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.ufs.ac.za/gentoo/",
+            "name": "University of the Free State",
             "description": "",
             "country-code": "ZA",
             "address-families": [
@@ -2913,7 +5006,6 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "wild-mirror"
@@ -2924,7 +5016,6 @@
             "description": "",
             "country-code": "CN",
             "address-families": [
-                "ip",
                 "ip6"
             ],
             "role": "wild-mirror"

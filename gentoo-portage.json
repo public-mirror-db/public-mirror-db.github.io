@@ -2,17 +2,19 @@
     "sources": [
         {
             "url": "rsync://rsync.gentoo.org/gentoo-portage"
+        },
+        {
+            "url": "https://anongit.gentoo.org/git/repo/gentoo.git",
+            "access": [
+                "git"
+            ]
         }
     ],
     "mirrors": [
         {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/gentoo-portage",
-            "name": "",
-            "description": "",
-            "country-code": "CN",
-            "address-families": [
-                "ip",
-                "ip6"
+            "url": "mirror://github/gentoo/gentoo.git",
+            "access": [
+                "git"
             ],
             "role": "wild-mirror"
         },

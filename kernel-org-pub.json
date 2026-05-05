@@ -13,7 +13,8 @@
             "name": "Tuna",
             "description": "",
             "country-code": "CN",
-            "partial-mirror": [
+            "partial-mirror": true,
+            "contents": [
                 "/linux/kernel/***"
             ],
             "chroot": "/linux/kernel",

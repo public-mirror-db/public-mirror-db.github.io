@@ -4,5 +4,11 @@
             "url": "https://raw.githubusercontent.com"
         }
     ],
-    "mirrors": []
+    "mirrors": [
+        {
+            "url": "https://xget.xi-xu.me/gh",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        }
+    ]
 }

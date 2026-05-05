@@ -1,12 +1,13 @@
 {
     "sources": [
         {
-            "url": "https://github.githubassets.com"
+            "url": "https://chromewebstore.google.com"
         }
     ],
     "mirrors": [
         {
-            "url": "https://xget.xi-xu.me/gh",
+            "url": "https://chromewebstore.xi-xu.me",
+            "name": "FastGit",
             "country-code": "CN",
             "role": "wild-mirror"
         }

@@ -2,36 +2,8 @@
     "sources": [],
     "mirrors": [
         {
-            "url": "https://packagist.pages.dev/",
-            "name": "packagist.pages.dev",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.co.za",
-            "name": "packagist.co.za",
-            "description": "",
-            "country-code": "ZA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.huaweicloud.com/repository/php",
-            "name": "mirrors.huaweicloud.com",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://developer.aliyun.com/composer",
             "name": "developer.aliyun.com",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.phpcomposer.com",
-            "name": "packagist.phpcomposer.com",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -51,73 +23,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "https://packagist.in",
-            "name": "packagist.in",
-            "description": "",
-            "country-code": "IN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.phpindonesia.id",
-            "name": "packagist.phpindonesia.id",
-            "description": "",
-            "country-code": "ID",
-            "role": "official-mirror"
-        },
-        {
             "url": "https://packagist.jp",
             "name": "packagist.jp",
             "description": "",
             "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.kr",
-            "name": "packagist.kr",
-            "description": "",
-            "country-code": "KR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.mycools.in.th/",
-            "name": "packagist.mycools.in.th",
-            "description": "",
-            "country-code": "TH",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.tw/",
-            "name": "packagist.tw",
-            "description": "",
-            "country-code": "TW",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ephort.dk/packagist",
-            "name": "ephort.dk",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.fi",
-            "name": "packagist.fi",
-            "description": "",
-            "country-code": "FI",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.hesse.im",
-            "name": "packagist.hesse.im",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://packagist.com.br",
-            "name": "packagist.com.br",
-            "description": "",
-            "country-code": "BR",
             "role": "official-mirror"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "sources": [
         {
-            "url": "https://dl-cdn.alpinelinux.org/"
+            "url": "https://dl-cdn.alpinelinux.org"
         }
     ],
     "mirrors": [
@@ -17,27 +17,6 @@
             "name": "dl-cdn.alpinelinux.org",
             "description": "",
             "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://uk.alpinelinux.org/alpine/",
-            "name": "uk.alpinelinux.org",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://uk.alpinelinux.org/alpine/",
-            "name": "uk.alpinelinux.org",
-            "description": "",
-            "country-code": "GB",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://uk.alpinelinux.org/",
-            "name": "uk.alpinelinux.org",
-            "description": "",
-            "country-code": "GB",
             "role": "official-mirror"
         },
         {
@@ -503,20 +482,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.yourlabs.org",
-            "name": "alpine.yourlabs.org",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.yourlabs.org",
-            "name": "alpine.yourlabs.org",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.reenigne.net/alpine/",
             "name": "Reenigne",
             "description": "",
@@ -538,45 +503,24 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://quantum-mirror.hu/mirrors/pub/alpine/",
-            "name": "Quantum mirror",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://quantum-mirror.hu/mirrors/pub/alpine/",
-            "name": "Quantum mirror",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://quantum-mirror.hu/alpine",
-            "name": "Quantum mirror",
-            "description": "",
-            "country-code": "US",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://tux.rainside.sk/alpine/",
             "name": "Rainside",
             "description": "",
-            "country-code": "US",
+            "country-code": "SK",
             "role": "official-mirror"
         },
         {
             "url": "https://tux.rainside.sk/alpine/",
             "name": "Rainside",
             "description": "",
-            "country-code": "US",
+            "country-code": "SK",
             "role": "official-mirror"
         },
         {
             "url": "ftp://tux.rainside.sk/alpine/",
             "name": "Rainside",
             "description": "",
-            "country-code": "US",
+            "country-code": "SK",
             "role": "official-mirror"
         },
         {
@@ -755,34 +699,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://alpine.northrepo.ca",
-            "name": "Northrepo",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://alpine.northrepo.ca",
-            "name": "Northrepo",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.bardia.tech/alpine/",
-            "name": "Bardia",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.bardia.tech/alpine/",
-            "name": "Bardia",
-            "description": "",
-            "country-code": "IR",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.ocf.berkeley.edu/alpine/",
             "name": "Open Compute Facility",
             "description": "",
@@ -836,55 +752,6 @@
             "name": "Alwyzon",
             "description": "",
             "country-code": "AT",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bfsu.edu.cn/alpine",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.bfsu.edu.cn/alpine",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.bfsu.edu.cn/alpine",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftpmirror2.infania.net/mirror/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftpmirror2.infania.net/mirror/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://ftpmirror2.infania.net/mirror/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftpmirror2.infania.net/alpine/",
-            "name": "infania",
-            "description": "",
-            "country-code": "SE",
             "role": "official-mirror"
         },
         {
@@ -1063,55 +930,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "ftp://mirror.serverion.com/alpine/",
-            "name": "Serverion",
-            "description": "",
-            "country-code": "NL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.qontinuum.space/alpinelinux",
-            "name": "Q Continuum",
-            "description": "",
-            "country-code": "MC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirrors.qontinuum.space/alpinelinux",
-            "name": "Q Continuum",
-            "description": "",
-            "country-code": "MC",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirrors.qontinuum.space/alpinelinux",
-            "name": "Q Continuum",
-            "description": "",
-            "country-code": "MC",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.lysator.liu.se/pub/alpine/",
             "name": "Lysator ACS",
             "description": "",
@@ -1192,49 +1010,28 @@
             "url": "http://mirror.vinehost.net/alpine/",
             "name": "Vinehost",
             "description": "",
-            "country-code": "UG",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
             "url": "https://mirror.vinehost.net/alpine/",
             "name": "Vinehost",
             "description": "",
-            "country-code": "UG",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
             "url": "ftp://mirror.vinehost.net/alpine/",
             "name": "Vinehost",
             "description": "",
-            "country-code": "UG",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
             "url": "rsync://mirror.vinehost.net/alpine/",
             "name": "Vinehost",
             "description": "",
-            "country-code": "UG",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.hyperdedic.ru/alpinelinux/",
-            "name": "HyperDedic",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://mirror.hyperdedic.ru/alpinelinux/",
-            "name": "HyperDedic",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://mirror.hyperdedic.ru/alpinelinux/",
-            "name": "HyperDedic",
-            "description": "",
-            "country-code": "RU",
+            "country-code": "GB",
             "role": "official-mirror"
         },
         {
@@ -1442,30 +1239,16 @@
         },
         {
             "url": "http://mirrors.tyo.silicloud.com/alpine/",
-            "name": "mirrors.lax.silicloud.com",
+            "name": "mirrors.tyo.silicloud.com",
             "description": "",
             "country-code": "JP",
             "role": "official-mirror"
         },
         {
             "url": "https://mirrors.tyo.silicloud.com/alpine/",
-            "name": "mirrors.lax.silicloud.com",
+            "name": "mirrors.tyo.silicloud.com",
             "description": "",
             "country-code": "JP",
-            "role": "official-mirror"
-        },
-        {
-            "url": "https://ftp.crifo.org/alpine/",
-            "name": "ftp.crifo.org",
-            "description": "",
-            "country-code": "FR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "rsync://ftp.crifo.org/alpine/",
-            "name": "ftp.crifo.org",
-            "description": "",
-            "country-code": "FR",
             "role": "official-mirror"
         },
         {
@@ -1494,6 +1277,496 @@
             "name": "Neterra",
             "description": "",
             "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.twds.com.tw/alpine/",
+            "name": "TWDS",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.twds.com.tw/alpine/",
+            "name": "TWDS",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.twds.com.tw/alpine/",
+            "name": "TWDS",
+            "description": "",
+            "country-code": "TW",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.raiolanetworks.com/alpine/",
+            "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.raiolanetworks.com/alpine/",
+            "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.raiolanetworks.com/pub/alpine/",
+            "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpinelinux.mirrors.ovh.net/",
+            "name": "OVHcloud",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpinelinux.mirrors.ovh.net/",
+            "name": "OVHcloud",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpine.ethz.ch/alpine/",
+            "name": "alpine.ethz.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpine.ethz.ch/alpine/",
+            "name": "alpine.ethz.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpine.ethz.ch/alpine/",
+            "name": "alpine.ethz.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://alpine.ethz.ch/alpine/",
+            "name": "alpine.ethz.ch",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://pkg.adfinis-on-exoscale.ch/alpine/",
+            "name": "Adfinis on Exoscale",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://pkg.adfinis-on-exoscale.ch/alpine/",
+            "name": "Adfinis on Exoscale",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.hust.edu.cn/alpine/",
+            "name": "Hust",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.hust.edu.cn/alpine/",
+            "name": "Hust",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp2.crifo.org/alpine",
+            "name": "Crifo",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp2.crifo.org/alpine",
+            "name": "Crifo",
+            "description": "",
+            "country-code": "FR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.quantum5.ca/alpine/",
+            "name": "Quantum5",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.quantum5.ca/alpine/",
+            "name": "Quantum5",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.quantum5.ca/alpine/",
+            "name": "Quantum5",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.cs.odu.edu/alpine/",
+            "name": "mirrors.cs.odu.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.cs.odu.edu/alpine/",
+            "name": "mirrors.cs.odu.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.telepoint.bg/alpine/",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.telepoint.bg/alpine/",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://mirror.telepoint.bg/alpine/",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.telepoint.bg/alpine/",
+            "name": "mirror.telepoint.bg",
+            "description": "",
+            "country-code": "BG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.mobinhost.com/alpine/",
+            "name": "Mobinhost",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.mobinhost.com/alpine/",
+            "name": "Mobinhost",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.sdu.edu.cn/alpine/",
+            "name": "mirrors.sdu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.sdu.edu.cn/alpine/",
+            "name": "mirrors.sdu.edu.cn",
+            "description": "",
+            "country-code": "CN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://us.mirror.ionos.com/linux/distributions/alpine/",
+            "name": "IONOS Mirror (US)",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://us.mirror.ionos.com/linux/distributions/alpine/",
+            "name": "IONOS Mirror (US)",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://eu.mirror.ionos.com/linux/distributions/alpine/",
+            "name": "IONOS Mirror (EU)",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://eu.mirror.ionos.com/linux/distributions/alpine/",
+            "name": "IONOS Mirror (EU)",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.maeen.sa/alpine/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.maeen.sa/alpine/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.maeen.sa/alpine/",
+            "name": "Maeen Network",
+            "description": "",
+            "country-code": "SA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://plug-mirror.rcac.purdue.edu/alpine",
+            "name": "plug-mirror.rcac.purdue.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://plug-mirror.rcac.purdue.edu/alpine",
+            "name": "plug-mirror.rcac.purdue.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://plug-mirror.rcac.purdue.edu/alpine",
+            "name": "plug-mirror.rcac.purdue.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "ftp://plug-mirror.rcac.purdue.edu/alpine",
+            "name": "plug-mirror.rcac.purdue.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.saddle.network/alpine",
+            "name": "mirror.saddle.network",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.saddle.network/alpine",
+            "name": "mirror.saddle.network",
+            "description": "",
+            "country-code": "NL",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirrors.hoobly.com/alpine",
+            "name": "Hoobly",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.hoobly.com/alpine",
+            "name": "Hoobly",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.gofoss.xyz/alpine",
+            "name": "gofoss",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.gofoss.xyz/alpine",
+            "name": "gofoss",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.gofoss.xyz/alpine",
+            "name": "gofoss",
+            "description": "",
+            "country-code": "CH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.krfoss.org/alpine",
+            "name": "ROKFOSS Project",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.krfoss.org/alpine",
+            "name": "ROKFOSS Project",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.yz.yamagata-u.ac.jp/pub/linux/alpine/",
+            "name": "Yamagata University",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://ftp.yz.yamagata-u.ac.jp/pub/linux/alpine/",
+            "name": "Yamagata University",
+            "description": "",
+            "country-code": "JP",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://us.mirrors.cicku.me/alpine/",
+            "name": "mirrors.cicku.me",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://us.mirrors.cicku.me/alpine/",
+            "name": "mirrors.cicku.me",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.freedif.org/alpine/",
+            "name": "Freedif Open Source Mirror",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.freedif.org/alpine/",
+            "name": "Freedif Open Source Mirror",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://mirror.freedif.org/alpine/",
+            "name": "Freedif Open Source Mirror",
+            "description": "",
+            "country-code": "SG",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.techlabs.co.kr/alpine/",
+            "name": "mirror.techlabs.co.kr",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.techlabs.co.kr/alpine/",
+            "name": "mirror.techlabs.co.kr",
+            "description": "",
+            "country-code": "KR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.sajattack.xyz/alpine/",
+            "name": "mirror.sajattack.xyz",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.sajattack.xyz/alpine/",
+            "name": "mirror.sajattack.xyz",
+            "description": "",
+            "country-code": "CA",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://alpinemirror.truescape.fi/",
+            "name": "alpinemirror.truescape.fi",
+            "description": "",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://alpinemirror.truescape.fi/",
+            "name": "alpinemirror.truescape.fi",
+            "description": "",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://alpinemirror.truescape.fi/alpine/",
+            "name": "alpinemirror.truescape.fi",
+            "description": "",
+            "country-code": "FI",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://qontinuum.space/mirror/alpinelinux/",
+            "name": "qontinuum.space",
+            "description": "",
+            "country-code": "MC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://qontinuum.space/mirror/alpinelinux/",
+            "name": "qontinuum.space",
+            "description": "",
+            "country-code": "MC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "rsync://qontinuum.space/alpinelinux/",
+            "name": "qontinuum.space",
+            "description": "",
+            "country-code": "MC",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.techrich.hk/alpine/",
+            "name": "mirror.techrich.hk",
+            "description": "",
+            "country-code": "HK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirror.techrich.hk/alpine/",
+            "name": "mirror.techrich.hk",
+            "description": "",
+            "country-code": "HK",
             "role": "official-mirror"
         }
     ]
