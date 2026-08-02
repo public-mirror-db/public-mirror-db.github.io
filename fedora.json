@@ -1,0 +1,49 @@
+{
+    "sources": [
+        {
+            "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/fedora/releases/",
+            "name": "Tsinghua University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.ustc.edu.cn/fedora/releases/",
+            "name": "USTC",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.aliyun.com/fedora/releases/",
+            "name": "Aliyun",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.zju.edu.cn/fedora/releases/",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        }
+    ]
+}

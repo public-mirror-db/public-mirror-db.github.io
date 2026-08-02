@@ -1,0 +1,24 @@
+{
+    "sources": [
+        {
+            "url": "https://cdimage.ubuntu.com/ubuntukylin"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.aliyun.com/ubuntukylin-cdimage/",
+            "name": "Aliyun",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "partial-mirror": true,
+            "contents": [
+                "/releases/***"
+            ],
+            "chroot": "/releases",
+            "role": "official-mirror"
+        }
+    ]
+}

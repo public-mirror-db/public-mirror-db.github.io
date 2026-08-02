@@ -1,13 +1,13 @@
 {
     "sources": [
         {
-            "url": "https://ftp.gnu.org/gnu"
+            "url": "https://raw.repo.almalinux.org/almalinux/"
         }
     ],
     "mirrors": [
         {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/gnu/",
-            "name": "Tsinghua University",
+            "url": "https://mirrors.aliyun.com/almalinux/",
+            "name": "Aliyun",
             "description": "",
             "country-code": "CN",
             "address-families": [

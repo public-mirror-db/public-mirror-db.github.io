@@ -1,0 +1,39 @@
+{
+    "sources": [
+        {
+            "url": "https://dl.rockylinux.org/pub/rocky/"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.ustc.edu.cn/rocky/",
+            "name": "USTC",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.aliyun.com/rockylinux/",
+            "name": "Aliyun",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.zju.edu.cn/rocky/",
+            "name": "ZJU",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        }
+    ]
+}

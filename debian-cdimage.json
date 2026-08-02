@@ -1,12 +1,12 @@
 {
     "sources": [
         {
-            "url": "https://ftp.gnu.org/gnu"
+            "url": "https://cdimage.debian.org/cdimage/release/"
         }
     ],
     "mirrors": [
         {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/gnu/",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/debian-cd/",
             "name": "Tsinghua University",
             "description": "",
             "country-code": "CN",

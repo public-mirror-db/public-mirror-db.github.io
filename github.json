@@ -16,26 +16,6 @@
             "role": "wild-mirror"
         },
         {
-            "url": "https://2github.com",
-            "access": [
-                "web",
-                "git",
-                "https"
-            ],
-            "country-code": "CN",
-            "role": "wild-mirror"
-        },
-        {
-            "url": "https://jgithub.xyz",
-            "access": [
-                "web",
-                "git",
-                "https"
-            ],
-            "country-code": "CN",
-            "role": "wild-mirror"
-        },
-        {
             "url": "https://xget.xi-xu.me/gh",
             "country-code": "CN",
             "role": "wild-mirror"

@@ -1,0 +1,29 @@
+{
+    "sources": [
+        {
+            "url": "https://cdimage.deepin.com/releases/"
+        }
+    ],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/deepin-cd/",
+            "name": "Tsinghua University",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        },
+        {
+            "url": "https://mirrors.aliyun.com/deepin-cd/",
+            "name": "Aliyun",
+            "description": "",
+            "country-code": "CN",
+            "address-families": [
+                "ip"
+            ],
+            "role": "official-mirror"
+        }
+    ]
+}
