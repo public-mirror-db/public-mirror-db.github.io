@@ -1,0 +1,11 @@
+{
+    "sources": [
+        {
+            "url": "https://cdn.openbsd.org/pub/OpenBSD"
+        },
+        {
+            "url": "https://fastly.cdn.openbsd.org/pub/OpenBSD"
+        }
+    ],
+    "mirrors": []
+}

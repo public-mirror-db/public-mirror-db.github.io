@@ -1,12 +1,12 @@
 {
     "sources": [
         {
-            "url": "https://cdimage.debian.org/cdimage/release/"
+            "url": "https://channels.nixos.org/"
         }
     ],
     "mirrors": [
         {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/debian-cd/",
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/nix-channels/",
             "name": "Tsinghua University",
             "description": "",
             "country-code": "CN",

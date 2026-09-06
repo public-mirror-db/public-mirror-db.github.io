@@ -1,0 +1,12 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/aosp-monthly",
+            "name": "Tuna",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        }
+    ]
+}

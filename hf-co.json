@@ -1,12 +1,12 @@
 {
     "sources": [
         {
-            "url": "https://github.com"
+            "url": "https://huggingface.co"
         }
     ],
     "mirrors": [
         {
-            "url": "https://xget.xi-xu.me/gh",
+            "url": "https://hf-mirror.com",
             "country-code": "CN",
             "role": "wild-mirror"
         }

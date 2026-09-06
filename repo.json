@@ -1,0 +1,11 @@
+{
+    "sources": [],
+    "mirrors": [
+        {
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/git/git-repo",
+            "description": "",
+            "country-code": "CN",
+            "role": "wild-mirror"
+        }
+    ]
+}

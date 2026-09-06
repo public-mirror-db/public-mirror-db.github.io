@@ -6,6 +6,20 @@
     ],
     "mirrors": [
         {
+            "url": "http://mirrors.asnet.am/debian/",
+            "name": "mirrors.asnet.am",
+            "description": "",
+            "country-code": "AM",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.am.debian.org/debian/",
+            "name": "ftp.am.debian.org",
+            "description": "",
+            "country-code": "AM",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.sitsa.com.ar/debian/",
             "name": "mirror.sitsa.com.ar",
             "description": "",
@@ -136,6 +150,20 @@
             "name": "mirror.xeonbd.com",
             "description": "",
             "country-code": "BD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.limda.net/debian/",
+            "name": "mirror.limda.net",
+            "description": "",
+            "country-code": "BD",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.unix-solutions.be/debian/",
+            "name": "mirror.unix-solutions.be",
+            "description": "",
+            "country-code": "BE",
             "role": "official-mirror"
         },
         {
@@ -279,13 +307,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.datacenter.by/debian/",
-            "name": "mirror.datacenter.by",
-            "description": "",
-            "country-code": "BY",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.by.debian.org/debian/",
             "name": "ftp.by.debian.org",
             "description": "",
@@ -302,13 +323,6 @@
         {
             "url": "http://mirror.estone.ca/debian/",
             "name": "mirror.estone.ca",
-            "description": "",
-            "country-code": "CA",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://debian.linux.n0c.ca/debian/",
-            "name": "debian.linux.n0c.ca",
             "description": "",
             "country-code": "CA",
             "role": "official-mirror"
@@ -433,13 +447,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian-mirror.puq.apoapsis.cl/debian/",
-            "name": "debian-mirror.puq.apoapsis.cl",
-            "description": "",
-            "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://elmirror.cl/debian/",
             "name": "elmirror.cl",
             "description": "",
@@ -465,13 +472,6 @@
             "name": "ftp.cl.debian.org",
             "description": "",
             "country-code": "CL",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.bfsu.edu.cn/debian/",
-            "name": "mirrors.bfsu.edu.cn",
-            "description": "",
-            "country-code": "CN",
             "role": "official-mirror"
         },
         {
@@ -510,8 +510,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.qlu.edu.cn/debian/",
-            "name": "mirrors.qlu.edu.cn",
+            "url": "http://mirror.sjtu.edu.cn/debian/",
+            "name": "mirror.sjtu.edu.cn",
             "description": "",
             "country-code": "CN",
             "role": "official-mirror"
@@ -556,13 +556,6 @@
             "name": "debianmirror.una.ac.cr",
             "description": "",
             "country-code": "CR",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror-prg.webglobe.com/debian/",
-            "name": "mirror-prg.webglobe.com",
-            "description": "",
-            "country-code": "CZ",
             "role": "official-mirror"
         },
         {
@@ -720,6 +713,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.netzwerge.de/debian/",
+            "name": "mirror.netzwerge.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://pubmirror.plutex.de/debian/",
             "name": "pubmirror.plutex.de",
             "description": "",
@@ -741,13 +741,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.tu-bs.de/debian/",
-            "name": "debian.tu-bs.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.tu-chemnitz.de/debian/",
             "name": "ftp.tu-chemnitz.de",
             "description": "",
@@ -757,6 +750,13 @@
         {
             "url": "http://debian.inf.tu-dresden.de/debian/",
             "name": "debian.inf.tu-dresden.de",
+            "description": "",
+            "country-code": "DE",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.informatik.tu-freiberg.de/debian/",
+            "name": "mirror.informatik.tu-freiberg.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -806,13 +806,6 @@
         {
             "url": "http://mirror.united-gameserver.de/debian/",
             "name": "mirror.united-gameserver.de",
-            "description": "",
-            "country-code": "DE",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://ftp.wrz.de/debian/",
-            "name": "ftp.wrz.de",
             "description": "",
             "country-code": "DE",
             "role": "official-mirror"
@@ -895,13 +888,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirrors.rackhosting.com/debian/",
-            "name": "mirrors.rackhosting.com",
-            "description": "",
-            "country-code": "DK",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://ftp.dk.debian.org/debian/",
             "name": "ftp.dk.debian.org",
             "description": "",
@@ -953,6 +939,13 @@
         {
             "url": "http://mirror.raiolanetworks.com/debian/",
             "name": "mirror.raiolanetworks.com",
+            "description": "",
+            "country-code": "ES",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.redparra.com/debian/",
+            "name": "debian.redparra.com",
             "description": "",
             "country-code": "ES",
             "role": "official-mirror"
@@ -1189,8 +1182,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://uk.mirrors.clouvider.net/debian/",
-            "name": "uk.mirrors.clouvider.net",
+            "url": "http://ukdebian.mirror.anlx.net/debian/",
+            "name": "ukdebian.mirror.anlx.net",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -1217,8 +1210,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.mirrors.uk2.net/debian/",
-            "name": "debian.mirrors.uk2.net",
+            "url": "http://mirror.vinehost.net/debian/",
+            "name": "mirror.vinehost.net",
             "description": "",
             "country-code": "GB",
             "role": "official-mirror"
@@ -1238,10 +1231,24 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://ftp.ticklers.org/debian/",
+            "name": "ftp.ticklers.org",
+            "description": "",
+            "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirror.ox.ac.uk/debian/",
             "name": "mirror.ox.ac.uk",
             "description": "",
             "country-code": "GB",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.grena.ge/debian/",
+            "name": "debian.grena.ge",
+            "description": "",
+            "country-code": "GE",
             "role": "official-mirror"
         },
         {
@@ -1268,6 +1275,13 @@
         {
             "url": "http://debian.carnet.hr/debian/",
             "name": "debian.carnet.hr",
+            "description": "",
+            "country-code": "HR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.iskon.hr/debian/",
+            "name": "debian.iskon.hr",
             "description": "",
             "country-code": "HR",
             "role": "official-mirror"
@@ -1301,6 +1315,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://werog.interkoneksimedia.co.id/debian/",
+            "name": "werog.interkoneksimedia.co.id",
+            "description": "",
+            "country-code": "ID",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mr.heru.id/debian/",
             "name": "mr.heru.id",
             "description": "",
@@ -1326,6 +1347,20 @@
             "name": "mirror.nitc.ac.in",
             "description": "",
             "country-code": "IN",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://archive.debian.petiak.ir/debian/",
+            "name": "archive.debian.petiak.ir",
+            "description": "",
+            "country-code": "IR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://is.mirror.flokinet.net/debian/",
+            "name": "is.mirror.flokinet.net",
+            "description": "",
+            "country-code": "IS",
             "role": "official-mirror"
         },
         {
@@ -1382,6 +1417,13 @@
             "name": "ftp.it.debian.org",
             "description": "",
             "country-code": "IT",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.jaist.ac.jp/debian/",
+            "name": "ftp.jaist.ac.jp",
+            "description": "",
+            "country-code": "JP",
             "role": "official-mirror"
         },
         {
@@ -1483,13 +1525,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.hoster.kz/debian/",
-            "name": "mirror.hoster.kz",
-            "description": "",
-            "country-code": "KZ",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.ps.kz/debian/",
             "name": "mirror.ps.kz",
             "description": "",
@@ -1574,13 +1609,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.vranetworks.lat/debian/",
-            "name": "debian.vranetworks.lat",
-            "description": "",
-            "country-code": "MX",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://lidsol.fi-b.unam.mx/debian/",
             "name": "lidsol.fi-b.unam.mx",
             "description": "",
@@ -1592,6 +1620,13 @@
             "name": "debian.tuxuri.com",
             "description": "",
             "country-code": "MY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://mirror.lagoon.nc/debian/",
+            "name": "mirror.lagoon.nc",
+            "description": "",
+            "country-code": "NC",
             "role": "official-mirror"
         },
         {
@@ -1644,15 +1679,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://nl.mirrors.clouvider.net/debian/",
-            "name": "nl.mirrors.clouvider.net",
+            "url": "http://mirror.duocast.net/debian/",
+            "name": "mirror.duocast.net",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.duocast.net/debian/",
-            "name": "mirror.duocast.net",
+            "url": "http://nl.mirror.flokinet.net/debian/",
+            "name": "nl.mirror.flokinet.net",
             "description": "",
             "country-code": "NL",
             "role": "official-mirror"
@@ -1700,10 +1735,10 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://linux.purple-cat.net/debian/",
-            "name": "linux.purple-cat.net",
+            "url": "http://mirrors.nepalicloud.com/debian/",
+            "name": "mirrors.nepalicloud.com",
             "description": "",
-            "country-code": "NZ",
+            "country-code": "NP",
             "role": "official-mirror"
         },
         {
@@ -1791,13 +1826,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.rnl.tecnico.ulisboa.pt/pub/debian/",
-            "name": "ftp.rnl.tecnico.ulisboa.pt",
-            "description": "",
-            "country-code": "PT",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirrors.up.pt/debian/",
             "name": "mirrors.up.pt",
             "description": "",
@@ -1875,41 +1903,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ftp.ru.debian.org/debian/",
-            "name": "ftp.ru.debian.org",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirrors.powernet.com.ru/debian/",
-            "name": "mirrors.powernet.com.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.docker.ru/debian/",
-            "name": "mirror.docker.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.kpfu.ru/debian/",
-            "name": "mirror.kpfu.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.mephi.ru/debian/",
-            "name": "mirror.mephi.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.neftm.ru/debian/",
             "name": "mirror.neftm.ru",
             "description": "",
@@ -1919,13 +1912,6 @@
         {
             "url": "http://ftp.psn.ru/debian/",
             "name": "ftp.psn.ru",
-            "description": "",
-            "country-code": "RU",
-            "role": "official-mirror"
-        },
-        {
-            "url": "http://mirror.truenetwork.ru/debian/",
-            "name": "mirror.truenetwork.ru",
             "description": "",
             "country-code": "RU",
             "role": "official-mirror"
@@ -1994,13 +1980,6 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://ossmirror.mycloud.services/debian/",
-            "name": "ossmirror.mycloud.services",
-            "description": "",
-            "country-code": "SG",
-            "role": "official-mirror"
-        },
-        {
             "url": "http://mirror.djvg.sg/debian/",
             "name": "mirror.djvg.sg",
             "description": "",
@@ -2010,6 +1989,13 @@
         {
             "url": "http://ftp.sk.debian.org/debian/",
             "name": "ftp.sk.debian.org",
+            "description": "",
+            "country-code": "SK",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.antik.sk/debian/",
+            "name": "ftp.antik.sk",
             "description": "",
             "country-code": "SK",
             "role": "official-mirror"
@@ -2054,6 +2040,20 @@
             "name": "mirrors.cloudforest.co.th",
             "description": "",
             "country-code": "TH",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.tr.debian.org/debian/",
+            "name": "ftp.tr.debian.org",
+            "description": "",
+            "country-code": "TR",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://ftp.linux.org.tr/debian/",
+            "name": "ftp.linux.org.tr",
+            "description": "",
+            "country-code": "TR",
             "role": "official-mirror"
         },
         {
@@ -2176,6 +2176,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirrors.ocf.berkeley.edu/debian/",
+            "name": "mirrors.ocf.berkeley.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.bloomu.edu/debian/",
             "name": "mirrors.bloomu.edu",
             "description": "",
@@ -2239,6 +2246,13 @@
             "role": "official-mirror"
         },
         {
+            "url": "http://mirror.lug.umbc.edu/debian/",
+            "name": "mirror.lug.umbc.edu",
+            "description": "",
+            "country-code": "US",
+            "role": "official-mirror"
+        },
+        {
             "url": "http://mirrors.vcea.wsu.edu/debian/",
             "name": "mirrors.vcea.wsu.edu",
             "description": "",
@@ -2281,15 +2295,15 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.us.mirhosting.net/debian/",
-            "name": "mirror.us.mirhosting.net",
+            "url": "http://mirror.us.oneandone.net/debian/",
+            "name": "mirror.us.oneandone.net",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
         },
         {
-            "url": "http://mirror.us.oneandone.net/debian/",
-            "name": "mirror.us.oneandone.net",
+            "url": "http://mirror.rustytel.net/debian/",
+            "name": "mirror.rustytel.net",
             "description": "",
             "country-code": "US",
             "role": "official-mirror"
@@ -2337,8 +2351,8 @@
             "role": "official-mirror"
         },
         {
-            "url": "http://debian.repo.cure.edu.uy/debian/",
-            "name": "debian.repo.cure.edu.uy",
+            "url": "http://repos.interior.edu.uy/debian/",
+            "name": "repos.interior.edu.uy",
             "description": "",
             "country-code": "UY",
             "role": "official-mirror"
@@ -2348,6 +2362,13 @@
             "name": "mirror.undernet.uy",
             "description": "",
             "country-code": "UY",
+            "role": "official-mirror"
+        },
+        {
+            "url": "http://debian.xtdv.net/debian/",
+            "name": "debian.xtdv.net",
+            "description": "",
+            "country-code": "VN",
             "role": "official-mirror"
         },
         {
